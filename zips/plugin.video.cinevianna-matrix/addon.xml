@@ -1,0 +1,27 @@
+<?xml version="3.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.cinevianna-matrix"
+       name="[COLOR white][B]CineVianna-Matrix[/B][/COLOR]"
+       version="3.0.0+matrix"
+       provider-name="Team Vianna">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+    <import addon="script.module.simplejson" version="3.16.1"/>
+	<import addon="script.module.kodi-six" version="0.0.7"/>
+</requires>  
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>   
+<extension point="xbmc.addon.metadata">
+	 <summary lang="en">Cine Vianna - Entretenimento para sua Família </summary>
+    <description lang="en">Cine Vianna - Todo Conteúdo são links retirados da internet, não somos responsáveis pelos mesmos! </description>
+    <disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+</assets>
+	<news>news
+	</news>
+</extension>
+</addon>
