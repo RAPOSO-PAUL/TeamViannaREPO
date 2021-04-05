@@ -21,14 +21,11 @@
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
-  </extension>
-  
-  	
+	</extension>
   <extension point="xbmc.addon.metadata">
     <summary>ADDON PARA SEU ENTRETENIMENTO E DA SUA FAMÍLIA</summary>
     <description>
         PRIMEIRO ADDON Team vianna
-             
     </description>
     <platform>all</platform>
   </extension>
