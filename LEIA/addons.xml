@@ -113,39 +113,6 @@
     <platform>all</platform>
   </extension>
 	</addon>
-	<addon id="plugin.video.tvfogo"
-       name="[B][COLOR chocolate]Tv Fogo HD[/COLOR][/B]"
-       version="8.4.6"
-       provider-name="[B][COLOR yellow]Equipe: TV Fogo[/COLOR][/B]">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.urlresolver"/>
-    <import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR chocolate]OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]</summary>
-    <description lang="en">[B][COLOR chocolate]Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
-    <news>
-[B][COLOR chocolate]v8.4 - CORREÇÕES DE SEGURANÇA, OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]
-</news>
-    <platform>all</platform>
-	<assets>
-<icon>icon.png</icon>
-<fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/home.png</screenshot>
-<screenshot>resources/screenshots/movies.png</screenshot>
-<screenshot>resources/screenshots/series.png</screenshot>
-</assets>
-  </extension>
-</addon>
 <addon id="vkkodi.repo" name="[B][COLOR yellow]  Vikings  [COLOR orange]Repositorio Vikings Oficial, SEM BANIMENTO, agora compativel com Kodi Matrix!![/B][/COLOR]"
 		version="3.10"
 		provider-name="[B][COLOR gold]Vikings TEAM[/B][/COLOR]">
@@ -180,7 +147,7 @@
 		 <assets>
             <icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
-        </assets>		
+        </assets>	
 	<news>
 	[COLOR orange]LOG DE CORREÇÔES[/COLOR]
 	[COLOR green]*[/COLOR] V 2.00 - compatibilidade com Kodi 19 Matrix
@@ -195,7 +162,7 @@
 					[B][COLOR red]Repositório oficial Vikings Build - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
 					[B][COLOR white]Addons deste repositório é de uso gratuito!![/COLOR][/B]
 					[B][COLOR firebrick]Proibido a venda dos add-ons contidos neste repositório[/COLOR][/B]
-	</description>	
+	</description>
 <disclaimer>[B][COLOR orange]Repositório Vikings é apenas um AGREGADOR de ADDONS e, assim como o Google.com, apenas agrega e organiza ADDONS DE TERCEIROS. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</disclaimer>
 	</extension>
 </addon>
