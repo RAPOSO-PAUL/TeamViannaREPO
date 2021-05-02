@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon 
+	id="union.repo" 
+	name="[B][COLOR orange]Union[/COLOR][/B] [B][COLOR white]Repo[/COLOR][/B]" 
+	version="1.1.2" 
+	provider-name="[B][COLOR orange]UNION TEAM[/COLOR][/B]">
+	
+	<requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	
+	<extension point="xbmc.addon.repository" name="UNION Repo">
+	
+	<dir>
+			<info compressed="false">https://github.com/unionrepo/union.repo/raw/master/addons.xml</info>
+			<checksum>https://github.com/unionrepo/union.repo/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/unionrepo/union.repo/raw/master</datadir>
+			<hashes>false</hashes>
+	</dir>
+
+	<dir minversion="16.0.0" maxversion="18.9.0">
+			<info compressed="false">https://github.com/unionrepo/union.repo/raw/master/leia/addons.xml</info>
+			<checksum>https://github.com/unionrepo/union.repo/raw/master/leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/unionrepo/union.repo/raw/master/leia</datadir>
+			<hashes>false</hashes>
+    </dir>
+
+   <dir minversion="18.9.1">
+			<info compressed="false">https://github.com/unionrepo/union.repo/raw/master/matrix/addons.xml</info>
+			<checksum>https://github.com/unionrepo/union.repo/raw/master/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/unionrepo/union.repo/raw/master/matrix</datadir>
+			<hashes>false</hashes>
+    </dir>
+	
+	</extension>
+	
+	<extension point="xbmc.addon.metadata">
+		<summary lang="pt_br">[B][COLOR orange]UNION REPO[/COLOR][/B] - [B][COLOR white]Os Melhores Addons Kodi 18 e 19 Matrix[/COLOR][/B]</summary>
+        <description lang="pt_br">Filmes, Séries, Doc, Shows, TV AVO VIVO e muito mais, isso é o que os Addons da UNION REPO lhe oferece</description>
+		<platform>all</platform>
+		<source>https://vkodi,net/union</source>
+		 <assets>
+            <icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+				
+	<news>
+	[COLOR orange]LOG DE CORREÇÔES[/COLOR]
+	
+	[COLOR green]*[/COLOR] V 1.1.1  - compatibilidade com Kodi 19 Matrix
+	[COLOR blue]*[/COLOR] V 1.0.1 - ajustes de dependencias...
+	[COLOR blue]*[/COLOR] V 1.0.0 - Criado o Repositorio Union'...
+	
+	</news>
+		
+		
+	<description>	
+                   	[B][COLOR white]Addons deste repositório é de uso gratuito!![/COLOR][/B]
+					[B][COLOR firebrick]Proibido a venda dos add-ons contidos neste repositório[/COLOR][/B]
+	</description>
+		
+<disclaimer>[B][COLOR red]Esse Repo pertence a TEAM UNION[/COLOR][/B]</disclaimer>
+		
+	</extension>
+	
+</addon>
