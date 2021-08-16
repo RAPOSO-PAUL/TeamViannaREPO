@@ -5,11 +5,11 @@
       "type": "addon",
       "section": false,
       "plugin": "plugin.video.cinevianna-matrix",
-      "url": "https://github.com/RAPOSO-PAUL/TeamViannaREPO/raw/main/MATRIX/plugin.video.cinevianna-matrix/plugin.video.cinevianna-matrix-3.0.0%2Bmatrix.zip",
+      "url": "https://raposo-paul.github.io/TeamViannaREPO/MATRIX/plugin.video.cinevianna-matrix/plugin.video.cinevianna-matrix-3.0.0+matrix.zip",
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
-      "icon": "",
+      "icon": "https://archive.org/download/icon_20210816_202108/icon.png",
       "adult": false,
       "description": "Addon de Filmes e Séries. Necessário o elementum"
     },
