@@ -1,0 +1,17 @@
+{
+  "addons": [
+    {
+      "name": "Cine-Vianna",
+      "type": "addon",
+      "section": false,
+      "plugin": "plugin.video.cinevianna-matrix",
+      "url": "https://github.com/RAPOSO-PAUL/TeamViannaREPO/raw/main/MATRIX/plugin.video.cinevianna-matrix/plugin.video.cinevianna-matrix-3.0.0%2Bmatrix.zip",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
+      "icon": "",
+      "adult": false,
+      "description": "Addon de Filmes e Séries. Necessário o elementum"
+    },
+  ]
+}
