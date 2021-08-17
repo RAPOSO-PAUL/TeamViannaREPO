@@ -1,7 +1,7 @@
 {
   "addons": [
     {
-      "name": "Cine-Vianna",
+      "name": "Cine Vianna",
       "type": "addon",
       "section": false,
       "plugin": "plugin.video.cinevianna-matrix",
@@ -12,6 +12,6 @@
       "icon": "https://archive.org/download/icon_20210816_202108/icon.png",
       "adult": false,
       "description": "Addon de Filmes e Séries. Necessário o elementum"
-    },
+    }
   ]
 }
