@@ -32,7 +32,7 @@ description="Build simula a Netflix. Já pre configurada com filmes e series do 
 
 name="Team Vianna Cine"
 version="1.0"
-url="https://archive.org/download/team-vianna-cine/TeamViannaCine.zip"
+url="https://archive.org/download/team-vianna-cine_202108/Team%2BVianna%2BCine.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19.1"
