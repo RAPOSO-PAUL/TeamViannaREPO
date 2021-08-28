@@ -46,7 +46,7 @@ description="Build CINE Team Vianna. Já pre configurada com filmes e series do 
 
 name="TV Cine Plus"
 version="1.0"
-url=""
+url="https://archive.org/download/tvcineplus/tv%2Bcine%2Bplus.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19.1"
