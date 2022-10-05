@@ -31,10 +31,7 @@ fork openwizard
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.cinevianna-matrix"
-       name="[COLOR white][B]CineVianna-Matrix[/B][/COLOR]"
-       version="3.0.0+matrix"
-       provider-name="Team Vianna">
+<addon id="plugin.video.cinevianna.matrix" name="[COLOR white]Cine-Vianna[/COLOR]" version="3.0.2+matrix.1" provider-name="Team Vianna"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
@@ -45,15 +42,23 @@ fork openwizard
 	<provides>video</provides>
 </extension>   
 <extension point="xbmc.addon.metadata">
-	 <summary lang="en">Cine Vianna - Entretenimento para sua Família </summary>
-    <description lang="en">Cine Vianna - Todo Conteúdo são links retirados da internet, não somos responsáveis pelos mesmos! </description>
-    <disclaimer lang="en"></disclaimer>
-	<platform>all</platform>
+	<summary lang="en">[COLOR yellow]Cine Vianna - Entretenimento para sua Família[/COLOR]</summary>
+	<summary lang="pt">Addon de  entretenimento para família</summary>
+	<description lang="en">Cine Vianna - Todo Conteúdo são links retirados da internet, não somos responsáveis pelos mesmos!</description>
+	<description lang="pt">Cine Vianna - Todo Conteúdo são links retirados da internet, não somos responsáveis pelos mesmos!</description>
+    <disclaimer lang="en">[COLOR yellow]Obrigado pela preferência! [/COLOR]</disclaimer>
+	<disclaimer lang="pt">[COLOR yellow]Obrigado pela preferência! [/COLOR]</disclaimer>
+    <platform>all</platform>
 	<assets>
        <icon>icon.png</icon>
        <fanart>fanart.jpg</fanart>
-</assets>
-	<news>news
+	   <screenshot>resources/screenshots/1.jpg</screenshot>
+       <screenshot>resources/screenshots/2.jpg</screenshot>
+       <screenshot>resources/screenshots/3.jpg</screenshot>
+    </assets>
+	<news>
+v3.0.2.matrix.1
+- Addon cine-vianna
 	</news>
 </extension>
 </addon>
