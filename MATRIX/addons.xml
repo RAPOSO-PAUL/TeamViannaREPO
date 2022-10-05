@@ -371,10 +371,7 @@ v1.0.0.matrix.1
     </assets>
   </extension>
 </addon>
-<addon id="plugin.video.cineflix-on"
-       name="[COLOR red][B]CineFlix[/B][/COLOR][COLOR green][B] On[/B][/COLOR]"
-       version="1.0.0+matrix"
-       provider-name="Team Vianna">
+<addon id="plugin.video.cineflix-on.matrix" name="[COLOR red]CineFlix[/COLOR][COLOR lime] On[/COLOR]" version="2.0.0+matrix.1" provider-name="Team Vianna"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
@@ -385,15 +382,23 @@ v1.0.0.matrix.1
 	<provides>video</provides>
 </extension>   
 <extension point="xbmc.addon.metadata">
-	 <summary lang="en">Cine Flix On - Entretenimento para sua Família </summary>
-    <description lang="en">Cine Flix On - Todo Conteúdo são links retirados da internet, não somos responsáveis pelos mesmos! </description>
-    <disclaimer lang="en"></disclaimer>
-	<platform>all</platform>
+	<summary lang="en">[COLOR lime]Cine Flix On - Entretenimento para sua Família[/COLOR]</summary>
+	<summary lang="pt">Addon de  entretenimento para família</summary>
+	<description lang="en">Cine Flix On - Todo Conteúdo são links retirados da internet, não somos responsáveis pelos mesmos!</description>
+	<description lang="pt">Cine Flix On - Todo Conteúdo são links retirados da internet, não somos responsáveis pelos mesmos!</description>
+    <disclaimer lang="en">[COLOR yellow]Obrigado pela preferência! [/COLOR]</disclaimer>
+	<disclaimer lang="pt">[COLOR yellow]Obrigado pela preferência! [/COLOR]</disclaimer>
+    <platform>all</platform>
 	<assets>
        <icon>icon.png</icon>
        <fanart>fanart.jpg</fanart>
-</assets>
-	<news>news
+	   <screenshot>resources/screenshots/1.jpg</screenshot>
+       <screenshot>resources/screenshots/2.jpg</screenshot>
+       <screenshot>resources/screenshots/3.jpg</screenshot>
+    </assets>
+	<news>
+v2.0.0.matrix.1
+- Addon Cine Flix On
 	</news>
 </extension>
 </addon>
