@@ -3,7 +3,7 @@ version="1.0.0"
 zip="url.to.wizard"
 
 name="build Titan Omega"
-version="21.0"
+version="19.9"
 url="https://archive.org/download/teamomega/team%2Bomega.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
