@@ -3,7 +3,7 @@ version="1.0.0"
 zip="url.to.wizard"
 
 name="TV Flix 2025 Kodi Omega"
-version="2.0"
+version="1.0"
 url="https://archive.org/download/flix_20250310/FLIX.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
@@ -18,11 +18,11 @@ description="Build Flix Omega Team Vianna. Já pre configurada com filmes e seri
 
 
 name="TV Fusion - KODI Omega"
-version="19.4"
+version="1.0"
 url="https://archive.org/download/fusiion/fusiion.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
-kodi="0"
+kodi="19.4"
 theme="http://your.themes.url"
 icon="https://i.ibb.co/fY93n40j/splash.jpg"
 fanart="https://i.ibb.co/fY93n40j/splash.jpg"
