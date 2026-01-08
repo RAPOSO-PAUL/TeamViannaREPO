@@ -34,8 +34,8 @@ fork openwizard
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" optional="true" />
-    <import addon="script.module.simplejson"/>
-	<import addon="script.module.kodi-six" />
+    <import addon="script.module.simplejson" optional="true" />
+	<import addon="script.module.kodi-six" optional="true" />
 </requires>  
 <extension point="xbmc.python.pluginsource" library="default.py">
 	<provides>video</provides>
