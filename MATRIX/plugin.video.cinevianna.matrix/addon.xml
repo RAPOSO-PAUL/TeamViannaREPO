@@ -2,7 +2,7 @@
 <addon id="plugin.video.cinevianna.matrix" name="[COLOR white]Cine-Vianna[/COLOR]" version="3.0.2+matrix.1" provider-name="Team Vianna"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests"/>
+    <import addon="script.module.requests" optional="true" />
     <import addon="script.module.simplejson"/>
 	<import addon="script.module.kodi-six" />
 </requires>  
@@ -29,4 +29,5 @@ v3.0.2.matrix.1
 - Addon cine-vianna
 	</news>
 </extension>
+
 </addon>
