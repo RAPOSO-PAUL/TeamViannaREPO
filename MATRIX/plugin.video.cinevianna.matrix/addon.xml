@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.cinevianna.matrix" name="[COLOR white]Cine-Vianna[/COLOR]" version="3.0.2+matrix.1" provider-name="Team Vianna"> 
+<addon id="plugin.video.cinevianna.matrix" name="[COLOR yellow]Cine-Vianna[/COLOR]" version="3.0.2+matrix.1" provider-name="Team Vianna"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" optional="true" />
@@ -29,5 +29,4 @@ v3.0.2.matrix.1
 - Addon cine-vianna
 	</news>
 </extension>
-
 </addon>
