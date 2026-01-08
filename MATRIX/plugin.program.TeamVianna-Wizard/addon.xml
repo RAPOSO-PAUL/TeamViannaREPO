@@ -2,7 +2,7 @@
 <addon id="plugin.program.TeamVianna-Wizard" name="[COLOR white]TeamVianna-Wizard[/COLOR] [COLOR yellow][/COLOR]" version="1.0" provider-name="TeamVianna">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
-        <import addon="script.module.requests" />
+        <import addon="script.module.requests" version="2.27.1" />
         <import addon="script.module.six" />
         <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
         <import addon="script.speedtester" optional="true" version="1.1.2" />
