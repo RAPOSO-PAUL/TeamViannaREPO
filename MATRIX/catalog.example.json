@@ -1,0 +1,38 @@
+{
+  "movies": [
+    {
+      "tmdb_id": 123456,
+      "type": "movie",
+      "added_at": "2026-08-11",
+      "magnet": "magnet:?xt=urn:btih:SEU_HASH_AUTORIZADO"
+    },
+    {
+      "tmdb_id": 234567,
+      "type": "movie",
+      "added_at": "2026-08-11",
+      "stream_url": "https://seu-servidor.exemplo/video/autorizado.m3u8"
+    }
+  ],
+  "shows": [
+    {
+      "tmdb_id": 654321,
+      "type": "tv",
+      "provider": "Seu streaming",
+      "added_at": "2026-08-11"
+    }
+  ],
+  "episodes": [
+    {
+      "tmdb_id": 654321,
+      "season": 1,
+      "episode": 1,
+      "magnet": "magnet:?xt=urn:btih:SEU_HASH_AUTORIZADO"
+    },
+    {
+      "tmdb_id": 654321,
+      "season": 1,
+      "episode": 2,
+      "stream_url": "https://seu-servidor.exemplo/video/episodio-autorizado.m3u8"
+    }
+  ]
+}
