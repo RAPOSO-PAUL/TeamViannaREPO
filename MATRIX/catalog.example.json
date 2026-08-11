@@ -1,10 +1,10 @@
 {
   "movies": [
     {
-      "tmdb_id": 123456,
+      "tmdb_id": 1662168,
       "type": "movie",
       "added_at": "2026-08-11",
-      "magnet": "magnet:?xt=urn:btih:SEU_HASH_AUTORIZADO"
+      "magnet": "magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj"
     },
     {
       "tmdb_id": 234567,
