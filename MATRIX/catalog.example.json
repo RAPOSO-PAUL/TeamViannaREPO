@@ -15,22 +15,22 @@
   ],
   "shows": [
     {
-      "tmdb_id": 654321,
+      "tmdb_id": 94997,
       "type": "tv",
-      "provider": "Seu streaming",
+      "provider": "HBO MAX",
       "added_at": "2026-08-11"
     }
   ],
   "episodes": [
     {
-      "tmdb_id": 654321,
-      "season": 1,
+      "tmdb_id": 94997,
+      "season": 3,
       "episode": 1,
       "magnet": "magnet:?xt=urn:btih:SEU_HASH_AUTORIZADO"
     },
     {
-      "tmdb_id": 654321,
-      "season": 1,
+      "tmdb_id": 94997,
+      "season": 3,
       "episode": 2,
       "stream_url": "https://seu-servidor.exemplo/video/episodio-autorizado.m3u8"
     }
