@@ -1,5 +1,5 @@
 {
-  "shows": "shows.json",
+  "shows": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/shows.json",
   "series": [
     "series/94997.json"
   ]
