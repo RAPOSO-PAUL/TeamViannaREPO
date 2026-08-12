@@ -12,9 +12,15 @@
       "type": "movie",
       "added_at": "2026-08-11",
       "sources": [
-    { "name": "DUAL ÁUDIO 720p", "magnet": "magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj" },
-    { "name": "Dublado (link direto)", "stream_url": "https://archive.org/download/wooden-boy-1940/Wooden%20Boy%201940.mkv" }
-  ],
+        {
+          "name": "DUAL ÁUDIO 720p",
+          "magnet": "magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj"
+        },
+        {
+          "name": "Dublado (link direto)",
+          "stream_url": "https://archive.org/download/wooden-boy-1940/Wooden%20Boy%201940.mkv"
+        }
+      ],
       "youtube": "GBgyVY_ClzQ"
     }
   ],
