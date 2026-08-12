@@ -35,9 +35,23 @@
   "episodes": [
     {
       "tmdb_id": 94997,
+      "season": 2,
+      "episode": 1,
+      "magnet": "magnet:?xt=urn:btih:QWLX3NXVNJHWU66YF7B6WRGZPTNL6WJ7",
+      "youtube": "97YXokOdZgU"
+    },
+    {
+      "tmdb_id": 94997,
+      "season": 2,
+      "episode": 2,
+      "magnet": "magnet:?xt=urn:btih:APWRSU6WRTQGZA2U4SPZLT6L47HZ3FIH"
+    },
+    {
+      "tmdb_id": 94997,
       "season": 3,
       "episode": 1,
-      "magnet": "magnet:?xt=urn:btih:a56rbextq736n3evjzwcz6wqsfjdmikb"
+      "magnet": "magnet:?xt=urn:btih:a56rbextq736n3evjzwcz6wqsfjdmikb",
+      "youtube": "R3_XMwPjAnY"
     },
     {
       "tmdb_id": 94997,
