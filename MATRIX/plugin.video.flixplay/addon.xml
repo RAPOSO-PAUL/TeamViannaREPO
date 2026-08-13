@@ -15,7 +15,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
         <summary lang="pt_BR">Flix Play</summary>
-        <description lang="pt_BR">Catálogo remoto com TMDB e reprodução de conteúdo autorizado via Elementum.</description>
+        <description lang="pt_BR">Catálogo e reprodução de conteúdo.</description>
         <platform>all</platform>
         <license>GPL-2.0-or-later</license>
     </extension>
