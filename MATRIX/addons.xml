@@ -1,5 +1,26 @@
 <addons>
-<addon id="plugin.program.TeamVianna-Wizard" name="[COLOR white]TeamVianna [/COLOR][COLOR yellow]Wizard[/COLOR] [COLOR yellow][/COLOR]" version="1.0" provider-name="TeamVianna">
+<addon id="plugin.video.flixplay"
+       name="FLIX PLAY"
+       version="1.4.4"
+       provider-name="Flix Play">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <summary lang="pt_BR">Flix Play</summary>
+        <description lang="pt_BR">Catálogo remoto com TMDB e reprodução de conteúdo autorizado via Elementum.</description>
+        <platform>all</platform>
+        <license>GPL-2.0-or-later</license>
+    </extension>
+</addon>
+	<addon id="plugin.program.TeamVianna-Wizard" name="[COLOR white]TeamVianna [/COLOR][COLOR yellow]Wizard[/COLOR] [COLOR yellow][/COLOR]" version="1.0" provider-name="TeamVianna">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests"/>
