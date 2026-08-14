@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 287620,
+      "type": "tv",
+      "provider": "HBO MAX",
+      "added_at": "2026-08-14"
+    },
+    {
       "tmdb_id": 125988,
       "type": "tv",
       "provider": "Apple TV+",
