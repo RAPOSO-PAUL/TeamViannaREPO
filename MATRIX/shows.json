@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 287238,
+      "type": "tv",
+      "provider": "Disney+",
+      "added_at": "2026-08-14"
+    },
+    {
       "tmdb_id": 296756,
       "type": "tv",
       "provider": "HBO MAX",
