@@ -1,6 +1,22 @@
 {
   "movies": [
     {
+      "tmdb_id": 1275779,
+      "type": "movie",
+      "added_at": "2026-08-15",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:s4b5psbgufpl62mcs7qhgjy6sf4ue3ym"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p 2",
+          "magnet": "magnet:?xt=urn:btih:owrza2yfcsftfbuuyo75jpzq6pw2elw2"
+        }
+      ],
+      "youtube": "3dFPgpyfpbQ"
+    },
+    {
       "tmdb_id": 460465,
       "type": "movie",
       "added_at": "2026-08-14",
