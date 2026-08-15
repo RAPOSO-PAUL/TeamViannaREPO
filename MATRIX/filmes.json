@@ -1,6 +1,23 @@
 {
   "movies": [
     {
+      "tmdb_id": 502356,
+      "type": "movie",
+      "added_at": "2026-08-14",
+      "kids": "Prezinhos",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:86164ce78973832d51e267450c9de523b25de60c"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p Descompactado",
+          "magnet": "magnet:?xt=urn:btih:8a97e8e05b379e7b638d031928b80bcf0fa683e3"
+        }
+      ],
+      "youtube": "cDNkh5WybZo"
+    },
+    {
       "tmdb_id": 933260,
       "type": "movie",
       "added_at": "2026-08-14",
@@ -24,6 +41,7 @@
       "tmdb_id": 1226863,
       "type": "movie",
       "added_at": "2026-08-14",
+      "kids": "Prezinhos",
       "sources": [
         {
           "name": "DUAL ÁUDIO 1080p",
