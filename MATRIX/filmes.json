@@ -1,6 +1,26 @@
 {
   "movies": [
     {
+      "tmdb_id": 617126,
+      "type": "movie",
+      "added_at": "2026-08-15",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:bee9fc2135c9789a47a68c2dce8fb5f3ae3944e0"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p 2",
+          "magnet": "magnet:?xt=urn:btih:ebc8952b505e3bb603583a2a75da421e42455ea3"
+        },
+        {
+          "name": "DUAL ÁUDIO 4K",
+          "magnet": "magnet:?xt=urn:btih:d9b1e25dd2e8fbbe7f7b426b794a2752f52fe2eb"
+        }
+      ],
+      "youtube": "CcSIvhDlYWw"
+    },
+    {
       "tmdb_id": 799583,
       "type": "movie",
       "added_at": "2026-08-15",
