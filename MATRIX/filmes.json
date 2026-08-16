@@ -1,6 +1,27 @@
 {
   "movies": [
     {
+      "tmdb_id": 986056,
+      "type": "movie",
+      "added_at": "2026-08-16",
+      "colect": "marvel",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:a859468132819de4ddb481091df4a25c465337c8"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p Descompactado",
+          "magnet": "magnet:?xt=urn:btih:73cfc505f7f1a9d2b34bbda599f0d80eee8c9a1d"
+        },
+        {
+          "name": "DUAL ÁUDIO 4K",
+          "magnet": "magnet:?xt=urn:btih:a34e376ee36089e4283ef232bb12e5e1e5c8ab1a"
+        }
+      ],
+      "youtube": "MaLy0D2FTDc"
+    },
+    {
       "tmdb_id": 385687,
       "type": "movie",
       "added_at": "2026-08-16",
