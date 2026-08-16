@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1439930,
+      "type": "movie",
+      "added_at": "2026-08-15",
+      "colect": "marvel",
+      "magnet": "magnet:?xt=urn:btih:2f1d92d7eb029d877fc214302e7ab001921752ad",
+      "youtube": "enwdRAR04fA"
+    },
+    {
       "tmdb_id": 974036,
       "type": "movie",
       "added_at": "2026-08-15",
