@@ -11,13 +11,29 @@
     "thumb": "https://i.ibb.co/xxxxxxx/herois.png",
     "fanart": "https://i.ibb.co/xxxxxxx/herois-fundo.jpg"
   },
-  "Heróis/Marvel": {
+  "Heróis/marvel": {
     "thumb": "https://i.ibb.co/mCK4xdch/marvel-t.jpg",
     "fanart": "https://i.ibb.co/wZpSjXst/marvel.jpg"
   },
-   "Heróis/DC": {
+  "heróis/marvel/capitão américa": {
+    "thumb": "https://i.ibb.co/xxxxxxx/marvel-t.jpg",
+    "fanart": "https://i.ibb.co/xxxxxxx/marvel.jpg"
+  },
+  "heróis/marvel/O Justiceiro": {
+    "thumb": "https://i.ibb.co/xxxxxxx/marvel-t.jpg",
+    "fanart": "https://i.ibb.co/xxxxxxx/marvel.jpg"
+  },
+  "heróis/marvel/Quarteto Fantastico": {
+    "thumb": "https://i.ibb.co/xxxxxxx/marvel-t.jpg",
+    "fanart": "https://i.ibb.co/xxxxxxx/marvel.jpg"
+  },
+   "Heróis/dc": {
     "thumb": "https://i.ibb.co/B5sR0wRs/dc-t.jpg",
     "fanart": "https://i.ibb.co/G4YSKMdb/dc.webp"
+  },
+  "heróis/dc/Supergirl": {
+    "thumb": "https://i.ibb.co/xxxxxxx/dc-t.jpg",
+    "fanart": "https://i.ibb.co/xxxxxxx/dc.webp"
   },
   "Grandes Assaltos": {
     "thumb": "https://i.ibb.co/BHsN4Xw3/grandes-assaltos-t.jpg",
