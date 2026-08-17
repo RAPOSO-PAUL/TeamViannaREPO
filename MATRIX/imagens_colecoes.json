@@ -38,5 +38,13 @@
   "Grandes Assaltos": {
     "thumb": "https://i.ibb.co/VY7YcHN2/assaltost.jpg",
     "fanart": "https://i.ibb.co/chPq4dnk/assaltosf.webp"
+  },
+  "Videogames": {
+    "thumb": "https://i.ibb.co/TBkwRcwZ/videogamet.jpg",
+    "fanart": "https://i.ibb.co/spgH673Y/videogamef.webp"
+  },
+  "Videogames/Super Mario": {
+    "thumb": "https://image.tmdb.org/t/p/w1280/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/owmXuQSufmIxrH6zIN5YA24ZwTD.jpg"
   }
 }
