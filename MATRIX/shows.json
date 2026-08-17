@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 95350,
+      "type": "tv",
+      "provider": "HBO MAX",
+      "added_at": "2026-08-17"
+    },
+    {
       "tmdb_id": 125928,
       "type": "tv",
       "provider": ["HBO MAX", "Prime Video"],
