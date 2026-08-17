@@ -1,26 +1,23 @@
 {
   "sagas": {
-    "thumb": "https://i.ibb.co/xxxxxxx/sagas.png",
-    "fanart": "https://i.ibb.co/xxxxxxx/sagas-fundo.jpg"
+    "thumb": "https://i.ibb.co/yFjJ0Cx4/Sagas.png",
+    "fanart": "https://i.ibb.co/cXbgYmbn/sagas-t.png"
   },
   "tematicas": {
-    "thumb": "https://i.ibb.co/xxxxxxx/tematicas.png",
-    "fanart": "https://i.ibb.co/xxxxxxx/tematicas-fundo.jpg"
-  },
-  "Marvel": {
-    "thumb": "https://i.ibb.co/xxxxxxx/marvel.png",
-    "fanart": "https://i.ibb.co/xxxxxxx/marvel-fundo.jpg"
-  },
-  "DC": {
-    "thumb": "https://i.ibb.co/xxxxxxx/dc.png"
+    "thumb": "https://i.ibb.co/vvfpHWMx/sagas2.png",
+    "fanart": "https://i.ibb.co/GfHDX1MY/sagast2.png"
   },
   "Heróis": {
     "thumb": "https://i.ibb.co/xxxxxxx/herois.png",
     "fanart": "https://i.ibb.co/xxxxxxx/herois-fundo.jpg"
   },
   "Heróis/Marvel": {
-    "thumb": "https://i.ibb.co/xxxxxxx/marvel.png",
-    "fanart": "https://i.ibb.co/xxxxxxx/marvel-fundo.jpg"
+    "thumb": "https://i.ibb.co/mCK4xdch/marvel-t.jpg",
+    "fanart": "https://i.ibb.co/wZpSjXst/marvel.jpg"
+  },
+   "Heróis/DC": {
+    "thumb": "https://i.ibb.co/B5sR0wRs/dc-t.jpg",
+    "fanart": "https://i.ibb.co/G4YSKMdb/dc.webp"
   },
   "Heróis/Marvel/Homem Aranha": {
     "thumb": "https://i.ibb.co/xxxxxxx/aranha.png"
