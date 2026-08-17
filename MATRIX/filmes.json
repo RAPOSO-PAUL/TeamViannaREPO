@@ -1,6 +1,26 @@
 {
   "movies": [
     {
+      "tmdb_id": 532893,
+      "type": "movie",
+      "added_at": "2026-08-17",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 720p",
+          "magnet": "magnet:?xt=urn:btih:ea4f8b5f901ed416851bbeadd92beed5291da4e6"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:a3e5691e191814bba3e1879eaffc811206a5d561"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p Descompactado",
+          "magnet": "magnet:?xt=urn:btih:785f6faae09e098986b38fd65b9d676912466a78"
+        }
+      ],
+      "youtube": "kT8W_9dLnMc"
+    },
+    {
       "tmdb_id": 1588838,
       "type": "movie",
       "added_at": "2026-08-17",
