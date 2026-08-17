@@ -1,0 +1,28 @@
+{
+  "sagas": {
+    "thumb": "https://i.ibb.co/xxxxxxx/sagas.png",
+    "fanart": "https://i.ibb.co/xxxxxxx/sagas-fundo.jpg"
+  },
+  "tematicas": {
+    "thumb": "https://i.ibb.co/xxxxxxx/tematicas.png",
+    "fanart": "https://i.ibb.co/xxxxxxx/tematicas-fundo.jpg"
+  },
+  "Marvel": {
+    "thumb": "https://i.ibb.co/xxxxxxx/marvel.png",
+    "fanart": "https://i.ibb.co/xxxxxxx/marvel-fundo.jpg"
+  },
+  "DC": {
+    "thumb": "https://i.ibb.co/xxxxxxx/dc.png"
+  },
+  "Heróis": {
+    "thumb": "https://i.ibb.co/xxxxxxx/herois.png",
+    "fanart": "https://i.ibb.co/xxxxxxx/herois-fundo.jpg"
+  },
+  "Heróis/Marvel": {
+    "thumb": "https://i.ibb.co/xxxxxxx/marvel.png",
+    "fanart": "https://i.ibb.co/xxxxxxx/marvel-fundo.jpg"
+  },
+  "Heróis/Marvel/Homem Aranha": {
+    "thumb": "https://i.ibb.co/xxxxxxx/aranha.png"
+  }
+}
