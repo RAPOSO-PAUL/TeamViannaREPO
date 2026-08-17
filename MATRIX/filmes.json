@@ -11,7 +11,7 @@
       "tmdb_id": 822119,
       "type": "movie",
       "added_at": "2026-08-16",
-      "colect": "marvel",
+      "colect": "heróis/marvel/capitão américa"
       "sources": [
         {
           "name": "DUAL ÁUDIO 1080p",
@@ -59,7 +59,7 @@
       "tmdb_id": 1081003,
       "type": "movie",
       "added_at": "2026-08-16",
-      "colect": "dc",
+      "colect": "heróis/dc/Supergirl"
       "sources": [
         {
           "name": "DUAL ÁUDIO 1080p",
@@ -129,7 +129,7 @@
       "tmdb_id": 1439930,
       "type": "movie",
       "added_at": "2026-08-15",
-      "colect": "marvel",
+      "colect": "heróis/marvel/O Justiceiro"
       "magnet": "magnet:?xt=urn:btih:2f1d92d7eb029d877fc214302e7ab001921752ad",
       "youtube": "enwdRAR04fA"
     },
@@ -164,7 +164,7 @@
       "tmdb_id": 617126,
       "type": "movie",
       "added_at": "2026-08-15",
-      "colect": "marvel",
+      "colect": "heróis/marvel/Quarteto Fantastico"
       "sources": [
         {
           "name": "DUAL ÁUDIO 1080p",
