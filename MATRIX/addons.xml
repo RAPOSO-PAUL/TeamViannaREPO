@@ -1,7 +1,7 @@
 <addons>
 <addon id="plugin.video.flixplay"
        name="FLIX PLAY"
-       version="1.5.2"
+       version="1.5.3"
        provider-name="Flix Play">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
