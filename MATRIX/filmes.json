@@ -4,7 +4,7 @@
       "tmdb_id": 533535,
       "type": "movie",
       "added_at": "2026-08-17",
-      "colect": ["Heróis/Marvel/Deadpool", "Wolverine"],
+      "colect": [ "Heróis/Marvel/Deadpool", "Heróis/Marvel/Wolverine"],
       "sources": [
         {
           "name": "DUAL ÁUDIO 1080p",
