@@ -1,6 +1,27 @@
 {
   "movies": [
     {
+      "tmdb_id": 533535,
+      "type": "movie",
+      "added_at": "2026-08-17",
+      "colect": ["Heróis/Marvel/Deadpool", "Wolverine"]
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:ef8c5693754b15e43958c10adea54057dc692949"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p Descompactado",
+          "magnet": "magnet:?xt=urn:btih:f9bc58b28b3a497e76484c412120bb85bd4bdf70"
+        },
+        {
+          "name": "DUAL ÁUDIO 4K",
+          "magnet": "magnet:?xt=urn:btih:1edf5fc1dc5776d4d4f8dcada6913f5762c2d6a4"
+        }
+      ],
+      "youtube": "dEbe0rS4Z2A"
+    },
+    {
       "tmdb_id": 381237,
       "type": "movie",
       "added_at": "2026-08-17",
