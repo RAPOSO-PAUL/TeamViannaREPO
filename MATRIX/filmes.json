@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1035048,
+      "type": "movie",
+      "added_at": "2026-08-19",
+      "colect": "Aliens/Sobrevivência",
+      "magnet": "magnet:?xt=urn:btih:CE122615364B67F8D7EFBDF59D873C0129403DC2",
+      "youtube": "TVX0OQkfzxM"
+    },
+    {
       "tmdb_id": 1688804,
       "type": "movie",
       "added_at": "2026-08-19",
