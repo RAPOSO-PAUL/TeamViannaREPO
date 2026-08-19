@@ -74,5 +74,13 @@
   "Heróis/Independentes/Tartarugas Ninjas": {
     "thumb": "https://image.tmdb.org/t/p/w1280/i3DywIl37k83YXWreQGIcWNF7kL.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/tfpOdV9gvqbGJEeLGSu5X1vOLKV.jpgg"
+  },
+  "Desaparecimento": {
+    "thumb": "https://i.ibb.co/jPdGDF78/desaparecidost.jpg",
+    "fanart": "https://i.ibb.co/BWT8mKW/desaparecidosf.jpg"
+  },
+  "Desaparecimento/Criança Desaparecida": {
+    "thumb": "https://i.ibb.co/3mJQYY4G/cperdidast.jpg",
+    "fanart": "https://i.ibb.co/TM5JY2Z2/cperdidasf.jpg"
   }
 }
