@@ -67,6 +67,10 @@
     "thumb": "https://image.tmdb.org/t/p/w1280/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/owmXuQSufmIxrH6zIN5YA24ZwTD.jpg"
   },
+  "Videogames/Minecraft": {
+    "thumb": "https://i.ibb.co/s92k2LBW/minecfratt.jpg",
+    "fanart": "https://i.ibb.co/ZpSnZnx4/minecfratf.jpg"
+  },
   "Heróis/Independentes": {
     "thumb": "https://i.ibb.co/cXwLctrH/heroisint.jpg",
     "fanart": "https://i.ibb.co/DgtHRyb8/heroisinf.jpg"
