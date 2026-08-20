@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 852096,
+      "type": "movie",
+      "added_at": "2026-08-19",
+      "colect": "Fantasmas/Comédia e Convivência",
+      "magnet": "magnet:?xt=urn:btih:JPCFCYI6HF7ZQRSVY7A5BSWKKPOTTIKK",
+      "youtube": "ThEGodpRQLA"
+    },
+    {
       "tmdb_id": 1741207,
       "type": "movie",
       "added_at": "2026-08-19",
