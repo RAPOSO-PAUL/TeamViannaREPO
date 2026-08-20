@@ -106,5 +106,13 @@
   "Animais/Tubarões": {
     "thumb": "https://i.ibb.co/QjFxvKHF/tubat.jpg",
     "fanart": "https://i.ibb.co/3mVPk1dM/tubaf.jpg"
+  },
+  "Fantasmas": {
+    "thumb": "https://i.ibb.co/YK3krm8/fantasmast.jpg",
+    "fanart": "https://i.ibb.co/fY6yvYSJ/fantasmasf.jpg"
+  },
+  "Fantasmas/Comédia e Convivência": {
+    "thumb": "https://i.ibb.co/KzrYbZX8/fantcomet.jpg",
+    "fanart": "https://i.ibb.co/8ggm64kC/fantcomef.jpg"
   }
 }
