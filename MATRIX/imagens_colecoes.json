@@ -94,5 +94,9 @@
   "Nacionais": {
     "thumb": "https://i.ibb.co/y59VvPz/Nacionais-elementum.png",
     "fanart": "https://i.ibb.co/jGvssvQ/Nacionais-elementum-fanart.jpg"
+  },
+  "Nacionais/LGBTQ+": {
+    "thumb": "https://i.ibb.co/RkbNjBQf/LGBTQ-t.jpg",
+    "fanart": "https://i.ibb.co/wNZgSZzw/LGBTQ-f.jpg"
   }
 }
