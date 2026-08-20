@@ -43,10 +43,6 @@
     "thumb": "https://i.ibb.co/KcVphcg3/supergirlt.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg"
   },
-  "Grandes Assaltos": {
-    "thumb": "https://i.ibb.co/VY7YcHN2/assaltost.jpg",
-    "fanart": "https://i.ibb.co/chPq4dnk/assaltosf.webp"
-  },
   "Aliens": {
     "thumb": "https://i.ibb.co/HL0ScTHV/alienst.jpg",
     "fanart": "https://i.ibb.co/pB1TMbRN/aliensf.png"
@@ -122,5 +118,13 @@
   "Musicais/Pop e Contemporâneo": {
     "thumb": "https://i.ibb.co/4RV04hFb/pop-cont.jpg",
     "fanart": "https://i.ibb.co/Sp3gt21/pop-conf.jpg"
+  },
+  "Ladrões": {
+    "thumb": "https://i.ibb.co/VY7YcHN2/assaltost.jpg",
+    "fanart": "https://i.ibb.co/chPq4dnk/assaltosf.webp"
+  },
+  "Ladrões/O Último Trabalho": {
+    "thumb": "https://image.tmdb.org/t/p/w1280/vuDFri9vueus4azeYAr6iq5Fliv.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/zlMXfWSp8f6Y4uPLEAgeBjYhfab.jpg"
   }
 }
