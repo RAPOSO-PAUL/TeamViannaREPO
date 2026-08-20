@@ -114,5 +114,13 @@
   "Fantasmas/Comédia e Convivência": {
     "thumb": "https://i.ibb.co/KzrYbZX8/fantcomet.jpg",
     "fanart": "https://i.ibb.co/8ggm64kC/fantcomef.jpg"
+  },
+  "Musicais": {
+    "thumb": "https://i.ibb.co/CKTRqZBH/musicat.jpg",
+    "fanart": "https://i.ibb.co/XxxT8NLx/musicaf.jpg"
+  },
+  "Musicais/Pop e Contemporâneo": {
+    "thumb": "https://i.ibb.co/4RV04hFb/pop-cont.jpg",
+    "fanart": "https://i.ibb.co/Sp3gt21/pop-conf.jpg"
   }
 }
