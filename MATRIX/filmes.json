@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1418582,
+      "type": "movie",
+      "added_at": "2026-08-19",
+      "colect": "Nacionais/LGBTQ+",
+      "magnet": "magnet:?xt=urn:btih:uikt7zmshxt76wlg3s7tuekn5dyyj643",
+      "youtube": "PTV943jBbPc"
+    },
+    {
       "tmdb_id": 271110,
       "type": "movie",
       "added_at": "2026-08-19",
