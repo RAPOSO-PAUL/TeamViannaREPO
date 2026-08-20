@@ -98,5 +98,13 @@
   "Nacionais/LGBTQ+": {
     "thumb": "https://i.ibb.co/RkbNjBQf/LGBTQ-t.jpg",
     "fanart": "https://i.ibb.co/wNZgSZzw/LGBTQ-f.jpg"
+  },
+  "Animais": {
+    "thumb": "https://i.ibb.co/Qv2b8spb/animalst.jpg",
+    "fanart": "https://i.ibb.co/DHB9VtLW/animalsf.jpg"
+  },
+  "Animais/Tubarões": {
+    "thumb": "https://i.ibb.co/QjFxvKHF/tubat.jpg",
+    "fanart": "https://i.ibb.co/3mVPk1dM/tubaf.jpg"
   }
 }
