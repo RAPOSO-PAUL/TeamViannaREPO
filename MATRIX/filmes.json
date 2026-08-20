@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1741207,
+      "type": "movie",
+      "added_at": "2026-08-19",
+      "colect": "Animais/Tubarões",
+      "magnet": "magnet:?xt=urn:btih:skdookkdtdsmy25w6u7zhual7je7j73o",
+      "youtube": "fWJ0vthVsOo"
+    },
+    {
       "tmdb_id": 1418582,
       "type": "movie",
       "added_at": "2026-08-19",
