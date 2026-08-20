@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 520663,
+      "type": "movie",
+      "added_at": "2026-08-20",
+      "colect": "Psicológico/Medo de Sair",
+      "magnet": "magnet:?xt=urn:btih:12794b9a6ced473c18c68a55c8ab5aa8c8d317bc",
+      "youtube": "NO78X9Eyvz0"
+    },
+    {
       "tmdb_id": 1419406,
       "type": "movie",
       "added_at": "2026-08-20",
