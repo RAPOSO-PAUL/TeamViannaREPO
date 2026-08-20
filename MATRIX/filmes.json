@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 13655,
+      "type": "movie",
+      "added_at": "2026-08-20",
+      "colect": "Musicais/Pop e Contemporâneo",
+      "stream_url": "https://archive.org/download/cm-p-rck-2008/C%40mP%20R%40ck%202008.mkv",
+      "youtube": "HWIPotoqOQ8"
+    },
+    {
       "tmdb_id": 852096,
       "type": "movie",
       "added_at": "2026-08-19",
