@@ -1,6 +1,27 @@
 {
   "movies": [
     {
+      "tmdb_id": 1771,
+      "type": "movie",
+      "added_at": "2026-08-21",
+      "colect": "Heróis/Marvel/Capitão América",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 720p",
+          "magnet": "magnet:?xt=urn:btih:2fef3e8fa4dac082f9699fa30cdd063cc0ba9840"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:96238b20df0e1fc9f5af462c530c1f98570a6d78"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p 2",
+          "magnet": "magnet:?xt=urn:btih:98336E3D13510A3A930F648CCB7259307008ACD4"
+        }
+      ],
+      "youtube": "Hjrvns4AFaM"
+    },
+    {
       "tmdb_id": 775996,
       "type": "movie",
       "added_at": "2026-08-20",
