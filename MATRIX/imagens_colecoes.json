@@ -154,5 +154,13 @@
   "Psicológico/Medo de Sair": {
     "thumb": "https://i.ibb.co/s9gtML4x/meddsait.jpg",
     "fanart": "https://i.ibb.co/DfJPT9kr/meddsaif.jpg"
+  },
+  "Tecnologia": {
+    "thumb": "https://i.ibb.co/F4pynFjv/tecnot.jpg",
+    "fanart": "https://i.ibb.co/qYc3YZ26/tecnof.jpg"
+  },
+  "Tecnologia/Humanoide": {
+    "thumb": "https://i.ibb.co/4wL9QkJw/humanoit.jpg",
+    "fanart": "https://i.ibb.co/NgRpGYf1/humanoif.jpg"
   }
 }
