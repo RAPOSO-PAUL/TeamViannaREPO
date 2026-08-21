@@ -1,6 +1,23 @@
 {
   "movies": [
     {
+      "tmdb_id": 1241982,
+      "type": "movie",
+      "added_at": "2026-08-20",
+      "kids": ["Chefinhos", "Prezinhos"],
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:04251bec1182aae17d885b85c6fa862f53286d71"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p Descompactado",
+          "magnet": "magnet:?xt=urn:btih:6b105d6f0ecf78965b32c06e2e525ce1f2d972ca"
+        }
+      ],
+      "youtube": "lqMJQa3JhZU"
+    },
+    {
       "tmdb_id": 1741201,
       "type": "movie",
       "added_at": "2026-08-20",
