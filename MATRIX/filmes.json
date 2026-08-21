@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 775996,
+      "type": "movie",
+      "added_at": "2026-08-20",
+      "colect": "Tecnologia/Humanoide",
+      "magnet": "magnet:?xt=urn:btih:JCZI7GXZXARW4TKOHSUOEJL52UMJ2U7A",
+      "youtube": "71QFeMSE3qU"
+    },
+    {
       "tmdb_id": 1241982,
       "type": "movie",
       "added_at": "2026-08-20",
