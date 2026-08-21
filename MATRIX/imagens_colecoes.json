@@ -162,5 +162,13 @@
   "Tecnologia/Humanoide": {
     "thumb": "https://i.ibb.co/4wL9QkJw/humanoit.jpg",
     "fanart": "https://i.ibb.co/NgRpGYf1/humanoif.jpg"
+  },
+  "Diversão": {
+    "thumb": "https://i.ibb.co/fYqBmgDK/divert.jpg",
+    "fanart": "https://i.ibb.co/HppzcdMb/diverf.jpg"
+  },
+  "Diversão/Gente Atrapalhada": {
+    "thumb": "https://i.ibb.co/0j5hS6d0/gatrat.jpg",
+    "fanart": "https://i.ibb.co/bMhCRy2r/gatraf.jpg"
   }
 }
