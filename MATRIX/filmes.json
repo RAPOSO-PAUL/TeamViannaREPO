@@ -5,16 +5,7 @@
       "type": "movie",
       "added_at": "2026-08-21",
       "colect": "Médicos/Emergências Extremas",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:fa8ac9e2359e830edb645f95f29f62ca0126aa17"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:4597d5f9a9a8a4aa8f303e018640690885ca13b5"
-        }
-      ],
+      "stream_url": "https://archive.org/download/51-ncr-0-n-1-c-2020/51NCR0N1C%40%202020.mkv",
       "youtube": "bw4XssTHPDE"
     },
     {
