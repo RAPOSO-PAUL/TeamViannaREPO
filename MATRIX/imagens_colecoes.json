@@ -190,5 +190,13 @@
   "Médicos/Emergências Extremas": {
     "thumb": "https://i.ibb.co/8nnNhNZb/emergext.jpg",
     "fanart": "https://i.ibb.co/5gcKshGg/emergexf.jpg"
+  },
+  "Confrontos": {
+    "thumb": "https://i.ibb.co/tPzq1kVr/guerrt.jpg",
+    "fanart": "https://i.ibb.co/vCMWZChR/guerrf.jpg"
+  },
+  "Confrontos/Inocência Perdida": {
+    "thumb": "https://i.ibb.co/jkMFMKgn/inoperdt.jpg",
+    "fanart": "https://i.ibb.co/Pvyj6YWz/inoperdf.jpg"
   }
 }
