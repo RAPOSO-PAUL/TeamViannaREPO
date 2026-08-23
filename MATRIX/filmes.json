@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1314829,
+      "type": "movie",
+      "added_at": "2026-08-22",
+      "colect": "Horror/Brinquedos Malditos",
+      "magnet": "magnet:?xt=urn:btih:wwmss6k2sx4i2xds3q6hz2farw6xr7qq",
+      "youtube": "5bbHz-gE-7s"
+    },
+    {
       "tmdb_id": 1676318,
       "type": "movie",
       "added_at": "2026-08-22",
