@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1517794,
+      "type": "movie",
+      "added_at": "2026-08-23",
+      "colect": ["Diversão/Mundo Absurdo", "Nacionais/Comédia Popular"],
+      "magnet": "magnet:?xt=urn:btih:aiegh3jnyubkmhvxvxf4ueohkg7flkyj",
+      "youtube": "CBXl658jiEU"
+    },
+    {
       "tmdb_id": 49046,
       "type": "movie",
       "added_at": "2026-08-23",
