@@ -1,5 +1,23 @@
 {
   "movies": [
+    
+  {
+      "tmdb_id": 49046,
+      "type": "movie",
+      "added_at": "2026-08-23",
+      "colect": "Confrontos/Inocência Perdida",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:TXADRW3KGEMTSWGOIFR33RV4ULHBE7HR"
+        },
+        {
+          "name": "DUAL ÁUDIO 4k",
+          "magnet": "magnet:?xt=urn:btih:OC3PCWRTE5MQXNDRHNXAOF5NBRRMBYDX"
+        }
+      ],
+      "youtube": "vwbySrsD7RU"
+    },
     {
       "tmdb_id": 964849,
       "type": "movie",
