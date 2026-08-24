@@ -96,8 +96,8 @@
     "fanart": "https://i.ibb.co/wNZgSZzw/LGBTQ-f.jpg"
   },
   "Nacionais/Comédia Popular": {
-    "thumb": "https://i.ibb.co/QvBQZC9S/comedpopt.jpg",
-    "fanart": "https://i.ibb.co/8nY01Dfk/comedpopf.jpg"
+    "thumb": "https://i.ibb.co/CpY5gtVc/comedpopt.jpg",
+    "fanart": "https://i.ibb.co/bgZTyNBr/comedpopf.jpg"
   },
   "Animais": {
     "thumb": "https://i.ibb.co/Qv2b8spb/animalst.jpg",
@@ -191,6 +191,10 @@
     "thumb": "https://i.ibb.co/4rcQP74/MUNABST.jpg",
     "fanart": "https://i.ibb.co/60h4mdPt/MUNABSF.jpg"
   },
+  "Diversão/Caos Social": {
+    "thumb": "https://i.ibb.co/fGxGvjq0/caossoct-1.jpg",
+    "fanart": "https://i.ibb.co/KcjvnCjd/caossocf-1.jpg"
+  },
   "Médicos": {
     "thumb": "https://i.ibb.co/b5dfYnJ6/medicit.jpg",
     "fanart": "https://i.ibb.co/Lzwn3NLB/medicif.jpg"
@@ -206,5 +210,13 @@
   "Confrontos/Inocência Perdida": {
     "thumb": "https://i.ibb.co/jkMFMKgn/inoperdt.jpg",
     "fanart": "https://i.ibb.co/Pvyj6YWz/inoperdf.jpg"
+  },
+  "Humanidade": {
+    "thumb": "https://i.ibb.co/p6cvtv3X/humant-1.jpg",
+    "fanart": "https://i.ibb.co/vpW9fVC/humanf-1.jpg"
+  },
+  "Humanidade/Segredos Familiares": {
+    "thumb": "https://i.ibb.co/nsHxt8bF/segrefamit-1.jpg",
+    "fanart": "https://i.ibb.co/MDyRjNN1/segrefamif-1.jpg"
   }
 }
