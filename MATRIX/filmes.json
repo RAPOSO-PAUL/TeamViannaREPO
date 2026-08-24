@@ -1,6 +1,23 @@
 {
   "movies": [
     {
+      "tmdb_id": 1245859,
+      "type": "movie",
+      "added_at": "2026-08-24",
+      "colect": ["Humanidade/Segredos Familiares", "Diversão/Caos Social"],
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:52gxqfhvsn5hnmluy2665kzpg5v3q2uv"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p 2",
+          "magnet": "magnet:?xt=urn:btih:tyserlbnuvd6hahfxttxf4umqywfxxus"
+        }
+      ],
+      "youtube": "dB9HuMcaEGM"
+    },
+    {
       "tmdb_id": 1517794,
       "type": "movie",
       "added_at": "2026-08-23",
