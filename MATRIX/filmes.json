@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1698575,
+      "type": "movie",
+      "added_at": "2026-08-24",
+      "kids": ["Chefinhos", "Prezinhos"],
+      "magnet": "magnet:?xt=urn:btih:b6m54tqsz6fbfizohczeq4jclbg73edz",
+      "youtube": "A-NQmpNsZIc"
+    },
+    {
       "tmdb_id": 1245859,
       "type": "movie",
       "added_at": "2026-08-24",
