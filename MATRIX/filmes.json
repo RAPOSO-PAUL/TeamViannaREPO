@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1739186,
+      "type": "movie",
+      "added_at": "2026-08-25",
+      "colect": "Esportes/Futebol Americano",
+      "magnet": "magnet:?xt=urn:btih:ppczbzbcgimu26xqz7h3wblpyyn6vyg3",
+      "youtube": "aVXvS3XzzHI"
+    },
+    {
       "tmdb_id": 1432241,
       "type": "movie",
       "added_at": "2026-08-25",
