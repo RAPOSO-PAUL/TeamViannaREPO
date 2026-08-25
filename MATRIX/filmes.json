@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1432241,
+      "type": "movie",
+      "added_at": "2026-08-25",
+      "colect": "Psicológico/Dor da Perda",
+      "magnet": "magnet:?xt=urn:btih:xiqntmzlvbxd7hyjeoql43ciij5f4dln",
+      "youtube": "sYYyf-NTMR8"
+    },
+    {
       "tmdb_id": 7443,
       "type": "movie",
       "added_at": "2026-08-24",
