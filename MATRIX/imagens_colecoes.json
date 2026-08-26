@@ -103,6 +103,10 @@
     "thumb": "https://i.ibb.co/zhxhZyD4/crimpolit-1.jpg",
     "fanart": "https://i.ibb.co/4nx8ZHvZ/crimpolif-1.jpg"
   },
+  "Nacionais/Biografia Musical": {
+    "thumb": "https://i.ibb.co/jvv42djB/biomust-1.jpg",
+    "fanart": "https://i.ibb.co/5h54ywgh/biomusf-1.jpg"
+  },
   "Animais": {
     "thumb": "https://i.ibb.co/Qv2b8spb/animalst.jpg",
     "fanart": "https://i.ibb.co/DHB9VtLW/animalsf.jpg"
@@ -230,5 +234,9 @@
   "Humanidade/Preconceito Social": {
     "thumb": "https://i.ibb.co/N65RMnX1/presociat-1.png",
     "fanart": "https://i.ibb.co/fYDwvW43/presociaf.png"
+  },
+  "Humanidade/Luto Profundo": {
+    "thumb": "https://i.ibb.co/JRxswkLK/lutproft-1.jpg",
+    "fanart": "https://i.ibb.co/cXp8303P/lutproff-1.png"
   }
 }
