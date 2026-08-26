@@ -1,6 +1,27 @@
 {
   "movies": [
     {
+      "tmdb_id": 627725,
+      "type": "movie",
+      "added_at": "2026-08-25",
+      "colect": "Humanidade/Preconceito Social",
+      "sources": [
+        {
+          "name": "DUAL ÁUDIO 720p",
+          "magnet": "magnet:?xt=urn:btih:5c0d2ce5a6a183429ba96ac3af9c23f05fe99878"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:8102688088d98186129b0e6acf10355815345e7f"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p Descompactado",
+          "magnet": "magnet:?xt=urn:btih:ee020387172e1828841cd71afe39737ded162e93"
+        }
+      ],
+      "youtube": "DyoYJWJL4I4"
+    },
+    {
       "tmdb_id": 1740877,
       "type": "movie",
       "added_at": "2026-08-25",
