@@ -1,14 +1,6 @@
 {
   "movies": [
     {
-      "tmdb_id": 1550019,
-      "type": "movie",
-      "added_at": "2026-08-26",
-      "colect": ["Humanidade/Luto Profundo", "Nacionais/Biografia Musical", "Psicológico/Dor da Perda"],
-      "magnet": "magnet:?xt=urn:btih:yd33dq3bkhzcoifimplmg77d7tab3oas",
-      "youtube": "HGvMt6ZBV4g"
-    },
-    {
       "tmdb_id": 627725,
       "type": "movie",
       "added_at": "2026-08-25",
