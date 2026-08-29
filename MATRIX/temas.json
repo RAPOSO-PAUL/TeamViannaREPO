@@ -13,5 +13,20 @@
     "nome": "TED",
     "thumb": "https://image.tmdb.org/t/p/original/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg",
     "fundo": "https://image.tmdb.org/t/p/original/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg"
+  },
+  {
+    "nome": "DEADPOOL",
+    "thumb": "https://i.ibb.co/4nJJNKcC/DEADPOOL.jpg",
+    "fundo": "https://i.ibb.co/4nJJNKcC/DEADPOOL.jpg"
+  },
+  {
+    "nome": "CORINGA E ARLEQUINA",
+    "thumb": "https://i.ibb.co/zVrYKDFS/CORINGA-E-ARLEQUINA.jpg",
+    "fundo": "https://i.ibb.co/zVrYKDFS/CORINGA-E-ARLEQUINA.jpg"
+  },
+  {
+    "nome": "GUERREIRAS DO K-POP",
+    "thumb": "https://i.ibb.co/G3QcqWcc/g-UERREIRAS-DO-KPOP.jpg",
+    "fundo": "https://i.ibb.co/G3QcqWcc/g-UERREIRAS-DO-KPOP.jpg"
   }
 ]
