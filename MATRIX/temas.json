@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Natal",
+    "thumb": "https://i.ibb.co/xxxxxxx/natal-mini.jpg",
+    "fundo": "https://i.ibb.co/xxxxxxx/natal.jpg",
+    "sem_widgets": true
+  },
+  {
+    "nome": "Ano Novo",
+    "thumb": "https://i.ibb.co/xxxxxxx/anonovo-mini.jpg",
+    "fundo": "https://i.ibb.co/xxxxxxx/anonovo.jpg",
+    "sem_widgets": true
+  },
+  {
+    "nome": "Páscoa",
+    "thumb": "https://i.ibb.co/xxxxxxx/pascoa-mini.jpg",
+    "fundo": "https://i.ibb.co/xxxxxxx/pascoa.jpg",
+    "sem_widgets": false
+  }
+]
