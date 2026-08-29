@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1">
+    <section id="tvemtemas">
+        <category id="geral" label="30010">
+            <group id="1">
+                <setting id="tema_atual" type="string" label="30011">
+                    <level>0</level>
+                    <default>Padrao</default>
+                    <constraints><allowempty>true</allowempty></constraints>
+                    <control type="edit" format="string"/>
+                </setting>
+            </group>
+        </category>
+    </section>
+</settings>
