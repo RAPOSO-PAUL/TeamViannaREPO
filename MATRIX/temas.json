@@ -1,20 +1,12 @@
 [
   {
-    "nome": "Natal",
-    "thumb": "https://i.ibb.co/xxxxxxx/natal-mini.jpg",
-    "fundo": "https://i.ibb.co/xxxxxxx/natal.jpg",
-    "sem_widgets": true
+    "nome": "HOMEM ARANHA",
+    "thumb": "https://image.tmdb.org/t/p/original/nfNzgUZ4M8XPSIFWNNXnmOjACxU.jpg",
+    "fundo": "https://image.tmdb.org/t/p/original/nfNzgUZ4M8XPSIFWNNXnmOjACxU.jpg"
   },
   {
-    "nome": "Ano Novo",
-    "thumb": "https://i.ibb.co/xxxxxxx/anonovo-mini.jpg",
-    "fundo": "https://i.ibb.co/xxxxxxx/anonovo.jpg",
-    "sem_widgets": true
-  },
-  {
-    "nome": "Páscoa",
-    "thumb": "https://i.ibb.co/xxxxxxx/pascoa-mini.jpg",
-    "fundo": "https://i.ibb.co/xxxxxxx/pascoa.jpg",
-    "sem_widgets": false
+    "nome": "DOUTOR DESTINO",
+    "thumb": "https://image.tmdb.org/t/p/original/s7zXvbb0AZp2iwcLjY75FGcZpLs.jpg",
+    "fundo": "https://image.tmdb.org/t/p/original/s7zXvbb0AZp2iwcLjY75FGcZpLs.jpg"
   }
 ]
