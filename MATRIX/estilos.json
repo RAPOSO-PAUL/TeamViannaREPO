@@ -1,6 +1,10 @@
 {
+  "menu_estilos": "https://i.ibb.co/xxxxxxx/menu-estilos.jpg",
+  "menu_temas": "https://i.ibb.co/xxxxxxx/menu-temas.jpg",
+
   "Padrao": "https://i.ibb.co/xxxxxxx/estilo-padrao.jpg",
-  "Texto nas tarjas": "https://i.ibb.co/xxxxxxx/estilo-tarjas.jpg",
-  "Somente texto": "https://i.ibb.co/xxxxxxx/estilo-texto.jpg",
-  "Somente icones": "https://i.ibb.co/xxxxxxx/estilo-icones.jpg"
+  "Somente icones": "https://i.ibb.co/xxxxxxx/estilo-icones.jpg",
+
+  "restaurar_estilo": "https://i.ibb.co/xxxxxxx/restaurar-estilo.jpg",
+  "restaurar_tema": "https://i.ibb.co/xxxxxxx/restaurar-tema.jpg"
 }
