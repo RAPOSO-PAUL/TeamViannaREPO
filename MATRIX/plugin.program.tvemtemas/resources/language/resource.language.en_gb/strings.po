@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "#30010"
+msgid "Temas"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Tema atual"
+msgstr ""
