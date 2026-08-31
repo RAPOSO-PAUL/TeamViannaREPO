@@ -21,7 +21,7 @@
         <license>GPL-2.0-or-later</license>
     </extension>
 </addon>
-	<addon id="plugin.program.tvemtemas" name="TV EMINEM - Temas" version="1.4.1" provider-name="TV EMINEM">
+	<addon id="plugin.program.tvemtemas" name="TV EMINEM - Temas" version="1.4.4" provider-name="TV EMINEM">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
