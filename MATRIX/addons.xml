@@ -1,7 +1,7 @@
 <addons>
 <addon id="plugin.video.flixplay"
        name="FLIX PLAY"
-       version="1.5.11"
+       version="1.5.13"
        provider-name="Flix Play">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -9,6 +9,7 @@
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
     </extension>
+    <extension point="xbmc.service" library="service.py"/>
     <extension point="xbmc.addon.metadata">
         <assets>
             <icon>icon.png</icon>
