@@ -1,6 +1,39 @@
 {
   "movies": [
     {
+      "tmdb_id": 293660,
+      "type": "movie",
+      "added_at": "2026-09-01",
+      "colect": "Heróis/Marvel/Deadpool",
+      "sources": [
+        {
+          "name": "DUBLADO 720p",
+          "magnet": "magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A"
+        },
+        {
+          "name": "DUBLADO 1080p",
+          "magnet": "magnet:?xt=urn:btih:1A257E0FD066408D7C3D67DB5E7A9ABB8239D10A"
+        },
+        {
+          "name": "DUAL ÁUDIO 720p",
+          "magnet": "magnet:?xt=urn:btih:3D55E6F225BB1F3713DA1D2EA227BB475454E624"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:44147456D5AAD8C0C026EA0B0EC2F54EC59D8C8F"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p IMAX",
+          "magnet": "magnet:?xt=urn:btih:2AA5F34B8E73A7BDF34AEFDE9A4F24559FAB8A29"
+        },
+        {
+          "name": "DUAL ÁUDIO 4k",
+          "magnet": "magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756"
+        }
+      ],
+      "youtube": "Q9X-bAE8KTc"
+    },
+    {
       "tmdb_id": 1530941,
       "type": "movie",
       "added_at": "2026-09-01",
