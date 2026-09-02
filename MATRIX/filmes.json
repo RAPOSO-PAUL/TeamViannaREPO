@@ -1,6 +1,22 @@
 {
   "movies": [
     {
+      "tmdb_id": 1228710,
+      "type": "movie",
+      "added_at": "2026-09-02",
+      "sources": [
+        {
+          "name": "DUBLADO 1080p",
+          "magnet": "magnet:?xt=urn:btih:xecumnms6igxdvvocbovnvzi7qbjqn3v"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p Descompactado",
+          "magnet": "magnet:?xt=urn:btih:vlaxvsoplmxsg5rsr3kdqun3kipb2lu3"
+        }
+      ],
+      "youtube": "is_YTQeLo5w"
+    },
+    {
       "tmdb_id": 156022,
       "type": "movie",
       "added_at": "2026-09-01",
