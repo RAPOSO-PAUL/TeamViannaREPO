@@ -11,6 +11,7 @@
           "nome": "CazeTV",
           "handle": "@CazeTV",
           "thumb": "https://i.ibb.co/q3vwHnfZ/Screenshot-4.jpg",
+          "fanart": "https://i.ibb.co/G3G44vgL/caze-tvf.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
@@ -24,11 +25,6 @@
           "handle": "@JogoAberto",
           "thumb": "https://i.ibb.co/Kjg89ZYH/jogo-aberto.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
-        },
-        {
-          "nome": "Exemplo com ID fixo",
-          "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx",
-          "thumb": ""
         }
       ]
     },
@@ -36,7 +32,8 @@
       "nome": "Desenhos",
       "slug": "desenhos",
       "thumb": "https://i.ibb.co/rKBch38w/desenhos-animados.jpg",
-      "descricao": "Canais infantis oficiais com programacao continua.",
+      "fanart": "https://i.ibb.co/bgdJ26J2/desenhos-animadosf.jpg",
+      "descricao": "Canais infantis com ao vivo.",
       "canais": [
         {
           "nome": "Pica Pau",
@@ -49,6 +46,8 @@
       "nome": "Noticias",
       "slug": "noticias",
       "thumb": "https://i.ibb.co/8nJJGRX2/noticias.jpg",
+      "fanart": "https://i.ibb.co/7NYKJRfC/noticiasf.jpg",
+      "descricao": "Transmissões de noticias ao vivo",
       "canais": [
         {
           "nome": "TV Brasil",
