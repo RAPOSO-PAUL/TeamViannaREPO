@@ -34,6 +34,13 @@
           "thumb": "https://i.ibb.co/W4qWNxSb/espn-brasil.jpg",
           "fanart": "https://i.ibb.co/PZJCsjs7/espn-brasilf.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
+          "nome": "LITORAL NEWS",
+          "handle": "@LitoralNews",
+          "thumb": "https://i.ibb.co/7xFRBtk4/LITORALNEWST.jpg",
+          "fanart": "https://i.ibb.co/XftKWBjN/LITORALNEWSF.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
         }
       ]
     },
