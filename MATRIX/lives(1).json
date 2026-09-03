@@ -1,0 +1,68 @@
+{
+  "categorias": [
+    {
+      "nome": "Futebol",
+      "slug": "futebol",
+      "thumb": "https://i.ibb.co/EXEMPLO/cat_futebol.png",
+      "fanart": "",
+      "descricao": "Canais oficiais com transmissoes e programas de futebol.",
+      "canais": [
+        {
+          "nome": "CazeTV",
+          "handle": "@CazeTV",
+          "thumb": "https://i.ibb.co/EXEMPLO/cazetv.png",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
+          "nome": "ge",
+          "handle": "@ge",
+          "thumb": "https://i.ibb.co/EXEMPLO/ge.png"
+        },
+        {
+          "nome": "Exemplo com ID fixo",
+          "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx",
+          "thumb": ""
+        }
+      ]
+    },
+    {
+      "nome": "Desenhos",
+      "slug": "desenhos",
+      "thumb": "https://i.ibb.co/EXEMPLO/cat_desenhos.png",
+      "descricao": "Canais infantis oficiais com programacao continua.",
+      "canais": [
+        {
+          "nome": "Exemplo Desenho 1",
+          "handle": "@exemplo1",
+          "thumb": ""
+        },
+        {
+          "nome": "Live fixa (video especifico)",
+          "video_id": "AAAAAAAAAAA",
+          "thumb": ""
+        }
+      ]
+    },
+    {
+      "nome": "Noticias",
+      "slug": "noticias",
+      "thumb": "",
+      "canais": [
+        {
+          "nome": "TV Brasil",
+          "handle": "@tvbrasil"
+        },
+        {
+          "nome": "TV Cultura",
+          "handle": "@tvcultura"
+        }
+      ]
+    },
+    {
+      "nome": "Musica",
+      "slug": "musica",
+      "thumb": "",
+      "canais": []
+    }
+  ]
+}
