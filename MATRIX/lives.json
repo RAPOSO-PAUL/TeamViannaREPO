@@ -80,6 +80,20 @@
           "fanart": "https://i.ibb.co/zVMxNVXL/Trending-Songs9668f.jpg"
         }
       ]
+    },
+    {
+      "nome": "ANIMAIS",
+      "slug": "animais",
+      "thumb": "https://i.ibb.co/KjwzWJyW/animais.jpg",
+      "fanart": "https://i.ibb.co/MD3pd6Kg/animaisf.jpg",
+      "canais": [
+        {
+          "nome": "NatureTime Brasil",
+          "handle": "@NatureTimeBrasil",
+          "thumb": "https://i.ibb.co/vx6rcC3d/Nature-Time-Brasil.jpg",
+          "fanart": "https://i.ibb.co/0RkR52pK/Nature-Time-Brasilf.jpg"
+        }
+      ]
     }
   ]
 }
