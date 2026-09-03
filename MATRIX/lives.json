@@ -27,6 +27,13 @@
           "thumb": "https://i.ibb.co/Kjg89ZYH/jogo-aberto.jpg",
           "fanart": "https://i.ibb.co/JRhmkXx4/jogo-abertof.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
+          "nome": "ESPN",
+          "handle": "@espnbrasil",
+          "thumb": "https://i.ibb.co/W4qWNxSb/espn-brasil.jpg",
+          "fanart": "https://i.ibb.co/PZJCsjs7/espn-brasilf.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
         }
       ]
     },
