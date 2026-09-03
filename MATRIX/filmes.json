@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1731694,
+      "type": "movie",
+      "added_at": "2026-09-03",
+      "kids": ["Chefinhos", "Prezinhos", "Aborrecentes"],
+      "magnet": "magnet:?xt=urn:btih:l5sxcig22dohrffylype3a5d7swymcdc",
+      "youtube": "8hG7HVOo8lM"
+    },
+    {
       "tmdb_id": 1228710,
       "type": "movie",
       "added_at": "2026-09-02",
