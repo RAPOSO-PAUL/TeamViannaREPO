@@ -3,8 +3,8 @@
     {
       "nome": "Esportes",
       "slug": "Esportes",
-      "thumb": "https://i.ibb.co/EXEMPLO/cat_futebol.png",
-      "fanart": "",
+      "thumb": "https://i.ibb.co/p8QthkF/esportes.jpg",
+      "fanart": "https://i.ibb.co/GSV6ssZ/esportesf.jpg",
       "descricao": "Canais oficiais com transmissoes e programas de esportes.",
       "canais": [
         {
@@ -35,25 +35,20 @@
     {
       "nome": "Desenhos",
       "slug": "desenhos",
-      "thumb": "https://i.ibb.co/EXEMPLO/cat_desenhos.png",
+      "thumb": "https://i.ibb.co/rKBch38w/desenhos-animados.jpg",
       "descricao": "Canais infantis oficiais com programacao continua.",
       "canais": [
         {
           "nome": "Pica Pau",
           "handle": "@PicaPau",
           "thumb": "https://i.ibb.co/jZyDQfxp/pica-pau.jpg"
-        },
-        {
-          "nome": "Live fixa (video especifico)",
-          "video_id": "AAAAAAAAAAA",
-          "thumb": ""
         }
       ]
     },
     {
       "nome": "Noticias",
       "slug": "noticias",
-      "thumb": "",
+      "thumb": "https://i.ibb.co/8nJJGRX2/noticias.jpg",
       "canais": [
         {
           "nome": "TV Brasil",
