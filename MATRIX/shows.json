@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 247168,
+      "type": "tv",
+      "provider": "Disney+",
+      "added_at": "2026-08-03"
+    },
+    {
       "tmdb_id": 138502,
       "type": "tv",
       "provider": "Disney+",
