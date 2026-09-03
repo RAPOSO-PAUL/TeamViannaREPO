@@ -1,22 +1,29 @@
 {
   "categorias": [
     {
-      "nome": "Futebol",
-      "slug": "futebol",
+      "nome": "Esportes",
+      "slug": "Esportes",
       "thumb": "https://i.ibb.co/EXEMPLO/cat_futebol.png",
       "fanart": "",
-      "descricao": "Canais oficiais com transmissoes e programas de futebol.",
+      "descricao": "Canais oficiais com transmissoes e programas de esportes.",
       "canais": [
         {
           "nome": "CazeTV",
           "handle": "@CazeTV",
-          "thumb": "https://i.ibb.co/EXEMPLO/cazetv.png",
+          "thumb": "https://i.ibb.co/q3vwHnfZ/Screenshot-4.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "GE TV",
           "handle": "@getv",
-          "thumb": "https://i.ibb.co/EXEMPLO/ge.png"
+          "thumb": "https://i.ibb.co/6cZXCC8M/getv.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
+          "nome": "JOGO ABERTO",
+          "handle": "@JogoAberto",
+          "thumb": "https://i.ibb.co/Kjg89ZYH/jogo-aberto.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "Exemplo com ID fixo",
@@ -34,7 +41,7 @@
         {
           "nome": "Pica Pau",
           "handle": "@PicaPau",
-          "thumb": ""
+          "thumb": "https://i.ibb.co/jZyDQfxp/pica-pau.jpg"
         },
         {
           "nome": "Live fixa (video especifico)",
