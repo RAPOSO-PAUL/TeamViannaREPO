@@ -8,6 +8,13 @@
       "descricao": "Canais oficiais com transmissoes e programas de esportes.",
       "canais": [
         {
+          "nome": "TNT SPORTS BR",
+          "handle": "@TNTSportsBR",
+          "thumb": "https://i.ibb.co/5X4VN7j9/TNTSPORTSBR.jpg",
+          "fanart": "https://i.ibb.co/W42hpN0h/TNTSPORTSBRF.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "CazeTV",
           "handle": "@CazeTV",
           "thumb": "https://i.ibb.co/q3vwHnfZ/Screenshot-4.jpg",
