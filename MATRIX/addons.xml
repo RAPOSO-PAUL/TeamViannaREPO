@@ -21,6 +21,25 @@
         <license>GPL-2.0-or-later</license>
     </extension>
 </addon>
+	<addon id="plugin.video.tvemlives" name="AO VIVO" version="3.0.0" provider-name="Team Vianna">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pt_BR">Canais de Transmissoes ao vivo do YouTube cetralizdas e organizadas com EPG.</summary>
+    <description lang="pt_BR">Reune os canais do YouTube, separados por categoria (futebol, desenhos, noticias, etc), e mostra quais estao ao vivo no momento ou em breve. A reproducao e feita pelo complemento oficial do YouTube em conjunto com o addon TVem Trailers.</description>
+    <platform>all</platform>
+    <license>Proprietary</license>
+    <assets>
+      <icon>resources/media/icon.png</icon>
+      <fanart>resources/media/fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
 	<addon id="plugin.video.tvemtrailers" name="TV EMINEM - Trailers" version="2.1.5" provider-name="TV EMINEM">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
