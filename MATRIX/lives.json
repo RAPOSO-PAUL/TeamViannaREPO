@@ -29,7 +29,7 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
-          "nome": "ESPN",
+          "nome": "ESPN BR",
           "handle": "@espnbrasil",
           "pesado": true,
           "sincronizar": false,
