@@ -12,81 +12,63 @@
           "handle": "@TNTSportsBR",
           "thumb": "https://i.ibb.co/5X4VN7j9/TNTSPORTSBR.jpg",
           "fanart": "https://i.ibb.co/W42hpN0h/TNTSPORTSBRF.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "CazeTV",
           "handle": "@CazeTV",
           "thumb": "https://i.ibb.co/q3vwHnfZ/Screenshot-4.jpg",
           "fanart": "https://i.ibb.co/G3G44vgL/caze-tvf.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "GE TV",
           "handle": "@getv",
           "thumb": "https://i.ibb.co/6cZXCC8M/getv.jpg",
           "fanart": "https://i.ibb.co/278zMDNQ/getvf.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "JOGO ABERTO",
           "handle": "@JogoAberto",
           "thumb": "https://i.ibb.co/Kjg89ZYH/jogo-aberto.jpg",
           "fanart": "https://i.ibb.co/JRhmkXx4/jogo-abertof.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
-          "nome": "ESPN BR",
+          "nome": "ESPN BRASIL",
           "handle": "@espnbrasil",
           "thumb": "https://i.ibb.co/W4qWNxSb/espn-brasil.jpg",
           "fanart": "https://i.ibb.co/PZJCsjs7/espn-brasilf.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "UOL Esporte",
           "handle": "@UOLEsporte",
           "thumb": "https://i.ibb.co/5WP4kMnR/UOLEsporte.jpg",
           "fanart": "https://i.ibb.co/G3BG4Xgp/uolesportef.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "Gaúcha Esportes",
           "handle": "@gauchaesportes",
           "thumb": "https://i.ibb.co/cS8G4db0/gauchaesportes.jpg",
           "fanart": "https://i.ibb.co/MxYC7xzc/gauchaesportes-2.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "LITORAL NEWS",
           "handle": "@LitoralNews",
           "thumb": "https://i.ibb.co/7xFRBtk4/LITORALNEWST.jpg",
           "fanart": "https://i.ibb.co/XftKWBjN/LITORALNEWSF.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         },
         {
           "nome": "NA REDE OFICIAL",
           "handle": "@NaRedeOficial",
           "thumb": "https://i.ibb.co/gZJZHnfc/NAREDE.jpg",
           "fanart": "https://i.ibb.co/KR86jYs/NA-REDEF.jpg",
-          "descricao": "Transmissoes esportivas ao vivo.",
-          "qualidade": 720,
-          "pesado": true
+          "descricao": "Transmissoes esportivas ao vivo."
         }
       ],
       "ordem": 0
@@ -102,9 +84,7 @@
           "nome": "Pica Pau",
           "handle": "@PicaPau",
           "thumb": "https://i.ibb.co/jZyDQfxp/pica-pau.jpg",
-          "fanart": "https://i.ibb.co/bRvpsvZc/pica-pauf.jpg",
-          "descricao": "Pica pau ao vivo.",
-          "qualidade": 720
+          "fanart": "https://i.ibb.co/bRvpsvZc/pica-pauf.jpg"
         }
       ],
       "ordem": 1
@@ -120,15 +100,13 @@
           "nome": "TV Brasil",
           "handle": "@tvbrasil",
           "thumb": "https://i.ibb.co/9mwSw5rV/tvbrasil.jpg",
-          "fanart": "https://i.ibb.co/Z1YZG0vX/tvbrasilf.jpg",
-          "qualidade": 720
+          "fanart": "https://i.ibb.co/Z1YZG0vX/tvbrasilf.jpg"
         },
         {
           "nome": "TV Cultura",
           "handle": "@tvcultura",
           "thumb": "https://i.ibb.co/kV7H7LhV/tvcultura.jpg",
-          "fanart": "https://i.ibb.co/ccC1t1Wp/tvculturaf.jpg",
-          "qualidade": 720
+          "fanart": "https://i.ibb.co/ccC1t1Wp/tvculturaf.jpg"
         }
       ],
       "ordem": 2
@@ -143,8 +121,7 @@
           "nome": "Trending Songs 2026",
           "handle": "@TrendingSongs9668",
           "thumb": "https://i.ibb.co/7JS6bKMG/Trending-Songs9668.jpg",
-          "fanart": "https://i.ibb.co/zVMxNVXL/Trending-Songs9668f.jpg",
-          "qualidade": 720
+          "fanart": "https://i.ibb.co/zVMxNVXL/Trending-Songs9668f.jpg"
         }
       ],
       "ordem": 3
@@ -159,8 +136,7 @@
           "nome": "NatureTime Brasil",
           "handle": "@NatureTimeBrasil",
           "thumb": "https://i.ibb.co/vx6rcC3d/Nature-Time-Brasil.jpg",
-          "fanart": "https://i.ibb.co/0RkR52pK/Nature-Time-Brasilf.jpg",
-          "qualidade": 720
+          "fanart": "https://i.ibb.co/0RkR52pK/Nature-Time-Brasilf.jpg"
         }
       ],
       "ordem": 4
