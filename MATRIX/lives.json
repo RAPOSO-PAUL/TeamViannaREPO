@@ -53,6 +53,15 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
+          "nome": "UOL Esporte",
+          "handle": "@UOLEsporte",
+          "pesado": true,
+          "adaptativo": true,
+          "thumb": "https://i.ibb.co/5WP4kMnR/UOLEsporte.jpg",
+          "fanart": "https://i.ibb.co/G3BG4Xgp/uolesportef.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "LITORAL NEWS",
           "handle": "@LitoralNews",
           "pesado": true,
