@@ -69,6 +69,13 @@
           "thumb": "https://i.ibb.co/gZJZHnfc/NAREDE.jpg",
           "fanart": "https://i.ibb.co/KR86jYs/NA-REDEF.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
+          "nome": "TV Tigre",
+          "handle": "@tvtigre",
+          "thumb": "https://i.ibb.co/39TXdbmw/tvtigre.jpg",
+          "fanart": "https://i.ibb.co/27hw1CCn/tvtigre-F.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
         }
       ],
       "ordem": 0
