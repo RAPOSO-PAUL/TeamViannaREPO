@@ -1,6 +1,13 @@
 {
   "movies": [
     {
+      "tmdb_id": 1355228,
+      "type": "movie",
+      "added_at": "2026-09-04",
+      "magnet": "magnet:?xt=urn:btih:yxj5k5dyoc2vijbpvchsqvrlnf3anfoc",
+      "youtube": "TRyBiPD1bUc"
+    },
+    {
       "tmdb_id": 1752159,
       "type": "movie",
       "added_at": "2026-09-03",
