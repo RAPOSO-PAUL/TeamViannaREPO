@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="30000">
+    <setting id="reproduzir_por" type="enum" label="30004" values="30005|30006|30007" default="0"/>
+    <setting id="verificar_ao_vivo" type="bool" label="30001" default="true"/>
+    <setting id="mostrar_offline" type="bool" label="30002" default="true" enable="eq(-1,true)"/>
+  </category>
+  <category label="30020">
+    <setting id="modo_leve" type="bool" label="30003" default="true"/>
+    <setting id="qualidade_live" type="enum" label="30021" values="30022|30023|30024|30025|30026" default="0" enable="eq(-1,true)"/>
+    <setting id="live_adaptativa" type="bool" label="30027" default="false" enable="eq(-2,true)"/>
+    <setting id="sep_leve" type="lsep" label="30028"/>
+  </category>
+  <category label="30010">
+    <setting id="ir_ao_vivo" type="bool" label="30015" default="true"/>
+    <setting id="sincronizar" type="bool" label="30011" default="true"/>
+    <setting id="atraso_alvo" type="slider" label="30012" default="7" range="3,1,30" option="int" enable="eq(-1,true)"/>
+    <setting id="atraso_limite" type="slider" label="30013" default="10" range="5,1,60" option="int" enable="eq(-2,true)"/>
+    <setting id="corrigir_audio" type="bool" label="30016" default="true"/>
+    <setting id="sep1" type="lsep" label="30014"/>
+    <setting id="sep2" type="lsep" label="30017"/>
+  </category>
+</settings>
