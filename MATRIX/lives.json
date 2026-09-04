@@ -62,6 +62,15 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
+          "nome": "Gaúcha Esportes",
+          "handle": "@gauchaesportes",
+          "pesado": true,
+          "adaptativo": true,
+          "thumb": "https://i.ibb.co/cS8G4db0/gauchaesportes.jpg",
+          "fanart": "https://i.ibb.co/MxYC7xzc/gauchaesportes-2.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "LITORAL NEWS",
           "handle": "@LitoralNews",
           "pesado": true,
