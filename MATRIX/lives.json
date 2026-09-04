@@ -10,6 +10,8 @@
         {
           "nome": "TNT SPORTS BR",
           "handle": "@TNTSportsBR",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/5X4VN7j9/TNTSPORTSBR.jpg",
           "fanart": "https://i.ibb.co/W42hpN0h/TNTSPORTSBRF.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
@@ -17,6 +19,8 @@
         {
           "nome": "CazeTV",
           "handle": "@CazeTV",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/q3vwHnfZ/Screenshot-4.jpg",
           "fanart": "https://i.ibb.co/G3G44vgL/caze-tvf.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
@@ -24,6 +28,8 @@
         {
           "nome": "GE TV",
           "handle": "@getv",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/6cZXCC8M/getv.jpg",
           "fanart": "https://i.ibb.co/278zMDNQ/getvf.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
@@ -31,6 +37,8 @@
         {
           "nome": "JOGO ABERTO",
           "handle": "@JogoAberto",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/Kjg89ZYH/jogo-aberto.jpg",
           "fanart": "https://i.ibb.co/JRhmkXx4/jogo-abertof.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
@@ -47,6 +55,8 @@
         {
           "nome": "LITORAL NEWS",
           "handle": "@LitoralNews",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/7xFRBtk4/LITORALNEWST.jpg",
           "fanart": "https://i.ibb.co/XftKWBjN/LITORALNEWSF.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
@@ -54,6 +64,8 @@
         {
           "nome": "NA REDE OFICIAL",
           "handle": "@NaRedeOficial",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/gZJZHnfc/NAREDE.jpg",
           "fanart": "https://i.ibb.co/KR86jYs/NA-REDEF.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
@@ -70,6 +82,8 @@
         {
           "nome": "Pica Pau",
           "handle": "@PicaPau",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/jZyDQfxp/pica-pau.jpg",
           "fanart": "https://i.ibb.co/bRvpsvZc/pica-pauf.jpg",
           "descricao": "Pica pau ao vivo."
@@ -86,12 +100,16 @@
         {
           "nome": "TV Brasil",
           "handle": "@tvbrasil",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/9mwSw5rV/tvbrasil.jpg",
           "fanart": "https://i.ibb.co/Z1YZG0vX/tvbrasilf.jpg"
         },
         {
           "nome": "TV Cultura",
           "handle": "@tvcultura",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/kV7H7LhV/tvcultura.jpg",
           "fanart": "https://i.ibb.co/ccC1t1Wp/tvculturaf.jpg"
         }
@@ -106,13 +124,15 @@
         {
           "nome": "Trending Songs 2026",
           "handle": "@TrendingSongs9668",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/7JS6bKMG/Trending-Songs9668.jpg",
           "fanart": "https://i.ibb.co/zVMxNVXL/Trending-Songs9668f.jpg"
         }
       ]
     },
     {
-      "nome": "ANIMAIS",
+      "nome": "Animais",
       "slug": "animais",
       "thumb": "https://i.ibb.co/KjwzWJyW/animais.jpg",
       "fanart": "https://i.ibb.co/MD3pd6Kg/animaisf.jpg",
@@ -120,6 +140,8 @@
         {
           "nome": "NatureTime Brasil",
           "handle": "@NatureTimeBrasil",
+          "pesado": true,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/vx6rcC3d/Nature-Time-Brasil.jpg",
           "fanart": "https://i.ibb.co/0RkR52pK/Nature-Time-Brasilf.jpg"
         }
