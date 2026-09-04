@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.tvemlives\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+
+msgctxt "#30000"
+msgid "Geral"
+msgstr "Geral"
+
+msgctxt "#30001"
+msgid "Verificar quais canais estao ao vivo"
+msgstr "Verificar quais canais estao ao vivo"
+
+msgctxt "#30002"
+msgid "Mostrar tambem os canais fora do ar"
+msgstr "Mostrar tambem os canais fora do ar"
+
+msgctxt "#30003"
+msgid "Modo leve no complemento do YouTube (recomendado)"
+msgstr "Modo leve no complemento do YouTube (recomendado)"
+
+msgctxt "#30004"
+msgid "Reproduzir por"
+msgstr "Reproduzir por"
+
+msgctxt "#30005"
+msgid "Automatico (Trailers quando possivel)"
+msgstr "Automatico (Trailers quando possivel)"
+
+msgctxt "#30006"
+msgid "TV EMINEM - Trailers"
+msgstr "TV EMINEM - Trailers"
+
+msgctxt "#30007"
+msgid "Complemento oficial do YouTube"
+msgstr "Complemento oficial do YouTube"
+
+msgctxt "#30010"
+msgid "Ao vivo"
+msgstr "Ao vivo"
+
+msgctxt "#30011"
+msgid "Manter perto da transmissao ao vivo"
+msgstr "Manter perto da transmissao ao vivo"
+
+msgctxt "#30012"
+msgid "Atraso desejado (segundos)"
+msgstr "Atraso desejado (segundos)"
+
+msgctxt "#30013"
+msgid "Ajustar quando passar de (segundos)"
+msgstr "Ajustar quando passar de (segundos)"
+
+msgctxt "#30014"
+msgid "A verificacao acontece a cada 3 minutos"
+msgstr "A verificacao acontece a cada 3 minutos"
+
+msgctxt "#30020"
+msgid "Reproducao"
+msgstr "Reproducao"
+
+msgctxt "#30021"
+msgid "Qualidade maxima das transmissoes"
+msgstr "Qualidade maxima das transmissoes"
+
+msgctxt "#30022"
+msgid "Automatica"
+msgstr "Automatica"
+
+msgctxt "#30023"
+msgid "1080p"
+msgstr "1080p"
+
+msgctxt "#30024"
+msgid "720p (recomendado)"
+msgstr "720p (recomendado)"
+
+msgctxt "#30025"
+msgid "480p"
+msgstr "480p"
+
+msgctxt "#30026"
+msgid "360p"
+msgstr "360p"
+
+msgctxt "#30027"
+msgid "Modo adaptativo (ajusta a qualidade sozinho)"
+msgstr "Modo adaptativo (ajusta a qualidade sozinho)"
+
+msgctxt "#30028"
+msgid "Canal pesado usa 720p mesmo em Automatica"
+msgstr "Canal pesado usa 720p mesmo em Automatica"
+
+msgctxt "#30015"
+msgid "Sempre abrir no ponto ao vivo"
+msgstr "Sempre abrir no ponto ao vivo"
+
+msgctxt "#30016"
+msgid "Corrigir sincronia do audio"
+msgstr "Corrigir sincronia do audio"
+
+msgctxt "#30017"
+msgid "Desliga a sincronia pelo relogio da tela"
+msgstr "Desliga a sincronia pelo relogio da tela"
