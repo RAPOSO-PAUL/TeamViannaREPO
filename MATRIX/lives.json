@@ -36,10 +36,10 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
-          "nome": "ESPN BR",
+          "nome": "ESPN BRASIL",
           "handle": "@espnbrasil",
           "pesado": true,
-          "sincronizar": false,
+          "adaptativo": true,
           "thumb": "https://i.ibb.co/W4qWNxSb/espn-brasil.jpg",
           "fanart": "https://i.ibb.co/PZJCsjs7/espn-brasilf.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
