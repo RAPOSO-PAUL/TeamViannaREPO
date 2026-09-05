@@ -50,6 +50,13 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
+          "nome": "SportyNet",
+          "handle": "@SportyNetBrasil",
+          "thumb": "https://i.ibb.co/cXxr4dPM/Sporty-Net-Brasil.jpg",
+          "fanart": "https://i.ibb.co/2Hw43Lm/Sporty-Net-Brasil-2.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "Gaúcha Esportes",
           "handle": "@gauchaesportes",
           "thumb": "https://i.ibb.co/cS8G4db0/gauchaesportes.jpg",
