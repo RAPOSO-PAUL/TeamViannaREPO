@@ -21,7 +21,7 @@
         <license>GPL-2.0-or-later</license>
     </extension>
 </addon>
-	<addon id="plugin.video.tvemlives" name="AO VIVO" version="4.5.0" provider-name="Team Vianna">
+	<addon id="plugin.video.tvemlives" name="AO VIVO" version="4.6.0" provider-name="Team Vianna">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
