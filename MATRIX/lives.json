@@ -46,7 +46,7 @@
           "nome": "ESPN BRASIL",
           "handle": "@espnbrasil",
           "thumb": "https://i.ibb.co/W4qWNxSb/espn-brasil.jpg",
-          "fanart": "https://i.ibb.co/PZJCsjs7/espn-brasilf.jpg",
+          "fanart": "https://i.ibb.co/RGWB2wGc/espn-brf-1.jpg",
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
@@ -145,6 +145,12 @@
       "fanart": "https://i.ibb.co/7NYKJRfC/noticiasf.jpg",
       "descricao": "Transmissões de noticias ao vivo",
       "canais": [
+        {
+          "nome": "CNN Brasil",
+          "handle": "@CNNbrasil",
+          "thumb": "https://i.ibb.co/GX2CRd5/CNNbrasil.jpg",
+          "fanart": "https://i.ibb.co/WNCJfph2/CNNbrasilf.jpg"
+        },
         {
           "nome": "TV Brasil",
           "handle": "@tvbrasil",
