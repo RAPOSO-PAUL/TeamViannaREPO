@@ -8,6 +8,13 @@
       "descricao": "Canais oficiais com transmissoes e programas de esportes.",
       "canais": [
         {
+          "nome": "Jovem Pan Esportes",
+          "handle": "@jovempanesportes",
+          "thumb": "https://i.ibb.co/bMKTJr5D/jovempanesportes.jpg",
+          "fanart": "https://i.ibb.co/QFN4Yd7N/Code-Generated-Image-4.png",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "TNT SPORTS BR",
           "handle": "@TNTSportsBR",
           "thumb": "https://i.ibb.co/5X4VN7j9/TNTSPORTSBR.jpg",
