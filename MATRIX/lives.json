@@ -57,6 +57,13 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
+          "nome": "Esporte Band RS",
+          "handle": "@EsporteBandRS",
+          "thumb": "https://i.ibb.co/DHkgHYP6/Esporte-Band-RS.jpg",
+          "fanart": "https://i.ibb.co/GQj8Ld2H/Esporte-Band-RSF.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "SportyNet",
           "handle": "@SportyNetBrasil",
           "thumb": "https://i.ibb.co/cXxr4dPM/Sporty-Net-Brasil.jpg",
