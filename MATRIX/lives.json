@@ -201,6 +201,21 @@
       ]
     },
     {
+      "nome": "Podcasts",
+      "slug": "podcasts",
+      "thumb": "https://i.ibb.co/KxLsGx34/podcasts.jpg",
+      "fanart": "https://i.ibb.co/Qvxd36fY/poscastsf.jpg",
+      "descricao": "Transmissões de podcasts ao vivo",
+      "canais": [
+        {
+          "nome": "Inteligência Ltda",
+          "handle": "@inteligencialtda",
+          "thumb": "https://i.ibb.co/zHGDLxRF/inteligencialtda.jpg",
+          "fanart": "https://i.ibb.co/93tPz04G/Code-Generated-Image-5.png"
+        }
+      ]
+    },
+    {
       "nome": "Musica",
       "slug": "musica",
       "thumb": "https://i.ibb.co/7NQBySjG/musica.jpg",
