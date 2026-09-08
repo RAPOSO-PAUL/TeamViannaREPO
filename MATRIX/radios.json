@@ -28,7 +28,7 @@
     },
     {
       "nome": "Radio Caxias t",
-      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac;",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac",
       "estado": "RS",
       "cidade": "Caxias do Sul",
       "dial": "760 AM",
