@@ -16,16 +16,15 @@
 
   "radios": [
     {
-      "nome": "Vale Verde FM",
-      "stream": "https://ice.fabricahost.com.br/valeverdefm;",
-      "mimetype": "audio/aac",
-      "estado": "PR",
-      "cidade": "Jesuítas",
-      "dial": "96.7 FM",
-      "generos": "Pop",
-      "thumb": "https://i.ibb.co/G3JVq9vk/valeverdefm.jpg",
-      "fanart": "https://i.ibb.co/xKnh42WP/Code-Generated-Image-6.png",
-      "descricao": "Jornalismo local, rádio, serviço e informação para Assis Chateaubriand e região."
+      "nome": "FM O dia",
+      "stream": "https://streaming.livespanel.com:20000/live",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "dial": "100.5 FM",
+      "generos": ["Musica", "Entretenimento", "Festas", "Humor"],
+      "thumb": "https://i.ibb.co/wFftnN76/fm-o-dia100-5.jpg",
+      "fanart": "https://i.ibb.co/Fbm3tM0Z/fm-o-dia100-5f.jpg",
+      "descricao": "emissora de rádio brasileira sediada no Rio de Janeiro focada principalmente em música popular, entretenimento e alto astral."
     },
     {
       "nome": "Radio Caxias",
