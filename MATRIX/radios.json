@@ -68,12 +68,15 @@
       "descricao": "Radio publica da EBC."
     },
     {
-      "nome": "Exemplo com stream AAC",
-      "stream": "https://exemplo.com/aac/stream",
-      "estado": "MG",
-      "cidade": "Belo Horizonte",
-      "generos": ["Rock"],
-      "mimetype": "audio/aac"
+      "nome": "Super Radio Tupi FM",
+      "stream": "https://8923.brasilstream.com.br/stream",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "dial": "96.5 FM",
+      "generos": ["Musica", "Entretenimento", "Noticias", "Humor", "Esportes", "Religião"],
+      "thumb": "https://i.ibb.co/DP5frdtm/tupit.jpg",
+      "fanart": "https://i.ibb.co/dwCWLZry/tupif.jpg",
+      "descricao": "Super Rádio Tupi é uma tradicional emissora de rádio brasileira sediada no Rio de Janeiro, operando na frequência 96,5 MHz FM."
     }
   ]
 }
