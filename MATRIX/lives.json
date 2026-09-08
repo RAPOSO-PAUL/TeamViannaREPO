@@ -218,6 +218,12 @@
           "handle": "@FlowPodcast",
           "thumb": "https://i.ibb.co/nqtjM0nT/Flow-Podcast.jpg",
           "fanart": "https://i.ibb.co/QBbDWC4/Flow-Podcastf.jpg"
+        },
+        {
+          "nome": "PrimoCast",
+          "handle": "@PrimoCast",
+          "thumb": "https://i.ibb.co/fdqBxwK7/Primo-Cast.jpg",
+          "fanart": "https://i.ibb.co/N539fzw/Primo-Castf-1.jpg"
         }
       ]
     },
