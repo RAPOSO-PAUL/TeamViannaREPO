@@ -16,15 +16,15 @@
 
   "radios": [
     {
-      "nome": "Radio Gaucha",
-      "stream": "https://exemplo.com/gaucha/stream",
-      "estado": "RS",
-      "cidade": "Porto Alegre",
-      "dial": "93.7 FM",
-      "generos": ["Noticias", "Esportes"],
-      "thumb": "https://i.ibb.co/EXEMPLO/gaucha.jpg",
-      "fanart": "https://i.ibb.co/EXEMPLO/gauchaf.jpg",
-      "descricao": "Jornalismo e esportes do Rio Grande do Sul."
+      "nome": "Vale Verde FM 96,7",
+      "stream": "https://ice.fabricahost.com.br/valeverdefm;",
+      "estado": "PR",
+      "cidade": "Jesuítas",
+      "dial": "96.7 FM",
+      "generos": "Pop",
+      "thumb": "https://i.ibb.co/G3JVq9vk/valeverdefm.jpg",
+      "fanart": "https://i.ibb.co/xKnh42WP/Code-Generated-Image-6.png",
+      "descricao": "Jornalismo local, rádio, serviço e informação para Assis Chateaubriand e região."
     },
     {
       "nome": "Radio Caxias",
