@@ -16,8 +16,9 @@
 
   "radios": [
     {
-      "nome": "Vale Verde FM 96,7",
+      "nome": "Vale Verde FM",
       "stream": "https://ice.fabricahost.com.br/valeverdefm;",
+      "mimetype": "audio/aac",
       "estado": "PR",
       "cidade": "Jesuítas",
       "dial": "96.7 FM",
