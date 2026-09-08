@@ -64,6 +64,13 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
+          "nome": "Energia 97 FM",
+          "handle": "@energia97",
+          "thumb": "https://i.ibb.co/LqjQzf0/energia97.jpg",
+          "fanart": "https://i.ibb.co/HLcqWG6q/energia97f.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "SportyNet",
           "handle": "@SportyNetBrasil",
           "thumb": "https://i.ibb.co/cXxr4dPM/Sporty-Net-Brasil.jpg",
