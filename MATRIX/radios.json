@@ -1,0 +1,79 @@
+{
+  "_como_usar": "Lista PLANA: cada radio e um registro com atributos. As pastas (estado, cidade, estilo) sao montadas pelo addon a partir daqui, entao a mesma emissora aparece em varios lugares sem precisar ser repetida. Campos obrigatorios: nome e stream. Os demais melhoram a organizacao e a aparencia.",
+
+  "_campos": {
+    "nome": "obrigatorio - como aparece na lista",
+    "stream": "obrigatorio - endereco direto do audio (mp3/aac/m3u8)",
+    "estado": "sigla de 2 letras, ex: RS - alimenta a pasta Por Estado",
+    "cidade": "alimenta a subpasta de cidades quando o estado tem muitas",
+    "dial": "ex: 102.1 FM - aparece na linha e entra na pesquisa",
+    "generos": "lista - a mesma radio pode estar em varios estilos",
+    "thumb": "logo da emissora (quadrada fica melhor)",
+    "fanart": "imagem de fundo, aparece em tela cheia ao tocar",
+    "descricao": "texto livre, aparece nos detalhes",
+    "mimetype": "opcional - use audio/aac quando o stream for AAC"
+  },
+
+  "radios": [
+    {
+      "nome": "Radio Gaucha",
+      "stream": "https://exemplo.com/gaucha/stream",
+      "estado": "RS",
+      "cidade": "Porto Alegre",
+      "dial": "93.7 FM",
+      "generos": ["Noticias", "Esportes"],
+      "thumb": "https://i.ibb.co/EXEMPLO/gaucha.jpg",
+      "fanart": "https://i.ibb.co/EXEMPLO/gauchaf.jpg",
+      "descricao": "Jornalismo e esportes do Rio Grande do Sul."
+    },
+    {
+      "nome": "Radio Caxias",
+      "stream": "https://exemplo.com/caxias/stream",
+      "estado": "RS",
+      "cidade": "Caxias do Sul",
+      "dial": "760 AM",
+      "generos": ["Noticias", "Popular"],
+      "thumb": "https://i.ibb.co/EXEMPLO/caxias.jpg",
+      "fanart": "https://i.ibb.co/EXEMPLO/caxiasf.jpg"
+    },
+    {
+      "nome": "Radio Aparecida",
+      "stream": "https://exemplo.com/aparecida/stream",
+      "estado": "SP",
+      "cidade": "Aparecida",
+      "dial": "104.3 FM",
+      "generos": ["Gospel", "Catolica"],
+      "thumb": "https://i.ibb.co/EXEMPLO/aparecida.jpg",
+      "fanart": "https://i.ibb.co/EXEMPLO/aparecidaf.jpg",
+      "descricao": "Programacao catolica, missas e musica."
+    },
+    {
+      "nome": "Radio Sertaneja",
+      "stream": "https://exemplo.com/sertaneja/stream",
+      "estado": "GO",
+      "cidade": "Goiania",
+      "generos": ["Sertanejo"],
+      "thumb": "https://i.ibb.co/EXEMPLO/sertaneja.jpg",
+      "fanart": "https://i.ibb.co/EXEMPLO/sertanejaf.jpg"
+    },
+    {
+      "nome": "Radio MEC",
+      "stream": "https://exemplo.com/mec/stream",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "dial": "99.3 FM",
+      "generos": ["Publica", "MPB", "Classica"],
+      "thumb": "https://i.ibb.co/EXEMPLO/mec.jpg",
+      "fanart": "https://i.ibb.co/EXEMPLO/mecf.jpg",
+      "descricao": "Radio publica da EBC."
+    },
+    {
+      "nome": "Exemplo com stream AAC",
+      "stream": "https://exemplo.com/aac/stream",
+      "estado": "MG",
+      "cidade": "Belo Horizonte",
+      "generos": ["Rock"],
+      "mimetype": "audio/aac"
+    }
+  ]
+}
