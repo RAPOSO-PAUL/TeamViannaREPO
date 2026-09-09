@@ -1,0 +1,110 @@
+name: Atualizar estado das lives
+
+# ONDE ESTE ARQUIVO FICA
+#   .github/workflows/estado.yml   (com o ponto em .github, na branch main)
+#   O gerar_estado.py fica em      gerador/gerar_estado.py
+#
+# TRES GATILHOS, e cada um resolve um problema diferente:
+#
+#   push   - voce mexeu no lives.json? apura na hora, sem fila
+#   manual - o botao "Run workflow", para testar quando quiser
+#   cron   - de 10 em 10 minutos, mantendo tudo apurado sozinho
+#
+# POR QUE O JOB FICA RODANDO POR 25 MINUTOS
+#   O agendamento do GitHub nao e pontual: entra numa fila compartilhada
+#   e atrasa 10, 20, as vezes 30 minutos em horario de pico - quando nao
+#   pula o ciclo. Em vez de depender de seis execucoes por hora que
+#   talvez nao venham, cada execucao TRABALHA por 25 minutos, apurando de
+#   3 em 3 minutos por dentro. Assim, mesmo que a proxima demore muito, a
+#   anterior ainda esta cobrindo o intervalo.
+
+on:
+  push:
+    paths:
+      # so o catalogo e o gerador. O estado.json de proposito FORA daqui:
+      # senao o commit do proprio robo dispararia tudo de novo, em loop.
+      - 'MATRIX/lives.json'
+      - 'gerador/**'
+      - '.github/workflows/estado.yml'
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      duracao:
+        description: 'Minutos trabalhando (0 = apura uma vez e sai)'
+        required: false
+        default: '25'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: estado-lives
+  # A execucao nova ASSUME o lugar da antiga. Sem isto, com o job longo,
+  # as agendadas iriam se empilhando na fila.
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Apurar e publicar em ciclos
+        env:
+          # push e execucao manual sem parametro apuram UMA vez e saem:
+          # nesses casos voce quer o resultado logo, nao um job longo
+          DURACAO: ${{ github.event_name == 'schedule' && '25' || github.event.inputs.duracao || '0' }}
+          INTERVALO: '180'
+        run: |
+          set -u
+          git config user.name "gerador-de-estado"
+          git config user.email "actions@github.com"
+
+          FIM=$(( $(date +%s) + DURACAO * 60 ))
+          CICLO=0
+
+          while : ; do
+            CICLO=$(( CICLO + 1 ))
+            echo "===== ciclo $CICLO ====="
+
+            python gerador/gerar_estado.py MATRIX/lives.json MATRIX/estado.json
+
+            # O gerado_em muda em TODA apuracao, entao o arquivo sempre
+            # difere e um "git diff" simples mandaria commit a cada ciclo -
+            # umas 480 por dia. Aqui compara so a parte que importa (quem
+            # esta no ar) e mantem um pulso minimo, para o addon nao
+            # considerar o arquivo velho em periodo parado.
+            DECISAO=$(python gerador/decidir_publicacao.py MATRIX/estado.json)
+            echo "$DECISAO"
+
+            if [ "$DECISAO" = "publicar" ]; then
+              git add MATRIX/estado.json
+              git commit -m "estado: apuracao automatica"
+              # outra execucao pode ter publicado enquanto esta apurava
+              git pull --rebase --autostash -q || true
+              git push
+              echo "Publicado."
+            else
+              # devolve o arquivo ao que estava: sem isto o proximo ciclo
+              # compararia contra a versao nao publicada
+              git checkout -- MATRIX/estado.json 2>/dev/null || true
+            fi
+
+            AGORA=$(date +%s)
+            RESTA=$(( FIM - AGORA ))
+            if [ "$RESTA" -le "$INTERVALO" ]; then
+              echo "Fim do periodo de trabalho."
+              break
+            fi
+            echo "Proximo ciclo em ${INTERVALO}s (restam ${RESTA}s)"
+            sleep "$INTERVALO"
+          done
