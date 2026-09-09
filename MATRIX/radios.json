@@ -27,14 +27,15 @@
       "descricao": "emissora de rádio brasileira sediada no Rio de Janeiro focada principalmente em música popular, entretenimento e alto astral."
     },
     {
-      "nome": "Radio Caxias a",
+      "nome": "Rádio Transamérica",
       "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac",
-      "estado": "RS",
-      "cidade": "Caxias do Sul",
-      "dial": "760 AM",
-      "generos": ["Noticias", "Popular"],
-      "thumb": "https://i.ibb.co/EXEMPLO/caxias.jpg",
-      "fanart": "https://i.ibb.co/EXEMPLO/caxiasf.jpg"
+      "estado": "SP",
+      "cidade": "são Paulo",
+      "dial": "100.1 FM",
+      "generos": ["Musica", "Entretenimento", "Esportes", "Humor", "Noticias"],
+      "thumb": "https://i.ibb.co/nM4nLtVy/R-dio-Transam-rica-100-1-FM.jpg",
+      "fanart": "https://i.ibb.co/Q3pCP557/Code-Generated-Image-7.png",
+      "descricao": "Transamérica marcou época no rádio brasileiro com programação voltada ao público jovem, pop/rock e entretenimento, além de forte atuação no esporte."
     },
     {
       "nome": "Radio Aparecida",
