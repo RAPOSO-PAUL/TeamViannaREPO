@@ -58,6 +58,17 @@
       "thumb": "https://i.ibb.co/bfLykPK/Jovem-Pan-FM-100-9.jpg",
       "fanart": "https://i.ibb.co/Mk4N5wpL/Jovem-Pan-FM-100-9f.jpg",
       "descricao": "A Jovem Pan FM é uma das principais redes de rádio comercial do Brasil, focada em programação jovem, pop, entretenimento, esportes e jornalismo."
+    },
+    {
+      "nome": "Continental FM",
+      "stream": "https://stream.zeno.fm/c45wbq2us3buv",
+      "estado": "RS",
+      "cidade": "Porto alegre",
+      "dial": "98.3 FM",
+      "generos": ["Musica", "Entretenimento", "Estilo Vida", "Noticias"],
+      "thumb": "https://i.ibb.co/7tXfT2RD/Continental-98-3-FM.jpg",
+      "fanart": "https://i.ibb.co/9H9npY3V/Continental-98-3-FMf-1.jpg",
+      "descricao": "é uma estação de rádio brasileira sediada em Porto Alegre, no Rio Grande do Sul, pertencente à Rede Pampa de Comunicação"
     }
   ]
 }
