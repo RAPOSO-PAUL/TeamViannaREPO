@@ -47,6 +47,17 @@
       "thumb": "https://i.ibb.co/DP5frdtm/tupit.jpg",
       "fanart": "https://i.ibb.co/dwCWLZry/tupif.jpg",
       "descricao": "Super Rádio Tupi é uma tradicional emissora de rádio brasileira sediada no Rio de Janeiro, operando na frequência 96,5 MHz FM."
+    },
+    {
+      "nome": "Jovem Pan FM",
+      "stream": "https://stream.zeno.fm/c45wbq2us3buv",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "dial": "100.9 FM",
+      "generos": ["Musica", "Entretenimento", "Noticias", "Humor", "Esportes", "Festas"],
+      "thumb": "https://i.ibb.co/bfLykPK/Jovem-Pan-FM-100-9.jpg",
+      "fanart": "https://i.ibb.co/Mk4N5wpL/Jovem-Pan-FM-100-9f.jpg",
+      "descricao": "A Jovem Pan FM é uma das principais redes de rádio comercial do Brasil, focada em programação jovem, pop, entretenimento, esportes e jornalismo."
     }
   ]
 }
