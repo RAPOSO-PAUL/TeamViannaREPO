@@ -16,6 +16,17 @@
 
   "radios": [
     {
+      "nome": "Litoral FM",
+      "stream": "https://27403.live.streamtheworld.com/LITORAL_VITORIA.mp3",
+      "estado": "ES",
+      "cidade": "Vitoria",
+      "dial": "102.3 FM",
+      "generos": ["Musica", "Entretenimento", "Festas", "Humor", "Noticias"],
+      "thumb": "https://i.ibb.co/s93mQ8Ky/Litoral-102-3-FM.jpg",
+      "fanart": "https://i.ibb.co/yFgyL5Pt/Litoral-102-3-FMf-1.jpg",
+      "descricao": "emissora de rádio brasileira com sede em Vitória, no Espírito Santo, pertencente à Rede Gazeta."
+    },
+    {
       "nome": "FM O dia",
       "stream": "https://streaming.livespanel.com:20000/live",
       "estado": "RJ",
