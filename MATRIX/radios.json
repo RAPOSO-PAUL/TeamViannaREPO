@@ -69,6 +69,17 @@
       "thumb": "https://i.ibb.co/7tXfT2RD/Continental-98-3-FM.jpg",
       "fanart": "https://i.ibb.co/9H9npY3V/Continental-98-3-FMf-1.jpg",
       "descricao": "é uma estação de rádio brasileira sediada em Porto Alegre, no Rio Grande do Sul, pertencente à Rede Pampa de Comunicação"
+    },
+    {
+      "nome": "Rádio Itatiaia",
+      "stream": "https://8903.brasilstream.com.br/stream",
+      "estado": "MG",
+      "cidade": "Belo Horizonte",
+      "dial": "95.7 FM",
+      "generos": ["Esportes", "Entretenimento", "Musica", "Noticias", "Humor", "Religião"],
+      "thumb": "https://i.ibb.co/kgdMTVFY/radio-itatiaia-95-7.jpg",
+      "fanart": "https://i.ibb.co/7d52kp1M/radio-itatiaia-95-7f-1.jpg",
+      "descricao": "é uma emissora brasileira sediada em Belo Horizonte, Minas Gerais, conhecida como A Rádio de Minas"
     }
   ]
 }
