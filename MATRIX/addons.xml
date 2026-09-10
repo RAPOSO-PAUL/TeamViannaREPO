@@ -21,6 +21,24 @@
         <license>GPL-2.0-or-later</license>
     </extension>
 </addon>
+	<addon id="plugin.audio.tvemradios" name="VOZES NO AR" version="1.3.0" provider-name="Team vianna">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pt_BR">Radios brasileiras ao vivo</summary>
+    <description lang="pt_BR">Radios do Brasil ao vivo, organizadas por estado, cidade e estilo musical, com pesquisa e favoritos. (radio, radios online, FM, AM)</description>
+    <platform>all</platform>
+    <license>Proprietary</license>
+    <assets>
+      <icon>resources/media/icon.png</icon>
+      <fanart>resources/media/fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
 	<addon id="plugin.video.tvemlives" name="AO VIVO" version="4.9.0" provider-name="TV EMINEM">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
