@@ -16,6 +16,17 @@
 
   "radios": [
     {
+      "nome": "Massa FM",
+      "stream": "https://stream.loopert.com/stream/154",
+      "estado": "PR",
+      "cidade": "Curitiba",
+      "dial": "97.7 FM",
+      "generos": ["Musica", "Entretenimento", "Festas", "Humor", "Noticias"],
+      "thumb": "https://i.ibb.co/LsWMfS5/Massa-FM-97-7.jpg",
+      "fanart": "https://i.ibb.co/XZH1Tz5j/Massa-FM-97-7f-1.jpg",
+      "descricao": "é a frequência original e matriz da Massa FM, uma das maiores redes de rádio do Brasil, sediada em Curitiba, Paraná."
+    },
+    {
       "nome": "Litoral FM",
       "stream": "https://27403.live.streamtheworld.com/LITORAL_VITORIA.mp3",
       "estado": "ES",
