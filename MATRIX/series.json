@@ -1,6 +1,7 @@
 {
   "shows": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/shows.json",
   "series": [
+    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/THE-DROP-UMA-SAGA-SNOWFALL.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/BATMAN-CRUZADO-ENCAPUZADO.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/MAGNATAS-DO-CRIME.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/CHAD-POWERS-O%20QUARTERBACK.json",
