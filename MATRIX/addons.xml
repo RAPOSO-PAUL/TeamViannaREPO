@@ -73,7 +73,7 @@
         <assets><icon>icon.png</icon></assets>
     </extension>
 </addon>
-	<addon id="plugin.program.tvemtemas" name="TEMAS - Team Vianna" version="1.6.0" provider-name="Team Vianna">
+	<addon id="plugin.program.tvemtemas" name="Team Vianna - Temas" version="1.6.1" provider-name="Team Vianna">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -82,13 +82,12 @@
     </extension>
     <extension point="xbmc.service" library="service.py"/>
     <extension point="xbmc.addon.metadata">
-        <summary lang="pt_BR">Temas de fundo da TV EMINEM</summary>
+        <summary lang="pt_BR">Temas de fundo</summary>
         <description lang="pt_BR">Escolha um tema (Natal, Páscoa...) com imagem de fundo fixa, ou volte ao padrão com as fanarts dos filmes e séries.</description>
         <platform>all</platform>
         <license>GPL-2.0-or-later</license>
         <assets>
             <icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
         </assets>
     </extension>
 </addon>
