@@ -16,6 +16,17 @@
 
   "radios": [
     {
+      "nome": "Recife FM",
+      "stream": "https://ssl.zoeweb.net/proxy/recifefm?mp=/stream",
+      "estado": "PR",
+      "cidade": "Curitiba",
+      "dial": "97.5 FM",
+      "generos": ["Musica", "Entretenimento", "Festas", "Humor", "Noticias"],
+      "thumb": "https://i.ibb.co/Hf68Tbb8/Recife-FM-97-5.jpg",
+      "fanart": "https://i.ibb.co/vCQhWCkK/Recife-FM-97-5f.jpg",
+      "descricao": "é uma emissora de rádio brasileira sediada em Recife (PE), operando na frequência 97,5 MHz. Pertencente ao Sistema Verdes Mares (Grupo Edson Queiroz), destaca-se pela alta liderança em audiência no Grande Recife, focando em uma programação popular voltada para sucessos musicais, entretenimento e prestação de serviços."
+    },
+    {
       "nome": "Massa FM",
       "stream": "https://stream.loopert.com/stream/154",
       "estado": "PR",
