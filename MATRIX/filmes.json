@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "tmdb_id": 1185806,
+      "type": "movie",
+      "added_at": "2026-09-12",
+      "kids": ["Prezinhos", "Aborrecentes"],
+      "magnet": "magnet:?xt=urn:btih:cp4gcq56njskzdjv6l7ina3nubesfdlz",
+      "youtube": "BID0gu1ROD8"
+    },
+    {
       "tmdb_id": 1522689,
       "type": "movie",
       "added_at": "2026-09-11",
