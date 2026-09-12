@@ -18,8 +18,8 @@
     {
       "nome": "Recife FM",
       "stream": "https://ssl.zoeweb.net/proxy/recifefm?mp=/stream",
-      "estado": "PR",
-      "cidade": "Curitiba",
+      "estado": "PE",
+      "cidade": "Recife",
       "dial": "97.5 FM",
       "generos": ["Musica", "Entretenimento", "Festas", "Humor", "Noticias"],
       "thumb": "https://i.ibb.co/Hf68Tbb8/Recife-FM-97-5.jpg",
