@@ -16,6 +16,17 @@
 
   "radios": [
     {
+      "nome": "Atlantida FM",
+      "stream": "https://ssl.zoeweb.net/proxy/recifefm?mp=/stream",
+      "estado": "SC",
+      "cidade": "Joinville",
+      "dial": "104.3 FM",
+      "generos": ["Musica", "Entretenimento", "Festas", "Humor", "Noticias", "Esportes"],
+      "thumb": "https://i.ibb.co/8DYJXPnZ/Atlantida-FM-104-3.jpg",
+      "fanart": "https://i.ibb.co/hRVC3PcB/Atlantida-FM-104-3f.jpg",
+      "descricao": "é a frequência da Rede Atlântida que cobre a região de Joinville, em Santa Catarina, operada em parceria com a NSC. A emissora é voltada para o público jovem e foca em entretenimento, cultura pop e música pop/rock."
+    },
+    {
       "nome": "Recife FM",
       "stream": "https://ssl.zoeweb.net/proxy/recifefm?mp=/stream",
       "estado": "PE",
