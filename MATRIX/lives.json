@@ -57,6 +57,13 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
+          "nome": "Esporte na Band",
+          "handle": "@EsportenaBand",
+          "thumb": "https://i.ibb.co/fYxnPLNq/Esportena-Band-1.jpg",
+          "fanart": "https://i.ibb.co/ymTPHGJr/Esportena-Bandf.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "Esporte Band RS",
           "handle": "@EsporteBandRS",
           "thumb": "https://i.ibb.co/DHkgHYP6/Esporte-Band-RS.jpg",
