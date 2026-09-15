@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 270572,
+      "type": "tv",
+      "provider": "Globoplay",
+      "added_at": "2026-09-15"
+    },
+    {
       "tmdb_id": 301626,
       "type": "tv",
       "provider": "Prime Video",
