@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 301626,
+      "type": "tv",
+      "provider": "Prime Video",
+      "added_at": "2026-09-14"
+    },
+    {
       "tmdb_id": 258230,
       "type": "tv",
       "provider": ["Apple TV+", "Prime Video"],
