@@ -16,6 +16,17 @@
 
   "radios": [
     {
+      "nome": "Verdinha FM",
+      "stream": "https://zoeweb.net/proxy/verdinha/stream",
+      "estado": "CE",
+      "cidade": "Fortaleza",
+      "dial": "92.5 FM",
+      "generos": ["Musica", "Entretenimento", "Religião", "Humor", "Noticias", "Esportes"],
+      "thumb": "https://i.ibb.co/HffNbGGd/Verdinha-FM-92-51.jpg",
+      "fanart": "https://i.ibb.co/vv3fty46/Verdinha-FM-92-5f.jpg",
+      "descricao": "é uma tradicional emissora de rádio de Fortaleza, Ceará, operando na frequência 92,5 MHz FM. Pertencente ao Sistema Verdes Mares, destaca-se pela programação voltada ao jornalismo popular, prestação de serviços e forte cobertura do esporte cearense."
+    },
+    {
       "nome": "Atlantida FM",
       "stream": "https://ssl.zoeweb.net/proxy/recifefm?mp=/stream",
       "estado": "SC",
