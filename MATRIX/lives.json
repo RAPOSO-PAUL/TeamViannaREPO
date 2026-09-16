@@ -64,6 +64,13 @@
           "descricao": "Transmissoes esportivas ao vivo."
         },
         {
+          "nome": "SBT Sports",
+          "handle": "SBTSports",
+          "thumb": "https://i.ibb.co/Mx4BnXyN/SBTSports.jpg",
+          "fanart": "https://i.ibb.co/sJm6VyXr/SBTSportsf1.jpg",
+          "descricao": "Transmissoes esportivas ao vivo."
+        },
+        {
           "nome": "Esporte Band RS",
           "handle": "@EsporteBandRS",
           "thumb": "https://i.ibb.co/DHkgHYP6/Esporte-Band-RS.jpg",
