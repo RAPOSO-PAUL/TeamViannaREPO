@@ -1,4 +1,6 @@
 {
   "movies": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/filmes.json",
-  "series": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/series.json"
+  "series": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/series.json",
+  "background": "https://i.ibb.co/RZBnRQ3/fundo.jpg",
+  "background_infantil": "https://i.ibb.co/5XF5yfX2/fundo-infantil.jpg"
 }
