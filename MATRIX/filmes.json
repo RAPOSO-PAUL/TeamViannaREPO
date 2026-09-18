@@ -6,6 +6,10 @@
       "added_at": "2026-09-17",
       "colect": "Sci-FI/Vida Extraterrestre",
       "sources": [
+        { 
+          "name": "PLAYER 1", 
+          "embed": "https://redeflixapi.store/filme/1323244" 
+        },
         {
           "name": "DUAL ÁUDIO 1080p",
           "magnet": "magnet:?xt=urn:btih:aaq2qgcgshoi3lzrixybecmluatceamk"
