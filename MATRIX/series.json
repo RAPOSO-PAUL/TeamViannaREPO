@@ -1,6 +1,7 @@
 {
   "shows": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/shows.json",
   "series": [
+    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/STRANGER-THINGS-HISTORIAS-DE-85.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/O-SENHOR-DAS-MOSCAS.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/UM-CONTO-DE-DUAS-CIDADES.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/DESAPARECIDA.json",
