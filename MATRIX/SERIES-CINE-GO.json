@@ -1,0 +1,29 @@
+{
+  "series": [
+    {
+      "tmdb_id": 224263,
+      "type": "tv",
+      "episodes": [
+        { "season": 2, "episode": 1, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/1", "youtube": "EgUNjiuSsaI" },
+        { "season": 2, "episode": 2, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/2" },
+        { "season": 2, "episode": 3, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/3" },
+        { "season": 2, "episode": 4, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/4" },
+        { "season": 2, "episode": 5, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/5" },
+        { "season": 2, "episode": 6, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/6" },
+        { "season": 2, "episode": 7, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/7", "iframe": "<iframe src='https://redecanais.af/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=ESQCRMDMIM1'></iframe>" },
+        { "season": 2, "episode": 8, "magnet": "magnet:?xt=urn:btih:scncl4zdbrnwh27e6kkfteoadzs6afgt", "embed": "https://mgeb.top/embed/224263/2/8", "iframe": "<iframe src='https://redecanais.af/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=ESQCRMDMIM1' allow='encrypted-media' allowFullScreen></iframe>" }
+      ]
+    },
+    {
+      "tmdb_id": 103516,
+      "type": "tv",
+      "colect": "Fantasias/Dragões",
+      "episodes": [
+        { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:a1b2c3d4e5f67890123456789abcdef012345678", "embed": "https://mgeb.top/embed/103516/1/1", "youtube": "DotnJ7tSU34" },
+        { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:a1b2c3d4e5f67890123456789abcdef012345678", "embed": "https://mgeb.top/embed/103516/1/2" },
+        { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:a1b2c3d4e5f67890123456789abcdef012345678", "embed": "https://mgeb.top/embed/103516/1/3" },
+        { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:a1b2c3d4e5f67890123456789abcdef012345678", "embed": "https://mgeb.top/embed/103516/1/4", "iframe": "<iframe src='https://redecanais.af/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=HOTD104' allow='encrypted-media' allowFullScreen></iframe>" }
+      ]
+    }
+  ]
+}
