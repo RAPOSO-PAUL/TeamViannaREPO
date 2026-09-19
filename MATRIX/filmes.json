@@ -1,6 +1,26 @@
 {
   "movies": [
     {
+      "tmdb_id": 1542309,
+      "type": "movie",
+      "added_at": "2026-09-18",
+      "sources": [
+        { 
+          "name": "PLAYER 1", 
+          "embed": "https://redeflixapi.store/filme/1542309" 
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:zsxba3n553w3uzj7nsdotgg7cfiutwmk"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p 2",
+          "magnet": "magnet:?xt=urn:btih:86cf8a06579abfae1f40a61695d9afef2f11cdf5"
+        }
+      ],
+      "youtube": "vBYL0nAm1LE"
+    },
+    {
       "tmdb_id": 1323244,
       "type": "movie",
       "added_at": "2026-09-17",
