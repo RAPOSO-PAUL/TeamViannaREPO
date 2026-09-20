@@ -13,6 +13,10 @@
           "name": "PLAYER 2", 
           "embed": "https://redeflixapi.store/filme/1641629" 
         },
+        { 
+          "name": "PLAYER 3", 
+          "embed": "https://myembed.biz/filme/1641629" 
+        },
         {
           "name": "DUAL ÁUDIO 1080p",
           "magnet": "magnet:?xt=urn:btih:33lptu55ehjespamqetdg6v2d7uraqfo"
