@@ -28,7 +28,34 @@
         { "season": 1, "episode": 6, "embeds": [ "https://mgeb.top/embed/108978/1/6", "https://redeflixapi.store/serie/108978/1/6", "https://myembed.biz/serie/108978/1/6" ] },
         { "season": 1, "episode": 7, "embeds": [ "https://mgeb.top/embed/108978/1/7", "https://redeflixapi.store/serie/108978/1/7", "https://myembed.biz/serie/108978/1/7" ] },
         { "season": 1, "episode": 8, "embeds": [ "https://mgeb.top/embed/108978/1/8", "https://redeflixapi.store/serie/108978/1/8", "https://myembed.biz/serie/108978/1/8" ] },
+
         { "season": 2, "episode": 1, "embeds": [ "https://mgeb.top/embed/108978/2/1", "https://redeflixapi.store/serie/108978/2/1", "https://myembed.biz/serie/108978/2/1" ] },
         { "season": 2, "episode": 2, "embeds": [ "https://mgeb.top/embed/108978/2/2", "https://redeflixapi.store/serie/108978/2/2", "https://myembed.biz/serie/108978/2/2" ] },
         { "season": 2, "episode": 3, "embeds": [ "https://mgeb.top/embed/108978/2/3", "https://redeflixapi.store/serie/108978/2/3", "https://myembed.biz/serie/108978/2/3" ] },
-        { "season": 2, "episode": 4, "embeds": [ "https://mgeb.top/embed/108978/2/4", "https
+        { "season": 2, "episode": 4, "embeds": [ "https://mgeb.top/embed/108978/2/4", "https://redeflixapi.store/serie/108978/2/4", "https://myembed.biz/serie/108978/2/4" ] },
+        { "season": 2, "episode": 5, "embeds": [ "https://mgeb.top/embed/108978/2/5", "https://redeflixapi.store/serie/108978/2/5", "https://myembed.biz/serie/108978/2/5" ] },
+        { "season": 2, "episode": 6, "embeds": [ "https://mgeb.top/embed/108978/2/6", "https://redeflixapi.store/serie/108978/2/6", "https://myembed.biz/serie/108978/2/6" ] },
+        { "season": 2, "episode": 7, "embeds": [ "https://mgeb.top/embed/108978/2/7", "https://redeflixapi.store/serie/108978/2/7", "https://myembed.biz/serie/108978/2/7" ] },
+        { "season": 2, "episode": 8, "embeds": [ "https://mgeb.top/embed/108978/2/8", "https://redeflixapi.store/serie/108978/2/8", "https://myembed.biz/serie/108978/2/8" ] },
+
+        { "season": 3, "episode": 1, "embeds": [ "https://mgeb.top/embed/108978/3/1", "https://redeflixapi.store/serie/108978/3/1", "https://myembed.biz/serie/108978/3/1" ] },
+        { "season": 3, "episode": 2, "embeds": [ "https://mgeb.top/embed/108978/3/2", "https://redeflixapi.store/serie/108978/3/2", "https://myembed.biz/serie/108978/3/2" ] },
+        { "season": 3, "episode": 3, "embeds": [ "https://mgeb.top/embed/108978/3/3", "https://redeflixapi.store/serie/108978/3/3", "https://myembed.biz/serie/108978/3/3" ] },
+        { "season": 3, "episode": 4, "embeds": [ "https://mgeb.top/embed/108978/3/4", "https://redeflixapi.store/serie/108978/3/4", "https://myembed.biz/serie/108978/3/4" ] },
+        { "season": 3, "episode": 5, "embeds": [ "https://mgeb.top/embed/108978/3/5", "https://redeflixapi.store/serie/108978/3/5", "https://myembed.biz/serie/108978/3/5" ] },
+        { "season": 3, "episode": 6, "embeds": [ "https://mgeb.top/embed/108978/3/6", "https://redeflixapi.store/serie/108978/3/6", "https://myembed.biz/serie/108978/3/6" ] },
+        { "season": 3, "episode": 7, "embeds": [ "https://mgeb.top/embed/108978/3/7", "https://redeflixapi.store/serie/108978/3/7", "https://myembed.biz/serie/108978/3/7" ] },
+        { "season": 3, "episode": 8, "embeds": [ "https://mgeb.top/embed/108978/3/8", "https://redeflixapi.store/serie/108978/3/8", "https://myembed.biz/serie/108978/3/8" ] },
+
+        { "season": 4, "episode": 1, "embeds": [ "https://mgeb.top/embed/108978/4/1", "https://redeflixapi.store/serie/108978/4/1", "https://myembed.biz/serie/108978/4/1" ] },
+        { "season": 4, "episode": 2, "embeds": [ "https://mgeb.top/embed/108978/4/2", "https://redeflixapi.store/serie/108978/4/2", "https://myembed.biz/serie/108978/4/2" ] },
+        { "season": 4, "episode": 3, "embeds": [ "https://mgeb.top/embed/108978/4/3", "https://redeflixapi.store/serie/108978/4/3", "https://myembed.biz/serie/108978/4/3" ] },
+        { "season": 4, "episode": 4, "embeds": [ "https://mgeb.top/embed/108978/4/4", "https://redeflixapi.store/serie/108978/4/4", "https://myembed.biz/serie/108978/4/4" ] },
+        { "season": 4, "episode": 5, "embeds": [ "https://mgeb.top/embed/108978/4/5", "https://redeflixapi.store/serie/108978/4/5", "https://myembed.biz/serie/108978/4/5" ] },
+        { "season": 4, "episode": 6, "embeds": [ "https://mgeb.top/embed/108978/4/6", "https://redeflixapi.store/serie/108978/4/6", "https://myembed.biz/serie/108978/4/6" ] },
+        { "season": 4, "episode": 7, "embeds": [ "https://mgeb.top/embed/108978/4/7", "https://redeflixapi.store/serie/108978/4/7", "https://myembed.biz/serie/108978/4/7" ] },
+        { "season": 4, "episode": 8, "embeds": [ "https://mgeb.top/embed/108978/4/8", "https://redeflixapi.store/serie/108978/4/8", "https://myembed.biz/serie/108978/4/8" ] }
+      ]
+    }
+  ]
+}
