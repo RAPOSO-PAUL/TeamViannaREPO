@@ -4,6 +4,7 @@
       "tmdb_id": 1641629,
       "type": "movie",
       "added_at": "2026-09-19",
+      "colect": ["Romance/Paixão", "Humanidade/Amor Proibido"],
       "sources": [
         { 
           "name": "PLAYER 1", 
