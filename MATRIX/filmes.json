@@ -1,6 +1,34 @@
 {
   "movies": [
     {
+      "tmdb_id": 1214361,
+      "type": "movie",
+      "added_at": "2026-09-20",
+      "sources": [
+        { 
+          "name": "PLAYER 1", 
+          "embed": "https://mgeb.top/embed/1214361" 
+        },
+        { 
+          "name": "PLAYER 2", 
+          "embed": "https://redeflixapi.store/filme/1214361" 
+        },
+        { 
+          "name": "PLAYER 3", 
+          "embed": "https://myembed.biz/filme/1214361" 
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:992938ec0ed3c5343a6546ed21e3790b370fd790"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p 2",
+          "magnet": "magnet:?xt=urn:btih:3ejqa5yfpywctej2wnwu2vjiv4fyyu75"
+        }
+      ],
+      "youtube": "K7ESKuuh9_M"
+    },
+    {
       "tmdb_id": 1641629,
       "type": "movie",
       "added_at": "2026-09-19",
