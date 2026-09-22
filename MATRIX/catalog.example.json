@@ -2,5 +2,15 @@
   "movies": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/filmes.json",
   "series": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/series.json",
   "background": "https://i.ibb.co/NdvhVfGn/fundo.jpg",
-  "background_infantil": "https://i.ibb.co/5XF5yfX2/fundo-infantil.jpg"
+  "background_infantil": "https://i.ibb.co/5XF5yfX2/fundo-infantil.jpg",
+  "streamings": [
+  { "nome": "Netflix", "imagem": "netflix" },
+  { "nome": "Prime Video", "imagem": "primevideo" },
+  { "nome": "Disney+", "imagem": "disneyplus" },
+  { "nome": "Max", "imagem": "hbomax" },
+  { "nome": "Globoplay", "imagem": "globoplay" },
+  { "nome": "Paramount+", "imagem": "paramountplus" },
+  { "nome": "Apple TV+", "imagem": "appletv" },
+  { "nome": "Telecine", "imagem": "telecine" }
+]
 }
