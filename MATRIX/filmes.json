@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "tmdb_id": 1514863,
+      "type": "movie",
+      "added_at": "2026-09-23",
+      "sources": [
+        { 
+          "name": "PLAYER 1", 
+          "embed": "https://mgeb.top/embed/1514863" 
+        },
+        { 
+          "name": "PLAYER 2", 
+          "embed": "https://redeflixapi.store/filme/1514863" 
+        },
+        { 
+          "name": "PLAYER 3", 
+          "embed": "https://myembed.biz/filme/1514863" 
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:06ea0cd5fc2ac8feff85dbcb03c76a173e13f2c4&xl=2414860165&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Conforme+a+M%C3%BAsica+2026+WEB-DL+1080p+x264+DUAL+5.1"
+        }
+      ],
+      "youtube": "et4kC7zPGbQ"
+    },
+    {
       "tmdb_id": 1240889,
       "type": "movie",
       "added_at": "2026-09-22",
