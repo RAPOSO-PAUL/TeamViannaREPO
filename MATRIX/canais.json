@@ -21,17 +21,17 @@
         {
           "nome": "ESPN 1 HD1",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://w7.embedtv.lat/espn"
+          "embed": "https://w7.embedtv.lat/ae"
         },
         {
           "nome": "ESPN 1 HD2",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "stream": "https://embedcanaisdetv.xyz/e/index.php?canal=espn"
+          "stream": "https://w7.embedtv.lat/ae"
         },
         {
           "nome": "ESPN 1 HD3",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "stream": "https://sinalpublicoetv.vercel.app/?id=espn"
+          "stream": "https://w7.embedtv.lat/ae"
         }
       ]
     },
