@@ -4,7 +4,7 @@
       "nome": "Abertos",
       "canais": [
         {
-          "nome": "Cn1",
+          "nome": "Cn11",
           "imagem": "https://SEU-SITE/logos/canal1.png",
           "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
         },
@@ -21,17 +21,17 @@
         {
           "nome": "ESPN 1 HD1",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://w7.embedtv.lat/ae"
+          "embed": "https://embedcanaisdetv.xyz/e/index.php?canal=espn"
         },
         {
           "nome": "ESPN 1 HD2",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "stream": "https://w7.embedtv.lat/ae"
+          "stream": "https://embedcanaisdetv.xyz/e/index.php?canal=espn"
         },
         {
           "nome": "ESPN 1 HD3",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "stream": "https://w7.embedtv.lat/ae"
+          "stream": "https://embedcanaisdetv.xyz/e/index.php?canal=espn"
         }
       ]
     },
