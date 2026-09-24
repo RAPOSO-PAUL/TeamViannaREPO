@@ -4,14 +4,14 @@
       "nome": "Abertos",
       "canais": [
         {
-          "nome": "Canal Exemplo 1",
+          "nome": "Cn1",
           "imagem": "https://SEU-SITE/logos/canal1.png",
-          "embed": "<iframe src=\"https://embedcanaisdetv.xyz/e/index.php?canal=espn\" allowfullscreen></iframe>"
+          "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
         },
         {
-          "nome": "Canal Exemplo 2",
+          "nome": "Cn2",
           "imagem": "https://SEU-SITE/logos/canal2.png",
-          "embed": "<iframe src=\"https://w7.embedtv.lat/espn\" allowfullscreen></iframe>"
+          "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
         }
       ]
     },
