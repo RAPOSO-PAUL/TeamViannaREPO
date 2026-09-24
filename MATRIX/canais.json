@@ -19,14 +19,19 @@
       "nome": "Esportes",
       "canais": [
         {
-          "nome": "Esporte Exemplo",
-          "imagem": "https://SEU-SITE/logos/esporte.png",
-          "embed": "https://SEU-PLAYER/embed/esporte"
+          "nome": "ESPN 1 HD1",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "//w7.embedtv.lat/espn"
         },
         {
-          "nome": "Esporte Direto",
-          "imagem": "https://SEU-SITE/logos/esporte2.png",
-          "stream": "https://SEU-SERVIDOR/esporte2/index.m3u8"
+          "nome": "ESPN 1 HD2",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "stream": "https://embedcanaisdetv.xyz/e/index.php?canal=espn"
+        },
+        {
+          "nome": "ESPN 1 HD3",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "stream": "https://sinalpublicoetv.vercel.app/?id=espn"
         }
       ]
     },
