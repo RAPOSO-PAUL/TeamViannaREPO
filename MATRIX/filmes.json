@@ -4,6 +4,7 @@
       "tmdb_id": 1540987,
       "type": "movie",
       "added_at": "2026-09-25",
+      "colect": ["Nacionais/Drama Politico", "Diversão/Caos Social"],
       "sources": [
         { 
           "name": "PLAYER 1", 
