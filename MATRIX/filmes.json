@@ -1503,6 +1503,14 @@
           "embed": "https://redeflixapi.store/filme/771"
         },
         {
+          "name": "PLAYER 3",
+          "embed": "https://myembed.biz/filme/771"
+        },
+        {
+          "name": "PLAYER 4",
+          "embed": "https://embed-api.clickhost.xyz/embed/filme/771"
+        }
+        {
           "name": "DUBLADO 720p",
           "magnet": "magnet:?xt=urn:btih:0847FB31D73B651ADA33252A1A340518AC580B2B"
         },
