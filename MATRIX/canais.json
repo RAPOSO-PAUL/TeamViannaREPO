@@ -19,19 +19,14 @@
       "nome": "Esportes",
       "canais": [
         {
-          "nome": "ESPN 1 HD1",
+          "nome": "ESPN 1 HD",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/espn/"
         },
         {
-          "nome": "ESPN 1 HD2",
-          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "stream": "https://1709.cdnembedcanais.xyz/espn/"
-        },
-        {
-          "nome": "ESPN 1 HD3",
-          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "stream": "https://1709.cdnembedcanais.xyz/espn/"
+          "nome": "ESPN 2 HD",
+          "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
+          "stream": "https://1709.cdnembedcanais.xyz/espn2/"
         }
       ]
     },
