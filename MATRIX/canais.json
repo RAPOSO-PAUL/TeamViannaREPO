@@ -4,9 +4,9 @@
       "nome": "Abertos",
       "canais": [
         {
-          "nome": "Cn11",
+          "nome": "C11",
           "imagem": "https://SEU-SITE/logos/canal1.png",
-          "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
+          "embed": "<iframe src=\"https://superflixapi.quest/canal/ae\" allowfullscreen></iframe>"
         },
         {
           "nome": "Cn22",
