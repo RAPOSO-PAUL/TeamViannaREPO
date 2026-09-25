@@ -4,9 +4,9 @@
       "nome": "Abertos",
       "canais": [
         {
-          "nome": "C11",
+          "nome": "C33",
           "imagem": "https://SEU-SITE/logos/canal1.png",
-          "embed": "<iframe src=\"https://superflixapi.quest/canal/ae\" allowfullscreen></iframe>"
+          "embed": "https://rdcanais.net/premiereclubes"
         },
         {
           "nome": "Cn22",
