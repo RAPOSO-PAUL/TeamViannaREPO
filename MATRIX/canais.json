@@ -27,6 +27,11 @@
           "nome": "ESPN 2 HD",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
           "stream": "https://1709.cdnembedcanais.xyz/espn2/"
+        },
+        {
+          "nome": "ESPN 3 HD",
+          "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
+          "stream": "https://1709.cdnembedcanais.xyz/espn3/"
         }
       ]
     },
