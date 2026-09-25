@@ -1,6 +1,34 @@
 {
   "movies": [
     {
+      "tmdb_id": 1540987,
+      "type": "movie",
+      "added_at": "2026-09-25",
+      "sources": [
+        { 
+          "name": "PLAYER 1", 
+          "embed": "https://mgeb.top/embed/1540987" 
+        },
+        { 
+          "name": "PLAYER 2", 
+          "embed": "https://redeflixapi.store/filme/1540987" 
+        },
+        { 
+          "name": "PLAYER 3", 
+          "embed": "https://myembed.biz/filme/1540987" 
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p",
+          "magnet": "magnet:?xt=urn:btih:saqonlbvypw7zzlwr2iadctywgsgkg4b&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-NACIONAL-.A.Conspiracao.Condor.2026.1080p.WEB-DL.x264.NACIONAL.5.1"
+        },
+        {
+          "name": "DUAL ÁUDIO 1080p 2",
+          "magnet": "magnet:?xt=urn:btih:c0cef5e59fc68c9530c5b4b829ca30d2122a5e17&dn=A.Conspiracao.Condor.2026.1080p.WEB-DL.x264.NACiONAL.5.1&xl=2822011690&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
+        }
+      ],
+      "youtube": "yiVpg65vspM"
+    },
+    {
       "tmdb_id": 1514863,
       "type": "movie",
       "added_at": "2026-09-23",
