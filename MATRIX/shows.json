@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 247718,
+      "type": "tv",
+      "provider": ["Apple TV+", "Prime Video", "Paramount+"],
+      "added_at": "2026-09-26"
+    },
+    {
       "tmdb_id": 299939,
       "type": "tv",
       "provider": "Netflix",
