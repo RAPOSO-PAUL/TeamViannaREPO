@@ -1,1558 +1,1139 @@
+{"movies":[
 {
-  "movies": [
-    {
-      "tmdb_id": 1540987,
-      "type": "movie",
-      "added_at": "2026-09-25",
-      "colect": ["Nacionais/Drama Politico", "Diversão/Caos Social"],
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1540987" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1540987" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1540987" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:saqonlbvypw7zzlwr2iadctywgsgkg4b&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-NACIONAL-.A.Conspiracao.Condor.2026.1080p.WEB-DL.x264.NACIONAL.5.1"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:c0cef5e59fc68c9530c5b4b829ca30d2122a5e17&dn=A.Conspiracao.Condor.2026.1080p.WEB-DL.x264.NACiONAL.5.1&xl=2822011690&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
-        }
-      ],
-      "youtube": "yiVpg65vspM"
-    },
-    {
-      "tmdb_id": 1514863,
-      "type": "movie",
-      "added_at": "2026-09-23",
-      "colect": "Diversão/Caos Social",
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1514863" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1514863" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1514863" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:06ea0cd5fc2ac8feff85dbcb03c76a173e13f2c4&xl=2414860165&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Conforme+a+M%C3%BAsica+2026+WEB-DL+1080p+x264+DUAL+5.1"
-        }
-      ],
-      "youtube": "et4kC7zPGbQ"
-    },
-    {
-      "tmdb_id": 1240889,
-      "type": "movie",
-      "added_at": "2026-09-22",
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1240889" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1240889" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1240889" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:def7b4425dbdbd74c06b445e25ba8fe8bb8cf4dd"
-        }
-      ],
-      "youtube": "ol6BIre1lPo"
-    },
-    {
-      "tmdb_id": 1451944,
-      "type": "movie",
-      "added_at": "2026-09-21",
-      "colect": ["Humanidade/Amor Proibido", "Romance/Caso"],
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1451944" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1451944" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1451944" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:32f7cdd612672babf9266a5e8a751f6febdef371"
-        }
-      ],
-      "youtube": "PhNJ34l5NFo"
-    },
-    {
-      "tmdb_id": 1214361,
-      "type": "movie",
-      "added_at": "2026-09-20",
-      "colect": "Bangue-Bangue/Vingança Pessoal",
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1214361" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1214361" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1214361" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:992938ec0ed3c5343a6546ed21e3790b370fd790"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:3ejqa5yfpywctej2wnwu2vjiv4fyyu75"
-        }
-      ],
-      "youtube": "K7ESKuuh9_M"
-    },
-    {
-      "tmdb_id": 1641629,
-      "type": "movie",
-      "added_at": "2026-09-19",
-      "colect": ["Romance/Paixão", "Humanidade/Amor Proibido"],
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1641629" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1641629" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1641629" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:33lptu55ehjespamqetdg6v2d7uraqfo"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:e5efeeb493378b9204a9566fe5af0155af2353c6"
-        }
-      ],
-      "youtube": "ntIM30QpDgc"
-    },
-    {
-      "tmdb_id": 1542309,
-      "type": "movie",
-      "added_at": "2026-09-18",
-      "colect": "Humanidade/Separação Amorosa",
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1542309" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1542309" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:zsxba3n553w3uzj7nsdotgg7cfiutwmk"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:86cf8a06579abfae1f40a61695d9afef2f11cdf5"
-        }
-      ],
-      "youtube": "vBYL0nAm1LE"
-    },
-    {
-      "tmdb_id": 1323244,
-      "type": "movie",
-      "added_at": "2026-09-17",
-      "colect": "Sci-FI/Vida Extraterrestre",
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://redeflixapi.store/filme/1323244" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:aaq2qgcgshoi3lzrixybecmluatceamk"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:613b522f170bcb1d3260a7ab58e751441da75ec0"
-        }
-      ],
-      "youtube": "ZtcTglcDq04"
-    },
-    {
-      "tmdb_id": 1444249,
-      "type": "movie",
-      "added_at": "2026-09-16",
-      "magnet": "magnet:?xt=urn:btih:7cfoc7xog7x6yohgbnpoia355doepjt7",
-      "embed": "https://redeflixapi.store/filme/1444249",
-      "youtube": "lhqX_FZmbhI"
-    },
-    {
-      "tmdb_id": 1596335,
-      "type": "movie",
-      "added_at": "2026-09-15",
-      "colect": "Tecnologia/IA", 
-      "magnet": "magnet:?xt=urn:btih:3a0d34c655e37a22c92db6ef1bed84b0a67bcd23",
-      "embed": "https://redeflixapi.store/filme/1596335",
-      "youtube": "xkPbV3IRe4Y"
-    },
-    {
-      "tmdb_id": 1440098,
-      "type": "movie",
-      "added_at": "2026-09-14",
-      "colect": "Romance/Paixão",
-      "magnet": "magnet:?xt=urn:btih:6b525875f3582d105ba1c602bb2bcb4e28d99dbd",
-      "embed": "https://redeflixapi.store/filme/1440098",
-      "youtube": "aGJkwKC5NgI"
-    },
-    {
-      "tmdb_id": 9012,
-      "type": "movie",
-      "added_at": "2026-09-14",
-      "colect": "Diversão/Gente Atrapalhada",
-      "stream_url": "https://archive.org/download/j-ck-55-c-r-d-3-p-v-2002/J%40CK%4055%20C%40R%40%20D3%20P%40V%202002.mkv",
-      "youtube": "LWWG1eKmylY"
-    },
-    {
-      "tmdb_id": 1101383,
-      "type": "movie",
-      "added_at": "2026-09-14",
-      "colect": "Animais/Dinossauros",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:f6c458752d180c26e84bd35f39fc8b21280aab30"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:ikk43fvszjnokvjmkvggtxu76nmjttss"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:7gnzcni5uory4vx5hbp665jgsh7r24kq"
-        }
-      ],
-      "youtube": "NtVXvlgaIUQ"
-    },
-    {
-      "tmdb_id": 1412598,
-      "type": "movie",
-      "added_at": "2026-09-13",
-      "colect": "Animais/Baleias",
-      "magnet": "magnet:?xt=urn:btih:6wn4rnpponnptefmdbdmcohyrqcu5tlj",
-      "youtube": "vS3H4mjOddk"
-    },
-    {
-      "tmdb_id": 1617852,
-      "type": "movie",
-      "added_at": "2026-09-12",
-      "colect": "Automóveis/Corridas Velozes",
-      "magnet": "magnet:?xt=urn:btih:kysrvyyzmciw47ejfvqa27k76ipriiav",
-      "youtube": "gYNN552vu9M"
-    },
-    {
-      "tmdb_id": 1185806,
-      "type": "movie",
-      "added_at": "2026-09-12",
-      "kids": ["Prezinhos", "Aborrecentes"],
-      "magnet": "magnet:?xt=urn:btih:cp4gcq56njskzdjv6l7ina3nubesfdlz",
-      "youtube": "BID0gu1ROD8"
-    },
-    {
-      "tmdb_id": 1522689,
-      "type": "movie",
-      "added_at": "2026-09-11",
-      "colect": ["Diversão/Caos Social", "Romance/Amor"],
-      "magnet": "magnet:?xt=urn:btih:udusx2fauprxcswuw7mcttgtobl66dwn",
-      "youtube": "VylsOZBYxQA"
-    },
-    {
-      "tmdb_id": 1739206,
-      "type": "movie",
-      "added_at": "2026-09-08",
-      "magnet": "magnet:?xt=urn:btih:fynfun7qh2s7vmvacy2tmmontzhp2erg",
-      "youtube": "Txk5C-452ak"
-    },
-    {
-      "tmdb_id": 1765147,
-      "type": "movie",
-      "added_at": "2026-09-08",
-      "colect": ["Tecnologia/IA", "Humanidade/Opressão Politica"],
-      "magnet": "magnet:?xt=urn:btih:4ruwtfonym7gw44fitav3ew4mfzeh4na",
-      "youtube": "fi5HQ415uFQ"
-    },
-    {
-      "tmdb_id": 1542812,
-      "type": "movie",
-      "added_at": "2026-09-07",
-      "magnet": "magnet:?xt=urn:btih:ugcjag6jhiqx34b25hrrnvyg35sqmuqd",
-      "youtube": "jEWLhdFqG3Y"
-    },
-    {
-      "tmdb_id": 1536559,
-      "type": "movie",
-      "added_at": "2026-09-06",
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1536559" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1536559" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1536559" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:d3ffbdc8cf7b62e489b9935e3d376640180b7994&dn=Felicidade%20em%20Dobro.2026.1080p.WEB-DL.x264.DUAL.5.1&xl=3408102673&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:wz726eqnpsjflb24yxle262v7y26bbrg&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Felicidade+em+Dobro.2026.1080p.WEB-DL.x264.DUAL.5.1"
-        }
-      ],
-      "youtube": "_gNBA6wW034"
-    },
-    {
-      "tmdb_id": 1760262,
-      "type": "movie",
-      "added_at": "2026-09-06",
-      "magnet": "magnet:?xt=urn:btih:gjagwic5x5l5bhpostjyztbglkzmzpxx",
-      "youtube": "ADVTbb54abA"
-    },
-    {
-      "tmdb_id": 1517123,
-      "type": "movie",
-      "added_at": "2026-09-05",
-      "colect": "Humanidade/Crise Existencial",
-      "magnet": "magnet:?xt=urn:btih:kw2pdiln4vo734jurephp426popzmu36",
-      "youtube": "92gV-ObLHos"
-    },
-    {
-      "tmdb_id": 1137844,
-      "type": "movie",
-      "added_at": "2026-09-05",
-      "colect": ["Policiais/Agentes", "Diversão/Tipos Opostos"],
-      "magnet": "magnet:?xt=urn:btih:p47sjvc54ivbgcfuk3reejcyozqp2s3z",
-      "youtube": "T3tPGyeq94s"
-    },
-    {
-      "tmdb_id": 1355228,
-      "type": "movie",
-      "added_at": "2026-09-04",
-      "sources": [
-        { 
-          "name": "PLAYER 1", 
-          "embed": "https://mgeb.top/embed/1355228" 
-        },
-        { 
-          "name": "PLAYER 2", 
-          "embed": "https://redeflixapi.store/filme/1355228" 
-        },
-        { 
-          "name": "PLAYER 3", 
-          "embed": "https://myembed.biz/filme/1355228" 
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:e50a429e8b8eb3e98604e3f714817b1f6a5ad009&dn=Gandhari%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2503208326&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"
-        }
-      ],
-      "youtube": "TRyBiPD1bUc"
-    },
-    {
-      "tmdb_id": 1752159,
-      "type": "movie",
-      "added_at": "2026-09-03",
-      "colect": "Humanidade/Trauma Guerra",
-      "magnet": "magnet:?xt=urn:btih:ykqqo7tbsnysdo6zmgh6qt6uxpxcylqx",
-      "youtube": "1epklvnxATo"
-    },
-    {
-      "tmdb_id": 1731694,
-      "type": "movie",
-      "added_at": "2026-09-03",
-      "kids": ["Chefinhos", "Prezinhos", "Aborrecentes"],
-      "magnet": "magnet:?xt=urn:btih:l5sxcig22dohrffylype3a5d7swymcdc",
-      "youtube": "8hG7HVOo8lM"
-    },
-    {
-      "tmdb_id": 1228710,
-      "type": "movie",
-      "added_at": "2026-09-02",
-      "colect": ["Sci-FI/Exploração Espacial", "Se Aventurar/Resgate Arriscado"],
-      "sources": [
-        {
-          "name": "DUBLADO 1080p",
-          "magnet": "magnet:?xt=urn:btih:xecumnms6igxdvvocbovnvzi7qbjqn3v"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:vlaxvsoplmxsg5rsr3kdqun3kipb2lu3"
-        }
-      ],
-      "youtube": "is_YTQeLo5w"
-    },
-    {
-      "tmdb_id": 156022,
-      "type": "movie",
-      "added_at": "2026-09-01",
-      "colect": "Policiais/Agentes",
-      "sources": [
-        {
-          "name": "DUBLADO 1080p",
-          "magnet": "magnet:?xt=urn:btih:0549DA92DC3AF0352F4701AEC449B959A655D4FF"
-        },
-        {
-          "name": "DUAL ÁUDIO 4k",
-          "magnet": "magnet:?xt=urn:btih:0B15E4FE416C1717F5CDFEA47FBCC07F6E384D23"
-        }
-      ],
-      "youtube": "SLhhP7iknf8"
-    },
-    {
-      "tmdb_id": 293660,
-      "type": "movie",
-      "added_at": "2026-09-01",
-      "colect": "Heróis/Marvel/Deadpool",
-      "sources": [
-        {
-          "name": "DUBLADO 1080p",
-          "magnet": "magnet:?xt=urn:btih:1A257E0FD066408D7C3D67DB5E7A9ABB8239D10A"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:44147456D5AAD8C0C026EA0B0EC2F54EC59D8C8F"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p IMAX",
-          "magnet": "magnet:?xt=urn:btih:2AA5F34B8E73A7BDF34AEFDE9A4F24559FAB8A29"
-        },
-        {
-          "name": "DUAL ÁUDIO 4k",
-          "magnet": "magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756"
-        }
-      ],
-      "youtube": "Q9X-bAE8KTc"
-    },
-    {
-      "tmdb_id": 1530941,
-      "type": "movie",
-      "added_at": "2026-09-01",
-      "kids": "Aborrecentes",
-      "magnet": "magnet:?xt=urn:btih:cnedljfogoce4epwnj56ljke6bzvnicv",
-      "youtube": "t_VrBTGerUM"
-    },
-    {
-      "tmdb_id": 868668,
-      "type": "movie",
-      "added_at": "2026-09-01",
-      "colect": "Policiais/Delegado",
-      "magnet": "magnet:?xt=urn:btih:gurwgxjbkss4k526ycmodn2glfju3wja",
-      "youtube": "c57kmLagsqE"
-    },
-    {
-      "tmdb_id": 1550338,
-      "type": "movie",
-      "added_at": "2026-09-01",
-      "colect": ["Humanidade/Amor Proibido", "Romance/Paixão"],
-      "magnet": "magnet:?xt=urn:btih:yhkwo7twewikn3ky4plirr3zeiztshur",
-      "youtube": "j_R7Ny6hrNw"
-    },
-    {
-      "tmdb_id": 1232667,
-      "type": "movie",
-      "added_at": "2026-08-31",
-      "magnet": "magnet:?xt=urn:btih:lvrkksqqacrauaoemypxhgzxldcvjt4u",
-      "colect": "Humanidade/Separação Amorosa",
-      "youtube": "qriWSK376U0"
-    },
-    {
-      "tmdb_id": 383498,
-      "type": "movie",
-      "added_at": "2026-08-30",
-      "colect": "Heróis/Marvel/Deadpool",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 720p Sem Cortes",
-          "magnet": "magnet:?xt=urn:btih:8E78794BBCDA1CE81EEB99AFF5762CD9C72159DA&dn=%5bFILMES%20SEMPRE%20ANTES%20NO%20COMANDOTORRENTS.COM%5d%20Deadpool.2.2018.UNRATED.720p.BluRay.x264-DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Sem Cortes",
-          "magnet": "magnet:?xt=urn:btih:ACB0A24D065D14B8A7FE9C4814B76329DE2F9751&dn="
-        },
-        {
-          "name": "DUBLADO 720p",
-          "magnet": "magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%28720p%29%20DUBLADO%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"
-        },
-        {
-          "name": "DUBLADO 720p 2",
-          "magnet": "magnet:?xt=urn:btih:ED8BD73A46ED4E7F794E739F915232CA5BD53470&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%28720p%29%20%5bSEM%20CORTES%5d%20DUBLADO%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"
-        },
-        {
-          "name": "DUBLADO 1080p",
-          "magnet": "magnet:?xt=urn:btih:D73B9E510ED00DC0066B20F4CC7DBEE5FB5A856D&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%281080p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"
-        },
-        {
-          "name": "DUBLADO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:9618edc489b904714279a07c50a77d780885528a&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%281080p%29%20%5bSEM%20CORTES%5d%20DUBLADO%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"
-        },
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:C91DDB5653219F6F1D11D09726317BB7ADBEE65A&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"
-        },
-        {
-          "name": "DUAL ÁUDIO 720p 2",
-          "magnet": "magnet:?xt=urn:btih:C8958BFB4F9EFEB8C7D5C4FDBAE075C9248F9578&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%28720p%29%20%5bSEM%20CORTES%5d%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:FB3138C1CA8EDDEE036DDE5917E5B4A90EFEE967&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:DDED34CF7CB0AB2A1692C1A6940DBE1333F31F3E&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%281080p%29%20%5bSEM%20CORTES%5d%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"
-        }
-      ],
-      "youtube": "1P9OzWX6nzE"
-    },
-    {
-      "tmdb_id": 860508,
-      "type": "movie",
-      "added_at": "2026-08-30",
-      "colect": "Policiais/Detetive",
-      "magnet": "magnet:?xt=urn:btih:meznuo5hncgcipnitdjzbsirblvl7auc",
-      "youtube": "dmjvv0PiFTY"
-    },
-    {
-      "tmdb_id": 1631807,
-      "type": "movie",
-      "added_at": "2026-08-29",
-      "colect": "Humanidade/Segredos Familiares",
-      "magnet": "magnet:?xt=urn:btih:gdb2xiizbenwjsnizu3bmooaeoc4rs4s",
-      "youtube": "w0Qa4OG_DVg"
-    },
-    {
-      "tmdb_id": 1272129,
-      "type": "movie",
-      "added_at": "2026-08-29",
-      "colect": ["Nacionais/Crime Policial", "Humanidade/Ambição Cega"],
-      "magnet": "magnet:?xt=urn:btih:ut2qmxvydmtj42bgh7v3la4xxqpj5dfy",
-      "youtube": "Es8kC3eUwcg"
-    },
-    {
-      "tmdb_id": 1679730,
-      "type": "movie",
-      "added_at": "2026-08-28",
-      "kids": "Aborrecentes",
-      "magnet": "magnet:?xt=urn:btih:988fa6e6cbe0adccf4349aaa45e2a9484f695be2",
-      "youtube": "bqolKuBoPgs"
-    },
-    {
-      "tmdb_id": 1368576,
-      "type": "movie",
-      "added_at": "2026-08-28",
-      "colect": ["Diversão/Mundo Absurdo", "Nacionais/Comédia Popular"],
-      "magnet": "magnet:?xt=urn:btih:f52s2ti2u3hshi5rc3uhjylqvbbs3mgh",
-      "youtube": "acQUA0-fQX0"
-    },
-    {
-      "tmdb_id": 950028,
-      "type": "movie",
-      "added_at": "2026-08-27",
-      "colect": "Diversão/Caos Social",
-      "magnet": "magnet:?xt=urn:btih:xnnhhj2sxf555ey5et7yi4t55rdit2bt",
-      "youtube": "KgumVttTINA"
-    },
-    {
-      "tmdb_id": 1729723,
-      "type": "movie",
-      "added_at": "2026-08-26",
-      "kids": "Aborrecentes",
-      "magnet": "magnet:?xt=urn:btih:xhkkowx7ou7ecwpodprqf65q4bk6em2k",
-      "youtube": "zNyZ6OlMbh0"
-    },
-    {
-      "tmdb_id": 1516698,
-      "type": "movie",
-      "added_at": "2026-08-26",
-      "colect": "Romance/Paixão",
-      "magnet": "magnet:?xt=urn:btih:43nzyodgqir4nc35c3oi3nshzbzjmigj",
-      "youtube": "mvRvODivXs4"
-    },
-    {
-      "tmdb_id": 627725,
-      "type": "movie",
-      "added_at": "2026-08-25",
-      "colect": "Humanidade/Preconceito Social",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:5c0d2ce5a6a183429ba96ac3af9c23f05fe99878"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:8102688088d98186129b0e6acf10355815345e7f"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:ee020387172e1828841cd71afe39737ded162e93"
-        }
-      ],
-      "youtube": "DyoYJWJL4I4"
-    },
-    {
-      "tmdb_id": 1740877,
-      "type": "movie",
-      "added_at": "2026-08-25",
-      "kids": ["Chefinhos", "Prezinhos", "Aborrecentes"],
-      "magnet": "magnet:?xt=urn:btih:5clqz62asro5nsul5c6dqit3renz5ars",
-      "youtube": "ZbwdqiomnKU"
-    },
-    {
-      "tmdb_id": 1432241,
-      "type": "movie",
-      "added_at": "2026-08-25",
-      "colect": ["Psicológico/Dor da Perda", "Nacionais/Crime Policial"],
-      "magnet": "magnet:?xt=urn:btih:xiqntmzlvbxd7hyjeoql43ciij5f4dln",
-      "youtube": "sYYyf-NTMR8"
-    },
-    {
-      "tmdb_id": 7443,
-      "type": "movie",
-      "added_at": "2026-08-24",
-      "kids": ["Chefinhos", "Prezinhos", "Aborrecentes"],
-      "sources": [
-        {
-          "name": "DUBLADO 720p",
-          "magnet": "magnet:?xt=urn:btih:bcfc62a889de5235c4dbc6b49eefdf6f1c4e845f"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:3F4720F8C02F58B856F93F3305480341B37CF7EF"
-        }
-      ],
-      "youtube": "Vfirqr2Gt44"
-    },
-    {
-      "tmdb_id": 1698575,
-      "type": "movie",
-      "added_at": "2026-08-24",
-      "kids": ["Chefinhos", "Prezinhos"],
-      "magnet": "magnet:?xt=urn:btih:b6m54tqsz6fbfizohczeq4jclbg73edz",
-      "youtube": "A-NQmpNsZIc"
-    },
-    {
-      "tmdb_id": 1245859,
-      "type": "movie",
-      "added_at": "2026-08-24",
-      "colect": ["Humanidade/Segredos Familiares", "Diversão/Caos Social"],
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:52gxqfhvsn5hnmluy2665kzpg5v3q2uv"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:tyserlbnuvd6hahfxttxf4umqywfxxus"
-        }
-      ],
-      "youtube": "dB9HuMcaEGM"
-    },
-    {
-      "tmdb_id": 1517794,
-      "type": "movie",
-      "added_at": "2026-08-23",
-      "colect": ["Diversão/Mundo Absurdo", "Nacionais/Comédia Popular"],
-      "magnet": "magnet:?xt=urn:btih:aiegh3jnyubkmhvxvxf4ueohkg7flkyj",
-      "youtube": "CBXl658jiEU"
-    },
-    {
-      "tmdb_id": 49046,
-      "type": "movie",
-      "added_at": "2026-08-23",
-      "colect": "Confrontos/Inocência Perdida",
-      "stream_url": "https://archive.org/download/n-d-d-3-n-0-v-0-n-0-fr-0-nt-2022/N%40D%40%20D3%20N0V0%20N0%20FR0NT%202022.mkv",
-      "youtube": "vwbySrsD7RU"
-    },
-    {
-      "tmdb_id": 964849,
-      "type": "movie",
-      "added_at": "2026-08-22",
-      "magnet": "magnet:?xt=urn:btih:18177b66b06eda35bd0685e8000aae2ee7416293",
-      "youtube": "dWePsu_Kd9c"
-    },
-    {
-      "tmdb_id": 1314829,
-      "type": "movie",
-      "added_at": "2026-08-22",
-      "magnet": "magnet:?xt=urn:btih:wwmss6k2sx4i2xds3q6hz2farw6xr7qq",
-      "youtube": "5bbHz-gE-7s"
-    },
-    {
-      "tmdb_id": 1676318,
-      "type": "movie",
-      "added_at": "2026-08-22",
-      "colect": "Diversão/Lugar Errado",
-      "magnet": "magnet:?xt=urn:btih:fjjx4rwhhrulm6c4b7etagajhsxbdqb7",
-      "youtube": "3aXsH9DaRAs"
-    },
-    {
-      "tmdb_id": 549294,
-      "type": "movie",
-      "added_at": "2026-08-21",
-      "colect": "Médicos/Emergências Extremas",
-      "stream_url": "https://archive.org/download/51-ncr-0-n-1-c-2020/51NCR0N1C%40%202020.mkv",
-      "youtube": "bw4XssTHPDE"
-    },
-    {
-      "tmdb_id": 520758,
-      "type": "movie",
-      "added_at": "2026-08-21",
-      "kids": ["Chefinhos", "Prezinhos"],
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:06b24d5497c2d30cd25e395e45dc2a0178e85e81"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE"
-        }
-      ],
-      "youtube": "oxYQb-WxPPk"
-    },
-    {
-      "tmdb_id": 1621552,
-      "type": "movie",
-      "added_at": "2026-08-21",
-      "colect": "Policiais/Patrulheiro",
-      "magnet": "magnet:?xt=urn:btih:f89aa3990250443a87f6d0ef251d2410adceee4a",
-      "youtube": "AooER0ClYtM"
-    },
-    {
-      "tmdb_id": 1538273,
-      "type": "movie",
-      "added_at": "2026-08-21",
-      "colect": "Romance/Amor",
-      "magnet": "magnet:?xt=urn:btih:8baf529f5d87af5ebd93f384b7a2a953b1f83c89",
-      "youtube": "n65bXlvrHlo"
-    },
-    {
-      "tmdb_id": 1771,
-      "type": "movie",
-      "added_at": "2026-08-21",
-      "colect": "Heróis/Marvel/Capitão América",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:2fef3e8fa4dac082f9699fa30cdd063cc0ba9840"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:96238b20df0e1fc9f5af462c530c1f98570a6d78"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:98336E3D13510A3A930F648CCB7259307008ACD4"
-        }
-      ],
-      "youtube": "Hjrvns4AFaM"
-    },
-    {
-      "tmdb_id": 775996,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "colect": "Tecnologia/Humanoide",
-      "stream_url": "https://archive.org/download/z-0-n-d-3-c-0-mb-t-3-2021/Z0N%40%20D3%20C0MB%40T3%202021.mkv",
-      "youtube": "71QFeMSE3qU"
-    },
-    {
-      "tmdb_id": 1241982,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "kids": ["Chefinhos", "Prezinhos"],
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:04251bec1182aae17d885b85c6fa862f53286d71"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:6b105d6f0ecf78965b32c06e2e525ce1f2d972ca"
-        }
-      ],
-      "youtube": "lqMJQa3JhZU"
-    },
-    {
-      "tmdb_id": 1741201,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "colect": "Desaparecimento/Criança Desaparecida",
-      "magnet": "magnet:?xt=urn:btih:c29c05ea84f7736d0181eb171831984660b33bec",
-      "youtube": "TGs8Fk13kHE"
-    },
-    {
-      "tmdb_id": 100402,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "colect": "Heróis/Marvel/Capitão América",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:399A8E539FBD01ABC40F5F5F6EDA0B87ECB694A0"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:F84FAA636687E86D2F0CC13019BF602706A329A4"
-        }
-      ],
-      "youtube": "Fl89Ym_fQJc"
-    },
-    {
-      "tmdb_id": 520663,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "colect": "Psicológico/Medo de Sair",
-      "magnet": "magnet:?xt=urn:btih:12794b9a6ced473c18c68a55c8ab5aa8c8d317bc",
-      "youtube": "NO78X9Eyvz0"
-    },
-    {
-      "tmdb_id": 1419406,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "colect": "Policiais/Agentes",
-      "magnet": "magnet:?xt=urn:btih:w54zvfqpbaoyl727ov2jkqzvac45zp2j",
-      "youtube": "V2CKdq2PCfo"
-    },
-    {
-      "tmdb_id": 1515615,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "colect": "Romance/Flerte",
-      "magnet": "magnet:?xt=urn:btih:knnlcel65pd4viay4komejy3kebg3zi3",
-      "youtube": "ffziyye1pVM"
-    },
-    {
-      "tmdb_id": 13655,
-      "type": "movie",
-      "added_at": "2026-08-20",
-      "colect": "Musicais/Pop e Contemporâneo",
-      "stream_url": "https://archive.org/download/cm-p-rck-2008/C%40mP%20R%40ck%202008.mkv",
-      "youtube": "HWIPotoqOQ8"
-    },
-    {
-      "tmdb_id": 852096,
-      "type": "movie",
-      "added_at": "2026-08-19",
-      "colect": "Fantasmas/Comédia e Convivência",
-      "stream_url": "https://archive.org/download/f-nt-5-m-3-c-1-2023/F%40NT%405M%40%203%20C1%40%202023.mkv",
-      "youtube": "ThEGodpRQLA"
-    },
-    {
-      "tmdb_id": 1741207,
-      "type": "movie",
-      "added_at": "2026-08-19",
-      "colect": "Animais/Tubarões",
-      "magnet": "magnet:?xt=urn:btih:skdookkdtdsmy25w6u7zhual7je7j73o",
-      "youtube": "fWJ0vthVsOo"
-    },
-    {
-      "tmdb_id": 1418582,
-      "type": "movie",
-      "added_at": "2026-08-19",
-      "colect": "Nacionais/LGBTQ+",
-      "magnet": "magnet:?xt=urn:btih:uikt7zmshxt76wlg3s7tuekn5dyyj643",
-      "youtube": "PTV943jBbPc"
-    },
-    {
-      "tmdb_id": 271110,
-      "type": "movie",
-      "added_at": "2026-08-19",
-      "colect": "Heróis/Marvel/Capitão América",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:DA9989B71DCCC1EBA4626C3BB7E852E93830B448"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:17895FCFDE4CE0B063A30BB6EC06E92A556920CF"
-        }
-      ],
-      "youtube": "eLAFMkLnf3M"
-    },
-    {
-      "tmdb_id": 1035048,
-      "type": "movie",
-      "added_at": "2026-08-19",
-      "colect": "Aliens/Sobrevivência",
-      "magnet": "magnet:?xt=urn:btih:CE122615364B67F8D7EFBDF59D873C0129403DC2",
-      "youtube": "TVX0OQkfzxM"
-    },
-    {
-      "tmdb_id": 1688804,
-      "type": "movie",
-      "added_at": "2026-08-19",
-      "magnet": "magnet:?xt=urn:btih:6bnruwaf6ch3uukwp2mkuvzyxr4ckdls",
-      "youtube": "wNK6aBUCdgw"
-    },
-    {
-      "tmdb_id": 44244,
-      "type": "movie",
-      "added_at": "2026-08-18",
-      "colect": "Musicais/Pop e Contemporâneo",
-      "stream_url": "https://archive.org/download/cm-p-r-0-ck-2-th-3-f-1-n-l-j-m-2010/C%40mP%20R0CK%202%20-%20TH3%20F1N%40L%20J%40M%202010.mkv",
-      "youtube": "YMHWuv-y8hY"
-    },
-    {
-      "tmdb_id": 777443,
-      "type": "movie",
-      "added_at": "2026-08-18",
-      "stream_url": "https://archive.org/download/35td-0-3l-3tr-1c-0-2025/35t%40d0%203l3tr1c0%202025.mkv",
-      "youtube": "8e8Er-W_XrQ"
-    },
-    {
-      "tmdb_id": 1616131,
-      "type": "movie",
-      "added_at": "2026-08-18",
-      "magnet": "magnet:?xt=urn:btih:xteyubwromq4svh6ustcbaumrs7awsbm",
-      "youtube": "8bggMB_AzEY"
-    },
-    {
-      "tmdb_id": 98566,
-      "type": "movie",
-      "added_at": "2026-08-18",
-      "colect": "Heróis/Independentes/Tartarugas Ninjas",
-      "stream_url": "https://archive.org/download/s-trtrvg-5-n-1nj-5-2014/%40s%20T%40rt%40rvg%405%20N1nj%405%202014.mkv",
-      "youtube": "KXHlcqkYgdw"
-    },
-    {
-      "tmdb_id": 308531,
-      "type": "movie",
-      "added_at": "2026-08-18",
-      "colect": "Heróis/Independentes/Tartarugas Ninjas",
-      "stream_url": "https://archive.org/download/5-t-rt-rvg-5-n-1-nj-f-0-r-d-5-50-mbr-5-2016/%405%20T%40RT%40RVG%405%20N1NJ%40%20-%20F0R%40%20D%405%2050MBR%405%202016.mkv",
-      "youtube": "aRpsXYLGSiQ"
-    },
-    {
-      "tmdb_id": 1632473,
-      "type": "movie",
-      "added_at": "2026-08-18",
-      "magnet": "magnet:?xt=urn:btih:eviimck3ai35kurao6gkvbpspqcxc4ta",
-      "youtube": "cj_Ep5zLA3k"
-    },
-    {
-      "tmdb_id": 533535,
-      "type": "movie",
-      "added_at": "2026-08-17",
-      "colect": ["Heróis/Marvel/Deadpool", "Heróis/Marvel/Wolverine"],
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:ef8c5693754b15e43958c10adea54057dc692949"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:f9bc58b28b3a497e76484c412120bb85bd4bdf70"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:1edf5fc1dc5776d4d4f8dcada6913f5762c2d6a4"
-        }
-      ],
-      "youtube": "dEbe0rS4Z2A"
-    },
-    {
-      "tmdb_id": 381237,
-      "type": "movie",
-      "added_at": "2026-08-17",
-      "stream_url": "https://archive.org/download/t-qv-3-d-05-zvmb-15-2018/%40T%40QV3%20D05%20ZVMB15%202018.mkv",
-      "youtube": "cUBcP1FYeow"
-    },
-    {
-      "tmdb_id": 1504358,
-      "type": "movie",
-      "added_at": "2026-08-17",
-      "magnet": "magnet:?xt=urn:btih:kxkbnzwhxi76hcv55744vi6fpkg5lm4d",
-      "youtube": "6KlZUkf6E-o"
-    },
-    {
-      "tmdb_id": 532893,
-      "type": "movie",
-      "added_at": "2026-08-17",
-      "stream_url": "https://archive.org/download/c-0-p-d-0-p-3-rv-2019/%40%20C0P%40%20D0%20P3RV%202019.mkv",
-      "youtube": "kT8W_9dLnMc"
-    },
-    {
-      "tmdb_id": 1588838,
-      "type": "movie",
-      "added_at": "2026-08-17",
-      "magnet": "magnet:?xt=urn:btih:ahcunc74u3mjigc3aahybhpkecaqo6bd",
-      "youtube": "vB0eS8X1wdQ"
-    },
-    {
-      "tmdb_id": 1493400,
-      "type": "movie",
-      "added_at": "2026-08-17",
-      "colect": "Musicais/Pop e Contemporâneo",
-      "magnet": "magnet:?xt=urn:btih:jduzlok65irlmxq577hk5i3vlziitkoy",
-      "youtube": "eND5wtAORPA"
-    },
-    {
-      "tmdb_id": 1589248,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "magnet": "magnet:?xt=urn:btih:kr5gyqegpm34riaamtsna4reoujtnusz",
-      "youtube": "Mv0MRQ-Gnb4"
-    },
-    {
-      "tmdb_id": 822119,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "colect": "Heróis/Marvel/Capitão América",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:8701d282701698e1b946ec4237442c5fd26802d7"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:312ac38ae69606cb5744857b385d62c21fd298f2"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:01a6042a07c8ee6b3c5898ff19fe2bbb8f0d2c54"
-        }
-      ],
-      "youtube": "U7JG6FMoEdM"
-    },
-    {
-      "tmdb_id": 608195,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "magnet": "magnet:?xt=urn:btih:0a3a5bc38599214b9634d02fa10f5903dd0673b0",
-      "youtube": "ualxsJ7n9iQ"
-    },
-    {
-      "tmdb_id": 1273221,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:d8639ec86c2792d81555a1fb700dba14f17f1a6b"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:28d79013405fe61066839cf5c8b86d7773993695"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:0e5f8ad5c40d967aa3720dc91d54b2f1a7da2e43"
-        }
-      ],
-      "youtube": "bO_APd0MNVU"
-    },
-    {
-      "tmdb_id": 1081003,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "colect": "Heróis/DC/Supergirl",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:tjlu5dng3o22xg452s2jbndartkunrw6"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:faa4325198afd0e4aed83136c38a0c22c18fe527"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:zcf5iv2sdqv5o5fzetq6n2b6hmtnbi6f"
-        }
-      ],
-      "youtube": "E5IwVlPYRxw"
-    },
-    {
-      "tmdb_id": 986056,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "colect": "Heróis/Marvel",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:a859468132819de4ddb481091df4a25c465337c8"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:73cfc505f7f1a9d2b34bbda599f0d80eee8c9a1d"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:a34e376ee36089e4283ef232bb12e5e1e5c8ab1a"
-        }
-      ],
-      "youtube": "MaLy0D2FTDc"
-    },
-    {
-      "tmdb_id": 385687,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:1e7e9bd3e8f97215db09d1224003bd9f5c787a41"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:79e132e41552216ab7080c43e9a1d3b8a6cd8899"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:adc7b6593438f69294aa6daf266a499d08da54c0"
-        }
-      ],
-      "youtube": "8k0epOQUfQk"
-    },
-    {
-      "tmdb_id": 1315772,
-      "type": "movie",
-      "added_at": "2026-08-16",
-      "kids": ["Prezinhos", "Aborrecentes"],
-      "magnet": "magnet:?xt=urn:btih:493e34f6a408d287687e848be27e1b8b333a7123",
-      "youtube": "yWeAPprMkH0"
-    },
-    {
-      "tmdb_id": 1439930,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "colect": "Heróis/Marvel/O Justiceiro",
-      "magnet": "magnet:?xt=urn:btih:2f1d92d7eb029d877fc214302e7ab001921752ad",
-      "youtube": "enwdRAR04fA"
-    },
-    {
-      "tmdb_id": 974036,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "stream_url": "https://archive.org/download/vm-v-1-d-d-3-35-p-3-r-nc-2024/VM%40%20V1D%40%20D3%2035P3R%40N%C3%87%40%202024.mkv",
-      "youtube": "I0-9Zr1rn-g"
-    },
-    {
-      "tmdb_id": 454639,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "colect": "Heróis/Independentes/He-man",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:hnw3gvi7ga62lmkzfkyw2f7xmeemsql6"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:m3erlplmryvehwmhuu5zlz3haa3yyghh"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:cb97bc2c85ab0e463b47214375699be15bd7c3e6"
-        }
-      ],
-      "youtube": "YLWDrS8qCiM"
-    },
-    {
-      "tmdb_id": 617126,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "colect": "Heróis/Marvel/Quarteto Fantastico",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:bee9fc2135c9789a47a68c2dce8fb5f3ae3944e0"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:ebc8952b505e3bb603583a2a75da421e42455ea3"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:d9b1e25dd2e8fbbe7f7b426b794a2752f52fe2eb"
-        }
-      ],
-      "youtube": "CcSIvhDlYWw"
-    },
-    {
-      "tmdb_id": 799583,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "magnet": "magnet:?xt=urn:btih:00f4c0a3e9738cbd4eb1c47f569ab68d892714e0",
-      "youtube": "qsSbWjn5pPI"
-    },
-    {
-      "tmdb_id": 1275779,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "colect": "Aliens/Primeiro Contato",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:s4b5psbgufpl62mcs7qhgjy6sf4ue3ym"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p 2",
-          "magnet": "magnet:?xt=urn:btih:owrza2yfcsftfbuuyo75jpzq6pw2elw2"
-        }
-      ],
-      "youtube": "3dFPgpyfpbQ"
-    },
-    {
-      "tmdb_id": 460465,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:3bf4c48df74c98a7947154775e05c179f17e43d5"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:2e08ac40c677ae831cb57de6b9479dc0560aa132"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:de94dd869c727f4a24b7840213e9de9fa1b623dd"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:54a48d164f856298036dae1ea6108950532eb4d0"
-        }
-      ],
-      "youtube": "4lEpxpZqhjc"
-    },
-    {
-      "tmdb_id": 1248226,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "magnet": "magnet:?xt=urn:btih:a3ed7ffb0c1456a00248b7e2215e3564aea196f1",
-      "youtube": "sR19_Acbukg"
-    },
-    {
-      "tmdb_id": 1325734,
-      "type": "movie",
-      "added_at": "2026-08-15",
-      "magnet": "magnet:?xt=urn:btih:0ad66c994b6fd13e2095c82530c1e0956e463ad3",
-      "youtube": "vU1Tpl3kVdA"
-    },
-    {
-      "tmdb_id": 502356,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "kids": "Prezinhos",
-      "colect": "Videogames/Super Mario",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:86164ce78973832d51e267450c9de523b25de60c"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:8a97e8e05b379e7b638d031928b80bcf0fa683e3"
-        }
-      ],
-      "youtube": "cDNkh5WybZo"
-    },
-    {
-      "tmdb_id": 933260,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:3385b59ea974f4d565981cb54557dbcab796aeca"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:508ad517d109885a6ab0d43cf568086a7d969dfc"
-        }
-      ],
-      "youtube": "VtKyVTnH_Bk"
-    },
-    {
-      "tmdb_id": 1226863,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "kids": "Prezinhos",
-      "colect": "Videogames/Super Mario",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:7b3b1a9778ea44ef45341f000656e0905cc79a92"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:dc6cc1b333f660917f1a8c4c1032620deca64af2"
-        }
-      ],
-      "youtube": "BYy278lrtNA"
-    },
-    {
-      "tmdb_id": 12094,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "stream_url": "https://hubby-dmca.com/movie/PlayTvOficial-vods/op3lQ6nP76/651182.mp4",
-      "youtube": "jMMosMUH00c"
-    },
-    {
-      "tmdb_id": 883954,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "stream_url": "https://archive.org/download/vm-35c-0lh-p-3l-v-1d-2025/vm%40%2035c0lh%40%20p3l%40%20v1d%40%202025.mkv",
-      "youtube": "G31JLZ7q13I"
-    },
-    {
-      "tmdb_id": 931285,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:a8857c6a50e3e12d33e9f3ba4640b7ca03682083"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:ca465fdd9e9ccfaf4556711bd200cb5f87e67e4e"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:1139c29d7ab84475603f21db1b36509acaae631f"
-        }
-      ],
-      "youtube": "89r0iPZC8Q8"
-    },
-    {
-      "tmdb_id": 656663,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "magnet": "magnet:?xt=urn:btih:6FMZTMWEGOMV4FOQFN5YPV65BDVIFIYG",
-      "youtube": "nS-0TwdHQfs"
-    },
-    {
-      "tmdb_id": 1130022,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "magnet": "magnet:?xt=urn:btih:0fc7236c610e4c64883a118b2caff2f9b3d1c42b",
-      "youtube": "C-mLL_25ZtA"
-    },
-    {
-      "tmdb_id": 687163,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:2a9c944880ed0656ac550c9de49745f9fd1d38da"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:2e37b607e10ef4800009f0f3ef402eed09f72557"
-        },
-        {
-          "name": "DUAL ÁUDIO 4K",
-          "magnet": "magnet:?xt=urn:btih:1883751f2f1cd150363902abafb74974917b89d0"
-        }
-      ],
-      "youtube": "uI1KofmBtYI"
-    },
-    {
-      "tmdb_id": 828853,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "stream_url": "https://hubby-dmca.com/movie/PlayTvOficial-vods/op3lQ6nP76/648082.mp4",
-      "youtube": "YcxGlLmtRyA"
-    },
-    {
-      "tmdb_id": 435,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "magnet": "magnet:?xt=urn:btih:d11e4656636bb19cbd812baa25ad64d9da204e7b",
-      "youtube": "DT3GzNdplJA"
-    },
-    {
-      "tmdb_id": 1308767,
-      "type": "movie",
-      "added_at": "2026-08-14",
-      "magnet": "magnet:?xt=urn:btih:c1e2f25307f26a3c52fe6390fddc2797dc838926",
-      "youtube": "O35R_CbXUrY"
-    },
-    {
-      "tmdb_id": 1265609,
-      "type": "movie",
-      "added_at": "2026-08-13",
-      "magnet": "magnet:?xt=urn:btih:27e947e57868b798139670f2b28c9927691cf3d7",
-      "youtube": "mBenb7O8Hnc"
-    },
-    {
-      "tmdb_id": 1612018,
-      "type": "movie",
-      "added_at": "2026-08-13",
-      "colect": "Diversão/Gente Atrapalhada",
-      "magnet": "magnet:?xt=urn:btih:4l2gm6wvrqtkh6s7la54edddsjoehzlg",
-      "youtube": "gLjnkoZuZQA"
-    },
-    {
-      "tmdb_id": 9714,
-      "type": "movie",
-      "added_at": "2026-08-13",
-      "stream_url": "https://archive.org/download/3-sqv-3-r-m-d-3-m-1-m-3-1997/3SQV3R%40M%20D3%20M1M%203%201997.mkv",
-      "youtube": "PP--dDh4axI"
-    },
-    {
-      "tmdb_id": 1279493,
-      "type": "movie",
-      "added_at": "2026-08-13",
-      "colect": "Ladrões/O Último Trabalho",
-      "magnet": "magnet:?xt=urn:btih:tc5hbvnhmmsz4svtq3ao45avbmfnu3k6",
-      "youtube": "oB6HNuKxLmo"
-    },
-    {
-      "tmdb_id": 1340206,
-      "type": "movie",
-      "added_at": "2026-08-13",
-      "colect": "Ladrões/O Grande Assalto",
-      "magnet": "magnet:?xt=urn:btih:y73s7sa7nhsgawisppzeijrwjkos57so",
-      "youtube": "ud5uGSPZGW8"
-    },
-    {
-      "tmdb_id": 772,
-      "type": "movie",
-      "added_at": "2026-08-12",
-      "sources": [
-        {
-          "name": "Dublado (Link-direto)",
-          "stream_url": "https://archive.org/download/35qv-3c-3rm-d-3-m-1m-2-1992/35qv3c3r%40m%20d3%20m1m%202%20-%201992.mkv"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:AFDB8AB79E7399F7820705D39D49C96706718929"
-        }
-      ],
-      "youtube": "5h9VDUNtoto"
-    },
-    {
-      "tmdb_id": 1487864,
-      "type": "movie",
-      "added_at": "2026-08-12",
-      "colect": "Desaparecimento/Criança Desaparecida",
-      "sources": [
-        {
-          "name": "NACIONAL 1080p",
-          "magnet": "magnet:?xt=urn:btih:246ce142aa1a42ef3ddc40c96895777b7b327de6"
-        },
-        {
-          "name": "NACIONAL 1080p Descompactado",
-          "magnet": "magnet:?xt=urn:btih:67922f885d81f2d7c87f8f7893a2ee6e398e102d"
-        }
-      ],
-      "youtube": "ms4BgO48KCY"
-    },
-    {
-      "tmdb_id": 771,
-      "type": "movie",
-      "added_at": "2026-08-12",
-      "sources": [
-        {
-          "name": "PLAYER 1",
-          "embed": "https://mgeb.top/embed/771"
-        },
-        {
-          "name": "PLAYER 2",
-          "embed": "https://redeflixapi.store/filme/771"
-        },
-        {
-          "name": "PLAYER 3",
-          "embed": "https://myembed.biz/filme/771"
-        },
-        {
-          "name": "PLAYER 4",
-          "embed": "https://embed-api.clickhost.xyz/embed/filme/771"
-        },
-        {
-          "name": "DUBLADO 720p",
-          "magnet": "magnet:?xt=urn:btih:0847FB31D73B651ADA33252A1A340518AC580B2B"
-        },
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:1AE91178F7E90FCBC8744FEE7CD53B7640DE85FF"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p",
-          "magnet": "magnet:?xt=urn:btih:E65EE5712C6045D794A19C10682D1CB3F51F6C47"
-        },
-        {
-          "name": "DUAL ÁUDIO 1080p Resmaterizado",
-          "magnet": "magnet:?xt=urn:btih:2BEA062E451085519A07971AE29D650919E36640"
-        }
-      ],
-      "youtube": "DHCVuqP6Gmk"
-    },
-    {
-      "tmdb_id": 1662168,
-      "type": "movie",
-      "added_at": "2026-08-11",
-      "colect": "Videogames/Minecraft",
-      "magnet": "magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj",
-      "youtube": "h636bk5BTDo"
-    },
-    {
-      "tmdb_id": 10895,
-      "type": "movie",
-      "added_at": "2026-08-11",
-      "sources": [
-        {
-          "name": "DUAL ÁUDIO 720p",
-          "magnet": "magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj"
-        },
-        {
-          "name": "Dublado (link direto)",
-          "stream_url": "https://archive.org/download/wooden-boy-1940/Wooden%20Boy%201940.mkv"
-        }
-      ],
-      "youtube": "GBgyVY_ClzQ"
-    }
-  ]
+  "tmdb_id":1540987,
+  "type":"movie",
+  "added_at":"2026-09-25",
+  "colect":["Nacionais/Drama Politico","Diversão/Caos Social"],
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1540987"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1540987"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1540987"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:saqonlbvypw7zzlwr2iadctywgsgkg4b&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-NACIONAL-.A.Conspiracao.Condor.2026.1080p.WEB-DL.x264.NACIONAL.5.1"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:c0cef5e59fc68c9530c5b4b829ca30d2122a5e17&dn=A.Conspiracao.Condor.2026.1080p.WEB-DL.x264.NACiONAL.5.1&xl=2822011690&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"}
+  ],
+  "youtube":"yiVpg65vspM"
+},
+{
+  "tmdb_id":1514863,
+  "type":"movie",
+  "added_at":"2026-09-23",
+  "colect":"Diversão/Caos Social",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1514863"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1514863"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1514863"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:06ea0cd5fc2ac8feff85dbcb03c76a173e13f2c4&xl=2414860165&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Conforme+a+M%C3%BAsica+2026+WEB-DL+1080p+x264+DUAL+5.1"}
+  ],
+  "youtube":"et4kC7zPGbQ"
+},
+{
+  "tmdb_id":1240889,
+  "type":"movie",
+  "added_at":"2026-09-22",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1240889"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1240889"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1240889"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:def7b4425dbdbd74c06b445e25ba8fe8bb8cf4dd"}
+  ],
+  "youtube":"ol6BIre1lPo"
+},
+{
+  "tmdb_id":1451944,
+  "type":"movie",
+  "added_at":"2026-09-21",
+  "colect":["Humanidade/Amor Proibido","Romance/Caso"],
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1451944"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1451944"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1451944"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:32f7cdd612672babf9266a5e8a751f6febdef371"}
+  ],
+  "youtube":"PhNJ34l5NFo"
+},
+{
+  "tmdb_id":1214361,
+  "type":"movie",
+  "added_at":"2026-09-20",
+  "colect":"Bangue-Bangue/Vingança Pessoal",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1214361"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1214361"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1214361"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:992938ec0ed3c5343a6546ed21e3790b370fd790"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:3ejqa5yfpywctej2wnwu2vjiv4fyyu75"}
+  ],
+  "youtube":"K7ESKuuh9_M"
+},
+{
+  "tmdb_id":1641629,
+  "type":"movie",
+  "added_at":"2026-09-19",
+  "colect":["Romance/Paixão","Humanidade/Amor Proibido"],
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1641629"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1641629"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1641629"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:33lptu55ehjespamqetdg6v2d7uraqfo"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:e5efeeb493378b9204a9566fe5af0155af2353c6"}
+  ],
+  "youtube":"ntIM30QpDgc"
+},
+{
+  "tmdb_id":1542309,
+  "type":"movie",
+  "added_at":"2026-09-18",
+  "colect":"Humanidade/Separação Amorosa",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1542309"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1542309"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:zsxba3n553w3uzj7nsdotgg7cfiutwmk"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:86cf8a06579abfae1f40a61695d9afef2f11cdf5"}
+  ],
+  "youtube":"vBYL0nAm1LE"
+},
+{
+  "tmdb_id":1323244,
+  "type":"movie",
+  "added_at":"2026-09-17",
+  "colect":"Sci-FI/Vida Extraterrestre",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://redeflixapi.store/filme/1323244"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:aaq2qgcgshoi3lzrixybecmluatceamk"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:613b522f170bcb1d3260a7ab58e751441da75ec0"}
+  ],
+  "youtube":"ZtcTglcDq04"
+},
+{
+  "tmdb_id":1444249,
+  "type":"movie",
+  "added_at":"2026-09-16",
+  "magnet":"magnet:?xt=urn:btih:7cfoc7xog7x6yohgbnpoia355doepjt7",
+  "embed":"https://redeflixapi.store/filme/1444249",
+  "youtube":"lhqX_FZmbhI"
+},
+{
+  "tmdb_id":1596335,
+  "type":"movie",
+  "added_at":"2026-09-15",
+  "colect":"Tecnologia/IA",
+  "magnet":"magnet:?xt=urn:btih:3a0d34c655e37a22c92db6ef1bed84b0a67bcd23",
+  "embed":"https://redeflixapi.store/filme/1596335",
+  "youtube":"xkPbV3IRe4Y"
+},
+{
+  "tmdb_id":1440098,
+  "type":"movie",
+  "added_at":"2026-09-14",
+  "colect":"Romance/Paixão",
+  "magnet":"magnet:?xt=urn:btih:6b525875f3582d105ba1c602bb2bcb4e28d99dbd",
+  "embed":"https://redeflixapi.store/filme/1440098",
+  "youtube":"aGJkwKC5NgI"
+},
+{
+  "tmdb_id":9012,
+  "type":"movie",
+  "added_at":"2026-09-14",
+  "colect":"Diversão/Gente Atrapalhada",
+  "stream_url":"https://archive.org/download/j-ck-55-c-r-d-3-p-v-2002/J%40CK%4055%20C%40R%40%20D3%20P%40V%202002.mkv",
+  "youtube":"LWWG1eKmylY"
+},
+{
+  "tmdb_id":1101383,
+  "type":"movie",
+  "added_at":"2026-09-14",
+  "colect":"Animais/Dinossauros",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:f6c458752d180c26e84bd35f39fc8b21280aab30"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:ikk43fvszjnokvjmkvggtxu76nmjttss"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:7gnzcni5uory4vx5hbp665jgsh7r24kq"}
+  ],
+  "youtube":"NtVXvlgaIUQ"
+},
+{
+  "tmdb_id":1412598,
+  "type":"movie",
+  "added_at":"2026-09-13",
+  "colect":"Animais/Baleias",
+  "magnet":"magnet:?xt=urn:btih:6wn4rnpponnptefmdbdmcohyrqcu5tlj",
+  "youtube":"vS3H4mjOddk"
+},
+{
+  "tmdb_id":1617852,
+  "type":"movie",
+  "added_at":"2026-09-12",
+  "colect":"Automóveis/Corridas Velozes",
+  "magnet":"magnet:?xt=urn:btih:kysrvyyzmciw47ejfvqa27k76ipriiav",
+  "youtube":"gYNN552vu9M"
+},
+{
+  "tmdb_id":1185806,
+  "type":"movie",
+  "added_at":"2026-09-12",
+  "kids":["Prezinhos","Aborrecentes"],
+  "magnet":"magnet:?xt=urn:btih:cp4gcq56njskzdjv6l7ina3nubesfdlz",
+  "youtube":"BID0gu1ROD8"
+},
+{
+  "tmdb_id":1522689,
+  "type":"movie",
+  "added_at":"2026-09-11",
+  "colect":["Diversão/Caos Social","Romance/Amor"],
+  "magnet":"magnet:?xt=urn:btih:udusx2fauprxcswuw7mcttgtobl66dwn",
+  "youtube":"VylsOZBYxQA"
+},
+{
+  "tmdb_id":1739206,
+  "type":"movie",
+  "added_at":"2026-09-08",
+  "magnet":"magnet:?xt=urn:btih:fynfun7qh2s7vmvacy2tmmontzhp2erg",
+  "youtube":"Txk5C-452ak"
+},
+{
+  "tmdb_id":1765147,
+  "type":"movie",
+  "added_at":"2026-09-08",
+  "colect":["Tecnologia/IA","Humanidade/Opressão Politica"],
+  "magnet":"magnet:?xt=urn:btih:4ruwtfonym7gw44fitav3ew4mfzeh4na",
+  "youtube":"fi5HQ415uFQ"
+},
+{
+  "tmdb_id":1542812,
+  "type":"movie",
+  "added_at":"2026-09-07",
+  "magnet":"magnet:?xt=urn:btih:ugcjag6jhiqx34b25hrrnvyg35sqmuqd",
+  "youtube":"jEWLhdFqG3Y"
+},
+{
+  "tmdb_id":1536559,
+  "type":"movie",
+  "added_at":"2026-09-06",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1536559"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1536559"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1536559"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:d3ffbdc8cf7b62e489b9935e3d376640180b7994&dn=Felicidade%20em%20Dobro.2026.1080p.WEB-DL.x264.DUAL.5.1&xl=3408102673&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:wz726eqnpsjflb24yxle262v7y26bbrg&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Felicidade+em+Dobro.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"_gNBA6wW034"
+},
+{
+  "tmdb_id":1760262,
+  "type":"movie",
+  "added_at":"2026-09-06",
+  "magnet":"magnet:?xt=urn:btih:gjagwic5x5l5bhpostjyztbglkzmzpxx",
+  "youtube":"ADVTbb54abA"
+},
+{
+  "tmdb_id":1517123,
+  "type":"movie",
+  "added_at":"2026-09-05",
+  "colect":"Humanidade/Crise Existencial",
+  "magnet":"magnet:?xt=urn:btih:kw2pdiln4vo734jurephp426popzmu36",
+  "youtube":"92gV-ObLHos"
+},
+{
+  "tmdb_id":1137844,
+  "type":"movie",
+  "added_at":"2026-09-05",
+  "colect":["Policiais/Agentes","Diversão/Tipos Opostos"],
+  "magnet":"magnet:?xt=urn:btih:p47sjvc54ivbgcfuk3reejcyozqp2s3z",
+  "youtube":"T3tPGyeq94s"
+},
+{
+  "tmdb_id":1355228,
+  "type":"movie",
+  "added_at":"2026-09-04",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1355228"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1355228"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1355228"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:e50a429e8b8eb3e98604e3f714817b1f6a5ad009&dn=Gandhari%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2503208326&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"}
+  ],
+  "youtube":"TRyBiPD1bUc"
+},
+{
+  "tmdb_id":1752159,
+  "type":"movie",
+  "added_at":"2026-09-03",
+  "colect":"Humanidade/Trauma Guerra",
+  "magnet":"magnet:?xt=urn:btih:ykqqo7tbsnysdo6zmgh6qt6uxpxcylqx",
+  "youtube":"1epklvnxATo"
+},
+{
+  "tmdb_id":1731694,
+  "type":"movie",
+  "added_at":"2026-09-03",
+  "kids":["Chefinhos","Prezinhos","Aborrecentes"],
+  "magnet":"magnet:?xt=urn:btih:l5sxcig22dohrffylype3a5d7swymcdc",
+  "youtube":"8hG7HVOo8lM"
+},
+{
+  "tmdb_id":1228710,
+  "type":"movie",
+  "added_at":"2026-09-02",
+  "colect":["Sci-FI/Exploração Espacial","Se Aventurar/Resgate Arriscado"],
+  "sources":[
+    {"name":"DUBLADO 1080p","magnet":"magnet:?xt=urn:btih:xecumnms6igxdvvocbovnvzi7qbjqn3v"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:vlaxvsoplmxsg5rsr3kdqun3kipb2lu3"}
+  ],
+  "youtube":"is_YTQeLo5w"
+},
+{
+  "tmdb_id":156022,
+  "type":"movie",
+  "added_at":"2026-09-01",
+  "colect":"Policiais/Agentes",
+  "sources":[
+    {"name":"DUBLADO 1080p","magnet":"magnet:?xt=urn:btih:0549DA92DC3AF0352F4701AEC449B959A655D4FF"},
+    {"name":"DUAL ÁUDIO 4k","magnet":"magnet:?xt=urn:btih:0B15E4FE416C1717F5CDFEA47FBCC07F6E384D23"}
+  ],
+  "youtube":"SLhhP7iknf8"
+},
+{
+  "tmdb_id":293660,
+  "type":"movie",
+  "added_at":"2026-09-01",
+  "colect":"Heróis/Marvel/Deadpool",
+  "sources":[
+    {"name":"DUBLADO 1080p","magnet":"magnet:?xt=urn:btih:1A257E0FD066408D7C3D67DB5E7A9ABB8239D10A"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:44147456D5AAD8C0C026EA0B0EC2F54EC59D8C8F"},
+    {"name":"DUAL ÁUDIO 1080p IMAX","magnet":"magnet:?xt=urn:btih:2AA5F34B8E73A7BDF34AEFDE9A4F24559FAB8A29"},
+    {"name":"DUAL ÁUDIO 4k","magnet":"magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756"}
+  ],
+  "youtube":"Q9X-bAE8KTc"
+},
+{
+  "tmdb_id":1530941,
+  "type":"movie",
+  "added_at":"2026-09-01",
+  "kids":"Aborrecentes",
+  "magnet":"magnet:?xt=urn:btih:cnedljfogoce4epwnj56ljke6bzvnicv",
+  "youtube":"t_VrBTGerUM"
+},
+{
+  "tmdb_id":868668,
+  "type":"movie",
+  "added_at":"2026-09-01",
+  "colect":"Policiais/Delegado",
+  "magnet":"magnet:?xt=urn:btih:gurwgxjbkss4k526ycmodn2glfju3wja",
+  "youtube":"c57kmLagsqE"
+},
+{
+  "tmdb_id":1550338,
+  "type":"movie",
+  "added_at":"2026-09-01",
+  "colect":["Humanidade/Amor Proibido","Romance/Paixão"],
+  "magnet":"magnet:?xt=urn:btih:yhkwo7twewikn3ky4plirr3zeiztshur",
+  "youtube":"j_R7Ny6hrNw"
+},
+{
+  "tmdb_id":1232667,
+  "type":"movie",
+  "added_at":"2026-08-31",
+  "magnet":"magnet:?xt=urn:btih:lvrkksqqacrauaoemypxhgzxldcvjt4u",
+  "colect":"Humanidade/Separação Amorosa",
+  "youtube":"qriWSK376U0"
+},
+{
+  "tmdb_id":383498,
+  "type":"movie",
+  "added_at":"2026-08-30",
+  "colect":"Heróis/Marvel/Deadpool",
+  "sources":[
+    {"name":"DUAL ÁUDIO 720p Sem Cortes","magnet":"magnet:?xt=urn:btih:8E78794BBCDA1CE81EEB99AFF5762CD9C72159DA&dn=%5bFILMES%20SEMPRE%20ANTES%20NO%20COMANDOTORRENTS.COM%5d%20Deadpool.2.2018.UNRATED.720p.BluRay.x264-DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce"},
+    {"name":"DUAL ÁUDIO 1080p Sem Cortes","magnet":"magnet:?xt=urn:btih:ACB0A24D065D14B8A7FE9C4814B76329DE2F9751&dn="},
+    {"name":"DUBLADO 720p","magnet":"magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%28720p%29%20DUBLADO%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"},
+    {"name":"DUBLADO 720p 2","magnet":"magnet:?xt=urn:btih:ED8BD73A46ED4E7F794E739F915232CA5BD53470&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%28720p%29%20%5bSEM%20CORTES%5d%20DUBLADO%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"},
+    {"name":"DUBLADO 1080p","magnet":"magnet:?xt=urn:btih:D73B9E510ED00DC0066B20F4CC7DBEE5FB5A856D&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%281080p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"},
+    {"name":"DUBLADO 1080p 2","magnet":"magnet:?xt=urn:btih:9618edc489b904714279a07c50a77d780885528a&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%281080p%29%20%5bSEM%20CORTES%5d%20DUBLADO%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"},
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:C91DDB5653219F6F1D11D09726317BB7ADBEE65A&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"},
+    {"name":"DUAL ÁUDIO 720p 2","magnet":"magnet:?xt=urn:btih:C8958BFB4F9EFEB8C7D5C4FDBAE075C9248F9578&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%28720p%29%20%5bSEM%20CORTES%5d%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:FB3138C1CA8EDDEE036DDE5917E5B4A90EFEE967&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:DDED34CF7CB0AB2A1692C1A6940DBE1333F31F3E&dn=WwW.LAPUMiAFiLMES.COM%20-%20Deadpool%202%202018%20%281080p%29%20%5bSEM%20CORTES%5d%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce"}
+  ],
+  "youtube":"1P9OzWX6nzE"
+},
+{
+  "tmdb_id":860508,
+  "type":"movie",
+  "added_at":"2026-08-30",
+  "colect":"Policiais/Detetive",
+  "magnet":"magnet:?xt=urn:btih:meznuo5hncgcipnitdjzbsirblvl7auc",
+  "youtube":"dmjvv0PiFTY"
+},
+{
+  "tmdb_id":1631807,
+  "type":"movie",
+  "added_at":"2026-08-29",
+  "colect":"Humanidade/Segredos Familiares",
+  "magnet":"magnet:?xt=urn:btih:gdb2xiizbenwjsnizu3bmooaeoc4rs4s",
+  "youtube":"w0Qa4OG_DVg"
+},
+{
+  "tmdb_id":1272129,
+  "type":"movie",
+  "added_at":"2026-08-29",
+  "colect":["Nacionais/Crime Policial","Humanidade/Ambição Cega"],
+  "magnet":"magnet:?xt=urn:btih:ut2qmxvydmtj42bgh7v3la4xxqpj5dfy",
+  "youtube":"Es8kC3eUwcg"
+},
+{
+  "tmdb_id":1679730,
+  "type":"movie",
+  "added_at":"2026-08-28",
+  "kids":"Aborrecentes",
+  "magnet":"magnet:?xt=urn:btih:988fa6e6cbe0adccf4349aaa45e2a9484f695be2",
+  "youtube":"bqolKuBoPgs"
+},
+{
+  "tmdb_id":1368576,
+  "type":"movie",
+  "added_at":"2026-08-28",
+  "colect":["Diversão/Mundo Absurdo","Nacionais/Comédia Popular"],
+  "magnet":"magnet:?xt=urn:btih:f52s2ti2u3hshi5rc3uhjylqvbbs3mgh",
+  "youtube":"acQUA0-fQX0"
+},
+{
+  "tmdb_id":950028,
+  "type":"movie",
+  "added_at":"2026-08-27",
+  "colect":"Diversão/Caos Social",
+  "magnet":"magnet:?xt=urn:btih:xnnhhj2sxf555ey5et7yi4t55rdit2bt",
+  "youtube":"KgumVttTINA"
+},
+{
+  "tmdb_id":1729723,
+  "type":"movie",
+  "added_at":"2026-08-26",
+  "kids":"Aborrecentes",
+  "magnet":"magnet:?xt=urn:btih:xhkkowx7ou7ecwpodprqf65q4bk6em2k",
+  "youtube":"zNyZ6OlMbh0"
+},
+{
+  "tmdb_id":1516698,
+  "type":"movie",
+  "added_at":"2026-08-26",
+  "colect":"Romance/Paixão",
+  "magnet":"magnet:?xt=urn:btih:43nzyodgqir4nc35c3oi3nshzbzjmigj",
+  "youtube":"mvRvODivXs4"
+},
+{
+  "tmdb_id":627725,
+  "type":"movie",
+  "added_at":"2026-08-25",
+  "colect":"Humanidade/Preconceito Social",
+  "sources":[
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:5c0d2ce5a6a183429ba96ac3af9c23f05fe99878"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:8102688088d98186129b0e6acf10355815345e7f"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:ee020387172e1828841cd71afe39737ded162e93"}
+  ],
+  "youtube":"DyoYJWJL4I4"
+},
+{
+  "tmdb_id":1740877,
+  "type":"movie",
+  "added_at":"2026-08-25",
+  "kids":["Chefinhos","Prezinhos","Aborrecentes"],
+  "magnet":"magnet:?xt=urn:btih:5clqz62asro5nsul5c6dqit3renz5ars",
+  "youtube":"ZbwdqiomnKU"
+},
+{
+  "tmdb_id":1432241,
+  "type":"movie",
+  "added_at":"2026-08-25",
+  "colect":["Psicológico/Dor da Perda","Nacionais/Crime Policial"],
+  "magnet":"magnet:?xt=urn:btih:xiqntmzlvbxd7hyjeoql43ciij5f4dln",
+  "youtube":"sYYyf-NTMR8"
+},
+{
+  "tmdb_id":7443,
+  "type":"movie",
+  "added_at":"2026-08-24",
+  "kids":["Chefinhos","Prezinhos","Aborrecentes"],
+  "sources":[
+    {"name":"DUBLADO 720p","magnet":"magnet:?xt=urn:btih:bcfc62a889de5235c4dbc6b49eefdf6f1c4e845f"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:3F4720F8C02F58B856F93F3305480341B37CF7EF"}
+  ],
+  "youtube":"Vfirqr2Gt44"
+},
+{
+  "tmdb_id":1698575,
+  "type":"movie",
+  "added_at":"2026-08-24",
+  "kids":["Chefinhos","Prezinhos"],
+  "magnet":"magnet:?xt=urn:btih:b6m54tqsz6fbfizohczeq4jclbg73edz",
+  "youtube":"A-NQmpNsZIc"
+},
+{
+  "tmdb_id":1245859,
+  "type":"movie",
+  "added_at":"2026-08-24",
+  "colect":["Humanidade/Segredos Familiares","Diversão/Caos Social"],
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:52gxqfhvsn5hnmluy2665kzpg5v3q2uv"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:tyserlbnuvd6hahfxttxf4umqywfxxus"}
+  ],
+  "youtube":"dB9HuMcaEGM"
+},
+{
+  "tmdb_id":1517794,
+  "type":"movie",
+  "added_at":"2026-08-23",
+  "colect":["Diversão/Mundo Absurdo","Nacionais/Comédia Popular"],
+  "magnet":"magnet:?xt=urn:btih:aiegh3jnyubkmhvxvxf4ueohkg7flkyj",
+  "youtube":"CBXl658jiEU"
+},
+{
+  "tmdb_id":49046,
+  "type":"movie",
+  "added_at":"2026-08-23",
+  "colect":"Confrontos/Inocência Perdida",
+  "stream_url":"https://archive.org/download/n-d-d-3-n-0-v-0-n-0-fr-0-nt-2022/N%40D%40%20D3%20N0V0%20N0%20FR0NT%202022.mkv",
+  "youtube":"vwbySrsD7RU"
+},
+{
+  "tmdb_id":964849,
+  "type":"movie",
+  "added_at":"2026-08-22",
+  "magnet":"magnet:?xt=urn:btih:18177b66b06eda35bd0685e8000aae2ee7416293",
+  "youtube":"dWePsu_Kd9c"
+},
+{
+  "tmdb_id":1314829,
+  "type":"movie",
+  "added_at":"2026-08-22",
+  "magnet":"magnet:?xt=urn:btih:wwmss6k2sx4i2xds3q6hz2farw6xr7qq",
+  "youtube":"5bbHz-gE-7s"
+},
+{
+  "tmdb_id":1676318,
+  "type":"movie",
+  "added_at":"2026-08-22",
+  "colect":"Diversão/Lugar Errado",
+  "magnet":"magnet:?xt=urn:btih:fjjx4rwhhrulm6c4b7etagajhsxbdqb7",
+  "youtube":"3aXsH9DaRAs"
+},
+{
+  "tmdb_id":549294,
+  "type":"movie",
+  "added_at":"2026-08-21",
+  "colect":"Médicos/Emergências Extremas",
+  "stream_url":"https://archive.org/download/51-ncr-0-n-1-c-2020/51NCR0N1C%40%202020.mkv",
+  "youtube":"bw4XssTHPDE"
+},
+{
+  "tmdb_id":520758,
+  "type":"movie",
+  "added_at":"2026-08-21",
+  "kids":["Chefinhos","Prezinhos"],
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:06b24d5497c2d30cd25e395e45dc2a0178e85e81"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE"}
+  ],
+  "youtube":"oxYQb-WxPPk"
+},
+{
+  "tmdb_id":1621552,
+  "type":"movie",
+  "added_at":"2026-08-21",
+  "colect":"Policiais/Patrulheiro",
+  "magnet":"magnet:?xt=urn:btih:f89aa3990250443a87f6d0ef251d2410adceee4a",
+  "youtube":"AooER0ClYtM"
+},
+{
+  "tmdb_id":1538273,
+  "type":"movie",
+  "added_at":"2026-08-21",
+  "colect":"Romance/Amor",
+  "magnet":"magnet:?xt=urn:btih:8baf529f5d87af5ebd93f384b7a2a953b1f83c89",
+  "youtube":"n65bXlvrHlo"
+},
+{
+  "tmdb_id":1771,
+  "type":"movie",
+  "added_at":"2026-08-21",
+  "colect":"Heróis/Marvel/Capitão América",
+  "sources":[
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:2fef3e8fa4dac082f9699fa30cdd063cc0ba9840"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:96238b20df0e1fc9f5af462c530c1f98570a6d78"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:98336E3D13510A3A930F648CCB7259307008ACD4"}
+  ],
+  "youtube":"Hjrvns4AFaM"
+},
+{
+  "tmdb_id":775996,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "colect":"Tecnologia/Humanoide",
+  "stream_url":"https://archive.org/download/z-0-n-d-3-c-0-mb-t-3-2021/Z0N%40%20D3%20C0MB%40T3%202021.mkv",
+  "youtube":"71QFeMSE3qU"
+},
+{
+  "tmdb_id":1241982,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "kids":["Chefinhos","Prezinhos"],
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:04251bec1182aae17d885b85c6fa862f53286d71"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:6b105d6f0ecf78965b32c06e2e525ce1f2d972ca"}
+  ],
+  "youtube":"lqMJQa3JhZU"
+},
+{
+  "tmdb_id":1741201,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "colect":"Desaparecimento/Criança Desaparecida",
+  "magnet":"magnet:?xt=urn:btih:c29c05ea84f7736d0181eb171831984660b33bec",
+  "youtube":"TGs8Fk13kHE"
+},
+{
+  "tmdb_id":100402,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "colect":"Heróis/Marvel/Capitão América",
+  "sources":[
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:399A8E539FBD01ABC40F5F5F6EDA0B87ECB694A0"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:F84FAA636687E86D2F0CC13019BF602706A329A4"}
+  ],
+  "youtube":"Fl89Ym_fQJc"
+},
+{
+  "tmdb_id":520663,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "colect":"Psicológico/Medo de Sair",
+  "magnet":"magnet:?xt=urn:btih:12794b9a6ced473c18c68a55c8ab5aa8c8d317bc",
+  "youtube":"NO78X9Eyvz0"
+},
+{
+  "tmdb_id":1419406,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "colect":"Policiais/Agentes",
+  "magnet":"magnet:?xt=urn:btih:w54zvfqpbaoyl727ov2jkqzvac45zp2j",
+  "youtube":"V2CKdq2PCfo"
+},
+{
+  "tmdb_id":1515615,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "colect":"Romance/Flerte",
+  "magnet":"magnet:?xt=urn:btih:knnlcel65pd4viay4komejy3kebg3zi3",
+  "youtube":"ffziyye1pVM"
+},
+{
+  "tmdb_id":13655,
+  "type":"movie",
+  "added_at":"2026-08-20",
+  "colect":"Musicais/Pop e Contemporâneo",
+  "stream_url":"https://archive.org/download/cm-p-rck-2008/C%40mP%20R%40ck%202008.mkv",
+  "youtube":"HWIPotoqOQ8"
+},
+{
+  "tmdb_id":852096,
+  "type":"movie",
+  "added_at":"2026-08-19",
+  "colect":"Fantasmas/Comédia e Convivência",
+  "stream_url":"https://archive.org/download/f-nt-5-m-3-c-1-2023/F%40NT%405M%40%203%20C1%40%202023.mkv",
+  "youtube":"ThEGodpRQLA"
+},
+{
+  "tmdb_id":1741207,
+  "type":"movie",
+  "added_at":"2026-08-19",
+  "colect":"Animais/Tubarões",
+  "magnet":"magnet:?xt=urn:btih:skdookkdtdsmy25w6u7zhual7je7j73o",
+  "youtube":"fWJ0vthVsOo"
+},
+{
+  "tmdb_id":1418582,
+  "type":"movie",
+  "added_at":"2026-08-19",
+  "colect":"Nacionais/LGBTQ+",
+  "magnet":"magnet:?xt=urn:btih:uikt7zmshxt76wlg3s7tuekn5dyyj643",
+  "youtube":"PTV943jBbPc"
+},
+{
+  "tmdb_id":271110,
+  "type":"movie",
+  "added_at":"2026-08-19",
+  "colect":"Heróis/Marvel/Capitão América",
+  "sources":[
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:DA9989B71DCCC1EBA4626C3BB7E852E93830B448"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:17895FCFDE4CE0B063A30BB6EC06E92A556920CF"}
+  ],
+  "youtube":"eLAFMkLnf3M"
+},
+{
+  "tmdb_id":1035048,
+  "type":"movie",
+  "added_at":"2026-08-19",
+  "colect":"Aliens/Sobrevivência",
+  "magnet":"magnet:?xt=urn:btih:CE122615364B67F8D7EFBDF59D873C0129403DC2",
+  "youtube":"TVX0OQkfzxM"
+},
+{
+  "tmdb_id":1688804,
+  "type":"movie",
+  "added_at":"2026-08-19",
+  "magnet":"magnet:?xt=urn:btih:6bnruwaf6ch3uukwp2mkuvzyxr4ckdls",
+  "youtube":"wNK6aBUCdgw"
+},
+{
+  "tmdb_id":44244,
+  "type":"movie",
+  "added_at":"2026-08-18",
+  "colect":"Musicais/Pop e Contemporâneo",
+  "stream_url":"https://archive.org/download/cm-p-r-0-ck-2-th-3-f-1-n-l-j-m-2010/C%40mP%20R0CK%202%20-%20TH3%20F1N%40L%20J%40M%202010.mkv",
+  "youtube":"YMHWuv-y8hY"
+},
+{
+  "tmdb_id":777443,
+  "type":"movie",
+  "added_at":"2026-08-18",
+  "stream_url":"https://archive.org/download/35td-0-3l-3tr-1c-0-2025/35t%40d0%203l3tr1c0%202025.mkv",
+  "youtube":"8e8Er-W_XrQ"
+},
+{
+  "tmdb_id":1616131,
+  "type":"movie",
+  "added_at":"2026-08-18",
+  "magnet":"magnet:?xt=urn:btih:xteyubwromq4svh6ustcbaumrs7awsbm",
+  "youtube":"8bggMB_AzEY"
+},
+{
+  "tmdb_id":98566,
+  "type":"movie",
+  "added_at":"2026-08-18",
+  "colect":"Heróis/Independentes/Tartarugas Ninjas",
+  "stream_url":"https://archive.org/download/s-trtrvg-5-n-1nj-5-2014/%40s%20T%40rt%40rvg%405%20N1nj%405%202014.mkv",
+  "youtube":"KXHlcqkYgdw"
+},
+{
+  "tmdb_id":308531,
+  "type":"movie",
+  "added_at":"2026-08-18",
+  "colect":"Heróis/Independentes/Tartarugas Ninjas",
+  "stream_url":"https://archive.org/download/5-t-rt-rvg-5-n-1-nj-f-0-r-d-5-50-mbr-5-2016/%405%20T%40RT%40RVG%405%20N1NJ%40%20-%20F0R%40%20D%405%2050MBR%405%202016.mkv",
+  "youtube":"aRpsXYLGSiQ"
+},
+{
+  "tmdb_id":1632473,
+  "type":"movie",
+  "added_at":"2026-08-18",
+  "magnet":"magnet:?xt=urn:btih:eviimck3ai35kurao6gkvbpspqcxc4ta",
+  "youtube":"cj_Ep5zLA3k"
+},
+{
+  "tmdb_id":533535,
+  "type":"movie",
+  "added_at":"2026-08-17",
+  "colect":["Heróis/Marvel/Deadpool","Heróis/Marvel/Wolverine"],
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:ef8c5693754b15e43958c10adea54057dc692949"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:f9bc58b28b3a497e76484c412120bb85bd4bdf70"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:1edf5fc1dc5776d4d4f8dcada6913f5762c2d6a4"}
+  ],
+  "youtube":"dEbe0rS4Z2A"
+},
+{
+  "tmdb_id":381237,
+  "type":"movie",
+  "added_at":"2026-08-17",
+  "stream_url":"https://archive.org/download/t-qv-3-d-05-zvmb-15-2018/%40T%40QV3%20D05%20ZVMB15%202018.mkv",
+  "youtube":"cUBcP1FYeow"
+},
+{
+  "tmdb_id":1504358,
+  "type":"movie",
+  "added_at":"2026-08-17",
+  "magnet":"magnet:?xt=urn:btih:kxkbnzwhxi76hcv55744vi6fpkg5lm4d",
+  "youtube":"6KlZUkf6E-o"
+},
+{
+  "tmdb_id":532893,
+  "type":"movie",
+  "added_at":"2026-08-17",
+  "stream_url":"https://archive.org/download/c-0-p-d-0-p-3-rv-2019/%40%20C0P%40%20D0%20P3RV%202019.mkv",
+  "youtube":"kT8W_9dLnMc"
+},
+{
+  "tmdb_id":1588838,
+  "type":"movie",
+  "added_at":"2026-08-17",
+  "magnet":"magnet:?xt=urn:btih:ahcunc74u3mjigc3aahybhpkecaqo6bd",
+  "youtube":"vB0eS8X1wdQ"
+},
+{
+  "tmdb_id":1493400,
+  "type":"movie",
+  "added_at":"2026-08-17",
+  "colect":"Musicais/Pop e Contemporâneo",
+  "magnet":"magnet:?xt=urn:btih:jduzlok65irlmxq577hk5i3vlziitkoy",
+  "youtube":"eND5wtAORPA"
+},
+{
+  "tmdb_id":1589248,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "magnet":"magnet:?xt=urn:btih:kr5gyqegpm34riaamtsna4reoujtnusz",
+  "youtube":"Mv0MRQ-Gnb4"
+},
+{
+  "tmdb_id":822119,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "colect":"Heróis/Marvel/Capitão América",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:8701d282701698e1b946ec4237442c5fd26802d7"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:312ac38ae69606cb5744857b385d62c21fd298f2"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:01a6042a07c8ee6b3c5898ff19fe2bbb8f0d2c54"}
+  ],
+  "youtube":"U7JG6FMoEdM"
+},
+{
+  "tmdb_id":608195,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "magnet":"magnet:?xt=urn:btih:0a3a5bc38599214b9634d02fa10f5903dd0673b0",
+  "youtube":"ualxsJ7n9iQ"
+},
+{
+  "tmdb_id":1273221,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:d8639ec86c2792d81555a1fb700dba14f17f1a6b"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:28d79013405fe61066839cf5c8b86d7773993695"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:0e5f8ad5c40d967aa3720dc91d54b2f1a7da2e43"}
+  ],
+  "youtube":"bO_APd0MNVU"
+},
+{
+  "tmdb_id":1081003,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "colect":"Heróis/DC/Supergirl",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:tjlu5dng3o22xg452s2jbndartkunrw6"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:faa4325198afd0e4aed83136c38a0c22c18fe527"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:zcf5iv2sdqv5o5fzetq6n2b6hmtnbi6f"}
+  ],
+  "youtube":"E5IwVlPYRxw"
+},
+{
+  "tmdb_id":986056,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "colect":"Heróis/Marvel",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:a859468132819de4ddb481091df4a25c465337c8"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:73cfc505f7f1a9d2b34bbda599f0d80eee8c9a1d"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:a34e376ee36089e4283ef232bb12e5e1e5c8ab1a"}
+  ],
+  "youtube":"MaLy0D2FTDc"
+},
+{
+  "tmdb_id":385687,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:1e7e9bd3e8f97215db09d1224003bd9f5c787a41"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:79e132e41552216ab7080c43e9a1d3b8a6cd8899"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:adc7b6593438f69294aa6daf266a499d08da54c0"}
+  ],
+  "youtube":"8k0epOQUfQk"
+},
+{
+  "tmdb_id":1315772,
+  "type":"movie",
+  "added_at":"2026-08-16",
+  "kids":["Prezinhos","Aborrecentes"],
+  "magnet":"magnet:?xt=urn:btih:493e34f6a408d287687e848be27e1b8b333a7123",
+  "youtube":"yWeAPprMkH0"
+},
+{
+  "tmdb_id":1439930,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "colect":"Heróis/Marvel/O Justiceiro",
+  "magnet":"magnet:?xt=urn:btih:2f1d92d7eb029d877fc214302e7ab001921752ad",
+  "youtube":"enwdRAR04fA"
+},
+{
+  "tmdb_id":974036,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "stream_url":"https://archive.org/download/vm-v-1-d-d-3-35-p-3-r-nc-2024/VM%40%20V1D%40%20D3%2035P3R%40N%C3%87%40%202024.mkv",
+  "youtube":"I0-9Zr1rn-g"
+},
+{
+  "tmdb_id":454639,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "colect":"Heróis/Independentes/He-man",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:hnw3gvi7ga62lmkzfkyw2f7xmeemsql6"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:m3erlplmryvehwmhuu5zlz3haa3yyghh"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:cb97bc2c85ab0e463b47214375699be15bd7c3e6"}
+  ],
+  "youtube":"YLWDrS8qCiM"
+},
+{
+  "tmdb_id":617126,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "colect":"Heróis/Marvel/Quarteto Fantastico",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:bee9fc2135c9789a47a68c2dce8fb5f3ae3944e0"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:ebc8952b505e3bb603583a2a75da421e42455ea3"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:d9b1e25dd2e8fbbe7f7b426b794a2752f52fe2eb"}
+  ],
+  "youtube":"CcSIvhDlYWw"
+},
+{
+  "tmdb_id":799583,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "magnet":"magnet:?xt=urn:btih:00f4c0a3e9738cbd4eb1c47f569ab68d892714e0",
+  "youtube":"qsSbWjn5pPI"
+},
+{
+  "tmdb_id":1275779,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "colect":"Aliens/Primeiro Contato",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:s4b5psbgufpl62mcs7qhgjy6sf4ue3ym"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:owrza2yfcsftfbuuyo75jpzq6pw2elw2"}
+  ],
+  "youtube":"3dFPgpyfpbQ"
+},
+{
+  "tmdb_id":460465,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "sources":[
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:3bf4c48df74c98a7947154775e05c179f17e43d5"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:2e08ac40c677ae831cb57de6b9479dc0560aa132"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:de94dd869c727f4a24b7840213e9de9fa1b623dd"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:54a48d164f856298036dae1ea6108950532eb4d0"}
+  ],
+  "youtube":"4lEpxpZqhjc"
+},
+{
+  "tmdb_id":1248226,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "magnet":"magnet:?xt=urn:btih:a3ed7ffb0c1456a00248b7e2215e3564aea196f1",
+  "youtube":"sR19_Acbukg"
+},
+{
+  "tmdb_id":1325734,
+  "type":"movie",
+  "added_at":"2026-08-15",
+  "magnet":"magnet:?xt=urn:btih:0ad66c994b6fd13e2095c82530c1e0956e463ad3",
+  "youtube":"vU1Tpl3kVdA"
+},
+{
+  "tmdb_id":502356,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "kids":"Prezinhos",
+  "colect":"Videogames/Super Mario",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:86164ce78973832d51e267450c9de523b25de60c"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:8a97e8e05b379e7b638d031928b80bcf0fa683e3"}
+  ],
+  "youtube":"cDNkh5WybZo"
+},
+{
+  "tmdb_id":933260,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:3385b59ea974f4d565981cb54557dbcab796aeca"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:508ad517d109885a6ab0d43cf568086a7d969dfc"}
+  ],
+  "youtube":"VtKyVTnH_Bk"
+},
+{
+  "tmdb_id":1226863,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "kids":"Prezinhos",
+  "colect":"Videogames/Super Mario",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:7b3b1a9778ea44ef45341f000656e0905cc79a92"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:dc6cc1b333f660917f1a8c4c1032620deca64af2"}
+  ],
+  "youtube":"BYy278lrtNA"
+},
+{
+  "tmdb_id":12094,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "stream_url":"https://hubby-dmca.com/movie/PlayTvOficial-vods/op3lQ6nP76/651182.mp4",
+  "youtube":"jMMosMUH00c"
+},
+{
+  "tmdb_id":883954,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "stream_url":"https://archive.org/download/vm-35c-0lh-p-3l-v-1d-2025/vm%40%2035c0lh%40%20p3l%40%20v1d%40%202025.mkv",
+  "youtube":"G31JLZ7q13I"
+},
+{
+  "tmdb_id":931285,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:a8857c6a50e3e12d33e9f3ba4640b7ca03682083"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:ca465fdd9e9ccfaf4556711bd200cb5f87e67e4e"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:1139c29d7ab84475603f21db1b36509acaae631f"}
+  ],
+  "youtube":"89r0iPZC8Q8"
+},
+{
+  "tmdb_id":656663,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "magnet":"magnet:?xt=urn:btih:6FMZTMWEGOMV4FOQFN5YPV65BDVIFIYG",
+  "youtube":"nS-0TwdHQfs"
+},
+{
+  "tmdb_id":1130022,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "magnet":"magnet:?xt=urn:btih:0fc7236c610e4c64883a118b2caff2f9b3d1c42b",
+  "youtube":"C-mLL_25ZtA"
+},
+{
+  "tmdb_id":687163,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "sources":[
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:2a9c944880ed0656ac550c9de49745f9fd1d38da"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:2e37b607e10ef4800009f0f3ef402eed09f72557"},
+    {"name":"DUAL ÁUDIO 4K","magnet":"magnet:?xt=urn:btih:1883751f2f1cd150363902abafb74974917b89d0"}
+  ],
+  "youtube":"uI1KofmBtYI"
+},
+{
+  "tmdb_id":828853,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "stream_url":"https://hubby-dmca.com/movie/PlayTvOficial-vods/op3lQ6nP76/648082.mp4",
+  "youtube":"YcxGlLmtRyA"
+},
+{
+  "tmdb_id":435,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "magnet":"magnet:?xt=urn:btih:d11e4656636bb19cbd812baa25ad64d9da204e7b",
+  "youtube":"DT3GzNdplJA"
+},
+{
+  "tmdb_id":1308767,
+  "type":"movie",
+  "added_at":"2026-08-14",
+  "magnet":"magnet:?xt=urn:btih:c1e2f25307f26a3c52fe6390fddc2797dc838926",
+  "youtube":"O35R_CbXUrY"
+},
+{
+  "tmdb_id":1265609,
+  "type":"movie",
+  "added_at":"2026-08-13",
+  "magnet":"magnet:?xt=urn:btih:27e947e57868b798139670f2b28c9927691cf3d7",
+  "youtube":"mBenb7O8Hnc"
+},
+{
+  "tmdb_id":1612018,
+  "type":"movie",
+  "added_at":"2026-08-13",
+  "colect":"Diversão/Gente Atrapalhada",
+  "magnet":"magnet:?xt=urn:btih:4l2gm6wvrqtkh6s7la54edddsjoehzlg",
+  "youtube":"gLjnkoZuZQA"
+},
+{
+  "tmdb_id":9714,
+  "type":"movie",
+  "added_at":"2026-08-13",
+  "stream_url":"https://archive.org/download/3-sqv-3-r-m-d-3-m-1-m-3-1997/3SQV3R%40M%20D3%20M1M%203%201997.mkv",
+  "youtube":"PP--dDh4axI"
+},
+{
+  "tmdb_id":1279493,
+  "type":"movie",
+  "added_at":"2026-08-13",
+  "colect":"Ladrões/O Último Trabalho",
+  "magnet":"magnet:?xt=urn:btih:tc5hbvnhmmsz4svtq3ao45avbmfnu3k6",
+  "youtube":"oB6HNuKxLmo"
+},
+{
+  "tmdb_id":1340206,
+  "type":"movie",
+  "added_at":"2026-08-13",
+  "colect":"Ladrões/O Grande Assalto",
+  "magnet":"magnet:?xt=urn:btih:y73s7sa7nhsgawisppzeijrwjkos57so",
+  "youtube":"ud5uGSPZGW8"
+},
+{
+  "tmdb_id":772,
+  "type":"movie",
+  "added_at":"2026-08-12",
+  "sources":[
+    {"name":"Dublado (Link-direto)","stream_url":"https://archive.org/download/35qv-3c-3rm-d-3-m-1m-2-1992/35qv3c3r%40m%20d3%20m1m%202%20-%201992.mkv"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:AFDB8AB79E7399F7820705D39D49C96706718929"}
+  ],
+  "youtube":"5h9VDUNtoto"
+},
+{
+  "tmdb_id":1487864,
+  "type":"movie",
+  "added_at":"2026-08-12",
+  "colect":"Desaparecimento/Criança Desaparecida",
+  "sources":[
+    {"name":"NACIONAL 1080p","magnet":"magnet:?xt=urn:btih:246ce142aa1a42ef3ddc40c96895777b7b327de6"},
+    {"name":"NACIONAL 1080p Descompactado","magnet":"magnet:?xt=urn:btih:67922f885d81f2d7c87f8f7893a2ee6e398e102d"}
+  ],
+  "youtube":"ms4BgO48KCY"
+},
+{
+  "tmdb_id":771,
+  "type":"movie",
+  "added_at":"2026-08-12",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/771"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/771"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/771"},
+    {"name":"PLAYER 4","embed":"https://embed-api.clickhost.xyz/embed/filme/771"},
+    {"name":"DUBLADO 720p","magnet":"magnet:?xt=urn:btih:0847FB31D73B651ADA33252A1A340518AC580B2B"},
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:1AE91178F7E90FCBC8744FEE7CD53B7640DE85FF"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:E65EE5712C6045D794A19C10682D1CB3F51F6C47"},
+    {"name":"DUAL ÁUDIO 1080p Resmaterizado","magnet":"magnet:?xt=urn:btih:2BEA062E451085519A07971AE29D650919E36640"}
+  ],
+  "youtube":"DHCVuqP6Gmk"
+},
+{
+  "tmdb_id":1662168,
+  "type":"movie",
+  "added_at":"2026-08-11",
+  "colect":"Videogames/Minecraft",
+  "magnet":"magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj",
+  "youtube":"h636bk5BTDo"
+},
+{
+  "tmdb_id":10895,
+  "type":"movie",
+  "added_at":"2026-08-11",
+  "sources":[
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj"},
+    {"name":"Dublado (link direto)","stream_url":"https://archive.org/download/wooden-boy-1940/Wooden%20Boy%201940.mkv"}
+  ],
+  "youtube":"GBgyVY_ClzQ"
 }
+]}
