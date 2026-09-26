@@ -9,9 +9,9 @@
           "embed": "https://w7.embedtv.lat/bandrj"
         },
         {
-          "nome": "Cn333333",
+          "nome": "Cn44444",
           "imagem": "https://SEU-SITE/logos/canal2.png",
-          "embed": "https://redecanaistv.press/player3/ch.php?canal=band"
+          "embed": "iframe:https://redecanaistv.press/player3/ch.php?canal=band"
         }
       ]
     },
