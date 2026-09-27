@@ -28,7 +28,7 @@
     },
     {
       "nome": "Atlantida FM",
-      "stream": "https://ssl.zoeweb.net/proxy/recifefm?mp=/stream",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_JOI.mp3",
       "estado": "SC",
       "cidade": "Joinville",
       "dial": "104.3 FM",
@@ -116,7 +116,7 @@
     },
     {
       "nome": "Continental FM",
-      "stream": "https://stream.zeno.fm/c45wbq2us3buv",
+      "stream": "https://cast3.my-control-panel.com/proxy/rede/mp3",
       "estado": "RS",
       "cidade": "Porto alegre",
       "dial": "98.3 FM",
@@ -136,6 +136,17 @@
       "fanart": "https://i.ibb.co/7d52kp1M/radio-itatiaia-95-7f-1.jpg",
       "descricao": "é uma emissora brasileira sediada em Belo Horizonte, Minas Gerais, conhecida como A Rádio de Minas",
       "mimetype": "audio/aac"
+    },
+    {
+      "nome": "Bahia FM",
+      "stream": "https://ice.fabricahost.com.br/radiobahiafm",
+      "estado": "BA",
+      "cidade": "Salvador",
+      "dial": "88.7 FM",
+      "generos": ["Entretenimento", "Musica", "Noticias", "Humor", "Festas"],
+      "thumb": "https://i.ibb.co/YxGyqB5/Bahia-FM-88-7t.jpg",
+      "fanart": "https://i.ibb.co/fGQR4WWS/Bahia-FM-88-7f-1.jpg",
+      "descricao": "é uma estação de rádio brasileira com sede em Salvador, BA, operando na frequência 88,7 MHz"
     }
   ]
 }
