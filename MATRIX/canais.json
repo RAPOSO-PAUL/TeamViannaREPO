@@ -112,6 +112,26 @@
           "nome": "ESPN 4 HD4",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
           "stream": "https://nossoplayeronlinehd.ink/tv/espn4"
+        },
+        {
+          "nome": "ESPN 5 HD1",
+          "imagem": "https://archive.org/download/espn5/espn5.jpg",
+          "stream": "https://1709.cdnembedcanais.xyz/espn5/"
+        },
+        {
+          "nome": "ESPN 5 HD2",
+          "imagem": "https://archive.org/download/espn5/espn5.jpg",
+          "stream": "https://w7.embedtv.lat/espn5"
+        },
+        {
+          "nome": "ESPN 5 HD3",
+          "imagem": "https://archive.org/download/espn5/espn5.jpg",
+          "stream": "https://rdcanais.net/espn5"
+        },
+        {
+          "nome": "ESPN 5 HD4",
+          "imagem": "https://archive.org/download/espn5/espn5.jpg",
+          "stream": "https://nossoplayeronlinehd.ink/tv/espn5"
         }
       ]
     },
@@ -120,7 +140,7 @@
       "canais": [
         {
           "nome": "Todo Mundo Odeia o Chris",
-          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "imagem": "https://archive.org/download/chris-1_202609/chris%20%281%29.jpg",
           "embed": "https://w7.embedtv.lat/24h_odeiachris"
         }
       ]
