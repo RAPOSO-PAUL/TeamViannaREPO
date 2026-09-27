@@ -1,5 +1,21 @@
 {"movies":[
 {
+  "tmdb_id":1084244,
+  "type":"movie",
+  "added_at":"2026-09-27",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1084244"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1084244"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1084244"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1084244"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:c00ad74992f698e3c207f5fdc5b3ae750b82173c&dn=Toy%20Story%205%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2241512132&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:sgafw6eztgo26g534g5msvm3jxcfdwds&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Toy+Story+5+2026+WEB-DL+1080p+x264+DUAL+5.1"},
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:2b1202c73d42a3d99f36e432f555e4f3e2a61679&dn=Toy%20Story%205%202026%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&xl=5366332962&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"}
+    {"name":"DUAL ÁUDIO 1080p Descompactado","magnet":"magnet:?xt=urn:btih:ak4oe2ekayrgp7bhgrkx4k5ck456bwpk&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.SEM-COMPACTA%C3%87%C3%83O.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Toy.Story.5.2026.1080p.WEB-DL.FULL.HD.DUAL.5.1"}
+  ],
+  "youtube":"-YbiBclEEgo"
+},
+{
   "tmdb_id":1032863,
   "type":"movie",
   "added_at":"2026-09-27",
