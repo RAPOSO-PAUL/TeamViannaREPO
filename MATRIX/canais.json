@@ -1,21 +1,21 @@
 {
   "sites_especiais": [
   "embedtv.lat",
-  "https://rdcanais.net/band"
+  "rdcanais.net"
 ],
   "categorias": [
     {
       "nome": "Abertos",
       "canais": [
         {
+          "nome": "BAND",
+          "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
+          "embed": "https://rdcanais.net/band"
+        },
+        {
           "nome": "BAND RJ HD",
           "imagem": "https://i.ibb.co/S40Bmgn4/band-rj.jpg",
           "embed": "https://w7.embedtv.lat/bandrj"
-        },
-        {
-          "nome": "C66666",
-          "imagem": "https://SEU-SITE/logos/canal2.png",
-          "embed": "https://rdcanais.net/band"
         }
       ]
     },
@@ -33,6 +33,11 @@
           "embed": "https://w7.embedtv.lat/espn"
         },
         {
+          "nome": "ESPN 1 HD3",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "https://rdcanais.net/espn"
+        },
+        {
           "nome": "ESPN 2 HD1",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
           "stream": "https://1709.cdnembedcanais.xyz/espn2/"
@@ -43,6 +48,11 @@
           "stream": "https://w7.embedtv.lat/espn2/"
         },
         {
+          "nome": "ESPN 2 HD3",
+          "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
+          "stream": "https://rdcanais.net/espn2"
+        },
+        {
           "nome": "ESPN 3 HD1",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
           "stream": "https://1709.cdnembedcanais.xyz/espn3/"
@@ -51,16 +61,11 @@
           "nome": "ESPN 3 HD2",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
           "stream": "https://w7.embedtv.lat/espn3"
-        }
-      ]
-    },
-    {
-      "nome": "Notícias",
-      "canais": [
+        },
         {
-          "nome": "Notícias Exemplo",
-          "imagem": "https://SEU-SITE/logos/noticias.png",
-          "embed": "https://SEU-PLAYER/embed/noticias"
+          "nome": "ESPN 3 HD3",
+          "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
+          "stream": "https://rdcanais.net/espn3"
         }
       ]
     },
