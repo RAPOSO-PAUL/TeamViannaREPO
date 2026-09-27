@@ -66,6 +66,21 @@
           "nome": "ESPN 3 HD3",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
           "stream": "https://rdcanais.net/espn3"
+        },
+        {
+          "nome": "ESPN 4 HD1",
+          "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
+          "stream": "https://1709.cdnembedcanais.xyz/espn4/"
+        },
+        {
+          "nome": "ESPN 4 HD2",
+          "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
+          "stream": "https://w7.embedtv.lat/espn4"
+        },
+        {
+          "nome": "ESPN 4 HD3",
+          "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
+          "stream": "https://rdcanais.net/espn4"
         }
       ]
     },
