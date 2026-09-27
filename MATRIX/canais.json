@@ -9,9 +9,14 @@
       "nome": "Abertos",
       "canais": [
         {
-          "nome": "BAND",
+          "nome": "BAND HD1",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "https://rdcanais.net/band"
+        },
+        {
+          "nome": "BAND HD2",
+          "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/band"
         },
         {
           "nome": "BAND RJ HD",
