@@ -3,6 +3,7 @@
   "tmdb_id":1084244,
   "type":"movie",
   "added_at":"2026-09-27",
+  "kids": ["Prezinhos", "Aborrecentes"],
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1084244"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1084244"},
@@ -33,6 +34,7 @@
   "tmdb_id":1560520,
   "type":"movie",
   "added_at":"2026-09-26",
+  "kids": "Aborrecentes",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1560520"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1560520"},
