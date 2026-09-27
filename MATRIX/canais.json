@@ -1,7 +1,8 @@
 {
   "sites_especiais": [
   "embedtv.lat",
-  "rdcanais.net"
+  "rdcanais.net",
+  "nossoplayeronlinehd.ink"
 ],
   "categorias": [
     {
@@ -36,6 +37,11 @@
           "nome": "ESPN 1 HD3",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://rdcanais.net/espn"
+        },
+        {
+          "nome": "ESPN 1 HD4",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/espn"
         },
         {
           "nome": "ESPN 2 HD1",
