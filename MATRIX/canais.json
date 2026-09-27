@@ -1,7 +1,7 @@
 {
   "sites_especiais": [
   "embedtv.lat",
-  "redecanaistv.press/player3/ch.php?canal=band"
+  "https://rdcanais.net/band"
 ],
   "categorias": [
     {
@@ -13,7 +13,7 @@
           "embed": "https://w7.embedtv.lat/bandrj"
         },
         {
-          "nome": "C5555555555",
+          "nome": "C66666",
           "imagem": "https://SEU-SITE/logos/canal2.png",
           "embed": "https://rdcanais.net/band"
         }
