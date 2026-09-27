@@ -4,7 +4,7 @@
       "nome": "Abertos",
       "canais": [
         {
-          "nome": "C11111111",
+          "nome": "BAND RJ",
           "imagem": "https://SEU-SITE/logos/canal1.png",
           "embed": "https://w7.embedtv.lat/bandrj"
         },
@@ -42,6 +42,16 @@
           "nome": "Notícias Exemplo",
           "imagem": "https://SEU-SITE/logos/noticias.png",
           "embed": "https://SEU-PLAYER/embed/noticias"
+        }
+      ]
+    },
+    {
+      "nome": "24 HORAS",
+      "canais": [
+        {
+          "nome": "Todo Mundo Odeia o Chris",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "https://w7.embedtv.lat/24h_odeiachris"
         }
       ]
     }
