@@ -1,4 +1,8 @@
 {
+  "sites_especiais": [
+  "embedtv.lat",
+  "redecanaistv.press/player3/ch.php?canal=band"
+],
   "categorias": [
     {
       "nome": "Abertos",
