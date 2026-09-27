@@ -19,19 +19,34 @@
       "nome": "Esportes",
       "canais": [
         {
-          "nome": "ESPN 1 HD",
+          "nome": "ESPN 1 HD1",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/espn/"
         },
         {
-          "nome": "ESPN 2 HD",
+          "nome": "ESPN 1 HD2",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "https://w7.embedtv.lat/espn"
+        },
+        {
+          "nome": "ESPN 2 HD1",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
           "stream": "https://1709.cdnembedcanais.xyz/espn2/"
         },
         {
-          "nome": "ESPN 3 HD",
+          "nome": "ESPN 2 HD2",
+          "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
+          "stream": "https://w7.embedtv.lat/espn2/"
+        },
+        {
+          "nome": "ESPN 3 HD1",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
           "stream": "https://1709.cdnembedcanais.xyz/espn3/"
+        },
+        {
+          "nome": "ESPN 3 HD2",
+          "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
+          "stream": "https://w7.embedtv.lat/espn3"
         }
       ]
     },
