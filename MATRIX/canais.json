@@ -69,6 +69,11 @@
           "stream": "https://rdcanais.net/espn2"
         },
         {
+          "nome": "ESPN 2 HD4",
+          "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
+          "stream": "https://nossoplayeronlinehd.ink/tv/espn2"
+        },
+        {
           "nome": "ESPN 3 HD1",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
           "stream": "https://1709.cdnembedcanais.xyz/espn3/"
@@ -84,6 +89,11 @@
           "stream": "https://rdcanais.net/espn3"
         },
         {
+          "nome": "ESPN 3 HD4",
+          "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
+          "stream": "https://nossoplayeronlinehd.ink/tv/espn3"
+        },
+        {
           "nome": "ESPN 4 HD1",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
           "stream": "https://1709.cdnembedcanais.xyz/espn4/"
@@ -97,6 +107,11 @@
           "nome": "ESPN 4 HD3",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
           "stream": "https://rdcanais.net/espn4"
+        },
+        {
+          "nome": "ESPN 4 HD4",
+          "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
+          "stream": "https://nossoplayeronlinehd.ink/tv/espn4"
         }
       ]
     },
