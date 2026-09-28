@@ -4,6 +4,7 @@
   "type":"movie",
   "added_at":"2026-09-28",
   "sources":[
+    {"name":"DIRETO","stream_url":"https://archive.org/download/m-0-r-3-m-0-nstr-05-2021/%40M0R%203%20M0NSTR05%202021.mkv"},
     {"name":"PLAYER 1","embed":"https://mgeb.top/embed/590223"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/590223"},
     {"name":"PLAYER 3","embed":"https://myembed.biz/filme/590223"},
