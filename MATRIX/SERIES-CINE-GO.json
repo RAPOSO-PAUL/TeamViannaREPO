@@ -1,6 +1,15 @@
 {
   "series": [
     {
+      "tmdb_id": 95480,
+      "type": "tv",
+      "added_at": "2026-09-28",
+      "episodes": [
+        { "season": 6, "episode": 1, "embeds": [ "https://mgeb.top/embed/95480/6/1", "https://redeflixapi.store/serie/95480/6/1", "https://myembed.biz/serie/95480/6/1", "http://embed-api.clickhost.xyz/embed/serie/95480/6/1" ] },
+        { "season": 6, "episode": 2, "embeds": [ "https://mgeb.top/embed/95480/6/2", "https://redeflixapi.store/serie/95480/6/2", "https://myembed.biz/serie/95480/6/2", "http://embed-api.clickhost.xyz/embed/serie/95480/6/2" ] }
+      ]
+    },
+    {
       "tmdb_id": 304842,
       "type": "tv",
       "added_at": "2026-09-27",
