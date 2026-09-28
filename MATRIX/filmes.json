@@ -624,7 +624,13 @@
   "type":"movie",
   "added_at":"2026-08-28",
   "kids":"Aborrecentes",
-  "magnet":"magnet:?xt=urn:btih:988fa6e6cbe0adccf4349aaa45e2a9484f695be2",
+  "sources":[
+  {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1679730"},
+  {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1679730"},
+  {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1679730"},
+  {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1679730"},
+  {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:988fa6e6cbe0adccf4349aaa45e2a9484f695be2"}
+  ],
   "youtube":"bqolKuBoPgs"
 },
 {
