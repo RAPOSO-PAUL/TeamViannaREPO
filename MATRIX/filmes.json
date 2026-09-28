@@ -1,5 +1,19 @@
 {"movies":[
 {
+  "tmdb_id":590223,
+  "type":"movie",
+  "added_at":"2026-09-28",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/590223"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/590223"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/590223"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/590223"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:67IRV4JDXZ5BQQH4FPKUNERIUBCRQT53&dn=Amor%20e%20Monstros%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce" },
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:AAMKSCLB3KFGHNYSWGO7XPI2J3YL3IKY&dn=Amor_e_Monstros.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO" }
+  ],
+  "youtube":"uRSdvBtt8ME"
+},
+{
   "tmdb_id":1607127,
   "type":"movie",
   "added_at":"2026-09-28",
