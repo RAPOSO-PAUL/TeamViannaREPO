@@ -5,7 +5,7 @@
       "type": "tv",
       "added_at": "2026-09-28",
       "episodes": [
-        { "season": 5, "episode": 1, "embeds": [ "https://mgeb.top/embed/95480/5/1", "https://redeflixapi.store/serie/95480/5/1", "https://myembed.biz/serie/95480/5/1", "http://embed-api.clickhost.xyz/embed/serie/95480/5/1", "iframe:https://streambetter.shop/serie/95480/5/1" ] },
+        { "season": 5, "episode": 1, "embeds": [ "https://mgeb.top/embed/95480/5/1", "https://redeflixapi.store/serie/95480/5/1", "https://myembed.biz/serie/95480/5/1", "http://embed-api.clickhost.xyz/embed/serie/95480/5/1", "<iframe src='https://streambetter.shop/serie/95480/5/1'></iframe>" ] },
         { "season": 5, "episode": 2, "embeds": [ "https://mgeb.top/embed/95480/5/2", "https://redeflixapi.store/serie/95480/5/2", "https://myembed.biz/serie/95480/5/2", "http://embed-api.clickhost.xyz/embed/serie/95480/5/2" ] },
         { "season": 5, "episode": 3, "embeds": [ "https://mgeb.top/embed/95480/5/3", "https://redeflixapi.store/serie/95480/5/3", "https://myembed.biz/serie/95480/5/3", "http://embed-api.clickhost.xyz/embed/serie/95480/5/3" ] },
         { "season": 5, "episode": 4, "embeds": [ "https://mgeb.top/embed/95480/5/4", "https://redeflixapi.store/serie/95480/5/4", "https://myembed.biz/serie/95480/5/4", "http://embed-api.clickhost.xyz/embed/serie/95480/5/4" ] },
