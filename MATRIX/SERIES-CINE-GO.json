@@ -5,6 +5,13 @@
       "type": "tv",
       "added_at": "2026-09-28",
       "episodes": [
+        { "season": 5, "episode": 1, "embeds": [ "https://mgeb.top/embed/95480/5/1", "https://redeflixapi.store/serie/95480/5/1", "https://myembed.biz/serie/95480/5/1", "http://embed-api.clickhost.xyz/embed/serie/95480/5/1" ] },
+        { "season": 5, "episode": 2, "embeds": [ "https://mgeb.top/embed/95480/5/2", "https://redeflixapi.store/serie/95480/5/2", "https://myembed.biz/serie/95480/5/2", "http://embed-api.clickhost.xyz/embed/serie/95480/5/2" ] },
+        { "season": 5, "episode": 3, "embeds": [ "https://mgeb.top/embed/95480/5/3", "https://redeflixapi.store/serie/95480/5/3", "https://myembed.biz/serie/95480/5/3", "http://embed-api.clickhost.xyz/embed/serie/95480/5/3" ] },
+        { "season": 5, "episode": 4, "embeds": [ "https://mgeb.top/embed/95480/5/4", "https://redeflixapi.store/serie/95480/5/4", "https://myembed.biz/serie/95480/5/4", "http://embed-api.clickhost.xyz/embed/serie/95480/5/4" ] },
+        { "season": 5, "episode": 5, "embeds": [ "https://mgeb.top/embed/95480/5/5", "https://redeflixapi.store/serie/95480/5/5", "https://myembed.biz/serie/95480/5/5", "http://embed-api.clickhost.xyz/embed/serie/95480/5/5" ] },
+        { "season": 5, "episode": 6, "embeds": [ "https://mgeb.top/embed/95480/5/6", "https://redeflixapi.store/serie/95480/5/6", "https://myembed.biz/serie/95480/5/6", "http://embed-api.clickhost.xyz/embed/serie/95480/5/6" ] },
+
         { "season": 6, "episode": 1, "embeds": [ "https://mgeb.top/embed/95480/6/1", "https://redeflixapi.store/serie/95480/6/1", "https://myembed.biz/serie/95480/6/1", "http://embed-api.clickhost.xyz/embed/serie/95480/6/1" ] },
         { "season": 6, "episode": 2, "embeds": [ "https://mgeb.top/embed/95480/6/2", "https://redeflixapi.store/serie/95480/6/2", "https://myembed.biz/serie/95480/6/2", "http://embed-api.clickhost.xyz/embed/serie/95480/6/2" ] },
         { "season": 6, "episode": 3, "embeds": [ "https://streamtape.com/e/b2R0ePDLrmUPy8x/mat%C3%A9ria_escura_t1e1.mp4", "https://streamtape.com/v/b2R0ePDLrmUPy8x/mat%C3%A9ria_escura_t1e1.mp4", "https://myembed.biz/serie/95480/6/2", "http://embed-api.clickhost.xyz/embed/serie/95480/6/2" ] }
