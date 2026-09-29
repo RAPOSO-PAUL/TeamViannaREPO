@@ -1,5 +1,19 @@
 {"movies":[
 {
+  "tmdb_id":1433367,
+  "type":"movie",
+  "added_at":"2026-09-28",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1433367"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1433367"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1433367"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1433367"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:xt66pz5ioki5334cidiy4piyfjzmodm2&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.S%C3%B3+Por+Uma+Noite+2026+WEB-DL+1080p+x264+DUAL+5.1" },
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:2489fbac6f5a694810df6bce8d4f8d0bfb8c45b5&dn=S%C3%B3%20Por%20Uma%20Noite%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2207073762&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337" }
+  ],
+  "youtube":"O0hYxsxqwls"
+},
+{
   "tmdb_id":590223,
   "type":"movie",
   "added_at":"2026-09-28",
