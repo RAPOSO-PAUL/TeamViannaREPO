@@ -1434,6 +1434,7 @@
   "tmdb_id":10895,
   "type":"movie",
   "added_at":"2026-08-11",
+  "kids": ["Prezinhos", "Aborrecentes"],
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.top/embed/10895"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/10895"},
