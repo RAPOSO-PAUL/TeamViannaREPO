@@ -1435,9 +1435,15 @@
   "type":"movie",
   "added_at":"2026-08-11",
   "sources":[
-    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:pdpobehormazuvtwkfsku4ngbkmpybcj"},
-    {"name":"Dublado (link direto)","stream_url":"https://archive.org/download/wooden-boy-1940/Wooden%20Boy%201940.mkv"}
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/10895"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/10895"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/10895"},
+    {"name":"PLAYER 4","embed":"https://embed-api.clickhost.xyz/embed/filme/10895"},
+    {"name":"DIRETO 1)","stream_url":"https://archive.org/download/wooden-boy-1940/Wooden%20Boy%201940.mkv"},
+    {"name":"DIRETO 2)","stream_url":"https://share.deepstorage.dev/8b6c5d9d345db1e795e5ea4c57921d25/P1N0QV10%201940.mp4"},
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:3BA19BCBE2D2A80A104FE6CCECB2A5DBE3E9BA53&dn=Pin%c3%b3quio%20-%20O%20Filme%201940%20720p%20WWW.TORRENTDOSFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=http%3a%2f%2ftracker.bittorrent.am%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:10B2D766A9A82E31CB827FB0569B2BB3AC84EA90&dn=Pinocchio.1940.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337"}
   ],
-  "youtube":"GBgyVY_ClzQ"
+  "youtube":"kqwao_kgFLE"
 }
 ]}
