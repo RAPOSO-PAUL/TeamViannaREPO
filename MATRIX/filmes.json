@@ -1,5 +1,18 @@
 {"movies":[
 {
+  "tmdb_id":1264169,
+  "type":"movie",
+  "added_at":"2026-09-30",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1264169"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1264169"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1264169"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1264169"},
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:c3642cbf6c1af999db1cf3ad7031369a52c6b521&dn=Criadas.2026.1080p.WEB-DL.x264.NACiONAL.5.1&xl=2677470904&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce" }
+  ],
+  "youtube":"GO1tW6sW8S0"
+},
+{
   "tmdb_id":1480025,
   "type":"movie",
   "added_at":"2026-09-29",
