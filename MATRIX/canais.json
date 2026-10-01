@@ -35,6 +35,26 @@
       "nome": "Esportes",
       "canais": [
         {
+          "nome": "SPORTV HD1",
+          "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/sportv/"
+        },
+        {
+          "nome": "SPORTV HD2",
+          "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
+          "embed": "https://w7.embedtv.lat/sportv/"
+        },
+        {
+          "nome": "SPORTV HD3",
+          "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
+          "embed": "https://rdcanais.net/sportv"
+        },
+        {
+          "nome": "SPORTV HD4",
+          "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/sportv"
+        },
+        {
           "nome": "ESPN 1 HD1",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/espn/"
