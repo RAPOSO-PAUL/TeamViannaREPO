@@ -158,8 +158,8 @@
     {
       "tmdb_id": 287620,
       "type": "tv",
-      "provider": "HBO MAX",
-      "added_at": "2026-09-20"
+      "provider": ["HBO MAX", "Prime Video"],
+      "added_at": "2026-10-01"
     },
     {
       "tmdb_id": 125988,
