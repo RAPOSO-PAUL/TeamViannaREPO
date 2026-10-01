@@ -16,6 +16,17 @@
 
   "radios": [
     {
+      "nome": "Bahia FM Sul",
+      "stream": "https://zoeweb.net/proxy/verdinha/stream",
+      "estado": "BA",
+      "cidade": "Itabuna",
+      "dial": "102.1 FM",
+      "generos": ["Musica", "Entretenimento", "Humor", "Noticias", "Festas"],
+      "thumb": "https://i.ibb.co/5WxJJ0vC/Bahia-FM-Sul-102-1t.jpg",
+      "fanart": "https://i.ibb.co/7x0Ddh0z/Gemini-Generated-Image-cepq85cepq85cepq.jpg",
+      "descricao": "é uma emissora de rádio brasileira com sede em Itabuna, que transmite na frequência 102.1 MHz para a região sul do estado, incluindo Ilhéus"
+    },
+    {
       "nome": "Verdinha FM",
       "stream": "https://zoeweb.net/proxy/verdinha/stream",
       "estado": "CE",
