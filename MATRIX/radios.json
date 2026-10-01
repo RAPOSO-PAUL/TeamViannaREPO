@@ -17,7 +17,7 @@
   "radios": [
     {
       "nome": "Bahia FM Sul",
-      "stream": "https://zoeweb.net/proxy/verdinha/stream",
+      "stream": "https://ice.fabricahost.com.br/bahiafmsul",
       "estado": "BA",
       "cidade": "Itabuna",
       "dial": "102.1 FM",
