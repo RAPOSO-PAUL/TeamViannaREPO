@@ -1,5 +1,21 @@
 {"movies":[
 {
+  "tmdb_id":12153,
+  "type":"movie",
+  "added_at":"2026-09-30",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/12153"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/12153"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/12153"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/12153"},
+    {"name":"DUBLADO 720p","magnet":"magnet:?xt=urn:btih:E53FA318DCF67470622BE145A6B8F383DE84A59A&dn=As%20Branquelas%202004%20SEM%20CORTES%205.1%20DUBLADO%20%28720p%29%20LAPUMiA" },
+    {"name":"DUAL ÁUDIO 720p","magnet":"magnet:?xt=urn:btih:C6B363EEE923BF399CC494321CD50C97FBF22852&dn=As%20Branquelas%202004%20SEM%20CORTES%205.1%20%28720p%29%20LAPUMiA" },
+    {"name":"DUAL ÁUDIO 1080p","magnet":"magnet:?xt=urn:btih:2b225c5e837debcdeafe46251ae1c616786cf723&dn=As+Branquelas+%282004%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337" },
+    {"name":"DUAL ÁUDIO 1080p 2","magnet":"magnet:?xt=urn:btih:6FBE716D9A5C573BB46A74679AEBE83B3121C954&dn=As%20Branquelas%202004%20SEM%20CORTES%205.1%20%281080p%29%20LAPUMiA" }
+  ],
+  "youtube":"cjnmsoJavj0"
+},
+{
   "tmdb_id":1264169,
   "type":"movie",
   "added_at":"2026-09-30",
