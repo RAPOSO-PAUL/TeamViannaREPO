@@ -1,5 +1,20 @@
 {"movies":[
 {
+  "tmdb_id":1726,
+  "type":"movie",
+  "added_at":"2026-10-01",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1726"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1726"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1726"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1726"},
+    {"name":"DUBLADO 720p","magnet":"magnet:?xt=urn:btih:c8b08624e87e1376c5f31ac04f1dc9a8e37f64e0&dn=Homem+De+Ferro+%282008%29+720p+HD+Dublado+Pt+Br+%5B+Blu+Ray+%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337" },
+    {"name":"DUBLADO 1080p","magnet":"magnet:?xt=urn:btih:5871A93D9D436D3EBD290C4AC88FB5B684E875C0&dn=Homem%20De%20Ferro%20%282008%29%20-%20BDRip%201080p%20-%20Dublado&tr=udp%3a//tracker.openbittorrent.com%3a80/announce" },
+    {"name":"DUBLADO 1080p 2","magnet":"magnet:?xt=urn:btih:0e179428501f420f484ca5720e93c7368a873231&dn=Homem+de+Ferro+%282008%29+1080p+Dublado+%2F+Dual+Audio+pt-BR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337" }
+  ],
+  "youtube":"xXAdp_KJ-0A"
+},
+{
   "tmdb_id":938150,
   "type":"movie",
   "added_at":"2026-10-01",
