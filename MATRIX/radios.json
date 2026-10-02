@@ -16,6 +16,17 @@
 
   "radios": [
     {
+      "nome": "Ipanema Comunitária FM",
+      "stream": "https://stream02.ouveai.com.br/8058/stream",
+      "estado": "RS",
+      "cidade": "Porto Alegre",
+      "dial": "87.9 FM",
+      "generos": ["Educação", "Entretenimento", "Músicas"],
+      "thumb": "https://i.ibb.co/1YfxDZx8/Ipanema-Comunit-ria-87-9-FMT.jpg",
+      "fanart": "https://i.ibb.co/RGkWxb7S/Gemini-Generated-Image-clq0o6clq0o6clq0.jpg",
+      "descricao": "é uma emissora de rádio comunitária sem fins lucrativos localizada em Porto Alegre, Rio Grande do Sul"
+    },
+    {
       "nome": "Bahia FM Sul",
       "stream": "https://ice.fabricahost.com.br/bahiafmsul",
       "estado": "BA",
