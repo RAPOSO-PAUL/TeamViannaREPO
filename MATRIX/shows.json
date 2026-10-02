@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 258165,
+      "type": "tv",
+      "provider": "Netflix",
+      "added_at": "2026-10-01"
+    },
+    {
       "tmdb_id": 250203,
       "type": "tv",
       "provider": ["Apple TV+", "Prime Video"],
