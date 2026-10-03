@@ -217,6 +217,26 @@
       ]
     },
     {
+      "nome": "Abertos",
+      "canais": [
+        {
+          "nome": "TELECINE ACTION HD1",
+          "imagem": "https://i.ibb.co/Q7187G1N/tc-action.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/tcaction/"
+        },
+        {
+          "nome": "TELECINE ACTION HD2",
+          "imagem": "https://i.ibb.co/Q7187G1N/tc-action.jpg",
+          "embed": "https://w7.embedtv.lat/telecineaction"
+        },
+        {
+          "nome": "TELECINE ACTION HD3",
+          "imagem": "https://i.ibb.co/Q7187G1N/tc-action.jpg",
+          "embed": "https://rdcanais.net/telecineaction"
+        }
+      ]
+    },
+    {
       "nome": "24 HORAS",
       "canais": [
         {
