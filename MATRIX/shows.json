@@ -4,13 +4,13 @@
   "tmdb_id":318918,
   "type":"tv",
   "added_at":"2026-10-03",
-  "provider":"Netflix",
+  "provider":"Netflix"
 }, 
     {
   "tmdb_id":298852,
   "type":"tv",
   "added_at":"2026-10-03",
-  "provider":["HBO MAX", "Prime Video"],
+  "provider":["HBO MAX", "Prime Video"]
 },
     {
   "tmdb_id":279185,
