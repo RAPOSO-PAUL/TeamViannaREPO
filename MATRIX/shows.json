@@ -1,6 +1,337 @@
 {
   "shows": [
     {
+  "tmdb_id":279185,
+  "type":"tv",
+  "added_at":"2026-10-03"
+},
+{
+  "tmdb_id":615,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+",
+  "kids":"Aborrecentes"
+},
+{
+  "tmdb_id":333631,
+  "type":"tv",
+  "added_at":"2026-10-03"
+},
+{
+  "tmdb_id":1413,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+"
+},
+{
+  "tmdb_id":60625,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":["HBO MAX","Netflix"]
+},
+{
+  "tmdb_id":135934,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Prime Video"
+},
+{
+  "tmdb_id":85552,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"HBO MAX"
+},
+{
+  "tmdb_id":76479,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Prime Video"
+},
+{
+  "tmdb_id":66732,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":110492,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"HBO MAX"
+},
+{
+  "tmdb_id":194764,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"HBO MAX"
+},
+{
+  "tmdb_id":94605,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":203744,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":289219,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+",
+  "kids":["Prezinhos","Aborrecentes"]
+},
+{
+  "tmdb_id":95557,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Prime Video"
+},
+{
+  "tmdb_id":258901,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "kids":"Aborrecentes"
+},
+{
+  "tmdb_id":94954,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Prime Video"
+},
+{
+  "tmdb_id":259140,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix",
+  "kids":"Aborrecentes"
+},
+{
+  "tmdb_id":240411,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":215401,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+"
+},
+{
+  "tmdb_id":207332,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":277439,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":289560,
+  "type":"tv",
+  "added_at":"2026-10-03"
+},
+{
+  "tmdb_id":211288,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+"
+},
+{
+  "tmdb_id":314916,
+  "type":"tv",
+  "added_at":"2026-10-03"
+},
+{
+  "tmdb_id":138501,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+"
+},
+{
+  "tmdb_id":56570,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":["Netflix","Disney+"]
+},
+{
+  "tmdb_id":71915,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Prime Video"
+},
+{
+  "tmdb_id":127235,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":119051,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":90802,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":252107,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":87917,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":202411,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":223530,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Paramount+"
+},
+{
+  "tmdb_id":225171,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":157239,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+"
+},
+{
+  "tmdb_id":93740,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":195382,
+  "type":"tv",
+  "added_at":"2026-10-03"
+},
+{
+  "tmdb_id":203737,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "kids":"Aborrecentes"
+},
+{
+  "tmdb_id":270476,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":82428,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":135250,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+"
+},
+{
+  "tmdb_id":94245,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":124364,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Globoplay"
+},
+{
+  "tmdb_id":93166,
+  "type":"tv",
+  "added_at":"2026-10-03"
+},
+{
+  "tmdb_id":112211,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+{
+  "tmdb_id":91239,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Netflix"
+},
+{
+  "tmdb_id":299167,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Paramount+"
+},
+{
+  "tmdb_id":88367,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"HBO MAX",
+  "kids":["Prezinhos","Aborrecentes"]
+},
+{
+  "tmdb_id":209867,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "kids":"Aborrecentes"
+},
+{
+  "tmdb_id":105971,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+",
+  "kids":"Aborrecentes"
+},
+{
+  "tmdb_id":91363,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+",
+  "kids":"Aborrecentes"
+},
+{
+  "tmdb_id":74440,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"HBO MAX"
+},
+{
+  "tmdb_id":138503,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Disney+",
+  "kids":"Aborrecentes"
+},
+    {
       "tmdb_id": 258165,
       "type": "tv",
       "provider": "Netflix",
