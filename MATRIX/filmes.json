@@ -1,5 +1,70 @@
 {"movies":[
 {
+  "tmdb_id":797109,
+  "type":"movie",
+  "added_at":"2026-10-03",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/797109"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/797109"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/797109"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/797109"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:rosjvzc3vpznjszy4i5tvitvi3q7jp4c&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.MUSICAS.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Notas+de+um+Amor+Secreto.2025.1080p.WEB-DL.x264.DUAL.2.0"}
+  ],
+  "youtube":"TArtPWIX7fc"
+},
+{
+  "tmdb_id":1458857,
+  "type":"movie",
+  "added_at":"2026-10-03",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1458857"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1458857"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1458857"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1458857"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:hyv77uwry53j7mu44vor3fmglyirbgxm&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Cartas+de+Reden%C3%A7%C3%A3o.2026.1080p.WEB-DL.DUAL.5.1"}
+  ],
+  "youtube":"zrOtmDQawas"
+},
+{
+  "tmdb_id":1752355,
+  "type":"movie",
+  "added_at":"2026-10-03",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1752355"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1752355"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1752355"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1752355"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:75gemni2otwl76gtva4ciyhchalamtjz&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Schumacher+94+-+Nasce+Uma+Lenda+2026+WEB-DL+1080p+x264+DUAL+5.1"}
+  ],
+  "youtube":"7fDrlNje1iU"
+},
+{
+  "tmdb_id":1464883,
+  "type":"movie",
+  "added_at":"2026-10-03",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1464883"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1464883"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1464883"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1464883"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:g4y2ea2l2dx7tsvr2cfiby6bcxz27pk2&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.O+Bolo+do+Presidente.2026.1080p.WEB-DL.x264.DUAL.2.0"}
+  ],
+  "youtube":"8i3idbVnC6I"
+},
+{
+  "tmdb_id":1418525,
+  "type":"movie",
+  "added_at":"2026-10-03",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1418525"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1418525"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1418525"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1418525"},
+    {"name":"1080p Nacional","magnet":"magnet:?xt=urn:btih:4f2t4vs7bq2pdwaktgbxn7jfrfyq4yyl&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-NACIONAL-.Hora+do+Recreio.2026.1080p.WEB-DL.x264.NACIONAL.5.1"}
+  ],
+  "youtube":"C8iHfMhskL0"
+},
+{
   "tmdb_id":885658,
   "type":"movie",
   "added_at":"2026-10-02",
