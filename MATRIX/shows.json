@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+  "tmdb_id":239618,
+  "type":"tv",
+  "added_at":"2026-10-03",
+  "provider":"Apple TV+"
+},
+    {
   "tmdb_id":285418,
   "type":"tv",
   "added_at":"2026-10-03",
