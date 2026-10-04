@@ -1,7 +1,7 @@
 {
-  "versao": 1,
-  "nome": "1.0",
-  "apk": "https://archive.org/download/cinego.1.1/cinego.1.1.apk",
+  "versao": 2,
+  "nome": "1.2",
+  "apk": "https://archive.org/download/cinego.1.1/cine-go1.2.apk",
   "obrigatoria": true,
-  "novidades": "Nova aba Canais e correções de estabilidade."
+  "novidades": "Ajuste na Navegação, Ajuste em configurações, aprimoramento dos canais e filmes e séries stream."
 }
