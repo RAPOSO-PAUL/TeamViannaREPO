@@ -27,6 +27,17 @@
       "descricao": "é uma emissora de rádio comunitária sem fins lucrativos localizada em Porto Alegre, Rio Grande do Sul"
     },
     {
+      "nome": "CBN O Povo FM",
+      "stream": "https://ice.fabricahost.com.br/cbnfortaleza",
+      "estado": "CE",
+      "cidade": "Fortaleza",
+      "dial": "95.5 FM",
+      "generos": ["Noticias", "Entretenimento", "Esportes"],
+      "thumb": "https://i.ibb.co/fd9CBXym/CBN-O-Povo-95-5-FMt.jpg",
+      "fanart": "https://i.ibb.co/SkL5nKY/CBN-O-Povo-95-5-FMf.jpg",
+      "descricao": "all-news) no estado do Ceará, sediada em Fortaleza e pertencente ao Grupo de Comunicação O Povo."
+    },
+    {
       "nome": "Bahia FM Sul",
       "stream": "https://ice.fabricahost.com.br/bahiafmsul",
       "estado": "BA",
