@@ -1,0 +1,57 @@
+name: Metadados do TMDB
+
+on:
+  # logo depois que o catalogo muda
+  push:
+    paths:
+      - "MATRIX/filmes.json"
+      - "MATRIX/shows.json"
+      - "MATRIX/series.json"
+  # todo dia as 04:00 de Brasilia (revisa 1/14 dos titulos)
+  schedule:
+    - cron: "0 7 * * *"
+  # botao "Run workflow"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metadados
+  cancel-in-progress: false
+
+jobs:
+  metadados:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Consultar o TMDB
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+          # so a rodada diaria (e o botao) revisa os antigos; o envio do
+          # catalogo so busca os NOVOS — termina em poucos minutos
+          REVISAR: ${{ github.event_name == 'push' && 'nao' || 'sim' }}
+        run: python3 scripts/metadados_tmdb.py
+
+      - name: Publicar
+        run: |
+          git config user.name "metadados-bot"
+          git config user.email "metadados-bot@users.noreply.github.com"
+          git add MATRIX/metadados.json MATRIX/relatorio_tmdb.md
+          if git diff --cached --quiet; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git commit -m "metadados $(date -u +%Y-%m-%dT%H:%MZ)"
+          # se voce enviou algo enquanto o robo rodava, junta antes de enviar
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
+          exit 1
