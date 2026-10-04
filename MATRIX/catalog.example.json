@@ -12,6 +12,7 @@
   { "nome": "Globoplay", "imagem": "globoplay" },
   { "nome": "Paramount+", "imagem": "paramountplus" },
   { "nome": "Apple TV+", "imagem": "appletv" },
-  { "nome": "Telecine", "imagem": "telecine" }
+  { "nome": "Telecine", "imagem": "telecine" },
+  { "nome": "crunchyroll", "imagem": "crunchyroll" }
 ]
 }
