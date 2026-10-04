@@ -1,6 +1,25 @@
 {
   "series": [
     {
+      "tmdb_id": 239618,
+      "type": "tv",
+      "added_at": "2026-10-03",
+      "episodes": [
+        { "season": 1, "episode": 1, "embeds": [ "https://mgeb.top/embed/239618/1/1", "https://redeflixapi.store/serie/239618/1/1", "https://myembed.biz/serie/239618/1/1", "http://embed-api.clickhost.xyz/embed/serie/239618/1/1" ] },
+        { "season": 1, "episode": 2, "embeds": [ "https://mgeb.top/embed/239618/1/2", "https://redeflixapi.store/serie/239618/1/2", "https://myembed.biz/serie/239618/1/2", "http://embed-api.clickhost.xyz/embed/serie/239618/1/2" ] },
+        { "season": 1, "episode": 3, "embeds": [ "https://mgeb.top/embed/239618/1/3", "https://redeflixapi.store/serie/239618/1/3", "https://myembed.biz/serie/239618/1/3", "http://embed-api.clickhost.xyz/embed/serie/239618/1/3" ] }
+      ]
+    },
+    {
+      "tmdb_id": 207484,
+      "type": "tv",
+      "added_at": "2026-10-03",
+      "episodes": [
+        { "season": 2, "episode": 1, "embeds": [ "https://mgeb.top/embed/207484/2/1", "https://redeflixapi.store/serie/207484/2/1", "https://myembed.biz/serie/207484/2/1", "http://embed-api.clickhost.xyz/embed/serie/207484/2/1" ] },
+        { "season": 2, "episode": 2, "embeds": [ "https://mgeb.top/embed/207484/2/2", "https://redeflixapi.store/serie/207484/2/2", "https://myembed.biz/serie/207484/2/2", "http://embed-api.clickhost.xyz/embed/serie/207484/2/2" ] }
+      ]
+    },
+    {
       "tmdb_id": 270572,
       "type": "tv",
       "added_at": "2026-10-03",
