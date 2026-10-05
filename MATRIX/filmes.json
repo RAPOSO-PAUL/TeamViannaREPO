@@ -236,18 +236,6 @@
   "youtube":"W1kCbtjPJ2U"
 },
 {
-  "tmdb_id":1592410,
-  "type":"movie",
-  "added_at":"2026-10-04",
-  "sources":[
-    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1592410"},
-    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1592410"},
-    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1592410"},
-    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1592410"},
-    {"name":"1080p","magnet":"magnet:?xt=urn:btih:v34i5le2osrsesnb4c4lvv3i63mbkcbs&dn=Socorro.Minha.Baba.Tirou.Ferias.2026.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"}
-  ]
-},
-{
   "tmdb_id":1022988,
   "type":"movie",
   "added_at":"2026-10-04",
