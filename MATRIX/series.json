@@ -1,7 +1,8 @@
 {
   "shows": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/shows.json",
   "series": [
-    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/ROOSTER-FIGHTER.json",
+    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/DEVIL-MAY-CRY.json",
+	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/ROOSTER-FIGHTER.json",
 	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/AMONG-US.json",
 	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/O-INCRIVEL-CIRCO-DIGITAL.json",
 	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/1-CONTRA-TODOS.json",
