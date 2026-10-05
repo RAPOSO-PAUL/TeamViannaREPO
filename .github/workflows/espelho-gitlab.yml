@@ -1,0 +1,79 @@
+name: Espelho GitLab
+
+# =====================================================================
+# ESPELHO GITHUB -> GITLAB (reserva do catalogo)
+#
+# Copia este repositorio para o projeto de MESMO NOME no GitLab.
+# Serve para os DOIS repositorios (TeamViannaREPO e SERIES-FLIX-PLAY):
+# o mesmo arquivo nos dois, so trocando a linha GITLAB_USUARIO abaixo.
+#
+# Precisa do segredo GITLAB_TOKEN (token do GitLab com write_repository)
+# em Settings -> Secrets and variables -> Actions.
+#
+# IMPORTANTE: nunca edite arquivos direto no GitLab. Tudo nasce aqui no
+# GitHub e e copiado para la (inclusive o .gitlab-ci.yml do Pages).
+# =====================================================================
+
+on:
+  # sempre que voce enviar algo
+  push:
+    branches: [main]
+  # sempre que o robo dos metadados terminar (os commits dele nao
+  # disparam outros robos sozinhos). No SERIES-FLIX-PLAY isto nunca
+  # acontece, e nao atrapalha.
+  workflow_run:
+    workflows: ["Metadados do TMDB"]
+    types: [completed]
+  # por seguranca, a cada 6 horas
+  schedule:
+    - cron: "17 */6 * * *"
+  # botao "Run workflow"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: espelho-gitlab
+  cancel-in-progress: false
+
+env:
+  # >>> TROQUE PELO SEU USUARIO DO GITLAB (so o nome, sem @) <<<
+  GITLAB_USUARIO: "eu-group4011541"
+
+jobs:
+  espelho:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0        # o historico inteiro (o GitLab precisa dele)
+
+      - name: Enviar para o GitLab
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+          # o projeto no GitLab tem o MESMO nome do repositorio daqui
+          PROJETO: ${{ github.event.repository.name }}
+        run: |
+          if [ -z "$GITLAB_TOKEN" ]; then
+            echo "ERRO: falta o segredo GITLAB_TOKEN neste repositorio."
+            exit 1
+          fi
+          if [ "$GITLAB_USUARIO" = "SEU_USUARIO_GITLAB" ]; then
+            echo "ERRO: troque SEU_USUARIO_GITLAB pelo seu usuario do GitLab neste arquivo."
+            exit 1
+          fi
+          DESTINO="https://oauth2:${GITLAB_TOKEN}@gitlab.com/${GITLAB_USUARIO}/${PROJETO}.git"
+          echo "Enviando para gitlab.com/${GITLAB_USUARIO}/${PROJETO} ..."
+          if git push "$DESTINO" HEAD:refs/heads/main; then
+            echo "Espelho em dia."
+          else
+            echo ""
+            echo "ERRO ao enviar. Causas comuns:"
+            echo " - o token venceu ou nao tem write_repository;"
+            echo " - o projeto no GitLab tem outro nome ou outro usuario;"
+            echo " - alguem editou arquivos direto no GitLab (o historico divergiu)."
+            exit 1
+          fi
