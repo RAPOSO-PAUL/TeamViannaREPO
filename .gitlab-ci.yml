@@ -1,0 +1,83 @@
+# =====================================================================
+# GITLAB = RESERVA do catalogo (TeamViannaREPO)
+#
+# Este arquivo mora no GITHUB e chega aqui pelo espelho (o GitHub ignora
+# ele). Nunca edite nada direto no GitLab.
+#
+#   pages              -> publica a pasta MATRIX no GitLab Pages e TROCA os
+#                         links de dentro dos JSON: GitHub -> GitLab. Roda
+#                         sozinho quando algo da MATRIX muda (~1 minuto).
+#   metadados_reserva  -> o robo dos metadados, RESERVA. So roda pelo botao
+#                         (ou agendado, se a variavel ROBO_RESERVA = ligado).
+#                         Use so se o GitHub parar: enquanto o espelho estiver
+#                         ativo, ele sobrescreveria o que este robo gravar.
+#
+# Plano gratis do GitLab: 400 minutos de robo por mes. O pages gasta ~1 min
+# por publicacao; o robo reserva fica desligado para nao gastar a cota.
+# =====================================================================
+
+stages:
+  - publicar
+  - reserva
+
+variables:
+  GITHUB_PRINCIPAL: "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO"
+  GITHUB_SERIES: "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY"
+
+pages:
+  stage: publicar
+  image: alpine:3.20
+  rules:
+    # o espelho enviou algo da MATRIX (ou este arquivo)
+    - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      changes:
+        - MATRIX/**/*
+        - .gitlab-ci.yml
+    # botao "Run pipeline"
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+  script:
+    - mkdir -p public
+    - cp -r MATRIX public/MATRIX
+    # endereco do Pages DESTE projeto e o do projeto das series (vizinho).
+    # Se um dia o das series for outro, crie a variavel SERIES_PAGES_URL.
+    - BASE="$CI_PAGES_URL"
+    - SERIES="${SERIES_PAGES_URL:-${CI_PAGES_URL%/*}/SERIES-FLIX-PLAY}"
+    - echo "Pages deste projeto  -> $BASE"
+    - echo "Pages das series     -> $SERIES"
+    # TROCA DOS LINKS (as duas formas de link do GitHub: refs/heads/main e main)
+    - >
+      find public -type f -name '*.json' -exec sed -i
+      -e "s#${GITHUB_PRINCIPAL}/refs/heads/main#${BASE}#g"
+      -e "s#${GITHUB_PRINCIPAL}/main#${BASE}#g"
+      -e "s#${GITHUB_SERIES}/refs/heads/main#${SERIES}#g"
+      -e "s#${GITHUB_SERIES}/main#${SERIES}#g"
+      {} +
+    # copias comprimidas: o Pages entrega o .gz para quem aceita (bem menor)
+    - find public -type f \( -name '*.json' -o -name '*.txt' -o -name '*.md' \) -exec gzip -k -9 -f {} \;
+    - du -sh public
+  artifacts:
+    paths:
+      - public
+
+metadados_reserva:
+  stage: reserva
+  image: python:3.12
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+      when: manual
+      allow_failure: true
+    - if: '$CI_PIPELINE_SOURCE == "schedule" && $ROBO_RESERVA == "ligado"'
+  variables:
+    REVISAR: "sim"
+  script:
+    # precisa das variaveis TMDB_TOKEN e GITLAB_PUSH_TOKEN
+    # (Settings -> CI/CD -> Variables, marcadas como "Masked")
+    - test -n "$TMDB_TOKEN" || (echo "falta a variavel TMDB_TOKEN" && exit 1)
+    - test -n "$GITLAB_PUSH_TOKEN" || (echo "falta a variavel GITLAB_PUSH_TOKEN" && exit 1)
+    - python3 scripts/metadados_tmdb.py
+    - git config user.name "metadados-reserva"
+    - git config user.email "metadados-reserva@users.noreply.gitlab.com"
+    - git add MATRIX/metadados.json MATRIX/relatorio_tmdb.md
+    - git diff --cached --quiet && { echo "nada mudou"; exit 0; } || true
+    - git commit -m "metadados (reserva) $(date -u +%Y-%m-%dT%H:%MZ)"
+    - git push "https://oauth2:${GITLAB_PUSH_TOKEN}@gitlab.com/${CI_PROJECT_PATH}.git" HEAD:refs/heads/$CI_DEFAULT_BRANCH
