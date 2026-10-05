@@ -1,6 +1,84 @@
 {
 "movies":[
 {
+  "tmdb_id":1291595,
+  "type":"movie",
+  "added_at":"2026-10-05",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1291595"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1291595"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1291595"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1291595"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:ulc3ikknl44sthp5z65smir2owinyz3c&dn=Sobrenatural%20Agora%20Entre%20N%C3%B3s.2026.1080p.FULL.HD.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"}
+  ],
+  "youtube":"gXjurDkYnEM"
+},
+{
+  "tmdb_id":1318413,
+  "type":"movie",
+  "added_at":"2026-10-05",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1318413"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1318413"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1318413"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1318413"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:we4muzjezfbi7yvpjj6ooutiznvks2zk&dn=Pressao.2026.1080p.WEB-DL.x264.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"}
+  ],
+  "youtube":"jjdOSchcobk"
+},
+{
+  "tmdb_id":591889,
+  "type":"movie",
+  "added_at":"2026-10-05",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/591889"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/591889"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/591889"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/591889"},
+    {"name":"1080p Dublado","magnet":"magnet:?xt=urn:btih:yblywiuecbdx73zxu2c32ki4f2mszyhm&dn=Mam%C3%A3e%20N%C3%A3o%20Vai%20Te%20Machucar.2019.1080p.WEB-DL.DUBLADO.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"}
+  ]
+},
+{
+  "tmdb_id":1047836,
+  "type":"movie",
+  "added_at":"2026-10-05",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/1047836"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1047836"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1047836"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1047836"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:khpo6trgq6u6w3i7dvritjbtg53q45k7&dn=A%20Vida%20em%20um%20Pote%20de%20Vidro.2022.1080p.WEB-DL.x264.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"}
+  ],
+  "youtube":"sUCYQWJol2k"
+},
+{
+  "tmdb_id":969681,
+  "type":"movie",
+  "added_at":"2026-10-05",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/969681"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/969681"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/969681"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/969681"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:ioxgrghcxakomutlb4owx4fo7kmonakh&dn=Homem-Aranha%20Um%20Novo%20Dia.2026.1080p.WEB-DL.x264.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
+    {"name":"1080p Dual Áudio 2","magnet":"magnet:?xt=urn:btih:wea6wxctoom2o4cfxwejfbedxnttvchu&dn=Homem-Aranha%20Um%20Novo%20Dia.2026.1080p.FULL.HD.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"}
+  ],
+  "youtube":"QrxivJMVCyU"
+},
+{
+  "tmdb_id":640361,
+  "type":"movie",
+  "added_at":"2026-10-05",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.top/embed/640361"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/640361"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/640361"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/640361"},
+    {"name":"720p","magnet":"magnet:?xt=urn:btih:af7e1a1455f888faf959b901b43f813317537935&dn=Ashes.2018.720p.WEB-DL.XviD.AC3-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2790"},
+    {"name":"1080p","magnet":"magnet:?xt=urn:btih:3e85b8d237c5d6f957e44c8c2c565a7f0fa528fb&dn=Ashes.2018.1080p.WEB-DL.DD5.1.H264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2760&tr=udp%3A%2F%2F9.rarbg.to%3A2730"}
+  ]
+},
+{
   "tmdb_id":90369,
   "type":"movie",
   "added_at":"2026-10-04",
