@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 04/10/2026 18:42 (Brasília).
+Rodada de 04/10/2026 21:52 (Brasília).
 
-- Catálogo: 13274 filmes e 93 séries
-- Consultados nesta rodada: 13367 (13367 novos)
+- Catálogo: 13274 filmes e 1122 séries
+- Consultados nesta rodada: 1029 (1029 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -43,3 +43,9 @@ Nenhum.
 - movie `1643801` Astro Boy
 - movie `1738197` The Agency
 - movie `1778837` RPG
+- tv `120623` Save the Leftovers
+- tv `245712` True Detectives
+- tv `282417` The Flash
+- tv `287540` Glitch!
+- tv `303254` A Casa Fantasma
+- tv `325059` The Sinners
