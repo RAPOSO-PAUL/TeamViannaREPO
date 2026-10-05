@@ -41,6 +41,11 @@ TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
 # "sim" na rodada diaria; "nao" quando disparado pelo envio do catalogo
 REVISAR = os.environ.get("REVISAR", "sim") == "sim"
 FATIAS = 14             # revisao: cada titulo e revisto a cada 14 dias
+# VERSAO DO FORMATO do metadados.json. Sobe quando um campo novo entra:
+# o arquivo com versao menor e consultado DE NOVO por inteiro, uma vez.
+#   1 = nome, capa, fundo, data, nota, generos, redes
+#   2 = + "o": titulo original (a busca do app procura nele tambem)
+VERSAO_FORMATO = 2
 PARALELOS = 8           # consultas ao mesmo tempo (o TMDB aguenta bem mais)
 POR_SEGUNDO = 30        # teto de consultas por segundo
 API = "https://api.themoviedb.org/3"
@@ -187,10 +192,14 @@ def ficha(tipo, tmdb_id):
     if d is None or d == "404":
         return d
     nome = d.get("name") if tipo == "tv" else d.get("title")
+    original = d.get("original_name") if tipo == "tv" else d.get("original_title")
     data = d.get("first_air_date") if tipo == "tv" else d.get("release_date")
     f = {}
     if nome:
         f["n"] = nome
+    # titulo ORIGINAL so quando e diferente (ex.: "Spider-Man" x "Homem-Aranha")
+    if original and original.strip().lower() != (nome or "").strip().lower():
+        f["o"] = original
     if d.get("poster_path"):
         f["capa"] = d["poster_path"]
     if d.get("backdrop_path"):
@@ -228,7 +237,8 @@ def gravar(meta):
         linhas = [json.dumps(str(k)) + ":" + json.dumps(d[k], ensure_ascii=False, separators=(",", ":"))
                   for k in sorted(d, key=int)]
         return "{\n" + ",\n".join(linhas) + "\n}"
-    texto = ('{"versao":1,\n"movie":' + bloco(meta["movie"]) + ',\n"tv":' + bloco(meta["tv"]) + "}\n")
+    texto = ('{"versao":' + str(VERSAO_FORMATO) + ',\n"movie":' + bloco(meta["movie"]) +
+             ',\n"tv":' + bloco(meta["tv"]) + "}\n")
     antigo = open(SAIDA, encoding="utf-8").read() if os.path.exists(SAIDA) else ""
     if texto != antigo:
         with open(SAIDA, "w", encoding="utf-8") as f:
@@ -246,13 +256,17 @@ def main():
     print(f"catalogo: {len(filmes)} filmes, {len(series)} series")
 
     meta = {"movie": {}, "tv": {}}
+    formato_velho = False
     if os.path.exists(SAIDA):
         try:
             antigo = ler_json_local(SAIDA)
             meta["movie"] = {int(k): v for k, v in (antigo.get("movie") or {}).items()}
             meta["tv"] = {int(k): v for k, v in (antigo.get("tv") or {}).items()}
+            formato_velho = int(antigo.get("versao") or 1) < VERSAO_FORMATO
         except Exception:
             print("metadados.json ilegivel — comecando do zero")
+    if formato_velho:
+        print(f"formato antigo do metadados.json: consultando TODOS de novo (versao {VERSAO_FORMATO})")
 
     # 3. quem saiu do catalogo sai daqui
     removidos = 0
@@ -267,7 +281,7 @@ def main():
     fila = []
     for tipo, ids in (("movie", filmes), ("tv", series)):
         for i in ids:
-            if i not in meta[tipo] or (REVISAR and i % FATIAS == fatia):
+            if formato_velho or i not in meta[tipo] or (REVISAR and i % FATIAS == fatia):
                 fila.append((tipo, i))
     novos = sum(1 for t, i in fila if i not in meta[t])
     print(f"a consultar: {len(fila)} ({novos} novos, {len(fila) - novos} revisoes); {removidos} removidos")
