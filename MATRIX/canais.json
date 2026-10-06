@@ -218,6 +218,31 @@
       ]
     },
     {
+      "nome": "Premiere",
+      "canais": [
+        {
+          "nome": "PREMIERE HD1",
+          "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/premiereclubes/"
+        },
+		{
+          "nome": "PREMIERE HD2",
+          "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
+          "embed": "https://ww0.embedtv.cc/premiere"
+        },
+		{
+          "nome": "PREMIERE HD3",
+          "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
+          "embed": "https://rdcanais.net/premiereclubesalternativo"
+        },
+		{
+          "nome": "PREMIERE HD4",
+          "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/premiere"
+        }
+      ]
+    },
+	{
       "nome": "Filmes e Séries",
       "canais": [
         {
