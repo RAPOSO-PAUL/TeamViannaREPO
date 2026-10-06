@@ -1,5 +1,6 @@
 {
   "canais": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/canais.json",
+  "guia": "https://raw.githubusercontent.com/RAPOSO-PAUL/GUIA-TV/refs/heads/main/guia.json",
   "movies": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/filmes.json",
   "series": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/series.json",
   "background": "https://i.ibb.co/NdvhVfGn/fundo.jpg",
