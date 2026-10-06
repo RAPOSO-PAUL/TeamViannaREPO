@@ -253,12 +253,32 @@
 		{
           "nome": "PREMIERE 2 HD3",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "https://rdcanais.net/premiere3alternativo"
+          "embed": "https://rdcanais.net/premiere2alternativo"
         },
 		{
           "nome": "PREMIERE 2 HD4",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/premiere2"
+        },
+		{
+          "nome": "PREMIERE 3 HD1",
+          "imagem": "https://i.ibb.co/XrFxFS8H/premiere-3.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/premiere3/"
+        },
+		{
+          "nome": "PREMIERE 3 HD2",
+          "imagem": "https://i.ibb.co/XrFxFS8H/premiere-3.jpg",
+          "embed": "https://ww0.embedtv.cc/premiere3"
+        },
+		{
+          "nome": "PREMIERE 3 HD3",
+          "imagem": "https://i.ibb.co/XrFxFS8H/premiere-3.jpg",
+          "embed": "https://rdcanais.net/premiere3alternativo"
+        },
+		{
+          "nome": "PREMIERE 3 HD4",
+          "imagem": "https://i.ibb.co/XrFxFS8H/premiere-3.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/premiere4"
         }
       ]
     },
