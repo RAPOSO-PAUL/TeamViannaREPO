@@ -1,7 +1,7 @@
 {
-  "versao": 4,
-  "nome": "1.4",
-  "apk": "https://share.deepstorage.dev/dcea3f0aa79bc8c0292766a53c63a924/cine%20go%201.4.apk",
+  "versao": 5,
+  "nome": "1.5",
+  "apk": "https://share.deepstorage.dev/acfd89028bb2853602fd680803f91ca8/cine%20go1.5.apk",
   "obrigatoria": true,
-  "novidades": "Melhora na velocidade de abertura do catalogo. Ajustes na guia de programação."
+  "novidades": "Aprimoramento de segurança."
 }
