@@ -21,6 +21,16 @@
           "embed": "https://ww0.embedtv.cc/globodf"
         },
 		{
+          "nome": "GLOBO ES HD1",
+          "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/globoes/"
+        },
+		{
+          "nome": "GLOBO ES HD2",
+          "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
+          "embed": "https://ww0.embedtv.cc/globoes"
+        },
+		{
           "nome": "BAND HD1",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
