@@ -1,6 +1,69 @@
 {
 "movies":[
 {
+    "tmdb_id": 1468471,
+    "type": "movie",
+    "added_at": "2026-10-06",
+    "sources": [
+      {"name": "PLAYER 1", "embed": "https://mgeb.top/embed/1468471"},
+      {"name": "PLAYER 2", "embed": "https://redeflixapi.store/filme/1468471"},
+      {"name": "PLAYER 3", "embed": "https://myembed.biz/filme/1468471"},
+      {"name": "PLAYER 4", "embed": "http://embed-api.clickhost.xyz/embed/filme/1468471"},
+      {"name": "1080p Dual Áudio", "magnet": "magnet:?xt=urn:btih:aapap4itipirrnymquippo2rqghsupx3&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-.Um.Noivado.em.Machu.Picchu.2025.1080p.WEB-DL.DUBLADO.2.0"}
+    ],
+    "youtube": "yvpfLMtqIGQ"
+  },
+  {
+    "tmdb_id": 1142913,
+    "type": "movie",
+    "added_at": "2026-10-06",
+    "sources": [
+      {"name": "PLAYER 1", "embed": "https://mgeb.top/embed/1142913"},
+      {"name": "PLAYER 2", "embed": "https://redeflixapi.store/filme/1142913"},
+      {"name": "PLAYER 3", "embed": "https://myembed.biz/filme/1142913"},
+      {"name": "PLAYER 4", "embed": "http://embed-api.clickhost.xyz/embed/filme/1142913"},
+      {"name": "1080p Dual Áudio", "magnet": "magnet:?xt=urn:btih:khm2f7x3gidotzsokfkgpzg773xtrlof&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.O.Bebe.Maldito.2025.1080p.WEB-DL.DUAL.2.0"}
+    ],
+    "youtube": "aW6NNz_67_Y"
+  },
+  {
+    "tmdb_id": 1035889,
+    "type": "movie",
+    "added_at": "2026-10-06",
+    "sources": [
+      {"name": "PLAYER 1", "embed": "https://mgeb.top/embed/1035889"},
+      {"name": "PLAYER 2", "embed": "https://redeflixapi.store/filme/1035889"},
+      {"name": "PLAYER 3", "embed": "https://myembed.biz/filme/1035889"},
+      {"name": "PLAYER 4", "embed": "http://embed-api.clickhost.xyz/embed/filme/1035889"},
+      {"name": "1080p Dual Áudio", "magnet": "magnet:?xt=urn:btih:v4jmox6mk5sn7yen4eb2fojqvo66jcb4&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-.Stealing.In.Suburbia.2022.1080p.WEB-DL.DUBLADO.2.0"}
+    ]
+  },
+  {
+    "tmdb_id": 686158,
+    "type": "movie",
+    "added_at": "2026-10-06",
+    "sources": [
+      {"name": "PLAYER 1", "embed": "https://mgeb.top/embed/686158"},
+      {"name": "PLAYER 2", "embed": "https://redeflixapi.store/filme/686158"},
+      {"name": "PLAYER 3", "embed": "https://myembed.biz/filme/686158"},
+      {"name": "PLAYER 4", "embed": "http://embed-api.clickhost.xyz/embed/filme/686158"},
+      {"name": "1080p Dual Áudio", "magnet": "magnet:?xt=urn:btih:7top7adkkmawhgux3pgefk7es5kpv6wf&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-.Instacrime.InstaPsycho.2020.1080p.WEB-DL.DUBLADO.2.0"}
+    ],
+    "youtube": "lvdYg7TFEXk"
+  },
+  {
+    "tmdb_id": 1339745,
+    "type": "movie",
+    "added_at": "2026-10-06",
+    "sources": [
+      {"name": "PLAYER 1", "embed": "https://mgeb.top/embed/1339745"},
+      {"name": "PLAYER 2", "embed": "https://redeflixapi.store/filme/1339745"},
+      {"name": "PLAYER 3", "embed": "https://myembed.biz/filme/1339745"},
+      {"name": "PLAYER 4", "embed": "http://embed-api.clickhost.xyz/embed/filme/1339745"},
+      {"name": "1080p Dual Áudio", "magnet": "magnet:?xt=urn:btih:irkiwmp52fbrpbsth7znwaupelie5qnw&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-.Segredos.da.Rua.Maple.Um.pesadelo.em.Familia.2024.1080p.WEB-DL.DUBLADO.2.0"}
+    ]
+  },
+{
   "tmdb_id":1592410,
   "type":"movie",
   "added_at":"2026-10-05",
