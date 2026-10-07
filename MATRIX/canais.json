@@ -11,6 +11,16 @@
       "nome": "Abertos",
       "canais": [
         {
+          "nome": "GLOBO DF HD1",
+          "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/globodf/"
+        },
+		{
+          "nome": "GLOBO DF HD2",
+          "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
+          "embed": "https://ww0.embedtv.cc/globodf"
+        },
+		{
           "nome": "BAND HD1",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
