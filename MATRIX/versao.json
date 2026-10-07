@@ -1,7 +1,7 @@
 {
-  "versao": 3,
-  "nome": "1.3",
-  "apk": "https://archive.org/download/cinego.1.1/cine%20go%201.3.apk",
+  "versao": 4,
+  "nome": "1.4",
+  "apk": "https://github.com/RAPOSO-PAUL/TeamViannaREPO/raw/refs/heads/main/LEIA/wwww/cine%20go%201.4.apk",
   "obrigatoria": true,
   "novidades": "Melhora na velocidade de abertura do catalogo. Ajustes na guia de programação."
 }
