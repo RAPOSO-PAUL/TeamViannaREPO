@@ -11,6 +11,21 @@
       "nome": "Abertos",
       "canais": [
         {
+          "nome": "GLOBO RJ HD1",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/globorj/"
+        },
+		{
+          "nome": "GLOBO RJ HD2",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "https://ww0.embedtv.cc/globorj"
+        },
+		{
+          "nome": "GLOBO RJ HD3",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/globorj"
+        },
+		{
           "nome": "GLOBO DF HD1",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/globodf/"
