@@ -31,6 +31,21 @@
           "embed": "https://ww0.embedtv.cc/globoes"
         },
 		{
+          "nome": "GLOBO MG HD1",
+          "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/globomg/"
+        },
+		{
+          "nome": "GLOBO MG HD2",
+          "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
+          "embed": "https://ww0.embedtv.cc/globomg"
+        },
+		{
+          "nome": "GLOBO MG HD3",
+          "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/globomg"
+        },
+		{
           "nome": "BAND HD1",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
