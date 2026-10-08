@@ -1,6 +1,546 @@
 {
   "shows": [
     {
+      "tmdb_id": 243881,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 236400,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 73375,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 221300,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 110695,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 80350,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 62160,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 71789,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 122379,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 112693,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 126118,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 38585,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 83677,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 83344,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 87525,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 111260,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 91520,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 4454,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 111647,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 93782,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 9923,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 87523,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 106707,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 88713,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 108842,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 97535,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 88236,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 100884,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 82104,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 93737,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 99673,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 115200,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 93177,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 35310,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 31035,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 81224,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 76692,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 80703,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 74159,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 72749,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66292,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 90214,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 81948,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 17174,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 85487,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 39845,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 79323,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 87415,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 76284,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 85647,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 83657,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 78191,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 37678,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 84534,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 78101,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 73987,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 81829,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 72844,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 82456,
+      "type": "tv",
+      "added_at": "2026-10-08",
+      "kids": ["Prezinhos", "Aborrecentes"]
+    },
+    {
+      "tmdb_id": 76526,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 67384,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 1420,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 67725,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 68018,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 74577,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 17534,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 70391,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 124512,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66633,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 60791,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66939,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 71440,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 48865,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66844,
+      "type": "tv",
+      "added_at": "2026-10-08",
+      "kids": "Aborrecentes"
+    },
+    {
+      "tmdb_id": 67936,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 63333,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 64199,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 61664,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 69776,
+      "type": "tv",
+      "added_at": "2026-10-08",
+      "kids": "Aborrecentes"
+    },
+    {
+      "tmdb_id": 62046,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 71225,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 70690,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66185,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 69851,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 65856,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 60585,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 67118,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66788,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66489,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66545,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 60556,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 65294,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 66606,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 62126,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 60554,
+      "type": "tv",
+      "added_at": "2026-10-08",
+      "kids": ["Prezinhos", "Aborrecentes"]
+    },
+    {
+      "tmdb_id": 63351,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 67142,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 1419,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 16814,
+      "type": "tv",
+      "added_at": "2026-10-08",
+      "kids": "Chefinhos"
+    },
+    {
+      "tmdb_id": 40008,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 46648,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 50825,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 62732,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 32900,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 53425,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 1411,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+    {
+      "tmdb_id": 65063,
+      "type": "tv",
+      "added_at": "2026-10-08"
+    },
+	{
       "tmdb_id": 25793,
       "type": "tv",
       "added_at": "2026-10-05"
