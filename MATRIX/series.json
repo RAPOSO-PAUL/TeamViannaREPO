@@ -1,7 +1,8 @@
 {
   "shows": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/shows.json",
   "series": [
-    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/13-REASONS-WHY.json",
+    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/TARTARUGAS-NINJA-HISTORIAS-MUTANTES.json",
+	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/13-REASONS-WHY.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/A-GAROTA-DA-MOTO.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/A-HISTORIA-DE-DEUS-COM-MORGAN-FREEMAN.json",
     "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/A-LENDA-DE-SLEEPY-HOLLOW.json",
