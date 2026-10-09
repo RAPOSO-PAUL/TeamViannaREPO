@@ -179,6 +179,21 @@
           "nome": "BAND RJ HD",
           "imagem": "https://i.ibb.co/S40Bmgn4/band-rj.jpg",
           "embed": "https://ww0.embedtv.cc/bandrj"
+        },
+		{
+          "nome": "REDETV HD",
+          "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/redetv/"
+        },
+		{
+          "nome": "REDETV HD 2",
+          "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
+          "embed": "https://rdcanais.org/redetv"
+        },
+		{
+          "nome": "REDETV HD 3",
+          "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/redetv"
         }
       ]
     },
