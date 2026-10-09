@@ -136,6 +136,31 @@
           "embed": "https://rdcanais.org/record"
         },
 		{
+          "nome": "RECORD SP HD4",
+          "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/record"
+        },
+		{
+          "nome": "RECORD RJ HD1",
+          "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/recordrj/"
+        },
+		{
+          "nome": "RECORD RJ HD2",
+          "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
+          "embed": "https://ww0.embedtv.cc/recordrj"
+        },
+		{
+          "nome": "RECORD MG HD1",
+          "imagem": "https://i.ibb.co/3yYzBxgm/record-mg.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/recordmg/"
+        },
+		{
+          "nome": "RECORD MG HD2",
+          "imagem": "https://i.ibb.co/3yYzBxgm/record-mg.jpg",
+          "embed": "https://ww0.embedtv.cc/recordmg/"
+        },
+		{
           "nome": "BAND HD1",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/bandsp/"
