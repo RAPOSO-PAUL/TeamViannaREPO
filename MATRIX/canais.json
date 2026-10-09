@@ -11,6 +11,26 @@
       "nome": "Abertos",
       "canais": [
         {
+          "nome": "GLOBO SP HD1",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/globosp/"
+        },
+		{
+          "nome": "GLOBO SP HD2",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
+          "embed": "https://ww0.embedtv.cc/globosp"
+        },
+		{
+          "nome": "GLOBO SP HD3",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
+          "embed": "https://rdcanais.org/globosp"
+        },
+		{
+          "nome": "GLOBO SP HD4",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/globosp"
+        },
+		{
           "nome": "GLOBO RJ HD1",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/globorj/"
@@ -22,6 +42,11 @@
         },
 		{
           "nome": "GLOBO RJ HD3",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "https://rdcanais.org/globorj"
+        },
+		{
+          "nome": "GLOBO RJ HD4",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/globorj"
         },
@@ -36,6 +61,11 @@
           "embed": "https://ww0.embedtv.cc/globodf"
         },
 		{
+          "nome": "GLOBO DF HD3",
+          "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
+          "embed": "https://rdcanais.org/globodf"
+        },
+		{
           "nome": "GLOBO ES HD1",
           "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/globoes/"
@@ -44,6 +74,11 @@
           "nome": "GLOBO ES HD2",
           "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
           "embed": "https://ww0.embedtv.cc/globoes"
+        },
+		{
+          "nome": "GLOBO ES HD3",
+          "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
+          "embed": "https://rdcanais.org/globoes"
         },
 		{
           "nome": "GLOBO MG HD1",
@@ -57,6 +92,11 @@
         },
 		{
           "nome": "GLOBO MG HD3",
+          "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
+          "embed": "https://rdcanais.org/globomg"
+        },
+		{
+          "nome": "GLOBO MG HD4",
           "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/globomg"
         },
@@ -72,6 +112,11 @@
         },
 		{
           "nome": "GLOBO RS HD3",
+          "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
+          "embed": "https://rdcanais.org/globors"
+        },
+		{
+          "nome": "GLOBO RS HD4",
           "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/globors"
         },
