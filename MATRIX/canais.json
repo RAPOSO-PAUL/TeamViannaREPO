@@ -11,6 +11,26 @@
       "nome": "Abertos",
       "canais": [
         {
+          "nome": "SBT SP HD1",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/sbtsp/"
+        },
+		{
+          "nome": "SBT SP HD2",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://ww0.embedtv.cc/sbtsp"
+        },
+		{
+          "nome": "SBT SP HD3",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://rdcanais.org/sbt"
+        },
+		{
+          "nome": "SBT SP HD4",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/sbt"
+        },
+		{
           "nome": "GLOBO SP HD1",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/globosp/"
