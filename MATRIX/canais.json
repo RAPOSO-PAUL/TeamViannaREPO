@@ -674,6 +674,26 @@
           "nome": "TELECINE FUN HD4",
           "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/telecinefun"
+        },
+		{
+          "nome": "TELECINE PIPOCA HD1",
+          "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/tcpipoca/"
+        },
+		{
+          "nome": "TELECINE PIPOCA HD2",
+          "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
+          "embed": "https://ww0.embedtv.cc/telecinepipoca"
+        },
+		{
+          "nome": "TELECINE PIPOCA HD3",
+          "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
+          "embed": "https://rdcanais.org/telecinepipoca"
+        },
+		{
+          "nome": "TELECINE PIPOCA HD4",
+          "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/telecinepipoca"
         }
       ]
     },
