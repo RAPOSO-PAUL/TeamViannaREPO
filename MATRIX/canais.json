@@ -694,6 +694,26 @@
           "nome": "TELECINE PIPOCA HD4",
           "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/telecinepipoca"
+        },
+		{
+          "nome": "TELECINE PREMIUM HD1",
+          "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/tcpremium/"
+        },
+		{
+          "nome": "TELECINE PREMIUM HD2",
+          "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
+          "embed": "https://ww0.embedtv.cc/telecinepremium"
+        },
+		{
+          "nome": "TELECINE PREMIUM HD3",
+          "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
+          "embed": "https://rdcanais.org/telecinepremium"
+        },
+		{
+          "nome": "TELECINE PREMIUM HD4",
+          "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/telecinepremium"
         }
       ]
     },
