@@ -570,7 +570,13 @@
 	{
       "nome": "Pay Per View",
       "canais": [
-        {"nome": "CAZE TV HD", 
+	    {
+          "nome": "PRIME VIDEO HD1",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://i.ibb.co/twXSv4nZ/prime-video.jpg"
+        },
+        {
+		"nome": "CAZE TV HD",
 		 "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg", 
 		 "embed": "https://www.youtube.com/@CazeTV"
 		},
@@ -627,7 +633,7 @@
       ]
     },
 	{
-      "nome": "Filmes e Séries",
+      "nome": "Telecine",
       "canais": [
         {
           "nome": "TELECINE ACTION HD1",
@@ -648,6 +654,26 @@
           "nome": "TELECINE ACTION HD4",
           "imagem": "https://i.ibb.co/Q7187G1N/tc-action.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/telecineaction"
+        },
+		{
+          "nome": "TELECINE FUN HD1",
+          "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/tcfun/"
+        },
+		{
+          "nome": "TELECINE FUN HD2",
+          "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
+          "embed": "https://ww0.embedtv.cc/telecinefun"
+        },
+		{
+          "nome": "TELECINE FUN HD3",
+          "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
+          "embed": "https://rdcanais.org/telecinefun"
+        },
+		{
+          "nome": "TELECINE FUN HD4",
+          "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/telecinefun"
         }
       ]
     },
