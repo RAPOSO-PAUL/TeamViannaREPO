@@ -570,7 +570,11 @@
 	{
       "nome": "Pay Per View",
       "canais": [
-        {
+        {"nome": "CAZE TV HD", 
+		 "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg", 
+		 "embed": "https://www.youtube.com/@CazeTV"
+		},
+		{
           "nome": "CAZE TV HD1",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
           "embed": "https://1709.cdnembedcanais.xyz/cazetv5/"
