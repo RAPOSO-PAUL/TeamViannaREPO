@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 10/10/2026 10:27 (Brasília).
+Rodada de 10/10/2026 14:13 (Brasília).
 
-- Catálogo: 14507 filmes e 1236 séries
-- Consultados nesta rodada: 1139 (0 novos)
+- Catálogo: 14568 filmes e 1236 séries
+- Consultados nesta rodada: 61 (61 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -28,6 +28,7 @@ Nenhum.
 - movie `427132` Afonso Padilha: Isso Tem que Dar Certo
 - movie `468504` Mate o Rei
 - movie `553301` Your Name
+- movie `556378` Paths
 - movie `574781` The After Party
 - movie `583998` Anomalia 914
 - movie `604389` Perigosa Atração 2014
@@ -38,6 +39,7 @@ Nenhum.
 - movie `1123014` Delicious
 - movie `1162310` A Despedida
 - movie `1172858` Desaparecida
+- movie `1198823` Growing Up Ethan
 - movie `1368047` The Beast Inside
 - movie `1378362` Submerged
 - movie `1472343` Arsenal
