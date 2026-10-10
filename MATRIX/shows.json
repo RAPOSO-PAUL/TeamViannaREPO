@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 284833,
+      "type": "tv",
+      "added_at": "2026-10-10"
+	  "kids": "Aborrecentes"
+    },
+	{
       "tmdb_id": 231725,
       "type": "tv",
       "added_at": "2026-10-09",
