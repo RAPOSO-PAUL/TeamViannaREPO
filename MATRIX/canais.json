@@ -573,45 +573,50 @@
         {
           "nome": "CAZE TV HD1",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://1709.cdnembedcanais.xyz/cazetv/"
+          "embed": "https://1709.cdnembedcanais.xyz/cazetv5/"
         },
 		{
           "nome": "CAZE TV HD2",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://ww0.embedtv.cc/caze1"
+          "embed": "https://1709.cdnembedcanais.xyz/cazetv/"
         },
 		{
           "nome": "CAZE TV HD3",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/caze1"
+          "embed": "https://ww0.embedtv.cc/caze1"
         },
 		{
           "nome": "CAZE TV HD4",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://1709.cdnembedcanais.xyz/cazetv2/"
+          "embed": "https://nossoplayeronlinehd.ink/tv/caze1"
         },
 		{
           "nome": "CAZE TV HD5",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://ww0.embedtv.cc/caze2"
+          "embed": "https://1709.cdnembedcanais.xyz/cazetv2/"
         },
 		{
           "nome": "CAZE TV HD6",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/caze2"
+          "embed": "https://ww0.embedtv.cc/caze2"
         },
 		{
           "nome": "CAZE TV HD7",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://1709.cdnembedcanais.xyz/cazetv3/"
+          "embed": "https://nossoplayeronlinehd.ink/tv/caze2"
         },
 		{
           "nome": "CAZE TV HD8",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://ww0.embedtv.cc/caze3"
+          "embed": "https://1709.cdnembedcanais.xyz/cazetv3/"
         },
 		{
           "nome": "CAZE TV HD9",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "https://ww0.embedtv.cc/caze3"
+        },
+		{
+          "nome": "CAZE TV HD10",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/caze3"
         }
