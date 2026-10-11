@@ -734,6 +734,26 @@
           "nome": "TELECINE PREMIUM HD4",
           "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/telecinepremium"
+        },
+		{
+          "nome": "TELECINE CULT HD1",
+          "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
+          "embed": "https://1709.cdnembedcanais.xyz/tccult/"
+        },
+		{
+          "nome": "TELECINE CULT HD2",
+          "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
+          "embed": "https://ww0.embedtv.cc/telecinecult"
+        },
+		{
+          "nome": "TELECINE CULT HD3",
+          "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
+          "embed": "https://rdcanais.org/telecinecult"
+        },
+		{
+          "nome": "TELECINE CULT HD4",
+          "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/telecinecult"
         }
       ]
     },
