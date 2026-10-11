@@ -4,6 +4,7 @@
   "embedtv.lat",
   "embedtv.cc",
   "rdcanais.net",
+  "rdcanais.org",
   "nossoplayeronlinehd.ink"
 ],
   "categorias": [
@@ -188,7 +189,7 @@
         {
           "nome": "BAND HD2",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
-          "embed": "https://rdcanais.net/band"
+          "embed": "https://rdcanais.org/band"
         },
         {
           "nome": "BAND HD3",
@@ -233,7 +234,7 @@
         {
           "nome": "SPORTV HD3",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "https://rdcanais.net/sportvalternativo"
+          "embed": "https://rdcanais.org/sportvalternativo"
         },
         {
           "nome": "SPORTV HD4",
@@ -253,7 +254,7 @@
         {
           "nome": "SPORTV 2 HD3",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
-          "embed": "https://rdcanais.net/sportv2"
+          "embed": "https://rdcanais.org/sportv2"
         },
         {
           "nome": "SPORTV 2 HD4",
@@ -273,7 +274,7 @@
         {
           "nome": "SPORTV 3 HD3",
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
-          "embed": "https://rdcanais.net/sportv3"
+          "embed": "https://rdcanais.org/sportv3"
         },
         {
           "nome": "SPORTV 3 HD4",
@@ -293,7 +294,7 @@
         {
           "nome": "ESPN 1 HD3",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://rdcanais.net/espn"
+          "embed": "https://rdcanais.org/espn"
         },
         {
           "nome": "ESPN 1 HD4",
@@ -313,7 +314,7 @@
         {
           "nome": "ESPN 2 HD3",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "https://rdcanais.net/espn2"
+          "stream": "https://rdcanais.org/espn2"
         },
         {
           "nome": "ESPN 2 HD4",
@@ -333,7 +334,7 @@
         {
           "nome": "ESPN 3 HD3",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "stream": "https://rdcanais.net/espn3"
+          "stream": "https://rdcanais.org/espn3"
         },
         {
           "nome": "ESPN 3 HD4",
@@ -353,7 +354,7 @@
         {
           "nome": "ESPN 4 HD3",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "stream": "https://rdcanais.net/espn4"
+          "stream": "https://rdcanais.org/espn4"
         },
         {
           "nome": "ESPN 4 HD4",
@@ -373,7 +374,7 @@
         {
           "nome": "ESPN 5 HD3",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "stream": "https://rdcanais.net/espn5"
+          "stream": "https://rdcanais.org/espn5"
         },
         {
           "nome": "ESPN 5 HD4",
@@ -393,7 +394,7 @@
         {
           "nome": "ESPN 6 HD3",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "stream": "https://rdcanais.net/espn6"
+          "stream": "https://rdcanais.org/espn6"
         },
         {
           "nome": "ESPN 6 HD4",
@@ -418,7 +419,7 @@
 		{
           "nome": "PREMIERE HD3",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "https://rdcanais.net/premiereclubesalternativo"
+          "embed": "https://rdcanais.org/premiereclubesalternativo"
         },
 		{
           "nome": "PREMIERE HD4",
@@ -438,7 +439,7 @@
 		{
           "nome": "PREMIERE 2 HD3",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "https://rdcanais.net/premiere2alternativo"
+          "embed": "https://rdcanais.org/premiere2alternativo"
         },
 		{
           "nome": "PREMIERE 2 HD4",
@@ -458,7 +459,7 @@
 		{
           "nome": "PREMIERE 3 HD3",
           "imagem": "https://i.ibb.co/XrFxFS8H/premiere-3.jpg",
-          "embed": "https://rdcanais.net/premiere3alternativo"
+          "embed": "https://rdcanais.org/premiere3alternativo"
         },
 		{
           "nome": "PREMIERE 3 HD4",
@@ -478,7 +479,7 @@
 		{
           "nome": "PREMIERE 4 HD3",
           "imagem": "https://i.ibb.co/gL8TfLcX/premiere-34.jpg",
-          "embed": "https://rdcanais.net/premiere4alternativo"
+          "embed": "https://rdcanais.org/premiere4alternativo"
         },
 		{
           "nome": "PREMIERE 4 HD4",
@@ -498,7 +499,7 @@
 		{
           "nome": "PREMIERE 5 HD3",
           "imagem": "https://i.ibb.co/1Y0JXWCC/premiere-5.jpg",
-          "embed": "https://rdcanais.net/premiere5alternativo"
+          "embed": "https://rdcanais.org/premiere5alternativo"
         },
 		{
           "nome": "PREMIERE 5 HD4",
@@ -518,7 +519,7 @@
 		{
           "nome": "PREMIERE 6 HD3",
           "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
-          "embed": "https://rdcanais.net/premiere6alternativo"
+          "embed": "https://rdcanais.org/premiere6alternativo"
         },
 		{
           "nome": "PREMIERE 6 HD4",
@@ -538,7 +539,7 @@
 		{
           "nome": "PREMIERE 7 HD3",
           "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
-          "embed": "https://rdcanais.net/premiere7alternativo"
+          "embed": "https://rdcanais.org/premiere7alternativo"
         },
 		{
           "nome": "PREMIERE 7 HD4",
@@ -558,7 +559,7 @@
 		{
           "nome": "PREMIERE 8 HD3",
           "imagem": "https://i.ibb.co/SXHnfcyP/premiere-8.jpg",
-          "embed": "https://rdcanais.net/premiere8alternativo"
+          "embed": "https://rdcanais.org/premiere8alternativo"
         },
 		{
           "nome": "PREMIERE 8 HD4",
@@ -648,7 +649,7 @@
         {
           "nome": "TELECINE ACTION HD3",
           "imagem": "https://i.ibb.co/Q7187G1N/tc-action.jpg",
-          "embed": "https://rdcanais.net/telecineaction"
+          "embed": "https://rdcanais.org/telecineaction"
         },
         {
           "nome": "TELECINE ACTION HD4",
