@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 10/10/2026 14:13 (Brasília).
+Rodada de 11/10/2026 16:19 (Brasília).
 
-- Catálogo: 14568 filmes e 1236 séries
-- Consultados nesta rodada: 61 (61 novos)
+- Catálogo: 14572 filmes e 1237 séries
+- Consultados nesta rodada: 5 (5 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -32,6 +32,7 @@ Nenhum.
 - movie `574781` The After Party
 - movie `583998` Anomalia 914
 - movie `604389` Perigosa Atração 2014
+- movie `648112` Stairs
 - movie `714611` Banana Split
 - movie `884299` Sobre nós
 - movie `1004377` Soma
