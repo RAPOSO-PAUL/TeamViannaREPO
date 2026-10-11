@@ -1,4 +1,8 @@
 {
+  "canais_warp": [
+    "GLOBO RJ HD1",
+    "GLOBO RJ HD2",
+  ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
   "embedtv.lat",
