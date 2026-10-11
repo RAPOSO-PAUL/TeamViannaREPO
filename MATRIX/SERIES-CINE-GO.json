@@ -5,10 +5,10 @@
   "type": "tv",
   "added_at": "2026-10-11",
   "episodes": [
-    { "season": 1, "episode": 1, "embeds": [ "https://mgeb.site/embed/3475/1/1", "https://redeflixapi.store/serie/3475/1/1", "https://myembed.biz/serie/3475/1/1", "http://embed-api.clickhost.xyz/embed/serie/3475/1/1" ] },
-    { "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/3475/1/2", "https://redeflixapi.store/serie/3475/1/2", "https://myembed.biz/serie/3475/1/2", "http://embed-api.clickhost.xyz/embed/serie/3475/1/2" ] },
-    { "season": 1, "episode": 3, "embeds": [ "https://mgeb.site/embed/3475/1/3", "https://redeflixapi.store/serie/3475/1/3", "https://myembed.biz/serie/3475/1/3", "http://embed-api.clickhost.xyz/embed/serie/3475/1/3" ] },
-    { "season": 1, "episode": 4, "embeds": [ "https://mgeb.site/embed/3475/1/4", "https://redeflixapi.store/serie/3475/1/4", "https://myembed.biz/serie/3475/1/4", "http://embed-api.clickhost.xyz/embed/serie/3475/1/4" ] }
+    { "season": 1, "episode": 1, "sources": [{"name": "DIRETO", "stream_url": "https://share.deepstorage.dev/1b21baaba98dcfd61c1adfaff2d87011/TH3%20L%20W0RD%20T1E1.mkv"}], "embeds": [ "https://mgeb.site/embed/3475/1/1", "https://redeflixapi.store/serie/3475/1/1", "https://myembed.biz/serie/3475/1/1", "http://embed-api.clickhost.xyz/embed/serie/3475/1/1" ] },
+    { "season": 1, "episode": 2, "sources": [{"name": "DIRETO", "stream_url": "https://share.deepstorage.dev/8b0030199846eb412ae02147d34fb2a8/TH3%20L%20W0RD%20T1E2.mkv"}], "embeds": [ "https://mgeb.site/embed/3475/1/2", "https://redeflixapi.store/serie/3475/1/2", "https://myembed.biz/serie/3475/1/2", "http://embed-api.clickhost.xyz/embed/serie/3475/1/2" ] },
+    { "season": 1, "episode": 3, "sources": [{"name": "DIRETO", "stream_url": "https://share.deepstorage.dev/6088a41f1c2e433745470bb2269d09fe/TH3%20L%20W0RD%20T1E3.mkv"}], "embeds": [ "https://mgeb.site/embed/3475/1/3", "https://redeflixapi.store/serie/3475/1/3", "https://myembed.biz/serie/3475/1/3", "http://embed-api.clickhost.xyz/embed/serie/3475/1/3" ] },
+    { "season": 1, "episode": 4, "sources": [{"name": "DIRETO", "stream_url": "https://share.deepstorage.dev/619123ac4a95743418697b4777490ed7/TH3%20L%20W0RD%20T1E4.mkv"}], "embeds": [ "https://mgeb.site/embed/3475/1/4", "https://redeflixapi.store/serie/3475/1/4", "https://myembed.biz/serie/3475/1/4", "http://embed-api.clickhost.xyz/embed/serie/3475/1/4" ] }
   ]
 },
 	{
