@@ -5,7 +5,8 @@
   "embedtv.cc",
   "rdcanais.net",
   "rdcanais.org",
-  "nossoplayeronlinehd.ink"
+  "nossoplayeronlinehd.ink",
+  "multicanais.cyou"
 ],
   "categorias": [
     {
@@ -70,6 +71,11 @@
           "nome": "GLOBO RJ HD4",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/globorj"
+        },
+		{
+          "nome": "GLOBO RJ HD5",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "https://multicanais.cyou/player.php?id=globorj"
         },
 		{
           "nome": "GLOBO DF HD1",
