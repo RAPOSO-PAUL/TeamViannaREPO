@@ -2,7 +2,7 @@
     "canais_warp": [
 	"GLOBO RJ HD5",
 	"SPORTV HD1",
-    "GLOBO RJ HD1",
+    "GLOBO RJ HD",
     "GLOBO RJ HD2",
     "GLOBO RJ HD5",
     "SPORTV HD2",
@@ -45,6 +45,7 @@
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
+  "embedcanaisdetv.xyz",
   "embedtv.lat",
   "embedtv.cc",
   "rdcanais.net",
@@ -97,9 +98,9 @@
           "embed": "https://nossoplayeronlinehd.ink/tv/globosp"
         },
 		{
-          "nome": "GLOBO RJ HD1",
+          "nome": "GLOBO RJ HD",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://1110.cdnembedcanais.xyz/globorj/"
+          "embed": "https://embedcanaisdetv.xyz/e/index.php?canal=globorj"
         },
 		{
           "nome": "GLOBO RJ HD2",
