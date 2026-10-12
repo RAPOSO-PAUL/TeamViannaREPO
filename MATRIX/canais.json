@@ -1,5 +1,6 @@
 {
     "canais_warp": [
+	"GLOBO RJ HD5",
 	"SPORTV HD1",
     "GLOBO RJ HD1",
     "GLOBO RJ HD2",
@@ -116,7 +117,7 @@
           "embed": "https://nossoplayeronlinehd.ink/tv/globorj"
         },
 		{
-          "nome": "GLOBO RJ HD5",
+          "nome": "GLOBO RJ HD6",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
           "embed": "https://multicanais.cyou/player.php?id=globorj"
         },
