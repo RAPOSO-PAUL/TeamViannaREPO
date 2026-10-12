@@ -2,7 +2,8 @@
     "canais_warp": [
 	"GLOBO RJ HD5",
 	"SPORTV HD1",
-    "GLOBO RJ HD1",
+    "GLOBO RJ HD",
+	"GLOBO RJ HD1",
     "GLOBO RJ HD2",
     "GLOBO RJ HD5",
     "SPORTV HD2",
@@ -99,9 +100,14 @@
           "embed": "https://nossoplayeronlinehd.ink/tv/globosp"
         },
 		{
+          "nome": "GLOBO RJ HD",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "iframe:https://1210.cdnembedcanais.xyz/globorj/"
+        },
+		{
           "nome": "GLOBO RJ HD1",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://1210.playerembcanais.com/globorj/"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globorj"
         },
 		{
           "nome": "GLOBO RJ HD2",
