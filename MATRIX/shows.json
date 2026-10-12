@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 117830,
+      "type": "tv",
+      "added_at": "2026-10-11",
+	  "kids": "Aborrecentes"
+    },
+	{
       "tmdb_id": 284833,
       "type": "tv",
       "added_at": "2026-10-10",
@@ -6300,7 +6306,7 @@
       "tmdb_id": 287620,
       "type": "tv",
       "provider": ["HBO MAX", "Prime Video"],
-      "added_at": "2026-10-01"
+      "added_at": "2026-10-11"
     },
     {
       "tmdb_id": 125988,
