@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 302540,
+      "type": "tv",
+      "added_at": "2026-10-12",
+	  "kids": ["Prezinhos", "Aborrecentes"]
+    },
+	{
       "tmdb_id": 117830,
       "type": "tv",
       "added_at": "2026-10-11",
