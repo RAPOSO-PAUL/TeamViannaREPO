@@ -658,7 +658,22 @@
 	    {
           "nome": "PRIME VIDEO HD1",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://i.ibb.co/twXSv4nZ/prime-video.jpg"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo"
+        },
+		{
+          "nome": "PRIME VIDEO HD2",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://ww0.embedtv.cc/primevideo"
+        },
+		{
+          "nome": "PRIME VIDEO HD3",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/primevideo"
+        },
+		{
+          "nome": "PRIME VIDEO HD4",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=primevideo"
         },
         {
 		"nome": "CAZE TV HD",
