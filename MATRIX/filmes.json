@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":13161,
+  "type":"movie",
+  "added_at":"2026-10-12",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/13161"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/13161"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/13161"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/13161"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:d10eb4ff902115ea8a21e33827d649d9d2fbefb8&dn=Big+Stan+Arrebentando+na+Pris%26atilde%3Bo+%282007%29+Dublado+PT-BR+mo93&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:4ac50111bff2ab279e4f6f4b7e16876babbc06d8&dn=Big+Stan+%282007%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"}
+  ]
+},
+{
   "tmdb_id":1187326,
   "type":"movie",
   "added_at":"2026-10-12",
