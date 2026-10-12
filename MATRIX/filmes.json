@@ -1,6 +1,58 @@
 {
 "movies":[
 {
+  "tmdb_id":1793755,
+  "type":"movie",
+  "added_at":"2026-10-11",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1793755"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1793755"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1793755"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1793755"},
+    {"name":"1080p Nacional","magnet":"magnet:?xt=urn:btih:3bneyiohv24tjrx3svg57msuhrjxr2uy&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-NACIONAL-.Carlos+Lacerda+-+A+Voz+que+Abalou+o+Brasil+2026+WEB-DL+1080p+x264+NACIONAL+2.0"}
+  ]
+},
+{
+  "tmdb_id":9559,
+  "type":"movie",
+  "added_at":"2026-10-11",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/9559"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/9559"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/9559"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/9559"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:414f02f95f76251c1ba946784df12e280aef8c34&dn=Um%20Mundo%20Perfeito.1993.1080p.WEB-DL.x264.DUAL.2.0&xl=3466699374&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"}
+  ],
+  "youtube":"_Qm-UhA3b4g"
+},
+{
+  "tmdb_id":1489835,
+  "type":"movie",
+  "added_at":"2026-10-11",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1489835"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1489835"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1489835"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1489835"},
+    {"name":"720p","magnet":"magnet:?xt=urn:btih:3A6D6FEEA54DB5A3C6AFE12BC981127014C083AC&dn=%5bREC%5d%203%20-%20G%C3%AAnesis%202012%20%28%20720p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"},
+    {"name":"1080p","magnet":"magnet:?xt=urn:btih:8BA70D1482950D1B7577800EAB98DEAFB2F642A2&dn=%5bREC%5d%203%20-%20G%C3%AAnesis%202012%20%28%201080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"},
+    {"name":"720p Dublado","magnet":"magnet:?xt=urn:btih:42C156D5E386055AB0DC7CAE15E1BF8AEA090161&dn=%5bREC%5d%203%20-%20G%C3%AAnesis%202012%20%28%20720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce"}
+  ]
+},
+{
+  "tmdb_id":1059047,
+  "type":"movie",
+  "added_at":"2026-10-11",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1059047"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1059047"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1059047"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1059047"},
+    {"name":"TORRENT","magnet":"magnet:?xt=urn:btih:46c02e38440ddce4c0dfcb46eb0588c2bd7ae222&dn=limbo&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce"}
+  ],
+  "youtube":"2xwUdCeyo-E"
+},
+{
   "tmdb_id":1389172,
   "type":"movie",
   "added_at":"2026-10-10",
