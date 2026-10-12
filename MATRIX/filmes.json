@@ -1,6 +1,18 @@
 {
 "movies":[
 {
+  "tmdb_id":1302904,
+  "type":"movie",
+  "added_at":"2026-10-12",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1302904"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1302904"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1302904"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1302904"},
+    {"name":"1080p Nacional","magnet":"magnet:?xt=urn:btih:jfdgiml63pqxpe2ivddhnitlc6da2xyq&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Da+Magia+%C3%A0+Sedu%C3%A7%C3%A3o+-+Feiti%C3%A7o+de+Amor.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ]
+},
+{
   "tmdb_id":1793755,
   "type":"movie",
   "added_at":"2026-10-11",
