@@ -399,7 +399,7 @@
     {
       "tmdb_id": 290856,
       "type": "tv",
-      "added_at": "2026-10-04",
+      "added_at": "2026-10-13",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.site/embed/290856/1/1", "https://redeflixapi.store/serie/290856/1/1", "https://myembed.biz/serie/290856/1/1", "http://embed-api.clickhost.xyz/embed/serie/290856/1/1" ] },
         { "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/290856/1/2", "https://redeflixapi.store/serie/290856/1/2", "https://myembed.biz/serie/290856/1/2", "http://embed-api.clickhost.xyz/embed/serie/290856/1/2" ] },
@@ -413,7 +413,10 @@
         { "season": 1, "episode": 10, "embeds": [ "https://mgeb.site/embed/290856/1/10", "https://redeflixapi.store/serie/290856/1/10", "https://myembed.biz/serie/290856/1/10", "http://embed-api.clickhost.xyz/embed/serie/290856/1/10" ] },
         { "season": 1, "episode": 11, "embeds": [ "https://mgeb.site/embed/290856/1/11", "https://redeflixapi.store/serie/290856/1/11", "https://myembed.biz/serie/290856/1/11", "http://embed-api.clickhost.xyz/embed/serie/290856/1/11" ] },
         { "season": 1, "episode": 12, "embeds": [ "https://mgeb.site/embed/290856/1/12", "https://redeflixapi.store/serie/290856/1/12", "https://myembed.biz/serie/290856/1/12", "http://embed-api.clickhost.xyz/embed/serie/290856/1/12" ] },
-        { "season": 1, "episode": 13, "embeds": [ "https://mgeb.site/embed/290856/1/13", "https://redeflixapi.store/serie/290856/1/13", "https://myembed.biz/serie/290856/1/13", "http://embed-api.clickhost.xyz/embed/serie/290856/1/13" ] }
+        { "season": 1, "episode": 13, "embeds": [ "https://mgeb.site/embed/290856/1/13", "https://redeflixapi.store/serie/290856/1/13", "https://myembed.biz/serie/290856/1/13", "http://embed-api.clickhost.xyz/embed/serie/290856/1/13" ] },
+		
+		{ "season": 2, "episode": 1, "embeds": [ "https://mgeb.site/embed/290856/2/1", "https://redeflixapi.store/serie/290856/2/1", "https://myembed.biz/serie/290856/2/1", "http://embed-api.clickhost.xyz/embed/serie/290856/2/1" ] },
+		{ "season": 2, "episode": 2, "embeds": [ "https://mgeb.site/embed/290856/2/2", "https://redeflixapi.store/serie/290856/2/2", "https://myembed.biz/serie/290856/2/2", "http://embed-api.clickhost.xyz/embed/serie/290856/2/2" ] }
       ]
     },
     {
