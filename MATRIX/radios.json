@@ -16,6 +16,18 @@
 
   "radios": [
     {
+      "nome": "Rádio 93 FM",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "dial": "93.3 FM",
+      "generos": ["Religião", "Entretenimento", "Músicas"],
+      "thumb": "https://i.ibb.co/2YjqHXwx/R-dio-93-FM-93-3.jpg",
+      "fanart": "https://i.ibb.co/2YjqHXwx/R-dio-93-FM-93-3.jpg",
+      "descricao": "é uma tradicional emissora de rádio brasileira com sede no Rio de Janeiro, voltada ao segmento gospel e cristão contemporâneo.",
+	  "mimetype": "audio/aac"
+    },
+	{
       "nome": "Ipanema Comunitária FM",
       "stream": "https://stream02.ouveai.com.br/8058/stream",
       "estado": "RS",
