@@ -73,7 +73,27 @@
     "TELECINE FUN HD4",
     "TELECINE PIPOCA HD4",
     "TELECINE PREMIUM HD4",
-    "TELECINE CULT HD4"
+    "TELECINE CULT HD4",
+	"PRIME VIDEO HD1",
+	"PRIME VIDEO HD2",
+	"PRIME VIDEO HD3",
+	"PRIME VIDEO HD4",
+	"PRIME VIDEO HD5",
+	"PRIME VIDEO HD6",
+	"PRIME VIDEO HD7",
+	"PRIME VIDEO HD8",
+	"PRIME VIDEO HD9",
+	"PRIME VIDEO HD10",
+	"PRIME VIDEO HD11",
+	"PRIME VIDEO HD12",
+	"PRIME VIDEO HD13",
+	"PRIME VIDEO HD14",
+	"PRIME VIDEO HD15",
+	"PRIME VIDEO HD16",
+	"HBO MAX HD1",
+	"HBO MAX HD2",
+	"HBO MAX HD3",
+	"HBO MAX HD4"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -656,6 +676,26 @@
       "nome": "Pay Per View",
       "canais": [
 	    {
+          "nome": "HBO MAX HD1",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=max"
+        },
+		{
+          "nome": "HBO MAX HD2",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://ww0.embedtv.cc/max1"
+        },
+		{
+          "nome": "HBO MAX HD3",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/max1"
+        },
+		{
+          "nome": "HBO MAX HD4",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=max1"
+        },
+	    {
           "nome": "PRIME VIDEO HD1",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo"
@@ -714,6 +754,26 @@
           "nome": "PRIME VIDEO HD12",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=primevideo3"
+        },
+		{
+          "nome": "PRIME VIDEO HD13",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo04"
+        },
+		{
+          "nome": "PRIME VIDEO HD14",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://ww0.embedtv.cc/primevideo4"
+        },
+		{
+          "nome": "PRIME VIDEO HD15",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/primevideo4"
+        },
+		{
+          "nome": "PRIME VIDEO HD16",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=primevideo4"
         },
         {
 		"nome": "CAZE TV HD",
