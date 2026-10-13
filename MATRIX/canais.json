@@ -94,6 +94,10 @@
 	"HBO MAX HD2",
 	"HBO MAX HD3",
 	"HBO MAX HD4",
+	"HBO MAX HD5",
+	"HBO MAX HD6",
+	"HBO MAX HD7",
+	"HBO MAX HD8",
 	"TNT HD1",
 	"TNT HD2",
 	"TNT HD4",
@@ -101,7 +105,8 @@
 	"SPACE HD1",
 	"SPACE HD2",
 	"SPACE HD4",
-	"SPACE HD5"
+	"SPACE HD5",
+	"PRIME VIDEO HD17"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -703,6 +708,26 @@
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=max1"
         },
+		{
+          "nome": "HBO MAX HD5",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=max02"
+        },
+		{
+          "nome": "HBO MAX HD6",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://ww0.embedtv.cc/max2"
+        },
+		{
+          "nome": "HBO MAX HD7",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/max2"
+        },
+		{
+          "nome": "HBO MAX HD8",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=max2"
+        },
 	    {
           "nome": "PRIME VIDEO HD1",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
@@ -782,6 +807,11 @@
           "nome": "PRIME VIDEO HD16",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=primevideo4"
+        },
+		{
+          "nome": "PRIME VIDEO HD17",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo05"
         },
         {
 		"nome": "CAZE TV HD",
