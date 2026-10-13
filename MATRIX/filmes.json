@@ -1,6 +1,18 @@
 {
 "movies":[
 {
+  "tmdb_id":1772626,
+  "type":"movie",
+  "added_at":"2026-10-12",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1772626"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1772626"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1772626"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1772626"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:kgkmwyvmjfwauaxmeryxh4pq2zscj62i&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-NACIONAL-.Territorio.do.Crime.2026.1080p.WEB-DL.x264.NACIONAL.5.1"}
+  ]
+},
+{
   "tmdb_id":13161,
   "type":"movie",
   "added_at":"2026-10-12",
