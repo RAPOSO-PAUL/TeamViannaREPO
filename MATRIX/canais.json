@@ -93,7 +93,11 @@
 	"HBO MAX HD1",
 	"HBO MAX HD2",
 	"HBO MAX HD3",
-	"HBO MAX HD4"
+	"HBO MAX HD4",
+	"TNT HD 1",
+	"TNT HD 2",
+	"TNT HD 4",
+	"TNT HD 5"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -954,6 +958,36 @@
           "nome": "TELECINE CULT HD4",
           "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/telecinecult"
+        }
+      ]
+    },
+	{
+      "nome": "Filmes e Series",
+      "canais": [
+        {
+          "nome": "TNT HD 1",
+          "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=tnt"
+        },
+		{
+          "nome": "TNT HD 2",
+          "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
+          "embed": "https://ww0.embedtv.cc/tnt"
+        },
+		{
+          "nome": "TNT HD 3",
+          "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
+          "embed": "https://rdcanais.org/tnt"
+        },
+		{
+          "nome": "TNT HD 4",
+          "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
+          "embed": "https://nossoplayeronlinehd.ink/tv/tnt"
+        },
+		{
+          "nome": "TNT HD 5",
+          "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=tnt"
         }
       ]
     },
