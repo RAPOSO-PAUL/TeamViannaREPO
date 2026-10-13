@@ -17,7 +17,7 @@
   "radios": [
     {
       "nome": "Rádio 93 FM RJ",
-      "stream": "https://24453.live.streamtheworld.com/FM93AAC.aac",
+      "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac",
       "estado": "RJ",
 	  "modo_vlc": true,
       "cidade": "Rio de Janeiro",
