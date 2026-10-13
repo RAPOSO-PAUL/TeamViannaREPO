@@ -5,6 +5,7 @@
   "type":"movie",
   "added_at":"2026-10-12",
   "sources":[
+    {"name":"DIRETO 1","stream_url":"https://share.deepstorage.dev/102ae61930d69e27d80ffc2954b75a98/B1G%205T%40N%20%40RR3B3NT%40ND0%20N%40%20PR15%40O.mp4"},
     {"name":"PLAYER 1","embed":"https://mgeb.site/embed/13161"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/13161"},
     {"name":"PLAYER 3","embed":"https://myembed.biz/filme/13161"},
