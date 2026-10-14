@@ -16,6 +16,18 @@
 
   "radios": [
     {
+      "nome": "Rádio Cult FM",
+      "stream": "https://cast3.hoost.com.br:8663/stream",
+      "estado": "RJ",
+	  "modo_vlc": true,
+      "cidade": "Rio de Janeiro",
+      "dial": "--",
+      "generos": ["Estilo Vida", "Entretenimento", "Músicas", "Noticias"],
+      "thumb": "https://i.ibb.co/jPzwKycP/cult-fm-rj2.jpg",
+      "fanart": "https://i.ibb.co/1GDLMHTF/cult-fm-rj2f.jpg",
+      "descricao": "é uma rádio online do Rio de Janeiro fundada em 2009 por Luck Veloso."
+    },
+	{
       "nome": "Rádio 93 FM RJ",
       "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac",
       "estado": "RJ",
