@@ -1,7 +1,8 @@
 {
   "shows": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/shows.json",
   "series": [
-    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/VISIONQUEST.json",
+    "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/TYSON.json",
+	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/VISIONQUEST.json",
 	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/DRAGON-BALL-SUPER-BEERUS.json",
 	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/A-ILHA-DO-TESOURO.json",
 	"https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY/refs/heads/main/COVEN-ACADEMY.json",
