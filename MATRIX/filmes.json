@@ -1,6 +1,20 @@
 {
 "movies":[
 {
+  "tmdb_id":109418,
+  "type":"movie",
+  "added_at":"2026-10-15",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/109418"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/109418"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/109418"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/109418"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:XJMTSPQ7WNMHWFZWVM3D6PX2INLLEJLC&dn=VEMTORRENT.COM..MP4.Gente%20Grande%20Duologia%201080p%20BluRay%20Dual%20Audio%20Dublado&tr=http%3A%2F%2Fbr2share.com%2Fannounce.php%3Fpasskey65940be6163205173e6aeb9f0448cc9"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:9fb669ba798b3b1e1b96bedd7a0a8b517565e41b&dn=Gente+Grande+2+%282013%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"}
+  ],
+  "youtube":"58pICzXa9bw"
+},
+{
   "tmdb_id":1165841,
   "type":"movie",
   "added_at":"2026-10-13",
