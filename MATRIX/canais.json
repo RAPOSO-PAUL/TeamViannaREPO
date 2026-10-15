@@ -118,7 +118,8 @@
   "rdcanais.org",
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
-  "redecanaistv.by"
+  "redecanaistv.by",
+  "redecanais.by"
 ],
   "categorias": [
     {
@@ -360,7 +361,7 @@
           "embed": "https://nossoplayeronlinehd.ink/tv/sportv"
         },
 		{
-          "nome": "SPORTV HD5",
+          "nome": "SPORTV HD6",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sportv1"
         },
