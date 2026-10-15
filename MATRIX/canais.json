@@ -106,8 +106,7 @@
 	"SPACE HD2",
 	"SPACE HD4",
 	"SPACE HD5",
-	"PRIME VIDEO HD17",
-	"SPORTV HD5"
+	"PRIME VIDEO HD17"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -361,7 +360,7 @@
           "embed": "https://nossoplayeronlinehd.ink/tv/sportv"
         },
 		{
-          "nome": "SPORTV HD5",
+          "nome": "SPORTV HD6",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
           "embed": "iframe:https://redecanaistv.by/player3/ch.php?canal=sportv1"
         },
