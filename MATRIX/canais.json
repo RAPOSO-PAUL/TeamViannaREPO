@@ -6,7 +6,7 @@
     "SPORTV HD2",
     "SPORTV 2 HD2",
     "Todo Mundo Odeia o Chris",
-    "SBT SP HD2",
+    "SBT SP HD4",
     "GLOBO SP HD2",
     "GLOBO DF HD2",
     "GLOBO ES HD2",
@@ -106,7 +106,9 @@
 	"SPACE HD2",
 	"SPACE HD4",
 	"SPACE HD5",
-	"PRIME VIDEO HD17"
+	"PRIME VIDEO HD17",
+	"SBT SP HD5",
+	"A&E HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -126,20 +128,25 @@
         {
           "nome": "SBT SP HD1",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sbtsp"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sbt"
         },
 		{
           "nome": "SBT SP HD2",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://ww0.embedtv.cc/sbtsp"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sbtsp"
         },
 		{
           "nome": "SBT SP HD3",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://rdcanais.org/sbt"
+          "embed": "https://ww0.embedtv.cc/sbtsp"
         },
 		{
           "nome": "SBT SP HD4",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://rdcanais.org/sbt"
+        },
+		{
+          "nome": "SBT SP HD5",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/sbt"
         },
@@ -1004,6 +1011,26 @@
       "nome": "Filmes e Series",
       "canais": [
         {
+          "nome": "A&E HD1",
+          "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=aie"
+        },
+		{
+          "nome": "A&E HD2",
+          "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=aee"
+        },
+		{
+          "nome": "A&E HD3",
+          "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
+          "embed": "https://ww0.embedtv.cc/ae"
+        },
+		{
+          "nome": "A&E HD4",
+          "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
+          "embed": "https://rdcanais.org/ae"
+        },
+		{
           "nome": "SPACE HD1",
           "imagem": "https://i.ibb.co/mrRf65yQ/space.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=space"
