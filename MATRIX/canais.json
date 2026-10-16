@@ -17,7 +17,7 @@
     "RECORD MG HD2",
     "BAND RJ HD",
     "SPORTV 3 HD2",
-    "ESPN 1 HD2",
+    "ESPN 1 HD3",
     "ESPN 2 HD2",
     "ESPN 3 HD2",
     "ESPN 4 HD2",
@@ -410,23 +410,28 @@
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/sportv3"
         },
-        {
+		{
           "nome": "ESPN 1 HD1",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
         },
         {
           "nome": "ESPN 1 HD2",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://ww0.embedtv.cc/espn"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn"
         },
         {
           "nome": "ESPN 1 HD3",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://rdcanais.org/espn"
+          "embed": "https://ww0.embedtv.cc/espn"
         },
         {
           "nome": "ESPN 1 HD4",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "https://rdcanais.org/espn"
+        },
+        {
+          "nome": "ESPN 1 HD5",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://nossoplayeronlinehd.ink/tv/espn"
         },
