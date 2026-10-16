@@ -1088,6 +1088,36 @@
         }
       ]
     },
+	{
+      "nome": "Variedades",
+      "canais": [
+        {
+          "nome": "Adult Swim HD1",
+          "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=adultswim"
+        },
+		{
+          "nome": "Adult Swim HD2",
+          "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=adultswim"
+        },
+		{
+          "nome": "Adult Swim HD3",
+          "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
+          "embed": "https://ww0.embedtv.cc/adultswim"
+        },
+		{
+          "nome": "Adult Swim HD4",
+          "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
+          "embed": "https://rdcanais.org/adultswim"
+        },
+		{
+          "nome": "Adult Swim HD5",
+          "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
+          "embed": "https://v2.rdembed.sbs/adultswim"
+        }
+      ]
+    }
     {
       "nome": "24 HORAS",
       "canais": [
