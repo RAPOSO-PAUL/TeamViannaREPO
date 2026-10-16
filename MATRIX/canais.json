@@ -433,7 +433,7 @@
         {
           "nome": "ESPN 1 HD5",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/espn"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
         },
         {
           "nome": "ESPN 2 HD1",
