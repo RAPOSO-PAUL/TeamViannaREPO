@@ -119,7 +119,8 @@
   "rdcanais.net",
   "rdcanais.org",
   "nossoplayeronlinehd.ink",
-  "multicanais.cyou"
+  "multicanais.cyou",
+  "rdembed.sbs"
 ],
   "categorias": [
     {
@@ -411,7 +412,7 @@
           "embed": "https://nossoplayeronlinehd.ink/tv/sportv3"
         },
 		{
-          "nome": "ESPN 1 HD",
+          "nome": "ESPN 1 HD1",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
         },
@@ -433,7 +434,12 @@
         {
           "nome": "ESPN 1 HD5",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
+          "embed": "iframe:https://multicanais.cyou/player.php?id=espn"
+        },
+		{
+          "nome": "ESPN 1 HD6",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "https://v2.rdembed.sbs/espn"
         },
         {
           "nome": "ESPN 2 HD1",
