@@ -149,7 +149,7 @@
 		{
           "nome": "SBT SP HD5",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/sbt"
+          "embed": "https://v2.rdembed.sbs/sbt"
         },
 		{
           "nome": "GLOBO SP HD1",
@@ -431,13 +431,8 @@
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://rdcanais.org/espn"
         },
-        {
-          "nome": "ESPN 1 HD5",
-          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "iframe:https://multicanais.cyou/player.php?id=espn"
-        },
 		{
-          "nome": "ESPN 1 HD6",
+          "nome": "ESPN 1 HD5",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://v2.rdembed.sbs/espn"
         },
