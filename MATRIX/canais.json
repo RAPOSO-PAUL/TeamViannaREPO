@@ -108,8 +108,7 @@
 	"SPACE HD5",
 	"PRIME VIDEO HD17",
 	"SBT SP HD5",
-	"A&E HD3",
-	"redecanais"
+	"A&E HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -412,7 +411,7 @@
           "embed": "https://nossoplayeronlinehd.ink/tv/sportv3"
         },
 		{
-          "nome": "ESPN 1 HD1",
+          "nome": "ESPN 1 HD",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
         },
