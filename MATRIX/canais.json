@@ -107,7 +107,8 @@
 	"AMC HD3",
 	"AXN HD3",
 	"BAND HD3",
-	"BAND RJ HD"
+	"BAND RJ HD",
+	"CINEMAX HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -1109,6 +1110,31 @@
           "nome": "AXN HD5",
           "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
           "embed": "https://v2.rdembed.sbs/axn"
+        },
+		{
+          "nome": "CINEMAX HD1",
+          "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=cinemax"
+        },
+		{
+          "nome": "CINEMAX HD2",
+          "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cinemax"
+        },
+		{
+          "nome": "CINEMAX HD3",
+          "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
+          "embed": "https://ww0.embedtv.cc/cinemax"
+        },
+		{
+          "nome": "CINEMAX HD4",
+          "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
+          "embed": "https://rdcanais.org/cinemax"
+        },
+		{
+          "nome": "CINEMAX HD5",
+          "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
+          "embed": "https://v2.rdembed.sbs/cinemax"
         },
 		{
           "nome": "SPACE HD1",
