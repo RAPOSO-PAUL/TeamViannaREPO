@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1759875,
+  "type":"movie",
+  "added_at":"2026-10-17",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1759875"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1759875"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1759875"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1759875"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:xzmxlmhtlozts5z2mompjwhaluytsulx&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.A+Mil%C3%ADcia+2026+WEB-DL+1080p+x264+DUAL+2.0"}
+  ],
+  "youtube":"EYtG6isU0K0"
+},
+{
   "tmdb_id":1288069,
   "type":"movie",
   "added_at":"2026-10-17",
