@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1703416,
+  "type":"movie",
+  "added_at":"2026-10-17",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1703416"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1703416"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1703416"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1703416"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:262iyoqudcwnxr6q3sc4dehwllagywvg&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-.10+Out+Of+10+2026+WEB-DL+1080p+x264+DUBLADO+2.0"}
+  ],
+  "youtube":"TGs8Fk13kHE"
+},
+{
   "tmdb_id":1732857,
   "type":"movie",
   "added_at":"2026-10-17",
