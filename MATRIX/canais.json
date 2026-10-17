@@ -40,11 +40,6 @@
     "TELECINE PIPOCA HD2",
     "TELECINE PREMIUM HD2",
     "TELECINE CULT HD2",
-    "GLOBO SP HD4",
-    "GLOBO RJ HD4",
-    "GLOBO MG HD4",
-    "GLOBO RS HD4",
-    "RECORD SP HD4",
     "BAND HD3",
     "REDETV HD 3",
     "SPORTV HD4",
@@ -110,7 +105,9 @@
 	"A&E HD3",
 	"Adult Swim HD3",
 	"AMC HD3",
-	"AXN HD3"
+	"AXN HD3",
+	"BAND HD3",
+	"BAND RJ HD"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -219,6 +216,11 @@
           "embed": "https://rdcanais.org/globodf"
         },
 		{
+          "nome": "GLOBO DF HD4",
+          "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
+          "embed": "https://v2.rdembed.sbs/globodf"
+        },
+		{
           "nome": "GLOBO ES HD1",
           "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globoes"
@@ -271,7 +273,7 @@
 		{
           "nome": "GLOBO RS HD4",
           "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/globors"
+          "embed": "https://v2.rdembed.sbs/globors"
         },
 		{
           "nome": "RECORD SP HD1",
@@ -321,17 +323,27 @@
 		{
           "nome": "BAND HD1",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=band"
+        },
+		{
+          "nome": "BAND HD2",
+          "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=bandsp"
         },
+		{
+          "nome": "BAND HD3",
+          "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
+          "embed": "https://ww0.embedtv.cc/bandsp"
+        },
         {
-          "nome": "BAND HD2",
+          "nome": "BAND HD4",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "https://rdcanais.org/band"
         },
         {
-          "nome": "BAND HD3",
+          "nome": "BAND HD5",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/band"
+          "embed": "https://v2.rdembed.sbs/bandsp"
         },
         {
           "nome": "BAND RJ HD",
