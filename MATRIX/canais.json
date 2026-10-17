@@ -7,7 +7,7 @@
     "SPORTV 2 HD2",
     "Todo Mundo Odeia o Chris",
     "SBT SP HD3",
-    "GLOBO SP HD2",
+    "GLOBO SP HD3",
     "GLOBO DF HD2",
     "GLOBO ES HD2",
     "GLOBO MG HD2",
@@ -153,23 +153,28 @@
         },
 		{
           "nome": "GLOBO SP HD1",
-          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globosp"
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jp",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bobosp"
         },
 		{
           "nome": "GLOBO SP HD2",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://ww0.embedtv.cc/globosp"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globosp"
         },
 		{
           "nome": "GLOBO SP HD3",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://rdcanais.org/globosp"
+          "embed": "https://ww0.embedtv.cc/globosp"
         },
 		{
           "nome": "GLOBO SP HD4",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/globosp"
+          "embed": "https://rdcanais.org/globosp"
+        },
+		{
+          "nome": "GLOBO SP HD5",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
+          "embed": "https://v2.rdembed.sbs/globosp"
         },
 		{
           "nome": "GLOBO RJ HD1",
