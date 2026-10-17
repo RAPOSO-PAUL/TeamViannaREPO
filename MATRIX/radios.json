@@ -16,6 +16,18 @@
 
   "radios": [
     {
+      "nome": "Antena 1 Rio FM",
+      "stream": "https://a1rj.streams.com.br/stream",
+      "estado": "RJ",
+	  "modo_vlc": true,
+      "cidade": "Rio de Janeiro",
+      "dial": "103.7",
+      "generos": ["Estilo Vida", "Entretenimento", "Músicas", "Noticias"],
+      "thumb": "https://i.ibb.co/qMcrcwFn/Antena-1-Rio-FM-103-7.jpg",
+      "fanart": "https://i.ibb.co/qYbTWpkS/Antena-1-Rio-FM-103-7f.jpg",
+      "descricao": "é uma estação de rádio brasileira que opera na frequência 103,7 MHz em FM no Rio de Janeiro, com sede no bairro da Urca"
+    },
+	{
       "nome": "Rádio Cult FM",
       "stream": "https://cast3.hoost.com.br:8663/stream",
       "estado": "RJ",
