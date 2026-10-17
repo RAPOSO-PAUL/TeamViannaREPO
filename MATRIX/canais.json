@@ -12,7 +12,7 @@
     "GLOBO ES HD2",
     "GLOBO MG HD2",
     "GLOBO RS HD2",
-    "RECORD SP HD2",
+    "RECORD SP HD3",
     "RECORD RJ HD2",
     "RECORD MG HD2",
     "BAND RJ HD",
@@ -109,7 +109,8 @@
 	"SBT SP HD5",
 	"A&E HD3",
 	"Adult Swim HD3",
-	"AMC HD3"
+	"AMC HD3",
+	"AXN HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -203,11 +204,6 @@
           "embed": "https://v2.rdembed.sbs/globorj"
         },
 		{
-          "nome": "GLOBO RJ HD5",
-          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "iframe:https://multicanais.cyou/player.php?id=globorj"
-        },
-		{
           "nome": "GLOBO DF HD1",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globodf"
@@ -255,7 +251,7 @@
 		{
           "nome": "GLOBO MG HD4",
           "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/globomg"
+          "embed": "https://v2.rdembed.sbs/globomg"
         },
 		{
           "nome": "GLOBO RS HD1",
@@ -280,22 +276,27 @@
 		{
           "nome": "RECORD SP HD1",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=recordsp"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=record"
         },
 		{
           "nome": "RECORD SP HD2",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
-          "embed": "https://ww0.embedtv.cc/recordsp"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=recordsp"
         },
 		{
           "nome": "RECORD SP HD3",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
-          "embed": "https://rdcanais.org/record"
+          "embed": "https://ww0.embedtv.cc/recordsp"
         },
 		{
           "nome": "RECORD SP HD4",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/record"
+          "embed": "https://rdcanais.org/record"
+        },
+		{
+          "nome": "RECORD SP HD5",
+          "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
+          "embed": "https://v2.rdembed.sbs/recordsp"
         },
 		{
           "nome": "RECORD RJ HD1",
@@ -1071,6 +1072,31 @@
           "nome": "AMC HD5",
           "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
           "embed": "https://v2.rdembed.sbs/amc"
+        },
+		{
+          "nome": "AXN HD1",
+          "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=axn"
+        },
+		{
+          "nome": "AXN HD2",
+          "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=axn"
+        },
+		{
+          "nome": "AXN HD3",
+          "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
+          "embed": "https://ww0.embedtv.cc/axn"
+        },
+		{
+          "nome": "AXN HD4",
+          "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
+          "embed": "https://rdcanais.org/axn"
+        },
+		{
+          "nome": "AXN HD5",
+          "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
+          "embed": "https://v2.rdembed.sbs/axn"
         },
 		{
           "nome": "SPACE HD1",
