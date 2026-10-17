@@ -1,7 +1,7 @@
 {
       "canais_warp": [
     "GLOBO RJ HD1",
-    "GLOBO RJ HD2",
+    "GLOBO RJ HD3",
     "GLOBO RJ HD5",
     "SPORTV HD2",
     "SPORTV 2 HD2",
@@ -108,7 +108,8 @@
 	"PRIME VIDEO HD17",
 	"SBT SP HD5",
 	"A&E HD3",
-	"Adult Swim HD3"
+	"Adult Swim HD3",
+	"AMC HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -179,22 +180,27 @@
 		{
           "nome": "GLOBO RJ HD1",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globorj"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=boborj"
         },
 		{
           "nome": "GLOBO RJ HD2",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://ww0.embedtv.cc/globorj"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globorj"
         },
 		{
           "nome": "GLOBO RJ HD3",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://rdcanais.org/globorj"
+          "embed": "https://ww0.embedtv.cc/globorj"
         },
 		{
           "nome": "GLOBO RJ HD4",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/globorj"
+          "embed": "https://rdcanais.org/globorj"
+        },
+		{
+          "nome": "GLOBO RJ HD5",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "https://v2.rdembed.sbs/globorj"
         },
 		{
           "nome": "GLOBO RJ HD5",
@@ -1040,6 +1046,31 @@
           "nome": "A&E HD4",
           "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
           "embed": "https://rdcanais.org/ae"
+        },
+		{
+          "nome": "AMC HD1",
+          "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=amc"
+        },
+		{
+          "nome": "AMC HD2",
+          "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=amc"
+        },
+		{
+          "nome": "AMC HD3",
+          "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
+          "embed": "https://ww0.embedtv.cc/amc"
+        },
+		{
+          "nome": "AMC HD4",
+          "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
+          "embed": "https://rdcanais.org/amc"
+        },
+		{
+          "nome": "AMC HD5",
+          "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
+          "embed": "https://v2.rdembed.sbs/amc"
         },
 		{
           "nome": "SPACE HD1",
