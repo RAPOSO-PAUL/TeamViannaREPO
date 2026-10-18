@@ -1,5 +1,10 @@
 {
-      "canais_warp": [
+    "esconder_no_fraco": [
+  "redecanais.",
+  "embedcanaisdetv."
+], 
+	  
+	  "canais_warp": [
     "GLOBO RJ HD1",
     "GLOBO RJ HD3",
     "GLOBO RJ HD5",
@@ -153,7 +158,7 @@
         },
 		{
           "nome": "GLOBO SP HD1",
-          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jp",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bobosp"
         },
 		{
