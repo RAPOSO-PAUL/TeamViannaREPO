@@ -163,11 +163,6 @@
           "embed": "iframe:https://multicanais.cyou/player.php?id=sbtsp"
         },
 		{
-          "nome": "SBT SP HD7",
-          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "iframe:https://sinaldvd.github.io/tv/player.html?id=sbtsp"
-        },
-		{
           "nome": "GLOBO SP HD1",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bobosp"
@@ -193,6 +188,11 @@
           "embed": "https://v2.rdembed.sbs/globosp"
         },
 		{
+          "nome": "GLOBO SP HD5",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=globosp"
+        },
+		{
           "nome": "GLOBO RJ HD1",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=boborj"
@@ -216,6 +216,11 @@
           "nome": "GLOBO RJ HD5",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
           "embed": "https://v2.rdembed.sbs/globorj"
+        },
+		{
+          "nome": "GLOBO RJ HD5",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=globorj"
         },
 		{
           "nome": "GLOBO DF HD1",
