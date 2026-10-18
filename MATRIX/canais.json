@@ -8,7 +8,7 @@
     "GLOBO RJ HD1",
     "GLOBO RJ HD3",
     "GLOBO RJ HD5",
-    "SPORTV HD2",
+    "SPORTV HD3",
     "SPORTV 2 HD2",
     "Todo Mundo Odeia o Chris",
     "SBT SP HD3",
@@ -299,6 +299,11 @@
           "embed": "https://v2.rdembed.sbs/globors"
         },
 		{
+          "nome": "GLOBO RS HD5",
+          "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=globors"
+        },
+		{
           "nome": "RECORD SP HD1",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=record"
@@ -324,6 +329,11 @@
           "embed": "https://v2.rdembed.sbs/recordsp"
         },
 		{
+          "nome": "RECORD SP HD6",
+          "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=recordsp"
+        },
+		{
           "nome": "RECORD RJ HD1",
           "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=recordrj"
@@ -334,6 +344,11 @@
           "embed": "https://w7.embedtv.cc/recordrj"
         },
 		{
+          "nome": "RECORD RJ HD3",
+          "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=recordrj"
+        },
+		{
           "nome": "RECORD MG HD1",
           "imagem": "https://i.ibb.co/3yYzBxgm/record-mg.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=recordmg"
@@ -342,6 +357,11 @@
           "nome": "RECORD MG HD2",
           "imagem": "https://i.ibb.co/3yYzBxgm/record-mg.jpg",
           "embed": "https://w7.embedtv.cc/recordmg/"
+        },
+		{
+          "nome": "RECORD MG HD3",
+          "imagem": "https://i.ibb.co/3yYzBxgm/record-mg.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=recordmg"
         },
 		{
           "nome": "BAND HD1",
@@ -368,10 +388,20 @@
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
           "embed": "https://v2.rdembed.sbs/bandsp"
         },
+		{
+          "nome": "BAND HD6",
+          "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=bandsp"
+        },
         {
           "nome": "BAND RJ HD",
           "imagem": "https://i.ibb.co/S40Bmgn4/band-rj.jpg",
           "embed": "https://w7.embedtv.cc/bandrj"
+        },
+		{
+          "nome": "BAND RJ HD2",
+          "imagem": "https://i.ibb.co/S40Bmgn4/band-rj.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=bandrj"
         },
 		{
           "nome": "REDETV HD1",
@@ -387,6 +417,11 @@
           "nome": "REDETV HD3",
           "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
           "embed": "https://rdcanais.org/redetv"
+        },
+		{
+          "nome": "REDETV HD4",
+          "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
+          "embed": "https://v2.rdembed.sbs/redetv"
         }
       ]
     },
@@ -396,27 +431,32 @@
         {
           "nome": "SPORTV HD1",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sportv"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sportv1"
         },
-        {
+		{
           "nome": "SPORTV HD2",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "https://w7.embedtv.cc/sportv"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sportv"
         },
         {
           "nome": "SPORTV HD3",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "https://rdcanais.org/sportvalternativo"
+          "embed": "https://w7.embedtv.cc/sportv"
         },
         {
           "nome": "SPORTV HD4",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/sportv"
+          "embed": "https://rdcanais.org/sportvalternativo"
         },
-		{
+        {
           "nome": "SPORTV HD5",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sportv1"
+          "embed": "https://v2.rdembed.sbs/sportv"
+        },
+		{
+          "nome": "SPORTV HD6",
+          "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=sportv"
         },
         {
           "nome": "SPORTV 2 HD1",
