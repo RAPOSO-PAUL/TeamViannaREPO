@@ -9,7 +9,7 @@
     "GLOBO RJ HD3",
     "GLOBO RJ HD5",
     "SPORTV HD3",
-    "SPORTV 2 HD2",
+    "SPORTV 2 HD3",
     "Todo Mundo Odeia o Chris",
     "SBT SP HD3",
     "GLOBO SP HD3",
@@ -461,22 +461,32 @@
         {
           "nome": "SPORTV 2 HD1",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sportv2"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sportv2"
         },
-        {
+		{
           "nome": "SPORTV 2 HD2",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
-          "embed": "https://w7.embedtv.cc/sportv2"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sportv2"
         },
         {
           "nome": "SPORTV 2 HD3",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
-          "embed": "https://rdcanais.org/sportv2"
+          "embed": "https://w7.embedtv.cc/sportv2"
         },
         {
           "nome": "SPORTV 2 HD4",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/sportv2"
+          "embed": "https://rdcanais.org/sportv2"
+        },
+        {
+          "nome": "SPORTV 2 HD5",
+          "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
+          "embed": "https://v2.rdembed.sbs/sportv2"
+        },
+		{
+          "nome": "SPORTV 2 HD6",
+          "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=sportv2"
         },
         {
           "nome": "SPORTV 3 HD1",
