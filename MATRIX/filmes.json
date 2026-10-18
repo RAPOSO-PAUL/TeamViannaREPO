@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1773759,
+  "type":"movie",
+  "added_at":"2026-10-18",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1773759"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1773759"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1773759"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1773759"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:gl3ej7564etykwo3dpry4flljmdpihyw&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Solteiramente+Juntas.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"lhW0fwOzqM4"
+},
+{
   "tmdb_id":1596285,
   "type":"movie",
   "added_at":"2026-10-18",
