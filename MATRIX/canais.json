@@ -163,9 +163,9 @@
           "embed": "iframe:https://multicanais.cyou/player.php?id=sbtsp"
         },
 		{
-          "nome": "SBT SP HD8",
+          "nome": "SBT SP HD7",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "iframe:https://sinalpublicoetv.vercel.app/?id=sbtsp"
+          "embed": "iframe:https://sinaldvd.github.io/tv/player.html?id=sbtsp"
         },
 		{
           "nome": "GLOBO SP HD1",
