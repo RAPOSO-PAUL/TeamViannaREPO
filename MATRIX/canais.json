@@ -28,7 +28,7 @@
     "ESPN 4 HD2",
     "ESPN 5 HD2",
     "ESPN 6 HD2",
-    "PREMIERE HD2",
+    "PREMIERE HD3",
     "PREMIERE 2 HD2",
     "PREMIERE 3 HD2",
     "PREMIERE 4 HD2",
@@ -591,22 +591,32 @@
         {
           "nome": "PREMIERE HD1",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiereclubes"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=premiereclubes"
         },
 		{
           "nome": "PREMIERE HD2",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "https://w7.embedtv.cc/premiere"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiereclubes"
         },
 		{
           "nome": "PREMIERE HD3",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "https://rdcanais.org/premiereclubesalternativo"
+          "embed": "https://w7.embedtv.cc/premiere"
         },
 		{
           "nome": "PREMIERE HD4",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/premiere"
+          "embed": "https://rdcanais.org/premiereclubesalternativo"
+        },
+		{
+          "nome": "PREMIERE HD5",
+          "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
+          "embed": "https://v2.rdembed.sbs/premiere"
+        },
+		{
+          "nome": "PREMIERE HD6",
+          "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=premiere"
         },
 		{
           "nome": "PREMIERE 2 HD1",
