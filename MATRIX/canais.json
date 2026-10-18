@@ -1060,6 +1060,41 @@
       ]
     },
 	{
+      "nome": "HBO",
+      "canais": [
+        {
+          "nome": "HBO HD1",
+          "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hbo"
+        },
+		{
+          "nome": "HBO HD2",
+          "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hbo"
+        },
+		{
+          "nome": "HBO HD3",
+          "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
+          "embed": "https://w7.embedtv.cc/hbo"
+        },
+		{
+          "nome": "HBO HD4",
+          "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
+          "embed": "https://v2.rdembed.sbs/hbo"
+        },
+		{
+          "nome": "HBO HD5",
+          "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
+          "embed": "https://v2.rdembed.sbs/hbo"
+        },
+		{
+          "nome": "HBO HD6",
+          "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=hbo"
+        }
+      ]
+    },
+	{
       "nome": "Filmes e Series",
       "canais": [
         {
