@@ -189,7 +189,7 @@
           "embed": "https://v2.rdembed.sbs/globosp"
         },
 		{
-          "nome": "GLOBO SP HD5",
+          "nome": "GLOBO SP HD6",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=globosp"
         },
@@ -219,7 +219,7 @@
           "embed": "https://v2.rdembed.sbs/globorj"
         },
 		{
-          "nome": "GLOBO RJ HD5",
+          "nome": "GLOBO RJ HD6",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=globorj"
         },
@@ -374,19 +374,19 @@
           "embed": "https://w7.embedtv.cc/bandrj"
         },
 		{
-          "nome": "REDETV HD",
+          "nome": "REDETV HD1",
+          "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=redetv"
+        },
+		{
+          "nome": "REDETV HD2",
           "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=redetv"
         },
 		{
-          "nome": "REDETV HD 2",
+          "nome": "REDETV HD3",
           "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
           "embed": "https://rdcanais.org/redetv"
-        },
-		{
-          "nome": "REDETV HD 3",
-          "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/redetv"
         }
       ]
     },
@@ -1092,6 +1092,36 @@
           "nome": "HBO HD6",
           "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=hbo"
+        },
+		{
+          "nome": "HBO 2 HD1",
+          "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hbo2"
+        },
+		{
+          "nome": "HBO 2 HD2",
+          "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hbo2"
+        },
+		{
+          "nome": "HBO 2 HD3",
+          "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
+          "embed": "https://w7.embedtv.cc/hbo2"
+        },
+		{
+          "nome": "HBO 2 HD4",
+          "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
+          "embed": "https://rdcanais.org/hbo2"
+        },
+		{
+          "nome": "HBO 2 HD5",
+          "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
+          "embed": "https://v2.rdembed.sbs/hbo2"
+        },
+		{
+          "nome": "HBO 2 HD6",
+          "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=hbo2"
         }
       ]
     },
