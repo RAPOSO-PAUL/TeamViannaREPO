@@ -113,7 +113,8 @@
 	"AXN HD3",
 	"BAND HD3",
 	"BAND RJ HD",
-	"CINEMAX HD3"
+	"CINEMAX HD3",
+	"HBO HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -1080,7 +1081,7 @@
 		{
           "nome": "HBO HD4",
           "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
-          "embed": "https://v2.rdembed.sbs/hbo"
+          "embed": "https://rdcanais.org/hbo"
         },
 		{
           "nome": "HBO HD5",
