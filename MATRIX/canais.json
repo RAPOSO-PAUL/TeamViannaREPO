@@ -125,7 +125,8 @@
   "rdcanais.org",
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
-  "rdembed.sbs"
+  "rdembed.sbs",
+  "vercel.app"
 ],
   "categorias": [
     {
@@ -155,6 +156,16 @@
           "nome": "SBT SP HD5",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
           "embed": "https://v2.rdembed.sbs/sbt"
+        },
+		{
+          "nome": "SBT SP HD6",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=sbtsp"
+        },
+		{
+          "nome": "SBT SP HD7",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://sinalpublicoetv.vercel.app/?id=sbtsp"
         },
 		{
           "nome": "GLOBO SP HD1",
