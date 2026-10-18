@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1596285,
+  "type":"movie",
+  "added_at":"2026-10-18",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1596285"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1596285"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1596285"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1596285"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:lg7np4z6ykuuwjyao4ek53tq3jw2q36n&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.MUSICAS.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Disc%C3%ADpulo+-+A+Hist%C3%B3ria+de+Cilvaringz+2026+WEB-DL+1080p+x264+DUAL+5.1"}
+  ],
+  "youtube":"uIqAOGM_zZ0"
+},
+{
   "tmdb_id":1703416,
   "type":"movie",
   "added_at":"2026-10-17",
