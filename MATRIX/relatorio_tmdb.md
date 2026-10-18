@@ -1,6 +1,6 @@
 # Relatório do TMDB
 
-Rodada de 17/10/2026 21:33 (Brasília).
+Rodada de 17/10/2026 22:24 (Brasília).
 
 - Catálogo: 14593 filmes e 1246 séries
 - Consultados nesta rodada: 0 (0 novos)
