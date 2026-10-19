@@ -548,25 +548,35 @@
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=espn"
         },
-        {
+		{
           "nome": "ESPN 2 HD1",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn2"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn2"
         },
         {
           "nome": "ESPN 2 HD2",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "https://w7.embedtv.cc/espn2"
+          "stream": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn2"
         },
         {
           "nome": "ESPN 2 HD3",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "https://rdcanais.org/espn2"
+          "stream": "https://w7.embedtv.cc/espn2"
         },
         {
           "nome": "ESPN 2 HD4",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "https://nossoplayeronlinehd.ink/tv/espn2"
+          "stream": "https://rdcanais.org/espn2"
+        },
+        {
+          "nome": "ESPN 2 HD5",
+          "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
+          "stream": "https://v2.rdembed.sbs/espn2"
+        },
+		{
+          "nome": "ESPN 2 HD6",
+          "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
+          "stream": "iframe:https://multicanais.cyou/player.php?id=espn2"
         },
         {
           "nome": "ESPN 3 HD1",
@@ -1252,6 +1262,36 @@
           "nome": "HBO Mundi HD5",
           "imagem": "https://i.ibb.co/gb2gm0CF/hbo-mundi.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=hbomundi"
+        },
+		{
+          "nome": "HBO Plus HD1",
+          "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hboplus"
+        },
+		{
+          "nome": "HBO Plus HD2",
+          "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hboplus"
+        },
+		{
+          "nome": "HBO Plus HD3",
+          "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
+          "embed": "https://w7.embedtv.cc/hboplus"
+        },
+		{
+          "nome": "HBO Plus HD4",
+          "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
+          "embed": "https://rdcanais.org/hboplus"
+        },
+		{
+          "nome": "HBO Plus HD5",
+          "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
+          "embed": "https://v2.rdembed.sbs/hboplus"
+        },
+		{
+          "nome": "HBO Plus HD6",
+          "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=hboplus"
         }
       ]
     },
