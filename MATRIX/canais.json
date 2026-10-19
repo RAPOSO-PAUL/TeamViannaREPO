@@ -46,7 +46,7 @@
     "TELECINE PREMIUM HD2",
     "TELECINE CULT HD2",
     "BAND HD3",
-    "REDETV HD 3",
+    "REDETV HD3",
     "SPORTV HD4",
     "SPORTV 2 HD4",
     "SPORTV 3 HD4",
@@ -556,107 +556,107 @@
         {
           "nome": "ESPN 2 HD2",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn2"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn2"
         },
         {
           "nome": "ESPN 2 HD3",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "https://w7.embedtv.cc/espn2"
+          "embed": "https://w7.embedtv.cc/espn2"
         },
         {
           "nome": "ESPN 2 HD4",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "https://rdcanais.org/espn2"
+          "embed": "https://rdcanais.org/espn2"
         },
         {
           "nome": "ESPN 2 HD5",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "https://v2.rdembed.sbs/espn2"
+          "embed": "https://v2.rdembed.sbs/espn2"
         },
 		{
           "nome": "ESPN 2 HD6",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "stream": "iframe:https://multicanais.cyou/player.php?id=espn2"
+          "embed": "iframe:https://multicanais.cyou/player.php?id=espn2"
         },
         {
           "nome": "ESPN 3 HD1",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "stream": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn3"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn3"
         },
         {
           "nome": "ESPN 3 HD2",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "stream": "https://w7.embedtv.cc/espn3"
+          "embed": "https://w7.embedtv.cc/espn3"
         },
         {
           "nome": "ESPN 3 HD3",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "stream": "https://rdcanais.org/espn3"
+          "embed": "https://rdcanais.org/espn3"
         },
         {
           "nome": "ESPN 3 HD4",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "stream": "https://nossoplayeronlinehd.ink/tv/espn3"
+          "embed": "https://nossoplayeronlinehd.ink/tv/espn3"
         },
         {
           "nome": "ESPN 4 HD1",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "stream": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn4"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn4"
         },
         {
           "nome": "ESPN 4 HD2",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "stream": "https://w7.embedtv.cc/espn4"
+          "embed": "https://w7.embedtv.cc/espn4"
         },
         {
           "nome": "ESPN 4 HD3",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "stream": "https://rdcanais.org/espn4"
+          "embed": "https://rdcanais.org/espn4"
         },
         {
           "nome": "ESPN 4 HD4",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "stream": "https://nossoplayeronlinehd.ink/tv/espn4"
+          "embed": "https://nossoplayeronlinehd.ink/tv/espn4"
         },
         {
           "nome": "ESPN 5 HD1",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "stream": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn5"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn5"
         },
         {
           "nome": "ESPN 5 HD2",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "stream": "https://w7.embedtv.cc/espn5"
+          "embed": "https://w7.embedtv.cc/espn5"
         },
         {
           "nome": "ESPN 5 HD3",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "stream": "https://rdcanais.org/espn5"
+          "embed": "https://rdcanais.org/espn5"
         },
         {
           "nome": "ESPN 5 HD4",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "stream": "https://nossoplayeronlinehd.ink/tv/espn5"
+          "embed": "https://nossoplayeronlinehd.ink/tv/espn5"
         },
         {
           "nome": "ESPN 6 HD1",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "stream": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn6"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn6"
         },
         {
           "nome": "ESPN 6 HD2",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "stream": "https://w7.embedtv.cc/espn6/"
+          "embed": "https://w7.embedtv.cc/espn6/"
         },
         {
           "nome": "ESPN 6 HD3",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "stream": "https://rdcanais.org/espn6"
+          "embed": "https://rdcanais.org/espn6"
         },
         {
           "nome": "ESPN 6 HD4",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "stream": "https://nossoplayeronlinehd.ink/tv/espn6"
+          "embed": "https://nossoplayeronlinehd.ink/tv/espn6"
         }
       ]
     },
