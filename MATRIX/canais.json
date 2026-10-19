@@ -488,25 +488,35 @@
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=sportv2"
         },
-        {
+		{
           "nome": "SPORTV 3 HD1",
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sportv3"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sportv3"
         },
         {
           "nome": "SPORTV 3 HD2",
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
-          "embed": "https://w7.embedtv.cc/sportv3"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sportv3"
         },
         {
           "nome": "SPORTV 3 HD3",
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
-          "embed": "https://rdcanais.org/sportv3"
+          "embed": "https://w7.embedtv.cc/sportv3"
         },
         {
           "nome": "SPORTV 3 HD4",
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/sportv3"
+          "embed": "https://rdcanais.org/sportv3"
+        },
+        {
+          "nome": "SPORTV 3 HD5",
+          "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
+          "embed": "https://v2.rdembed.sbs/sportv3"
+        },
+		{
+          "nome": "SPORTV 3 HD6",
+          "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=sportv3"
         },
 		{
           "nome": "ESPN 1 HD1",
@@ -1182,6 +1192,36 @@
           "nome": "HBO 2 HD6",
           "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=hbo2"
+        },
+		{
+          "nome": "HBO Family HD1",
+          "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hbofamily"
+        },
+		{
+          "nome": "HBO Family HD2",
+          "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hbofamily"
+        },
+		{
+          "nome": "HBO Family HD3",
+          "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
+          "embed": "https://w7.embedtv.cc/hbofamily"
+        },
+		{
+          "nome": "HBO Family HD4",
+          "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
+          "embed": "https://rdcanais.org/hbofamily"
+        },
+		{
+          "nome": "HBO Family HD5",
+          "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
+          "embed": "https://v2.rdembed.sbs/hbofamily"
+        },
+		{
+          "nome": "HBO Family HD6",
+          "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=hbofamily"
         }
       ]
     },
