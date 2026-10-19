@@ -23,8 +23,8 @@
     "BAND RJ HD",
     "SPORTV 3 HD2",
     "ESPN 1 HD3",
-    "ESPN 2 HD2",
-    "ESPN 3 HD2",
+    "ESPN 2 HD3",
+    "ESPN 3 HD3",
     "ESPN 4 HD2",
     "ESPN 5 HD2",
     "ESPN 6 HD2",
@@ -114,7 +114,11 @@
 	"BAND HD3",
 	"BAND RJ HD",
 	"CINEMAX HD3",
-	"HBO HD3"
+	"HBO HD3",
+	"HBO 2 HD3",
+	"HBO Family HD3",
+	"HBO Mundi HD3",
+	"HBO Plus HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -578,25 +582,35 @@
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=espn2"
         },
-        {
+		{
           "nome": "ESPN 3 HD1",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn3"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn3"
         },
         {
           "nome": "ESPN 3 HD2",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "embed": "https://w7.embedtv.cc/espn3"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn3"
         },
         {
           "nome": "ESPN 3 HD3",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "embed": "https://rdcanais.org/espn3"
+          "embed": "https://w7.embedtv.cc/espn3"
         },
         {
           "nome": "ESPN 3 HD4",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/espn3"
+          "embed": "https://rdcanais.org/espn3"
+        },
+        {
+          "nome": "ESPN 3 HD5",
+          "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
+          "embed": "https://v2.rdembed.sbs/espn3"
+        },
+		{
+          "nome": "ESPN 3 HD6",
+          "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=espn3"
         },
         {
           "nome": "ESPN 4 HD1",
