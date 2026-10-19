@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 19/10/2026 10:21 (Brasília).
+Rodada de 19/10/2026 11:29 (Brasília).
 
 - Catálogo: 14598 filmes e 1248 séries
-- Consultados nesta rodada: 1 (1 novos)
+- Consultados nesta rodada: 1116 (0 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -22,7 +22,6 @@ Confira o `tmdb_id` destes no catálogo.
 - movie `315905` Asking Alexandria Live from Brixton and Beyond
 - movie `326084` Gloria
 - movie `372832` O Resgate
-- movie `383468` JACARELVIS E AMIGOS VOL 1
 - movie `383469` JACARELVIS E AMIGOS VOL 2
 - movie `384901` Pole Position
 - movie `394501` Luta contra os Hackers
