@@ -82,9 +82,10 @@
 	{
   "tmdb_id": 333101,
   "type": "tv",
-  "added_at": "2026-10-13",
+  "added_at": "2026-10-19",
   "episodes": [
-    { "season": 1, "episode": 1, "embeds": [ "https://mgeb.site/embed/333101/1/1", "https://redeflixapi.store/serie/333101/1/1", "https://myembed.biz/serie/333101/1/1", "http://embed-api.clickhost.xyz/embed/serie/333101/1/1" ] }
+    { "season": 1, "episode": 1, "embeds": [ "https://mgeb.site/embed/333101/1/1", "https://redeflixapi.store/serie/333101/1/1", "https://myembed.biz/serie/333101/1/1", "http://embed-api.clickhost.xyz/embed/serie/333101/1/1" ] },
+	{ "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/333101/1/2", "https://redeflixapi.store/serie/333101/1/2", "https://myembed.biz/serie/333101/1/2", "http://embed-api.clickhost.xyz/embed/serie/333101/1/2" ] }
   ]
 },
 	{
