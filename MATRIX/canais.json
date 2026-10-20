@@ -1435,25 +1435,30 @@
 		{
           "nome": "TNT HD1",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=tnt"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=tnt"
         },
 		{
           "nome": "TNT HD2",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
-          "embed": "https://w7.embedtv.cc/tnt"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=tnt"
         },
 		{
           "nome": "TNT HD3",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
-          "embed": "https://rdcanais.org/tnt"
+          "embed": "https://w7.embedtv.cc/tnt"
         },
 		{
           "nome": "TNT HD4",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/tnt"
+          "embed": "https://rdcanais.org/tnt"
         },
 		{
           "nome": "TNT HD5",
+          "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
+          "embed": "https://v2.rdembed.sbs/tnt"
+        },
+		{
+          "nome": "TNT HD6",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=tnt"
         }
