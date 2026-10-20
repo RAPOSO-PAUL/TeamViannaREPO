@@ -613,25 +613,35 @@
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=espn3"
         },
-        {
+		{
           "nome": "ESPN 4 HD1",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn4"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn4"
         },
         {
           "nome": "ESPN 4 HD2",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "embed": "https://w7.embedtv.cc/espn4"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn4"
         },
         {
           "nome": "ESPN 4 HD3",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "embed": "https://rdcanais.org/espn4"
+          "embed": "https://w7.embedtv.cc/espn4"
         },
         {
           "nome": "ESPN 4 HD4",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/espn4"
+          "embed": "https://rdcanais.org/espn4"
+        },
+        {
+          "nome": "ESPN 4 HD5",
+          "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
+          "embed": "https://v2.rdembed.sbs/espn4"
+        },
+		{
+          "nome": "ESPN 4 HD6",
+          "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=espn4"
         },
         {
           "nome": "ESPN 5 HD1",
@@ -1337,6 +1347,26 @@
           "nome": "HBO Pop HD6",
           "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=hbopop"
+        },
+		{
+          "nome": "HBO Signature HD1",
+          "imagem": "https://i.ibb.co/fzJbxVCz/hbo-signature.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hbosignature"
+        },
+		{
+          "nome": "HBO Signature HD2",
+          "imagem": "https://i.ibb.co/fzJbxVCz/hbo-signature.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hbosignature"
+        },
+		{
+          "nome": "HBO Signature HD3",
+          "imagem": "https://i.ibb.co/fzJbxVCz/hbo-signature.jpg",
+          "embed": "https://rdcanais.org/hbosignature"
+        },
+		{
+          "nome": "HBO Signature HD4",
+          "imagem": "https://i.ibb.co/fzJbxVCz/hbo-signature.jpg",
+          "embed": "https://v2.rdembed.sbs/hbosignature"
         }
       ]
     },
