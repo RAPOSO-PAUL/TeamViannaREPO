@@ -118,7 +118,8 @@
 	"HBO 2 HD3",
 	"HBO Family HD3",
 	"HBO Mundi HD3",
-	"HBO Plus HD3"
+	"HBO Plus HD3",
+	"HBO Pop HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -1306,6 +1307,36 @@
           "nome": "HBO Plus HD6",
           "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=hboplus"
+        },
+		{
+          "nome": "HBO Pop HD1",
+          "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hbopop"
+        },
+		{
+          "nome": "HBO Pop HD2",
+          "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hbopop"
+        },
+		{
+          "nome": "HBO Pop HD3",
+          "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
+          "embed": "https://w7.embedtv.cc/hbopop"
+        },
+		{
+          "nome": "HBO Pop HD4",
+          "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
+          "embed": "https://rdcanais.org/hbopop"
+        },
+		{
+          "nome": "HBO Pop HD5",
+          "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
+          "embed": "https://v2.rdembed.sbs/hbopop"
+        },
+		{
+          "nome": "HBO Pop HD6",
+          "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=hbopop"
         }
       ]
     },
