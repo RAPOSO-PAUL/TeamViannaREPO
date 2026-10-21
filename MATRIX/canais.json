@@ -643,25 +643,35 @@
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=espn4"
         },
-        {
+		{
           "nome": "ESPN 5 HD1",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn5"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn5"
         },
         {
           "nome": "ESPN 5 HD2",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "embed": "https://w7.embedtv.cc/espn5"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn5"
         },
         {
           "nome": "ESPN 5 HD3",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "embed": "https://rdcanais.org/espn5"
+          "embed": "https://w7.embedtv.cc/espn5"
         },
         {
           "nome": "ESPN 5 HD4",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/espn5"
+          "embed": "https://rdcanais.org/espn5"
+        },
+        {
+          "nome": "ESPN 5 HD5",
+          "imagem": "https://archive.org/download/espn5/espn5.jpg",
+          "embed": "https://v2.rdembed.sbs/espn5"
+        },
+		{
+          "nome": "ESPN 5 HD6",
+          "imagem": "https://archive.org/download/espn5/espn5.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=espn5"
         },
         {
           "nome": "ESPN 6 HD1",
@@ -1367,6 +1377,36 @@
           "nome": "HBO Signature HD4",
           "imagem": "https://i.ibb.co/fzJbxVCz/hbo-signature.jpg",
           "embed": "https://v2.rdembed.sbs/hbosignature"
+        },
+		{
+          "nome": "HBO Xtreme HD1",
+          "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hboxtreme"
+        },
+		{
+          "nome": "HBO Xtreme HD2",
+          "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hboxtreme"
+        },
+		{
+          "nome": "HBO Xtreme HD3",
+          "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
+          "embed": "https://w7.embedtv.cc/hboxtreme"
+        },
+		{
+          "nome": "HBO Xtreme HD4",
+          "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
+          "embed": "https://rdcanais.org/hboxtreme"
+        },
+		{
+          "nome": "HBO Xtreme HD5",
+          "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
+          "embed": "https://v2.rdembed.sbs/hboxtreme"
+        },
+		{
+          "nome": "HBO Xtreme HD6",
+          "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=hboxtreme"
         }
       ]
     },
