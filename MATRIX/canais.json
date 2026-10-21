@@ -134,7 +134,7 @@
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
   "rdembed.sbs",
-  "vercel.app"
+  "bugoumods.com"
 ],
   "categorias": [
     {
@@ -554,6 +554,11 @@
           "nome": "ESPN 1 HD6",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=espn"
+        },
+		{
+          "nome": "ESPN 1 HD7",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "iframe:https://embed.bugoumods.com/player.php?type=live_streams&id=4794555&ext=ts&name=ESPN+HD+-+VlQgLSBMb25kcmluYSB4IEN1aWFiw6E%3D&img=https%3A%2F%2Fmaintech.top%2Flogosam%2Fesportes%2Fespn%252b.png"
         },
 		{
           "nome": "ESPN 2 HD1",
