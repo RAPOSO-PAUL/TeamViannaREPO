@@ -29,7 +29,7 @@
     "ESPN 5 HD3",
     "ESPN 6 HD3",
     "PREMIERE HD3",
-    "PREMIERE 2 HD2",
+    "PREMIERE 2 HD3",
     "PREMIERE 3 HD2",
     "PREMIERE 4 HD2",
     "PREMIERE 5 HD2",
@@ -743,22 +743,32 @@
 		{
           "nome": "PREMIERE 2 HD1",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiere2"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=premiere2"
         },
 		{
           "nome": "PREMIERE 2 HD2",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "https://w7.embedtv.cc/premiere2"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiere2"
         },
 		{
           "nome": "PREMIERE 2 HD3",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "https://rdcanais.org/premiere2alternativo"
+          "embed": "https://w7.embedtv.cc/premiere2"
         },
 		{
           "nome": "PREMIERE 2 HD4",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/premiere2"
+          "embed": "https://rdcanais.org/premiere2alternativo"
+        },
+		{
+          "nome": "PREMIERE 2 HD5",
+          "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
+          "embed": "https://v2.rdembed.sbs/premiere-2"
+        },
+		{
+          "nome": "PREMIERE 2 HD6",
+          "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=premiere2"
         },
 		{
           "nome": "PREMIERE 3 HD1",
@@ -1619,6 +1629,21 @@
           "nome": "ARTE1 HD3",
           "imagem": "https://i.ibb.co/yFDYJvdb/ARTE1.jpg",
           "embed": "https://v2.rdembed.sbs/arte1"
+        },
+		{
+          "nome": "BIS HD1",
+          "imagem": "https://i.ibb.co/Jj5CD3cJ/bis.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bis"
+        },
+		{
+          "nome": "BIS HD2",
+          "imagem": "https://i.ibb.co/Jj5CD3cJ/bis.jpg",
+          "embed": "https://rdcanais.org/bis"
+        },
+		{
+          "nome": "BIS HD3",
+          "imagem": "https://i.ibb.co/Jj5CD3cJ/bis.jpg",
+          "embed": "https://v2.rdembed.sbs/bis"
         }
       ]
     },
