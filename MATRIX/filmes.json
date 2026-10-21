@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1662858,
+  "type":"movie",
+  "added_at":"2026-10-21",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1662858"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1662858"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1662858"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1662858"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:ozlcv4uenfprepbq7bhbtuocfy3jwq6i&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.TEMPORADA-01.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Mar%C3%A9.Escura.2026.1080p.WEB-DL.DUAL.2.0"}
+  ],
+  "youtube":"kxBhiwdbDEM"
+},
+{
   "tmdb_id":1198654,
   "type":"movie",
   "added_at":"2026-10-20",
@@ -18723,17 +18736,14 @@
 {
   "tmdb_id":1108427,
   "type":"movie",
-  "added_at":"2026-10-04",
+  "added_at":"2026-10-21",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1108427"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1108427"},
     {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1108427"},
     {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1108427"},
-    {"name":"1080p Dublado","magnet":"magnet:?xt=urn:btih:A79E1C7A1A5007F950BF4262E3A626E522437C36&dn=Moana.2026.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"},
-    {"name":"720p","magnet":"magnet:?xt=urn:btih:20AA144BE8EBB57756EAFAC5FCC082EF3CD8D3C0&dn=Moana+%282026%29+%5B720p%5D+%5BWEBRip%5D+%5B+UIndex.org+%5D&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce"},
-    {"name":"1080p","magnet":"magnet:?xt=urn:btih:D1A91E0DC3C6A50B522F3D59273332E72CDD394B&dn=Moana+%282026%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D+%5B+UIndex.org+%5D&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce"},
-    {"name":"1080p 2","magnet":"magnet:?xt=urn:btih:B2208B43E079D485036D2C6F46F826B0429BE2A3&dn=Moana+%282026%29+%5B1080p%5D+%5BWEBRip%5D+%5Bx265%5D+%5B10bit%5D+%5B5.1%5D+%5B+UIndex.org+%5D&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce"},
-    {"name":"1080p 3","magnet":"magnet:?xt=urn:btih:008df84b64464ab08565fdaa909e54b13424547e&dn=Moana.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264-KyoGo.mkv&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.publictracker.xyz:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.qu.ax:6969/announce&tr=udp://tracker.peerfect.org:6969/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.com:6969/announce&tr=udp://tracker.ilibr.org:6969/announce&tr=udp://tracker.farted.net:6969/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://opentor.net:6969&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.auctor.tv:6969/announce&tr=udp://tracker.0x7c0.com:6969/announce&tr=udp://tracker-udp.gbitt.info:80/announce&tr=udp://torrentclub.online:54123/announce&tr=udp://torrentclub.online:1984/announce&tr=udp://t.overflow.biz:6969/announce&tr=udp://retracker01-msk-virt.corbina.net:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://mail.segso.net:6969/announce&tr=http://bt1.archive.org:6969/announce&tr=http://bt2.archive.org:6969/announce"}
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:4otzjkrcktpqb3rukf4r3ntl3iwvoi2n&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Moana.2026.1080p.WEB-DL.x264.DUAL.5.1"},
+	{"name":"1080p Dual Áudio 2","magnet":"magnet:?xt=urn:btih:wjiun4auzhock25fxlfgmoexir63p2iu&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.SEM-COMPACTA%C3%87%C3%83O.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Moana.2026.1080p.FULL.HD.WEB-DL.DUAL.5.1"}
   ],
   "youtube":"GLWdB7tzVms"
 },
