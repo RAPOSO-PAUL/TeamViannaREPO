@@ -25,9 +25,9 @@
     "ESPN 1 HD3",
     "ESPN 2 HD3",
     "ESPN 3 HD3",
-    "ESPN 4 HD2",
-    "ESPN 5 HD2",
-    "ESPN 6 HD2",
+    "ESPN 4 HD3",
+    "ESPN 5 HD3",
+    "ESPN 6 HD3",
     "PREMIERE HD3",
     "PREMIERE 2 HD2",
     "PREMIERE 3 HD2",
@@ -119,7 +119,9 @@
 	"HBO Family HD3",
 	"HBO Mundi HD3",
 	"HBO Plus HD3",
-	"HBO Pop HD3"
+	"HBO Pop HD3",
+	"HBO Signature HD3",
+	"HBO Xtreme HD3"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -673,25 +675,35 @@
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=espn5"
         },
-        {
+		{
           "nome": "ESPN 6 HD1",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn6"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn6"
         },
         {
           "nome": "ESPN 6 HD2",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "embed": "https://w7.embedtv.cc/espn6/"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn6"
         },
         {
           "nome": "ESPN 6 HD3",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "embed": "https://rdcanais.org/espn6"
+          "embed": "https://w7.embedtv.cc/espn6/"
         },
         {
           "nome": "ESPN 6 HD4",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/espn6"
+          "embed": "https://rdcanais.org/espn6"
+        },
+        {
+          "nome": "ESPN 6 HD5",
+          "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
+          "embed": "https://v2.rdembed.sbs/espn6"
+        },
+		{
+          "nome": "ESPN 6 HD6",
+          "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=espn6"
         }
       ]
     },
@@ -1592,6 +1604,21 @@
           "nome": "Adult Swim HD5",
           "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
           "embed": "https://v2.rdembed.sbs/adultswim"
+        },
+		{
+          "nome": "ARTE1 HD1",
+          "imagem": "https://i.ibb.co/yFDYJvdb/ARTE1.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=arte1"
+        },
+		{
+          "nome": "ARTE1 HD2",
+          "imagem": "https://i.ibb.co/yFDYJvdb/ARTE1.jpg",
+          "embed": "https://rdcanais.org/arte1"
+        },
+		{
+          "nome": "ARTE1 HD3",
+          "imagem": "https://i.ibb.co/yFDYJvdb/ARTE1.jpg",
+          "embed": "https://v2.rdembed.sbs/arte1"
         }
       ]
     },
