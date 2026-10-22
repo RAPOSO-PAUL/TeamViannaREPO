@@ -1,0 +1,367 @@
+# Relatório da aba temática
+
+Rodada de 22/10/2026 16:29 (Brasília).
+
+Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
+
+## NATAL
+
+- Datas: 12-01 a 01-06 · ativo: True
+- **283 filmes** e **1 séries**
+
+### Filmes
+
+- `5375` Titio Noel — "noel" no nome
+- `10147` Papai Noel às Avessas — "papai noel" no nome
+- `11395` Meu Papai é Noel — "noel" no nome
+- `11661` Feliz Natal — "natal" no nome
+- `13358` O Natal de Dennis o Pimentinha — "natal" no nome
+- `13673` Um Natal Muito, Muito Louco — "natal" no nome
+- `15566` Sobrevivendo ao Natal — "natal" no nome
+- `17979` Os Fantasmas de Scrooge — "christmas" no nome
+- `51052` Operação Presente — "christmas" no nome
+- `51256` Natal Shrektacular do Burro — "natal" no nome
+- `55465` O Natal Maluco de Harold e Kumar — "natal" no nome
+- `146304` O Natal dos Amigos Indiscretos — "natal" no nome
+- `146712` O Natal dos Padrinhos Mágicos — "natal" no nome
+- `227655` Um Presente Perfeito — "christmas" no nome
+- `231530` K-9 - Um Conto de Natal — "natal" no nome
+- `248561` Krampus - O Justiceiro do Mal — "christmas" no nome
+- `250535` Que Fim Levou Papai Noel? — "papai noel" no nome
+- `286532` Feliz Natal: Onde Estão os Presentes? — "natal" no nome
+- `287903` Krampus: O Terror do Natal — "natal" no nome
+- `299578` A Guerra dos Biscoitos — "christmas" no nome
+- `305455` Um Amigo Muito Especial — "noel" no nome
+- `333348` O Natal dos Coopers — "natal" no nome
+- `338964` Papai Noel às Avessas 2 — "papai noel" no nome
+- `340402` Um Natal Quase Perfeito — "natal" no nome
+- `363486` Bem a Tempo para o Natal — "natal" no nome
+- `369063` Um Anjo em Minha Vida — "christmas" no nome
+- `384682` A Última Ressaca do Ano — "christmas" no nome
+- `410314` Um Desejo para o Natal — "natal" no nome
+- `415959` A Magia do Natal — "natal" no nome
+- `421620` Natal Fora de Casa — "natal" no nome
+- `421632` Estarei em Casa para o Natal — "natal" no nome
+- `424062` Um Pedido de Natal — "natal" no nome
+- `427279` Para Sempre Natal — "natal" no nome
+- `430844` Patrulha Canina: Os Filhotes Salvam o Natal — "natal" no nome
+- `431530` Perfeita é a Mãe 2 — "christmas" no nome
+- `449755` Cartão de Natal — "natal" no nome
+- `450322` O Homem Que Inventou o Natal — "natal" no nome
+- `451500` Papai Noel & Cia — "papai noel" no nome
+- `455842` Elliot: Uma História de Natal — "natal" no nome
+- `474498` Mariah Carey: Desejo de Natal — "natal" no nome
+- `474981` O Natal Está no Ar — "natal" no nome
+- `474982` O Trem do Natal — "natal" no nome
+- `483104` O Príncipe do Natal — "natal" no nome
+- `483548` A Volta do Espírito de Natal — "natal" no nome
+- `483558` Um Sonho de Natal — "natal" no nome
+- `485504` Natal em El Camino — "natal" no nome
+- `488113` Era Uma Vez Um Casamento — "christmas" no nome
+- `488969` Miss Me This Christmas — "christmas" no nome
+- `488971` Você Não Pode Lutar no Natal — "natal" no nome
+- `490154` Natal com os Storybots — "natal" no nome
+- `525041` O Príncipe do Natal: O Casamento Real — "natal" no nome
+- `527435` Crônicas de Natal — "natal" no nome
+- `544065` Sobrevivendo às Festas com os Parentes — "christmas" no nome
+- `544514` O Magico Circo de Noel — "noel" no nome
+- `549053` Uma Segunda Chance Para Amar — "christmas" no nome
+- `550023` Natal no Palácio — "natal" no nome
+- `550030` Natal Caseiro — "natal" no nome
+- `550084` Reunidos no Natal — "natal" no nome
+- `550097` Sem Dormir Até o Natal — "natal" no nome
+- `550373` Pé Grande vs. Papai Noel — "papai noel" no nome
+- `550385` Paisagem de Natal — "natal" no nome
+- `551701` 24 Horas para o Natal — "natal" no nome
+- `551808` Natal Sangrento — "natal" no nome
+- `555850` O Feitiço do Natal — "natal" no nome
+- `559337` Uma Troca de Natal — "natal" no nome
+- `563710` O Natal de Angela — "natal" no nome
+- `565274` Natal em Holly Lane — "natal" no nome
+- `567145` Zoe e Raven: Os Doze Presentes de Natal — "natal" no nome
+- `567296` Uma Esperança no Natal — "natal" no nome
+- `569038` O Príncipe de Peoria e o Milagre de Natal — "natal" no nome
+- `571009` Luccas Neto em: Perdidos na Noite de Natal — "natal" no nome
+- `579524` Minions Curta: Ajudantes do Papai Noel — "papai noel" no nome
+- `587693` O Príncipe do Natal: O Bebê Real — "natal" no nome
+- `606117` A Nova Cinderela: Milagre de Natal — "natal" no nome
+- `611207` Um Passado de Presente — "christmas" no nome
+- `615666` Um Menino Chamado Natal — "natal" no nome
+- `622855` Uma Invenção de Natal — "natal" no nome
+- `626319` Cartões de Natal — "natal" no nome
+- `627466` Natal Sempre e Para Sempre — "natal" no nome
+- `627471` Infiltrada no Natal — "natal" no nome
+- `627478` Tempestade de Natal — "natal" no nome
+- `627482` O Brilho do Natal — "natal" no nome
+- `630894` Um Natal para Recordar — "natal" no nome
+- `630916` Natal no Hotel Plaza — "natal" no nome
+- `630924` Um Namorado para o Natal — "natal" no nome
+- `631420` O Segredo do Natal — "natal" no nome
+- `632856` Spirited: Um Conto Natalino — "natalino" no nome
+- `639609` O Natal Está no Ar — "natal" no nome
+- `643533` Super Monstros Salvam o Natal — "natal" no nome
+- `644435` Uma Aventura de Natal — "natal" no nome
+- `645757` Aquele Natal — "natal" no nome
+- `652020` Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo — "natal" no nome
+- `654028` Crônicas de Natal: Parte Dois — "natal" no nome
+- `654345` Luccas Neto em: O Fim do Natal — "natal" no nome
+- `656561` O X do Natal — "natal" no nome
+- `656793` Guaxinins Assassinos: Armados Até os Dentes — "christmas" no nome
+- `674610` The Loud House: Um Natal Muito Loud — "natal" no nome
+- `714511` 10 Horas para o Natal — "natal" no nome
+- `733032` Valsa de Natal — "natal" no nome
+- `736918` O Diário de Noel — "noel" no nome
+- `737763` Um Buquê de Natal — "natal" no nome
+- `737779` Um Natal no Castelo — "natal" no nome
+- `738646` Missão Presente de Natal — "natal" no nome
+- `744925` De Repente é Amor — "christmas" no nome
+- `744929` A Titia Noel — "noel" no nome
+- `744936` O Melhor Presente de Natal — "natal" no nome
+- `744937` Edição de Natal — "natal" no nome
+- `744941` Querido Natal — "natal" no nome
+- `744948` Natal Para Sempre — "natal" no nome
+- `746032` O Natal dos Darlingtons — "natal" no nome
+- `746039` Natal Fora do Tempo — "natal" no nome
+- `746040` Plantão de Natal — "natal" no nome
+- `746048` Natal por Escrito — "natal" no nome
+- `746051` Segunda Chance para o Primeiro Amor — "christmas" no nome
+- `746060` Um Natal Cinco Estrelas — "natal" no nome
+- `746061` Um Carrossel de Natal — "natal" no nome
+- `748890` Voltando da Lua de Mel — "christmas" no nome
+- `752455` O Presente de Natal de Angela — "natal" no nome
+- `755339` Tudo Bem no Natal Que Vem — "natal" no nome
+- `758879` Um Castelo para o Natal — "natal" no nome
+- `762879` De Novo Natal? — "natal" no nome
+- `765123` Natal Sob Fogo Cruzado — "natal" no nome
+- `767896` A Família Noel — "noel" no nome
+- `768520` Um Brinde Ao Natal — "natal" no nome
+- `769064` Luccas Neto em: Um Natal Muito Atrapalhado — "natal" no nome
+- `771002` Presente de Natal — "natal" no nome
+- `774810` O Natal do Zé Coleta — "natal" no nome
+- `779775` Um Natal Para Todos — "natal" no nome
+- `801937` Natal Sangrento — "natal" no nome
+- `802217` Natal Em 8 Bits — "natal" no nome
+- `805973` Um Natal no Rancho — "natal" no nome
+- `810873` Um Crush para o Natal — "natal" no nome
+- `826451` Rainha do Natal — "natal" no nome
+- `832128` Missão Baile de Natal — "natal" no nome
+- `833097` Uma Quedinha de Natal — "natal" no nome
+- `845781` Operação Natal — "natal" no nome
+- `852590` Tudo Menos Natal — "natal" no nome
+- `853540` Natal em Família — "natal" no nome
+- `864390` O Desejo de Natal de Mickey e Minnie — "natal" no nome
+- `865559` No Seu Natal ou no Meu — "natal" no nome
+- `866665` Natal Entre Irmãs: De Volta para Casa — "natal" no nome
+- `866669` Natal Entre Irmãs: Na Cidade — "natal" no nome
+- `870358` O Natal do Pequeno Batman — "natal" no nome
+- `870359` Urkel Salva o Papai Noel: O Filme! — "papai noel" no nome
+- `872130` O Natal Extraordinário de Zoey — "natal" no nome
+- `874124` Imprevisto de Natal — "natal" no nome
+- `874194` Um Natal em Família Diferente — "natal" no nome
+- `874196` O Natal dos Mitchell 2: A Competição — "natal" no nome
+- `877004` Próxima Parada: Natal — "natal" no nome
+- `878111` 100 Dias para o Natal — "natal" no nome
+- `878384` Brincando com o Natal — "natal" no nome
+- `878417` Então é Natal — "natal" no nome
+- `881180` A Família Noel 2 — "noel" no nome
+- `881500` Um Milagre de Natal para Daisy — "natal" no nome
+- `881857` Um Natal em Montana — "natal" no nome
+- `882093` David e os Duendes de Natal — "natal" no nome
+- `882096` Um Brinde Ao Natal: Luzes da Cidade — "natal" no nome
+- `882098` Natal, mas Pouco — "natal" no nome
+- `882102` Uma Esposa de Natal — "natal" no nome
+- `887609` O Último Trem pro Natal — "natal" no nome
+- `893222` De Férias para o Amor — "christmas" no nome
+- `899382` O Natal Foi Cancelado — "natal" no nome
+- `910816` Um Romance Perfeito — "christmas" no nome
+- `914241` Operação Feliz Natal: O Golpe dos Duendes — "natal" no nome
+- `918459` Um Natal Encantado — "natal" no nome
+- `929340` Uma História de Natal Natalina — "natal" no nome
+- `936059` Travessuras de Natal — "natal" no nome
+- `936960` Natal com Você — "natal" no nome
+- `962367` Aquela Canção de Natal — "natal" no nome
+- `962589` Natal no Lago — "natal" no nome
+- `971511` Triângulo de Natal — "natal" no nome
+- `974213` Natal em Londres — "natal" no nome
+- `987490` O Melhor. Natal. de Todos! — "natal" no nome
+- `987758` Reis Magos vs. Papai Noel — "papai noel" no nome
+- `987919` Um Mistério de Natal — "natal" no nome
+- `999602` Uma Surpresa de Natal — "natal" no nome
+- `1001865` Scrooge: Um Conto de Natal — "natal" no nome
+- `1001884` Um Chamado Natalino — "natalino" no nome
+- `1003487` Destino: Natal — "natal" no nome
+- `1012042` Um Natal na Suíça — "natal" no nome
+- `1012288` Torneio de Natal: De Volta ao Lar — "natal" no nome
+- `1015169` Natal, Reforma e Amor — "natal" no nome
+- `1015190` Um Amor com Sabor de Natal — "natal" no nome
+- `1015539` Noel Frankenstein — "noel" no nome
+- `1020969` Um Natal com Teddy — "natal" no nome
+- `1022964` A Batalha de Natal — "natal" no nome
+- `1026624` Mucho Locos no Natal — "natal" no nome
+- `1026941` Natal no Cine Drive-In — "natal" no nome
+- `1027338` Um Natal Bem Casado — "natal" no nome
+- `1027358` Natal Entre Amigos — "natal" no nome
+- `1027431` Memórias de Natal — "natal" no nome
+- `1028186` Natal no Restaurante Chinês — "natal" no nome
+- `1028537` Turma Reunida no Natal — "natal" no nome
+- `1028539` Um Reencontro Natalino — "natalino" no nome
+- `1028541` Três Babás Para o Natal — "natal" no nome
+- `1028547` A Noite Antes do Natal — "natal" no nome
+- `1028550` #Natal — "natal" no nome
+- `1028552` A Catástrofe do Biscoito de Natal — "natal" no nome
+- `1028556` Natal Entre Vizinhos — "natal" no nome
+- `1028558` Minha Família de Natal — "natal" no nome
+- `1028935` Natal em Harmonia — "natal" no nome
+- `1028938` Natal em Hollywood — "natal" no nome
+- `1029208` Um Natal Improvável — "natal" no nome
+- `1029578` Um Natal 5 Estrelas — "natal" no nome
+- `1030969` Uma Faísca de Natal — "natal" no nome
+- `1031046` Entrando no Clima do Natal — "natal" no nome
+- `1032364` Conhecendo o Sr. Natal — "natal" no nome
+- `1032454` Natal sem Filtro — "natal" no nome
+- `1033052` O Malvado: Horror no Natal — "natal" no nome
+- `1033528` Natal em Boa Forma — "natal" no nome
+- `1034168` 12 Vésperas de Natal — "natal" no nome
+- `1037372` Férias no Caribe — "christmas" no nome
+- `1037391` Natal no Paraíso — "natal" no nome
+- `1037929` Mickey Salva o Natal — "natal" no nome
+- `1038627` Nosso Natal na Fazenda — "natal" no nome
+- `1038803` Uma Paixão no Natal — "natal" no nome
+- `1042984` Um Natal Cheio de Graça — "natal" no nome
+- `1045944` O Chefinho: Bônus de Natal — "natal" no nome
+- `1046032` Os Caras Malvados: Um Natal do Mal — "natal" no nome
+- `1047431` Prancer: Um Conto de Natal — "natal" no nome
+- `1048771` Um Novo Conto de Natal — "natal" no nome
+- `1051959` A Família Noel 3 — "noel" no nome
+- `1053080` Encomenda para o Natal — "natal" no nome
+- `1053110` Ele Acredita em Papai Noel! — "papai noel" no nome
+- `1053419` Natal Outra Vez? — "natal" no nome
+- `1054864` Natal (Ao Vivo) — "natal" no nome
+- `1055800` O Espírito do Natal — "natal" no nome
+- `1056212` Irmão do Jorel Especial de Natal: Irmão do Noel — "natal" no nome
+- `1064137` Um Natal em Biltmore — "natal" no nome
+- `1073650` Nosso Natal em Família — "natal" no nome
+- `1087092` Era Uma Vez... Um Baile de Natal — "natal" no nome
+- `1097870` Querido Papai Noel — "papai noel" no nome
+- `1100642` Uma Mensagem Antes do Natal — "natal" no nome
+- `1103787` O Primeiro Natal do Mundo — "natal" no nome
+- `1104171` Sintonia de Natal — "natal" no nome
+- `1123093` Diário de um Banana no Natal: Casa dos Horrores — "natal" no nome
+- `1127936` Uma Valsa de Natal em Paris — "natal" no nome
+- `1132189` Sim, Chef! É Natal! — "natal" no nome
+- `1142767` O Natal Volta para Casa — "natal" no nome
+- `1142780` Um Amor Real de Natal — "natal" no nome
+- `1150521` Natal em Windmill Way — "natal" no nome
+- `1175787` Ritmo de Natal — "natal" no nome
+- `1176139` No Seu Natal ou no Meu 2 — "natal" no nome
+- `1180660` Pintando Amor No Natal — "natal" no nome
+- `1180798` Um Natal para a Família — "natal" no nome
+- `1183658` Descobrindo o Natal — "natal" no nome
+- `1183990` Um Namorado de Natal pra Mamãe — "natal" no nome
+- `1189198` Genie - A Magia do Natal — "natal" no nome
+- `1192330` Um Amor de Natal — "natal" no nome
+- `1196207` Quem Vai Salvar o Natal? 2 — "natal" no nome
+- `1201640` Como o Gringo Roubou o Natal — "natal" no nome
+- `1202584` O Natal de Costume — "natal" no nome
+- `1203695` A Escolha de Natal — "natal" no nome
+- `1206617` O Melhor Espetáculo de Natal de Todos os Tempos — "natal" no nome
+- `1213628` Encontrando um Amor no Natal — "natal" no nome
+- `1215717` Uma História de Amor no Campo — "christmas" no nome
+- `1219491` Um Natal para Chueco — "natal" no nome
+- `1237082` 31 Minutos: Natal Escaldante — "natal" no nome
+- `1261825` Um. Natal. Surreal. — "natal" no nome
+- `1290486` No Ritmo do Natal — "natal" no nome
+- `1293279` Três Babás para o Natal 2 — "natal" no nome
+- `1314801` Natal — "natal" no nome
+- `1315692` Uma Carta de Natal — "natal" no nome
+- `1319443` Uma Jogada de Natal — "natal" no nome
+- `1325888` A Carta de Natal — "natal" no nome
+- `1325912` O Tesouro de Natal — "natal" no nome
+- `1341123` Natal Sob a Aurora Boreal — "natal" no nome
+- `1360794` A Estrela de Natal — "natal" no nome
+- `1361154` Plantão de Natal — "natal" no nome
+- `1361240` O Verdadeiro Sentido do Natal — "natal" no nome
+- `1361244` O Manuscrito do Amor — "noel" no nome
+- `1372028` O Brilho do Natal — "natal" no nome
+- `1377267` Um Amor de Natal — "natal" no nome
+- `1380956` Operação Beijo de Natal — "natal" no nome
+- `1388232` Jack Chega A Tempo Para O Natal — "natal" no nome
+- `1389821` Um Sonho de Natal — "natal" no nome
+- `1394389` O Jarro de Natal — "natal" no nome
+- `1399914` Os Simpsons: Homer Papai Noel — "papai noel" no nome
+- `1401044` O Meu, O Seu, O Nosso Natal — "natal" no nome
+- `1401318` Um Natal Ex-pecial — "natal" no nome
+- `1425122` Um Natal Bem Jonas Brothers — "natal" no nome
+- `1441563` O Segredo do Papai Noel — "papai noel" no nome
+- `1585269` A Magia do Natal — "natal" no nome
+
+### Séries
+
+- `155631` Meu Papai (Ainda) é Noel — "noel" no nome
+
+## HALLOWEEN
+
+- Datas: 10-15 a 11-02 · ativo: True
+- **35 filmes** e **0 séries**
+
+### Filmes
+
+- `948` Halloween - A Noite do Terror — "halloween" no nome
+- `2082` Halloween: O Início — "halloween" no nome
+- `10676` Halloween III: A Noite das Bruxas — "halloween" no nome
+- `10987` Halloween 6: A Última Vingança — "halloween" no nome
+- `11281` Halloween II: O Pesadelo Continua — "halloween" no nome
+- `11357` Halloween 4: O Retorno de Michael Myers — "halloween" no nome
+- `11361` Halloween 5: A Vingança de Michael Myers — "halloween" no nome
+- `11442` Halloween: Ressurreição — "halloween" no nome
+- `11675` Halloween H20: Vinte Anos Depois — "halloween" no nome
+- `23202` Contos do Dia das Bruxas — "dia das bruxas" no nome
+- `24150` H2: Halloween 2 — "halloween" no nome
+- `262169` Halloween Macabro — "halloween" no nome
+- `424139` Halloween — "halloween" no nome
+- `442062` Goosebumps 2: Halloween Assombrado — "halloween" no nome
+- `459202` Boo 2! O Halloween de Madea — "halloween" no nome
+- `512584` Doces ou Travessuras — "halloween" no nome
+- `544075` O Meme da Festa de Halloween — "halloween" no nome
+- `550412` Halloween: A Lenda de Jack — "halloween" no nome
+- `610253` Halloween Kills: O Terror Continua — "halloween" no nome
+- `614204` A Noite das Bruxas — "noite das bruxas" no nome
+- `616820` Halloween Ends: O Acerto de Contas Final — "halloween" no nome
+- `617505` O Halloween do Hubie — "halloween" no nome
+- `628707` Terror no Dia das Bruxas — "dia das bruxas" no nome
+- `641300` Dia das Bruxas — "dia das bruxas" no nome
+- `721656` Feliz Halloween, Scooby-Doo! — "halloween" no nome
+- `736073` Batman: O Longo Dia das Bruxas - Parte 1 — "halloween" no nome
+- `763873` Under Wraps: Uma Múmia no Halloween — "halloween" no nome
+- `917990` Contos Macabros Para Quem Ama o Dia das Bruxas — "dia das bruxas" no nome
+- `936061` Under Wraps: Uma Múmia no Halloween 2 — "halloween" no nome
+- `945729` A Noite das Bruxas — "noite das bruxas" no nome
+- `961427` Noite de Sustos — "halloween" no nome
+- `1028944` Maldição de Crom: A Lenda do Halloween — "halloween" no nome
+- `1308546` Carved: Vingança de Halloween — "halloween" no nome
+- `1373445` V/H/S: Halloween — "halloween" no nome
+- `1503900` Halloween - O Espantalho Assassino — "halloween" no nome
+
+### Séries
+
+Nenhum.
+
+## PÁSCOA
+
+- Datas: 2027-03-14 a 2027-03-29 · ativo: True
+- **7 filmes** e **0 séries**
+
+### Filmes
+
+- `615` A Paixão de Cristo — "paixao de cristo" no nome
+- `50359` Hop: Rebelde Sem Páscoa — "pascoa" no nome
+- `387893` A Era do Gelo: A Grande Caçada aos Ovos de Páscoa — "pascoa" no nome
+- `586655` Amor de Páscoa — "pascoa" no nome
+- `811114` A Ressurreição de Jesus — "ressurreicao de jesus" no nome
+- `824281` Domingo de Páscoa — "pascoa" no nome
+- `1201176` Coelhos Assassinos — "easter" no nome
+
+### Séries
+
+Nenhum.
+
