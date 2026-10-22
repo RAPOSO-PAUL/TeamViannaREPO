@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1397485,
+  "type":"movie",
+  "added_at":"2026-10-21",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1397485"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1397485"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1397485"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1397485"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:dr2rwr3p5hjl4geoak7nqntgylajsjfm&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Girls+Like+Girls+-+Uma+Hist%C3%B3ria+de+Amor+Entre+Garotas.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"u7QapNHaaUg"
+},
+{
   "tmdb_id":1662858,
   "type":"movie",
   "added_at":"2026-10-21",
