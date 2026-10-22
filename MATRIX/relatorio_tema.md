@@ -1,13 +1,13 @@
 # Relatório da aba temática
 
-Rodada de 22/10/2026 16:29 (Brasília).
+Rodada de 22/10/2026 16:40 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
 - Datas: 12-01 a 01-06 · ativo: True
-- **283 filmes** e **1 séries**
+- **598 filmes** e **20 séries**
 
 ### Filmes
 
@@ -294,15 +294,151 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `1425122` Um Natal Bem Jonas Brothers — "natal" no nome
 - `1441563` O Segredo do Papai Noel — "papai noel" no nome
 - `1585269` A Magia do Natal — "natal" no nome
+- `345` De Olhos Bem Fechados — palavra-chave "christmas party"
+- `364` Batman: O Retorno — palavra-chave "christmas"
+- `508` Simplesmente Amor — palavra-chave "christmas"
+- `562` Duro de Matar — palavra-chave "christmas party"
+- `771` Esqueceram de Mim — palavra-chave "christmas"
+- `772` Esqueceram de Mim 2: Perdido em Nova York — palavra-chave "christmas"
+- `941` Máquina Mortífera — palavra-chave "christmas party"
+- `1621` Trocando as Bolas — palavra-chave "christmas"
+- `2447` Jesus - A História do Nascimento — palavra-chave "christmas"
+- `5255` O Expresso Polar — palavra-chave "christmas"
+- `5994` Um Homem de Família — palavra-chave "christmas"
+- `9279` Um Herói de Brinquedo — palavra-chave "christmas"
+- `9489` Mens@gem para Você — palavra-chave "christmas"
+- `9647` Os Fantasmas Contra-Atacam — palavra-chave "christmas"
+- `9714` Esqueceram de Mim 3 — palavra-chave "christmas"
+- `10033` Apenas Amigos — palavra-chave "christmas"
+- `11412` Despertar de um Pesadelo — palavra-chave "christmas"
+- `13373` Caiu do Céu — palavra-chave "christmas"
+- `13474` P2 - Sem Saída — palavra-chave "christmas"
+- `17379` As Férias da Minha Vida — palavra-chave "christmas"
+- `18147` Menores Desacompanhados — palavra-chave "christmas"
+- `31083` Essas Garotas — palavra-chave "christmas"
+- `42580` Um Talento Muito Especial — palavra-chave "christmas"
+- `81188` A Origem dos Guardiões — palavra-chave "christmas"
+- `139761` Terror em Sutterville — palavra-chave "christmas"
+- `239861` Os Cavalos de McBride — palavra-chave "christmas"
+- `256835` Toy Story: Esquecidos Pelo Tempo — palavra-chave "christmas"
+- `258480` Carol — palavra-chave "christmas"
+- `286488` DreamWorks: Férias Clássicas — palavra-chave "christmas"
+- `289728` Um Herói de Brinquedo 2 — palavra-chave "christmas"
+- `290512` Depois Daquela Montanha — palavra-chave "holiday season"
+- `295151` Deixe a Neve Cair — palavra-chave "christmas"
+- `296100` Sexo, Drogas e Jingle Bells — palavra-chave "christmas"
+- `299736` Os 3 Cães Mosqueteiros — palavra-chave "christmas"
+- `306626` O Verdadeiro Sentido do Amor — palavra-chave "christmas"
+- `331482` Adoráveis Mulheres — palavra-chave "christmas"
+- `355547` A Estrela de Belém — palavra-chave "christmas"
+- `360920` O Grinch — palavra-chave "christmas"
+- `396940` Tempos Obscuros — palavra-chave "christmas tree"
+- `406994` Perigo Próximo — palavra-chave "christmas"
+- `413990` Pottersville - Quanto Mais Selvagem Melhor — palavra-chave "christmas"
+- `419680` Pai em Dose Dupla 2 — palavra-chave "christmas"
+- `426543` O Quebra-Nozes e os Quatro Reinos — palavra-chave "christmas"
+- `454467` Noelle — palavra-chave "christmas"
+- `460793` Olaf em uma Nova Aventura Congelante de Frozen — palavra-chave "christmas"
+- `461928` Anna e o Apocalipse — palavra-chave "christmas"
+- `474764` O Chalé — palavra-chave "christmas"
+- `477654` Museu — palavra-chave "christmas"
+- `484510` Trolls: Vamos Festejar — palavra-chave "christmas"
+- `492452` O Retorno de Ben — palavra-chave "christmas eve"
+- `505063` Saída Proibida — palavra-chave "christmas"
+- `520172` Alguém Avisa? — palavra-chave "christmas"
+- `531438` Resgate do Coração — palavra-chave "christmas"
+- `532973` Hell House LLC II: The Abaddon Hotel — palavra-chave "christmas"
+- `535810` Orgulho, Preconceito e Azevinho — palavra-chave "christmas"
+- `539181` Relíquia Macabra — palavra-chave "christmas"
+- `556803` A Princesa e a Plebeia — palavra-chave "christmas"
+- `562490` Tesouros de Família — palavra-chave "christmas"
+- `563388` A Felicidade Mora ao Lado — palavra-chave "christmas"
+- `566949` Pooka — palavra-chave "christmas"
+- `567604` Era uma Vez um Deadpool — palavra-chave "christmas"
+- `576920` Cidade de Gelo — palavra-chave "christmas"
+- `602211` Entre Armas e Brinquedos — palavra-chave "christmas"
+- `613349` O Bom Doutor — palavra-chave "christmas eve"
+- `614420` E Agora? A Mamãe Saiu de Férias! 2... E Levou a Família — palavra-chave "christmas"
+- `615665` Amor com Data Marcada — palavra-chave "christmas"
+- `643882` A Princesa e a Plebeia: Nova Aventura — palavra-chave "christmas"
+- `654974` Esqueceram de Mim no Lar, Doce Lar — palavra-chave "christmas"
+- `662546` Fada Madrinha — palavra-chave "christmas"
+- `664574` A Última Noite — palavra-chave "christmas"
+- `690248` Meu Coração Só Irá Bater Se Você Pedir — palavra-chave "christmas tree"
+- `700037` Lucia e o Cristal Mágico — palavra-chave "christmas"
+- `732670` LEGO Star Wars: Especial de Festas — palavra-chave "christmas"
+- `734265` Um Match Surpresa — palavra-chave "christmas"
+- `741074` Era uma Vez um Boneco de Neve — palavra-chave "christmas"
+- `741622` Como Impedir um Assalto — palavra-chave "christmas"
+- `746466` O Anjo da Árvore — palavra-chave "christmas"
+- `751126` High School Musical: O Musical: Especial de Festas — palavra-chave "christmas"
+- `753926` Brinquedos do Terror — palavra-chave "christmas"
+- `762079` Presente Amaldiçoado — palavra-chave "christmas"
+- `765869` Black Friday — palavra-chave "christmas"
+- `770156` Um Anjo em Nossas Vidas — palavra-chave "christmas"
+- `770684` Retaliação — palavra-chave "christmas"
+- `774752` Guardiões da Galáxia: Especial de Festas — palavra-chave "christmas"
+- `785533` A Princesa e a Plebeia: As Vilãs Também Amam — palavra-chave "christmas"
+- `798021` Trocados — palavra-chave "christmas party"
+- `807196` O Chef — palavra-chave "christmas"
+- `840430` Os Rejeitados — palavra-chave "christmas"
+- `874244` Um Doce Milagre — palavra-chave "christmas"
+- `888500` A Estação da Alegria — palavra-chave "christmas"
+- `890541` 7 Mulheres e Um Mistério — palavra-chave "christmas"
+- `891699` O Silêncio da Vingança — palavra-chave "christmas"
+- `899112` Noite Infeliz — palavra-chave "christmas"
+- `916053` Um Presente da Tiffany — palavra-chave "christmas"
+- `923993` Loteria Fatal — palavra-chave "christmas eve"
+- `938030` Trip, O Elfo Construtor — palavra-chave "christmas"
+- `956920` Há Algo no Celeiro — palavra-chave "christmas"
+- `973471` Jogo de Sacrifício — palavra-chave "christmas"
+- `975120` Pai a Gente Só Tem Um 3 — palavra-chave "christmas party"
+- `1003469` Combinação do Azevinho — palavra-chave "christmas"
+- `1005331` Bagagem de Risco — palavra-chave "christmas eve"
+- `1018403` Tom & Jerry: Terra do Boneco de Neve — palavra-chave "christmas"
+- `1023795` O Melhor da Neve — palavra-chave "christmas"
+- `1029231` Amor em Cena — palavra-chave "christmas"
+- `1031072` Como Conseguir Um Homem em 12 Dias — palavra-chave "christmas"
+- `1034541` Terrifier 3 — palavra-chave "christmas"
+- `1035654` O Pedido De Desculpas — palavra-chave "christmas"
+- `1039571` Quando os Sinos Tocam — palavra-chave "christmas"
+- `1175697` De Volta ao Meu Coração — palavra-chave "christmas"
+- `1218762` Feliz Assalto! — palavra-chave "christmas"
+- `1234811` Nosso Segredinho — palavra-chave "christmas"
+- `1255775` Merv — palavra-chave "christmas"
+- `1290287` Um Amor Feito de Neve — palavra-chave "christmas"
+- `1323475` Borbulhas de Amor — palavra-chave "christmas"
+- `1365044` Irmã de Neve — palavra-chave "christmas"
+- `1392796` Diário de um Banana: A Gota d'Água — palavra-chave "christmas"
+- `1606791` Say Cheese — palavra-chave "christmas"
 
 ### Séries
 
 - `155631` Meu Papai (Ainda) é Noel — "noel" no nome
+- `88329` Gavião Arqueiro — palavra-chave "christmas"
+- `258901` SANDA — palavra-chave "santa claus"
+- `61888` O Último Cara da Terra — "natal" na sinopse
+- `65495` Atlanta — "natal" na sinopse
+- `70453` Objetos Cortantes — "natal" na sinopse
+- `71340` Krypton — "natal" na sinopse
+- `72339` Feliz! — "papai noel" na sinopse
+- `72743` O Peso da Verdade — "natal" na sinopse
+- `79357` Carter — "natal" na sinopse
+- `80210` Rig 45 — "natal" na sinopse
+- `82001` Roswell, New Mexico — "natal" na sinopse
+- `86164` Briarpatch — "natal" na sinopse
+- `88713` We Are Who We Are — "natal" na sinopse
+- `99121` Walker — "natal" na sinopse
+- `110382` Pachinko — "natal" na sinopse
+- `111750` Bridge and Tunnel — "natal" na sinopse
+- `114165` Kung Fu — "natal" na sinopse
+- `202879` Star Wars: Skeleton Crew — "natal" na sinopse
+- `279185` O Tormento — "natal" na sinopse
 
 ## HALLOWEEN
 
 - Datas: 10-15 a 11-02 · ativo: True
-- **35 filmes** e **0 séries**
+- **236 filmes** e **14 séries**
 
 ### Filmes
 
@@ -311,7 +447,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `10676` Halloween III: A Noite das Bruxas — "halloween" no nome
 - `10987` Halloween 6: A Última Vingança — "halloween" no nome
 - `11281` Halloween II: O Pesadelo Continua — "halloween" no nome
-- `11357` Halloween 4: O Retorno de Michael Myers — "halloween" no nome
+- `11357` Halloween 4 - O Retorno de Michael Myers — "halloween" no nome
 - `11361` Halloween 5: A Vingança de Michael Myers — "halloween" no nome
 - `11442` Halloween: Ressurreição — "halloween" no nome
 - `11675` Halloween H20: Vinte Anos Depois — "halloween" no nome
@@ -341,15 +477,229 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `1308546` Carved: Vingança de Halloween — "halloween" no nome
 - `1373445` V/H/S: Halloween — "halloween" no nome
 - `1503900` Halloween - O Espantalho Assassino — "halloween" no nome
+- `141` Donnie Darko — palavra-chave "halloween"
+- `162` Edward Mãos de Tesoura — palavra-chave "halloween"
+- `229` A Noiva de Frankenstein — palavra-chave "halloween"
+- `377` A Hora do Pesadelo — palavra-chave "halloween"
+- `533` Wallace & Gromit: A Batalha dos Vegetais — palavra-chave "halloween"
+- `601` E.T.: O Extraterrestre — palavra-chave "halloween"
+- `620` Os Caça-Fantasmas — palavra-chave "halloween"
+- `765` Uma Noite Alucinante 2 — palavra-chave "halloween"
+- `766` Uma Noite Alucinante 3 — palavra-chave "halloween"
+- `794` A Profecia — palavra-chave "halloween"
+- `814` Um Lobisomem Americano em Londres — palavra-chave "halloween"
+- `1091` O Enigma de Outro Mundo — palavra-chave "halloween"
+- `1694` Re-Animator: A Hora dos Mortos-Vivos — palavra-chave "halloween"
+- `2667` A Bruxa de Blair — palavra-chave "halloween"
+- `2907` A Família Addams — palavra-chave "halloween"
+- `2978` Os Caça-Fantasmas 2 — palavra-chave "halloween"
+- `3035` Frankenstein — palavra-chave "halloween"
+- `3036` Frankenstein de Mary Shelley — palavra-chave "halloween"
+- `3079` A Maldição de Frankenstein — palavra-chave "halloween"
+- `3933` A Noiva Cadáver — palavra-chave "halloween"
+- `4011` Os Fantasmas se Divertem — palavra-chave "halloween"
+- `4233` Pânico 2 — palavra-chave "halloween"
+- `4234` Pânico 3 — palavra-chave "halloween"
+- `4488` Sexta-Feira 13 — palavra-chave "halloween"
+- `6069` As Bruxas de Eastwick — palavra-chave "halloween"
+- `6435` Da Magia à Sedução — palavra-chave "halloween"
+- `6466` Freddy vs. Jason — palavra-chave "halloween"
+- `8839` Gasparzinho, o Fantasminha Camarada — palavra-chave "halloween"
+- `8913` Cemitério Maldito — palavra-chave "halloween"
+- `9100` Jovens Bruxas — palavra-chave "halloween"
+- `9297` A Casa Monstro — palavra-chave "halloween"
+- `9374` A Morte lhe Cai Bem — palavra-chave "halloween"
+- `9406` Um Lobisomem Americano em Paris — palavra-chave "halloween"
+- `9426` A Mosca — palavra-chave "halloween"
+- `9495` O Corvo — palavra-chave "halloween"
+- `9529` O Mistério de Candyman — palavra-chave "halloween"
+- `9552` O Exorcista — palavra-chave "halloween"
+- `9645` Navio Fantasma — palavra-chave "halloween"
+- `9725` Sexta-Feira 13 - Parte 2 — palavra-chave "halloween"
+- `9728` Sexta-Feira 13 - Parte 3 — palavra-chave "halloween"
+- `9730` Sexta-Feira 13 - Parte IV: O Capítulo Final — palavra-chave "halloween"
+- `9871` Possuída — palavra-chave "halloween"
+- `9976` O Ajudante de Satã — palavra-chave "halloween"
+- `10065` Horror em Amityville — palavra-chave "halloween"
+- `10131` A Hora do Pesadelo 4: O Mestre dos Sonhos — palavra-chave "halloween"
+- `10539` James e o Pêssego Gigante — palavra-chave "halloween"
+- `10585` Brinquedo Assassino — palavra-chave "halloween"
+- `10766` Damien: A Profecia 2 — palavra-chave "halloween"
+- `10768` A Profecia III: O Conflito Final — palavra-chave "halloween"
+- `10823` Colheita Maldita — palavra-chave "halloween"
+- `10824` Candyman 2 - A Vingança — palavra-chave "halloween"
+- `10906` Cemitério Maldito 2 — palavra-chave "halloween"
+- `10925` A Volta dos Mortos Vivos — palavra-chave "halloween"
+- `11186` Brinquedo Assassino 2 — palavra-chave "halloween"
+- `11187` Brinquedo Assassino 3 — palavra-chave "halloween"
+- `11249` O Filho de Chucky — palavra-chave "halloween"
+- `11531` A Bruxa de Blair 2: O Livro das Sombras — palavra-chave "halloween"
+- `11683` Terra dos Mortos — palavra-chave "halloween"
+- `11797` A Hora do Espanto — palavra-chave "halloween"
+- `12244` 9 - A Salvação — palavra-chave "halloween"
+- `12485` Candyman 3 - Dia dos Mortos — palavra-chave "halloween"
+- `13465` As Aventuras de Ichabod e Sr. Sapo — palavra-chave "halloween"
+- `13509` Deu a Louca nos Monstros — palavra-chave "halloween"
+- `13555` Pague para Entrar, Reze para Sair — palavra-chave "halloween"
+- `14836` Coraline e o Mundo Secreto — palavra-chave "halloween"
+- `15138` Os Monstrinhos — palavra-chave "halloween"
+- `18111` A Noiva do Re-Animator — palavra-chave "halloween"
+- `19064` Procura-se Rapaz Virgem — palavra-chave "halloween"
+- `21597` As Loucas Aventuras de Elvira — palavra-chave "halloween"
+- `22970` O Segredo da Cabana — palavra-chave "halloween"
+- `23827` Atividade Paranormal — palavra-chave "halloween"
+- `25748` Colheita Maldita 2: O Sacrifício Final — palavra-chave "halloween"
+- `25749` Colheita Maldita 3: A Colheita Urbana — palavra-chave "halloween"
+- `25751` Colheita Maldita 5: Campos do Terror — palavra-chave "halloween"
+- `25752` Colheita Maldita 666: Isaac Está de Volta — palavra-chave "halloween"
+- `25754` A Colheita Maldita — palavra-chave "halloween"
+- `26515` Pumpkinhead: A Vingança do Diabo — palavra-chave "halloween"
+- `26953` O Mestre dos Brinquedos — palavra-chave "halloween"
+- `35977` Pumpkinhead: O Retorno — palavra-chave "halloween"
+- `41436` Atividade Paranormal 2 — palavra-chave "halloween"
+- `41446` Pânico 4 — palavra-chave "halloween"
+- `49017` Dracula: A História Nunca Contada — palavra-chave "halloween"
+- `49018` Sobrenatural — palavra-chave "halloween"
+- `60935` A Coisa — palavra-chave "halloween"
+- `62213` Sombras da Noite — palavra-chave "halloween"
+- `70575` Colheita Maldita: Genesis — palavra-chave "halloween"
+- `77174` ParaNorman — palavra-chave "halloween"
+- `82990` Atividade Paranormal 4 — palavra-chave "halloween"
+- `91586` Sobrenatural: Capítulo 2 — palavra-chave "halloween"
+- `99306` Os Flintstones Encontram Pedrácula e Frankenstone — palavra-chave "halloween"
+- `125509` Pânico na Floresta 5 — palavra-chave "halloween"
+- `138843` Invocação do Mal — palavra-chave "halloween"
+- `146301` Atividade Paranormal: Dimensão Fantasma — palavra-chave "halloween"
+- `159824` Hotel Transilvânia 2 — palavra-chave "halloween"
+- `167032` A Maldição de Chucky — palavra-chave "halloween"
+- `192911` Monster High: Scaris,  a Cidade Sem Luz — palavra-chave "halloween"
+- `201085` A Colina Escarlate — palavra-chave "halloween"
+- `203835` Amityville: O Despertar — palavra-chave "halloween"
+- `214597` A Hora do Espanto 2 — palavra-chave "halloween"
+- `227348` Atividade Paranormal: Marcados Pelo Mal — palavra-chave "halloween"
+- `241848` O Hóspede — palavra-chave "halloween"
+- `241927` Mal Intencionados — palavra-chave "halloween"
+- `250546` Annabelle — palavra-chave "halloween"
+- `257445` Goosebumps: Monstros e Arrepios — palavra-chave "halloween"
+- `259693` Invocação do Mal 2 — palavra-chave "halloween"
+- `280092` Sobrenatural: A Origem — palavra-chave "halloween"
+- `282035` A Múmia — palavra-chave "halloween"
+- `284564` 31 - A Morte é a Única Saída — palavra-chave "halloween"
+- `289239` Fantasmas À Solta: Minha Namorada Fantasma — palavra-chave "halloween"
+- `300665` Massacre no Texas — palavra-chave "halloween"
+- `312831` A Maldição da Floresta — palavra-chave "halloween"
+- `335795` Monster High: O Filme — palavra-chave "halloween"
+- `346364` It: A Coisa — palavra-chave "halloween"
+- `351211` Bruxa de Blair — palavra-chave "halloween"
+- `360404` Monster High: Boo York, Boo York — palavra-chave "halloween"
+- `362105` Monsterville: O Armário das Almas — palavra-chave "halloween"
+- `393345` O Culto de Chucky — palavra-chave "halloween"
+- `395593` A Casa do Mickey Mouse: O Musical Monstruoso do Mickey — palavra-chave "halloween"
+- `396422` Annabelle 2: A Criação do Mal — palavra-chave "halloween"
+- `400155` Hotel Transilvânia 3: Férias Monstruosas — palavra-chave "halloween"
+- `406563` Sobrenatural: A Última Chave — palavra-chave "halloween"
+- `409164` A Noite dos Mortos — palavra-chave "halloween"
+- `417384` Histórias Assustadoras para Contar no Escuro — palavra-chave "halloween"
+- `420634` Aterrorizante — palavra-chave "halloween"
+- `422153` Hulk: Onde os Monstros Habitam — palavra-chave "halloween"
+- `423108` Invocação do Mal 3: A Ordem do Demônio — palavra-chave "halloween"
+- `429476` Parque do Inferno — palavra-chave "halloween"
+- `437342` A Primeira Profecia — palavra-chave "halloween"
+- `439079` A Freira — palavra-chave "halloween"
+- `442056` Meu Amigo Vampiro — palavra-chave "halloween"
+- `452507` 1922 — palavra-chave "halloween"
+- `454699` Uma Família Feliz — palavra-chave "halloween"
+- `463821` O Mistério do Relógio na Parede — palavra-chave "halloween"
+- `466344` Casas do Terror — palavra-chave "halloween"
+- `472226` Festival Sangrento — palavra-chave "halloween"
+- `474350` IT: Capítulo Dois — palavra-chave "halloween"
+- `480405` Não Bata na Porta — palavra-chave "halloween"
+- `481084` A Família Addams — palavra-chave "halloween"
+- `503125` Pequenos Monstros — palavra-chave "halloween"
+- `517116` A Casa do Terror — palavra-chave "halloween"
+- `520963` Bad Candy — palavra-chave "halloween"
+- `521029` Annabelle 3: De Volta para Casa — palavra-chave "halloween"
+- `531219` Convenção das Bruxas — palavra-chave "halloween"
+- `532973` Hell House LLC II: The Abaddon Hotel — palavra-chave "halloween"
+- `551238` Assassinato no Expresso do Inferno — palavra-chave "halloween"
+- `560066` Scooby-Doo! e a Maldição do 13° Fantasma — palavra-chave "halloween"
+- `565028` A Lenda de Candyman — palavra-chave "halloween"
+- `585083` Hotel Transilvânia: Transformonstrão — palavra-chave "halloween"
+- `590995` Jovens Bruxas: Nova Irmandade — palavra-chave "halloween"
+- `609972` Atividade Paranormal: Ente Próximo — palavra-chave "halloween"
+- `614479` Sobrenatural: A Porta Vermelha — palavra-chave "halloween"
+- `615774` Scooby-Doo! De Volta à Ilha dos Zumbis — palavra-chave "halloween"
+- `624963` Manual de Caça a Monstros — palavra-chave "halloween"
+- `632727` O Massacre da Serra Elétrica: O Retorno de Leatherface — palavra-chave "halloween"
+- `634336` O Jogo dos Segredos — palavra-chave "halloween"
+- `639721` A Família Addams 2: Pé na Estrada — palavra-chave "halloween"
+- `642885` Abracadabra 2 — palavra-chave "halloween"
+- `646385` Pânico — palavra-chave "halloween"
+- `663712` Terrifier 2 — palavra-chave "halloween"
+- `675531` Colheita Sombria — palavra-chave "halloween"
+- `709631` TOC TOC TOC - Ecos do Além — palavra-chave "halloween"
+- `713364` O Palhaço no Milharal — palavra-chave "halloween"
+- `739990` Noitários de Arrepiar — palavra-chave "halloween"
+- `801071` Jack: A Caixa Maldita 2 - O Despertar — palavra-chave "halloween"
+- `823609` Uma Família Feliz 2 — palavra-chave "halloween"
+- `826914` Muppets Haunted Mansion: A Festa Aterrorizante — palavra-chave "halloween"
+- `864959` A Maldição de Bridge Hollow — palavra-chave "halloween"
+- `880004` Jogos Sombrios — palavra-chave "halloween"
+- `917496` Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice — palavra-chave "halloween"
+- `934433` Pânico VI — palavra-chave "halloween"
+- `938614` Entrevista com o Demônio — palavra-chave "halloween"
+- `967847` Ghostbusters: Apocalipse de Gelo — palavra-chave "halloween"
+- `968051` A Freira 2 — palavra-chave "halloween"
+- `974931` Dezesseis Facadas — palavra-chave "halloween"
+- `993784` Lisa Frankenstein — palavra-chave "halloween"
+- `1015724` Scooby-Doo! Gostosuras ou Travessuras — palavra-chave "halloween"
+- `1035982` Hell House: A Origem — palavra-chave "halloween"
+- `1038392` Invocação do Mal 4: O Último Ritual — palavra-chave "halloween"
+- `1039960` Monster High 2 — palavra-chave "halloween"
+- `1062722` Frankenstein — palavra-chave "halloween"
+- `1118595` Jester: A Morte Sorri — palavra-chave "halloween"
+- `1146147` The Loud House: Uma Verdadeira Família Assombrada — palavra-chave "halloween"
+- `1159559` Pânico 7 — palavra-chave "halloween"
+- `1205229` Zoopocalipse - Uma Aventura Animal — palavra-chave "halloween"
+- `1207898` Jack: A Caixa Maldita 3 - A Ascensão — palavra-chave "halloween"
+- `1302904` Da Magia à Sedução: Feitiço de Amor — palavra-chave "halloween"
+- `1352582` O Clube do Tesouro — palavra-chave "halloween"
+- `1519168` Jester: Não Dá para Enganar A Morte Duas Vezes — palavra-chave "halloween"
+- `2133` Mar em Fúria — "halloween" na sinopse
+- `45052` Pumpkin Karver: A Nova Face do Terror — "halloween" na sinopse
+- `342917` Batman Sem Limites: Caos Monstruoso — "halloween" na sinopse
+- `347688` Scooby-Doo! e Kiss: O Mistério do Rock and Roll — "halloween" na sinopse
+- `481192` Talon Falls — "halloween" na sinopse
+- `537736` Vamos Assustar a Julie — "halloween" na sinopse
+- `543746` Filme B - Entre Mortos e Vivos — "dia das bruxas" na sinopse
+- `831410` As Apimentadas: Torça ou Morra — "halloween" na sinopse
+- `977013` A Maldição do Queen Mary — "halloween" na sinopse
+- `1058078` Parque do Terror — "halloween" na sinopse
+- `1286366` Entre Pais e Filhos — "dia das bruxas" na sinopse
+- `1329336` Os Caras Malvados: Assalto Assombrado — "halloween" na sinopse
+- `1510795` Shake, Rattle & Roll: As Origens do Mal — "halloween" na sinopse
 
 ### Séries
 
-Nenhum.
+- `1413` American Horror Story — palavra-chave "halloween"
+- `50825` A Lenda de Sleepy Hollow — palavra-chave "halloween"
+- `62046` Scream Queens — palavra-chave "halloween"
+- `62264` Ash vs Evil Dead — palavra-chave "halloween"
+- `66732` Stranger Things — palavra-chave "halloween"
+- `71116` Castle Rock — palavra-chave "halloween"
+- `72844` A Maldição da Residência Hill — palavra-chave "halloween"
+- `79240` Monstro do Pântano — palavra-chave "halloween"
+- `83659` O Gabinete de Curiosidades de Guillermo del Toro — palavra-chave "halloween"
+- `86686` Creepshow — palavra-chave "halloween"
+- `90462` Chucky — palavra-chave "halloween"
+- `93693` Clube do Terror — palavra-chave "halloween"
+- `113036` American Horror Stories — palavra-chave "halloween"
+- `119051` Wandinha — palavra-chave "halloween"
 
 ## PÁSCOA
 
 - Datas: 2027-03-14 a 2027-03-29 · ativo: True
-- **7 filmes** e **0 séries**
+- **39 filmes** e **1 séries**
 
 ### Filmes
 
@@ -360,8 +710,40 @@ Nenhum.
 - `811114` A Ressurreição de Jesus — "ressurreicao de jesus" no nome
 - `824281` Domingo de Páscoa — "pascoa" no nome
 - `1201176` Coelhos Assassinos — "easter" no nome
+- `2428` A Maior História de Todos os Tempos — palavra-chave "resurrection"
+- `8913` Cemitério Maldito — palavra-chave "resurrection"
+- `8973` O Mestre das Ilusões — palavra-chave "resurrection"
+- `9730` Sexta-Feira 13 - Parte IV: O Capítulo Final — palavra-chave "resurrection"
+- `10131` A Hora do Pesadelo 4: O Mestre dos Sonhos — palavra-chave "resurrection"
+- `10906` Cemitério Maldito 2 — palavra-chave "resurrection"
+- `33278` A Maldição de Samantha — palavra-chave "resurrection"
+- `46429` Caçador de Almas — palavra-chave "resurrection"
+- `76600` Avatar: O Caminho da Água — palavra-chave "resurrection"
+- `81188` A Origem dos Guardiões — palavra-chave "easter bunny"
+- `157353` Transcendence: A Revolução — palavra-chave "resurrection"
+- `222911` A Pata do Macaco — palavra-chave "resurrection"
+- `235260` O Filho de Deus — palavra-chave "resurrection"
+- `303857` Dragon Ball Z: O Renascimento de Freeza — palavra-chave "resurrection"
+- `335778` Ressurreição — palavra-chave "easter"
+- `362434` A Ressurreição do Anticristo — palavra-chave "resurrection"
+- `487672` Reino do Superman — palavra-chave "resurrection"
+- `536869` Cats — palavra-chave "resurrection"
+- `584004` Ressurreição do Mal — palavra-chave "resurrection"
+- `604360` A Oitava Noite — palavra-chave "resurrection"
+- `615665` Amor com Data Marcada — palavra-chave "easter"
+- `642885` Abracadabra 2 — palavra-chave "resurrection"
+- `663712` Terrifier 2 — palavra-chave "resurrection"
+- `686684` Pooka Vive — palavra-chave "easter"
+- `791373` Liga da Justiça de Zack Snyder — palavra-chave "resurrection"
+- `964825` Dieta Aterrorizante — palavra-chave "easter"
+- `1145291` A Última Invocação — palavra-chave "resurrection"
+- `1214509` Natureza Violenta — palavra-chave "resurrection"
+- `2447` Jesus - A História do Nascimento — "paixao de cristo" na sinopse
+- `56906` Espantalho — "easter" na sinopse
+- `580494` O Soldado de Cristo — "ressurreicao de jesus" na sinopse
+- `746180` A Gangue: Uma Noite de Terror — "pascoa" na sinopse
 
 ### Séries
 
-Nenhum.
+- `63201` Glitch — palavra-chave "resurrection"
 
