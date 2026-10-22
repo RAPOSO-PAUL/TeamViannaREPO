@@ -747,22 +747,32 @@
 		{
           "nome": "PREMIERE 6 HD1",
           "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiere6"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=premiere6"
         },
 		{
           "nome": "PREMIERE 6 HD2",
           "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
-          "embed": "https://w7.embedtv.cc/premiere6"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiere6"
         },
 		{
           "nome": "PREMIERE 6 HD3",
           "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
-          "embed": "https://rdcanais.org/premiere6alternativo"
+          "embed": "https://w7.embedtv.cc/premiere6"
         },
 		{
           "nome": "PREMIERE 6 HD4",
           "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/premiere6"
+          "embed": "https://rdcanais.org/premiere6alternativo"
+        },
+		{
+          "nome": "PREMIERE 6 HD5",
+          "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
+          "embed": "https://v2.rdembed.sbs/premiere-6"
+        },
+		{
+          "nome": "PREMIERE 6 HD6",
+          "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=premiere6"
         },
 		{
           "nome": "PREMIERE 7 HD1",
