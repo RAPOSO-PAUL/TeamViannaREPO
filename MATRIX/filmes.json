@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1480613,
+  "type":"movie",
+  "added_at":"2026-10-22",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1480613"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1480613"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1480613"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1480613"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:2nk53piltgbi7uafywewdkw27d53dsye&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.Cuidado+com+o+Que+Deseja.2026.1080p.WEB-DL.DUAL.2.0"}
+  ],
+  "youtube":"0rE2n_tpp-E"
+},
+{
   "tmdb_id":445466,
   "type":"movie",
   "added_at":"2026-10-22",
