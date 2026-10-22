@@ -1,12 +1,12 @@
 # Relatório da aba temática
 
-Rodada de 22/10/2026 16:40 (Brasília).
+Rodada de 22/10/2026 16:43 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
-- Datas: 12-01 a 01-06 · ativo: True
+- Datas: 10-21 a 01-06 · ativo: True
 - **598 filmes** e **20 séries**
 
 ### Filmes
@@ -437,7 +437,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## HALLOWEEN
 
-- Datas: 10-15 a 11-02 · ativo: True
+- Datas: 10-15 a 11-02 · ativo: False
 - **236 filmes** e **14 séries**
 
 ### Filmes
