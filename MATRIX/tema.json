@@ -1,0 +1,51 @@
+{
+  "_como_usar": "Cada tema aparece sozinho como uma aba no app entre as datas 'de' e 'ate' (MM-DD repete todo ano; AAAA-MM-DD vale so naquele ano). 'ativo': false esconde. Salvou este arquivo: o robo refaz as listas em menos de 1 minuto. O que entrou e por que: MATRIX/relatorio_tema.md",
+  "temas": [
+    {
+      "id": "natal",
+      "ativo": true,
+      "de": "12-01",
+      "ate": "01-06",
+      "nome": "NATAL",
+      "icone": "natal",
+      "imagem_nome": "https://SEU-ENDERECO/natal-titulo.png",
+      "fundo": "https://SEU-ENDERECO/natal-fundo-tv.webp",
+      "fundo_retrato": "https://SEU-ENDERECO/natal-fundo-celular.webp",
+      "termos": ["natal", "natalino", "natalina", "natalinos", "natalinas", "papai noel", "noel", "christmas", "xmas", "véspera de natal"],
+      "palavras_chave": ["christmas", "santa claus", "christmas eve", "christmas party", "christmas tree", "holiday season"],
+      "excluir_termos": ["rio grande do norte", "natal rn", "natal, rn"],
+      "incluir": [],
+      "excluir": []
+    },
+    {
+      "id": "halloween",
+      "ativo": true,
+      "de": "10-15",
+      "ate": "11-02",
+      "nome": "HALLOWEEN",
+      "icone": "halloween",
+      "imagem_nome": "",
+      "fundo": "",
+      "termos": ["halloween", "dia das bruxas", "noite das bruxas", "doces ou travessuras"],
+      "palavras_chave": ["halloween", "trick or treating", "jack-o'-lantern"],
+      "excluir_termos": [],
+      "incluir": [],
+      "excluir": []
+    },
+    {
+      "id": "pascoa",
+      "ativo": true,
+      "de": "2027-03-14",
+      "ate": "2027-03-29",
+      "nome": "PÁSCOA",
+      "icone": "pascoa",
+      "imagem_nome": "",
+      "fundo": "",
+      "termos": ["pascoa", "coelho da pascoa", "easter", "ressurreicao de jesus", "paixao de cristo"],
+      "palavras_chave": ["easter", "easter bunny", "easter egg hunt", "resurrection"],
+      "excluir_termos": [],
+      "incluir": [],
+      "excluir": []
+    }
+  ]
+}
