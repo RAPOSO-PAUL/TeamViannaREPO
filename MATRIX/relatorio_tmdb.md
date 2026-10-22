@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 22/10/2026 11:08 (Brasília).
+Rodada de 22/10/2026 16:40 (Brasília).
 
 - Catálogo: 14602 filmes e 1252 séries
-- Consultados nesta rodada: 1 (1 novos)
+- Consultados nesta rodada: 15852 (0 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -12,6 +12,7 @@ Rodada de 22/10/2026 11:08 (Brasília).
 Confira o `tmdb_id` destes no catálogo.
 
 - movie `1123170` — https://www.themoviedb.org/movie/1123170
+- movie `1738197` — https://www.themoviedb.org/movie/1738197
 - movie `1792912` — https://www.themoviedb.org/movie/1792912
 
 ## Sem capa no TMDB
@@ -51,7 +52,6 @@ Confira o `tmdb_id` destes no catálogo.
 - movie `1574051` Eloise
 - movie `1615435` Galinha Pintadinha Mini na Telona
 - movie `1643801` Astro Boy
-- movie `1738197` The Agency
 - movie `1778837` RPG
 - tv `9923` Miracle Workers
 - tv `120623` Save the Leftovers
