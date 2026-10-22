@@ -777,22 +777,32 @@
 		{
           "nome": "PREMIERE 7 HD1",
           "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiere7"
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=premiere7"
         },
 		{
           "nome": "PREMIERE 7 HD2",
           "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
-          "embed": "https://w7.embedtv.cc/premiere7"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiere7"
         },
 		{
           "nome": "PREMIERE 7 HD3",
           "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
-          "embed": "https://rdcanais.org/premiere7alternativo"
+          "embed": "https://w7.embedtv.cc/premiere7"
         },
 		{
           "nome": "PREMIERE 7 HD4",
           "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/premiere7"
+          "embed": "https://rdcanais.org/premiere7alternativo"
+        },
+		{
+          "nome": "PREMIERE 7 HD5",
+          "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
+          "embed": "https://v2.rdembed.sbs/premiere-7"
+        },
+		{
+          "nome": "PREMIERE 7 HD6",
+          "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=premiere7"
         },
 		{
           "nome": "PREMIERE 8 HD1",
@@ -1508,6 +1518,41 @@
           "nome": "TNT HD6",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=tnt"
+        }
+      ]
+    },
+	{
+      "nome": "Noticias",
+      "canais": [
+        {
+          "nome": "Band News HD1",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bandnews"
+        },
+		{
+          "nome": "Band News HD2",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=bandnews"
+        },
+		{
+          "nome": "Band News HD3",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "https://w7.embedtv.cc/bandnews"
+        },
+		{
+          "nome": "Band News HD4",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "https://rdcanais.org/bandnews"
+        },
+		{
+          "nome": "Band News HD5",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "https://v2.rdembed.sbs/bandnews"
+        },
+		{
+          "nome": "Band News HD6",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=bandnews"
         }
       ]
     },
