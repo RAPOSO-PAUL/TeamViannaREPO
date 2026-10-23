@@ -574,7 +574,8 @@
         { "season": 2, "episode": 18, "embeds": [ "https://mgeb.site/embed/243875/2/18", "https://redeflixapi.store/serie/243875/2/18", "https://myembed.biz/serie/243875/2/18", "http://embed-api.clickhost.xyz/embed/serie/243875/2/18" ] },
         { "season": 2, "episode": 19, "embeds": [ "https://mgeb.site/embed/243875/2/19", "https://redeflixapi.store/serie/243875/2/19", "https://myembed.biz/serie/243875/2/19", "http://embed-api.clickhost.xyz/embed/serie/243875/2/19" ] },
         { "season": 2, "episode": 20, "embeds": [ "https://mgeb.site/embed/243875/2/20", "https://redeflixapi.store/serie/243875/2/20", "https://myembed.biz/serie/243875/2/20", "http://embed-api.clickhost.xyz/embed/serie/243875/2/20" ] },
-        { "season": 2, "episode": 21, "embeds": [ "https://mgeb.site/embed/243875/2/21", "https://redeflixapi.store/serie/243875/2/21", "https://myembed.biz/serie/243875/2/21", "http://embed-api.clickhost.xyz/embed/serie/243875/2/21" ] }
+        { "season": 2, "episode": 21, "embeds": [ "https://mgeb.site/embed/243875/2/21", "https://redeflixapi.store/serie/243875/2/21", "https://myembed.biz/serie/243875/2/21", "http://embed-api.clickhost.xyz/embed/serie/243875/2/21" ] },
+		{ "season": 3, "episode": 1, "embeds": [ "https://mgeb.site/embed/243875/3/1", "https://redeflixapi.store/serie/243875/3/1", "https://myembed.biz/serie/243875/3/1", "http://embed-api.clickhost.xyz/embed/serie/243875/3/1" ] }
       ]
     },
     {
