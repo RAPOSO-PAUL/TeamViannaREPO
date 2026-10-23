@@ -820,7 +820,12 @@
 		{
           "nome": "PREMIERE 8 HD4",
           "imagem": "https://i.ibb.co/SXHnfcyP/premiere-8.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/premiere8"
+          "embed": "https://v2.rdembed.sbs/premiere-8"
+        },
+		{
+          "nome": "PREMIERE 8 HD5",
+          "imagem": "https://i.ibb.co/SXHnfcyP/premiere-8.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=premiere8"
         }
       ]
     },
@@ -1461,6 +1466,36 @@
           "nome": "CINEMAX HD5",
           "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=cinemax"
+        },
+		{
+          "nome": "MEGAPIX HD1",
+          "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=megapix"
+        },
+		{
+          "nome": "MEGAPIX HD2",
+          "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
+          "embed": "https://w7.embedtv.cc/megapix"
+        },
+		{
+          "nome": "MEGAPIX HD3",
+          "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
+          "embed": "https://rdcanais.org/megapix"
+        },
+		{
+          "nome": "MEGAPIX HD4",
+          "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
+          "embed": "https://v2.rdembed.sbs/megapix"
+        },
+		{
+          "nome": "MEGAPIX HD5",
+          "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=megapix"
+        },
+		{
+          "nome": "MEGAPIX HD6",
+          "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=megapix"
         },
 		{
           "nome": "SPACE HD1",
