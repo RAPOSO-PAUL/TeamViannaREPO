@@ -1,13 +1,13 @@
 # Relatório da aba temática
 
-Rodada de 22/10/2026 21:01 (Brasília).
+Rodada de 22/10/2026 21:02 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
 - Datas: 10-21 a 01-06 · ativo: True
-- **485 filmes** e **8 séries**
+- **458 filmes** e **7 séries**
 
 ### Filmes
 
@@ -420,7 +420,6 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `71340` Krypton — "natal" na sinopse
 - `72339` Feliz! — "papai noel" na sinopse
 - `80210` Rig 45 — "natal" na sinopse
-- `110382` Pachinko — "natal" na sinopse
 - `202879` Star Wars: Skeleton Crew — "natal" na sinopse
 - ❌ `61888` O Último Cara da Terra — fora: "cidade natal" na sinopse
 - ❌ `65495` Atlanta — fora: "cidade natal" na sinopse
@@ -431,6 +430,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - ❌ `86164` Briarpatch — fora: "cidade natal" na sinopse
 - ❌ `88713` We Are Who We Are — fora: "cidade natal" na sinopse
 - ❌ `99121` Walker — fora: "cidade natal" na sinopse
+- ❌ `110382` Pachinko — fora: "terra natal" na sinopse
 - ❌ `111750` Bridge and Tunnel — fora: "cidade natal" na sinopse
 - ❌ `114165` Kung Fu — fora: "cidade natal" na sinopse
 - ❌ `279185` O Tormento — fora: "cidade natal" na sinopse
