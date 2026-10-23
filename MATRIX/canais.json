@@ -18,7 +18,8 @@
   "rdcanais.org",
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
-  "rdembed.sbs"
+  "rdembed.sbs",
+  "bugoumods.com"
 ],
   "categorias": [
     {
@@ -438,6 +439,11 @@
           "nome": "ESPN 1 HD6",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
+        },
+		{
+          "nome": "ESPN 1 HD7",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "https://embed.bugoumods.com/player.php?type=live_streams&id=4794555&ext=ts&name=ESPN%20HD"
         },
 		{
           "nome": "ESPN 2 HD1",
