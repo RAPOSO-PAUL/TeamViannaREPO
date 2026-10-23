@@ -353,6 +353,11 @@
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sportv1"
         },
+		{
+          "nome": "SPORTV HD7",
+          "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
+          "embed": "https://embed.bugoumods.com/player.php?type=live_streams&id=5525500&ext=ts&name=Sportv%20HD"
+        },
         {
           "nome": "SPORTV 2 HD1",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
