@@ -8,7 +8,8 @@
     "embedtv.cc",
 	"embedtv.lat",
 	"multicanais.cyou",
-	"rdembed.sbs"
+	"rdembed.sbs",
+	"embedcanaisdetv"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
