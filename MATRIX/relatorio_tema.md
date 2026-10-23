@@ -1,13 +1,13 @@
 # Relatório da aba temática
 
-Rodada de 22/10/2026 21:02 (Brasília).
+Rodada de 22/10/2026 21:05 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
 - Datas: 10-21 a 01-06 · ativo: True
-- **458 filmes** e **7 séries**
+- **451 filmes** e **5 séries**
 
 ### Filmes
 
@@ -417,13 +417,12 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `155631` Meu Papai (Ainda) é Noel — "noel" no nome
 - `88329` Gavião Arqueiro — palavra-chave "christmas"
 - `258901` SANDA — palavra-chave "santa claus"
-- `71340` Krypton — "natal" na sinopse
 - `72339` Feliz! — "papai noel" na sinopse
 - `80210` Rig 45 — "natal" na sinopse
-- `202879` Star Wars: Skeleton Crew — "natal" na sinopse
 - ❌ `61888` O Último Cara da Terra — fora: "cidade natal" na sinopse
 - ❌ `65495` Atlanta — fora: "cidade natal" na sinopse
 - ❌ `70453` Objetos Cortantes — fora: "cidade natal" na sinopse
+- ❌ `71340` Krypton — fora: "planeta natal" na sinopse
 - ❌ `72743` O Peso da Verdade — fora: "cidade natal" na sinopse
 - ❌ `79357` Carter — fora: "cidade natal" na sinopse
 - ❌ `82001` Roswell, New Mexico — fora: "cidade natal" na sinopse
@@ -433,6 +432,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - ❌ `110382` Pachinko — fora: "terra natal" na sinopse
 - ❌ `111750` Bridge and Tunnel — fora: "cidade natal" na sinopse
 - ❌ `114165` Kung Fu — fora: "cidade natal" na sinopse
+- ❌ `202879` Star Wars: Skeleton Crew — fora: "planeta natal" na sinopse
 - ❌ `279185` O Tormento — fora: "cidade natal" na sinopse
 
 ## HALLOWEEN
