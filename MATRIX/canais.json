@@ -423,25 +423,20 @@
         {
           "nome": "ESPN 1 HD3",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://rdcanais.org/espn"
-        },
-        {
-          "nome": "ESPN 1 HD4",
-          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://v2.rdembed.sbs/espn"
         },
 		{
-          "nome": "ESPN 1 HD5",
+          "nome": "ESPN 1 HD4",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=espn"
         },
 		{
-          "nome": "ESPN 1 HD6",
+          "nome": "ESPN 1 HD5",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
         },
 		{
-          "nome": "ESPN 1 HD7",
+          "nome": "ESPN 1 HD6",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "https://embed.bugoumods.com/player.php?type=live_streams&id=4794555&ext=ts&name=ESPN%20HD"
         },
