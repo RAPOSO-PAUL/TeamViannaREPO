@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1780005,
+  "type":"movie",
+  "added_at":"2026-10-23",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1780005"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.store/filme/1780005"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1780005"},
+    {"name":"PLAYER 4","embed":"http://embed-api.clickhost.xyz/embed/filme/1780005"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:d72nbrihmzxousoyrs5v6mcxngr3bkkp&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Contra+o+Furac%C3%A3o.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"cGiZj9zl52Y"
+},
+{
   "tmdb_id":1102883,
   "type":"movie",
   "added_at":"2026-10-23",
