@@ -1581,6 +1581,36 @@
           "nome": "TNT HD6",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=tnt"
+        },
+		{
+          "nome": "Studio Universal HD1",
+          "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=studiouniversal"
+        },
+		{
+          "nome": "Studio Universal HD2",
+          "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
+          "embed": "https://w7.embedtv.cc/studiouniversal"
+        },
+		{
+          "nome": "Studio Universal HD3",
+          "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
+          "embed": "https://rdcanais.org/studiouniversal"
+        },
+		{
+          "nome": "Studio Universal HD4",
+          "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
+          "embed": "https://v2.rdembed.sbs/studiouniversal"
+        },
+		{
+          "nome": "Studio Universal HD5",
+          "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=studiouniversal"
+        },
+		{
+          "nome": "Studio Universal HD6",
+          "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=studiouniversal"
         }
       ]
     },
