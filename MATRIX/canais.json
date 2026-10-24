@@ -9,7 +9,8 @@
 	"embedtv.lat",
 	"multicanais.cyou",
 	"rdembed.sbs",
-	"embedcanaisdetv"
+	"embedcanaisdetv",
+	"redecanais"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -845,7 +846,7 @@
 		{
           "nome": "HBO MAX HD3",
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/max1"
+          "embed": "https://v2.rdembed.sbs/max1"
         },
 		{
           "nome": "HBO MAX HD4",
@@ -1496,6 +1497,36 @@
           "nome": "MEGAPIX HD6",
           "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=megapix"
+        },
+		{
+          "nome": "SONY Channel HD1",
+          "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=sonychannel"
+        },
+		{
+          "nome": "SONY Channel HD2",
+          "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
+          "embed": "https://w7.embedtv.cc/sonychannel"
+        },
+		{
+          "nome": "SONY Channel HD3",
+          "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
+          "embed": "https://rdcanais.org/sonychannel"
+        },
+		{
+          "nome": "SONY Channel HD4",
+          "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
+          "embed": "https://v2.rdembed.sbs/sony"
+        },
+		{
+          "nome": "SONY Channel HD5",
+          "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=sonychannel"
+        },
+		{
+          "nome": "SONY Channel HD6",
+          "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sony"
         },
 		{
           "nome": "SPACE HD1",
