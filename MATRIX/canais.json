@@ -1038,37 +1038,82 @@
 		{
           "nome": "CAZE TV HD4",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/caze1"
+          "embed": "https://rdcanais.org/cazetv"
         },
 		{
           "nome": "CAZE TV HD5",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cazetv2"
+          "embed": "https://v2.rdembed.sbs/cazetv"
         },
 		{
           "nome": "CAZE TV HD6",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://w7.embedtv.cc/caze2"
+          "embed": "iframe:https://multicanais.cyou/player.php?id=caze1"
         },
 		{
           "nome": "CAZE TV HD7",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/caze2"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cazetv2"
         },
 		{
           "nome": "CAZE TV HD8",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cazetv3"
+          "embed": "https://w7.embedtv.cc/caze2"
         },
 		{
           "nome": "CAZE TV HD9",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://w7.embedtv.cc/caze3"
+          "embed": "https://rdcanais.org/cazetv2"
         },
 		{
           "nome": "CAZE TV HD10",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/caze3"
+          "embed": "https://v2.rdembed.sbs/cazetv2"
+        },
+		{
+          "nome": "CAZE TV HD11",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=caze2"
+        },
+		{
+          "nome": "CAZE TV HD12",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cazetv3"
+        },
+		{
+          "nome": "CAZE TV HD13",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "https://rdcanais.org/cazetv3"
+        },
+		{
+          "nome": "CAZE TV HD14",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "https://v2.rdembed.sbs/cazetv3"
+        },
+		{
+          "nome": "CAZE TV HD15",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=caze3"
+        },
+		{
+          "nome": "CAZE TV HD16",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cazetv4"
+        },
+		{
+          "nome": "CAZE TV HD17",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "https://v2.rdembed.sbs/cazetv4"
+        },
+		{
+          "nome": "CAZE TV HD18",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cazetv6"
+        },
+		{
+          "nome": "CAZE TV HD18",
+          "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
+          "embed": "https://v2.rdembed.sbs/cazetv5"
         }
       ]
     },
@@ -1729,6 +1774,36 @@
           "nome": "Studio Universal HD6",
           "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=studiouniversal"
+        },
+		{
+          "nome": "Universal HD1",
+          "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=universaltvl"
+        },
+		{
+          "nome": "Universal HD2",
+          "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
+          "embed": "https://w7.embedtv.cc/universaltv"
+        },
+		{
+          "nome": "Universal HD3",
+          "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
+          "embed": "https://rdcanais.org/universaltv"
+        },
+		{
+          "nome": "Universal HD4",
+          "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
+          "embed": "https://v2.rdembed.sbs/universaltv"
+        },
+		{
+          "nome": "Universal HD5",
+          "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=universaltv"
+        },
+		{
+          "nome": "Universal HD6",
+          "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=universal"
         }
       ]
     },
