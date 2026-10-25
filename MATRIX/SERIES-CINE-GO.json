@@ -28559,10 +28559,12 @@
     {
       "tmdb_id": 279185,
       "type": "tv",
-      "added_at": "2026-10-03",
+      "added_at": "2026-10-25",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.site/embed/279185/1/1", "https://redetoons.my/watch/t1-ep1/e?id=279185&type=tv", "https://redeflixapi.store/serie/279185/1/1", "https://myembed.biz/serie/279185/1/1" ] },
-        { "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/279185/1/2", "https://redetoons.my/watch/t1-ep2/e?id=279185&type=tv", "https://redeflixapi.store/serie/279185/1/2", "https://myembed.biz/serie/279185/1/2" ] }
+        { "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/279185/1/2", "https://redetoons.my/watch/t1-ep2/e?id=279185&type=tv", "https://redeflixapi.store/serie/279185/1/2", "https://myembed.biz/serie/279185/1/2" ] },
+		{ "season": 1, "episode": 3, "embeds": [ "https://mgeb.site/embed/279185/1/3", "https://redetoons.my/watch/t1-ep3/e?id=279185&type=tv", "https://redeflixapi.store/serie/279185/1/3", "https://myembed.biz/serie/279185/1/3" ] },
+		{ "season": 1, "episode": 4, "embeds": [ "https://mgeb.site/embed/279185/1/4", "https://redetoons.my/watch/t1-ep4/e?id=279185&type=tv", "https://redeflixapi.store/serie/279185/1/4", "https://myembed.biz/serie/279185/1/4" ] }
       ]
     },
     {
