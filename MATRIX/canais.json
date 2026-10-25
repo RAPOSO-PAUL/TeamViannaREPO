@@ -943,7 +943,7 @@
 		{
           "nome": "PRIME VIDEO HD3",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/primevideo"
+          "embed": "https://v2.rdembed.sbs/primevideo"
         },
 		{
           "nome": "PRIME VIDEO HD4",
@@ -963,7 +963,7 @@
 		{
           "nome": "PRIME VIDEO HD7",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/primevideo2"
+          "embed": "https://v2.rdembed.sbs/primevideo2"
         },
 		{
           "nome": "PRIME VIDEO HD8",
@@ -983,7 +983,7 @@
 		{
           "nome": "PRIME VIDEO HD11",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/primevideo3"
+          "embed": "https://v2.rdembed.sbs/primevideo3"
         },
 		{
           "nome": "PRIME VIDEO HD12",
@@ -1003,7 +1003,7 @@
 		{
           "nome": "PRIME VIDEO HD15",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/primevideo4"
+          "embed": "https://v2.rdembed.sbs/primevideo4"
         },
 		{
           "nome": "PRIME VIDEO HD16",
@@ -1669,6 +1669,36 @@
           "nome": "TNT Novelas HD6",
           "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=tntnovelas"
+        },
+		{
+          "nome": "TNT Series HD1",
+          "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=tntseries"
+        },
+		{
+          "nome": "TNT Series HD2",
+          "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
+          "embed": "https://w7.embedtv.cc/tntseries"
+        },
+		{
+          "nome": "TNT Series HD3",
+          "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
+          "embed": "https://rdcanais.org/tntseries"
+        },
+		{
+          "nome": "TNT Series HD4",
+          "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
+          "embed": "https://v2.rdembed.sbs/tntseries"
+        },
+		{
+          "nome": "TNT Series HD5",
+          "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=tntseries"
+        },
+		{
+          "nome": "TNT Series HD6",
+          "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=tntseries"
         },
 		{
           "nome": "Studio Universal HD1",
