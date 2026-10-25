@@ -867,12 +867,67 @@
 		{
           "nome": "HBO MAX HD7",
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/max2"
+          "embed": "https://v2.rdembed.sbs/max2"
         },
 		{
           "nome": "HBO MAX HD8",
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=max2"
+        },
+		{
+          "nome": "HBO MAX HD9",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=max03"
+        },
+		{
+          "nome": "HBO MAX HD10",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://w7.embedtv.cc/max3"
+        },
+		{
+          "nome": "HBO MAX HD11",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://v2.rdembed.sbs/max3"
+        },
+		{
+          "nome": "HBO MAX HD12",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=max3"
+        },
+		{
+          "nome": "HBO MAX HD13",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=max04"
+        },
+		{
+          "nome": "HBO MAX HD14",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://v2.rdembed.sbs/max4"
+        },
+		{
+          "nome": "HBO MAX HD15",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=max05"
+        },
+		{
+          "nome": "HBO MAX HD16",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://v2.rdembed.sbs/max5"
+        },
+		{
+          "nome": "HBO MAX HD17",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=max06"
+        },
+		{
+          "nome": "HBO MAX HD18",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://v2.rdembed.sbs/max6"
+        },
+		{
+          "nome": "HBO MAX HD19",
+          "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
+          "embed": "https://v2.rdembed.sbs/max7"
         },
 	    {
           "nome": "PRIME VIDEO HD1",
@@ -1583,6 +1638,36 @@
           "nome": "TNT HD6",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=tnt"
+        },
+		{
+          "nome": "TNT Novelas HD1",
+          "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=tntnovelas"
+        },
+		{
+          "nome": "TNT Novelas HD2",
+          "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
+          "embed": "https://w7.embedtv.cc/tntnovelas"
+        },
+		{
+          "nome": "TNT Novelas HD3",
+          "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
+          "embed": "https://rdcanais.org/tntnovelas"
+        },
+		{
+          "nome": "TNT Novelas HD4",
+          "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
+          "embed": "https://v2.rdembed.sbs/tntnovelas"
+        },
+		{
+          "nome": "TNT Novelas HD5",
+          "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=tntnovelas"
+        },
+		{
+          "nome": "TNT Novelas HD6",
+          "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=tntnovelas"
         },
 		{
           "nome": "Studio Universal HD1",
