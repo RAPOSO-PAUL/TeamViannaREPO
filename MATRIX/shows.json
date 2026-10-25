@@ -1,6 +1,11 @@
 {
   "shows": [
     {
+      "tmdb_id": 96677,
+      "type": "tv",
+      "added_at": "2026-10-25"
+    },
+	{
       "tmdb_id": 120911,
       "type": "tv",
       "added_at": "2026-10-22"
