@@ -1168,7 +1168,17 @@
 		{
           "nome": "TELECINE TOUCH HD4",
           "imagem": "https://i.ibb.co/s4VB0w6/tc-touch.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/telecinetouch"
+          "embed": "https://v2.rdembed.sbs/telecinetouch"
+        },
+		{
+          "nome": "TELECINE TOUCH HD5",
+          "imagem": "https://i.ibb.co/s4VB0w6/tc-touch.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=telecinetouch"
+        },
+		{
+          "nome": "TELECINE TOUCH HD6",
+          "imagem": "https://i.ibb.co/s4VB0w6/tc-touch.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=telecinetouch"
         },
 		{
           "nome": "TELECINE FUN HD1",
@@ -1914,6 +1924,36 @@
           "nome": "Discovery Channel HD6",
           "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discovery"
+        },
+		{
+          "nome": "Discovery Home & Health HD1",
+          "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoveryhh"
+        },
+		{
+          "nome": "Discovery Home & Health HD2",
+          "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
+          "embed": "https://w7.embedtv.cc/discoveryhh"
+        },
+		{
+          "nome": "Discovery Home & Health HD3",
+          "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
+          "embed": "https://rdcanais.org/discoveryheh"
+        },
+		{
+          "nome": "Discovery Home & Health HD4",
+          "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
+          "embed": "https://v2.rdembed.sbs/discoveryheh"
+        },
+		{
+          "nome": "Discovery Home & Health HD5",
+          "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoveryhh"
+        },
+		{
+          "nome": "Discovery Home & Health HD6",
+          "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoveryhomeihealth"
         }
       ]
     },
