@@ -1884,6 +1884,36 @@
           "nome": "Animal Planet HD6",
           "imagem": "https://i.ibb.co/MyJ8zHMY/ANIMAL-PLANET.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=animalplanet"
+        },
+		{
+          "nome": "Discovery Channel HD1",
+          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoverychannel"
+        },
+		{
+          "nome": "Discovery Channel HD2",
+          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
+          "embed": "https://w7.embedtv.cc/discoverychannel"
+        },
+		{
+          "nome": "Discovery Channel HD3",
+          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
+          "embed": "https://rdcanais.org/discoverychannel"
+        },
+		{
+          "nome": "Discovery Channel HD4",
+          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
+          "embed": "https://v2.rdembed.sbs/discoverychannel"
+        },
+		{
+          "nome": "Discovery Channel HD5",
+          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoverychannel"
+        },
+		{
+          "nome": "Discovery Channel HD6",
+          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discovery"
         }
       ]
     },
@@ -1959,36 +1989,6 @@
           "nome": "CANAL BRASIL HD3",
           "imagem": "https://i.ibb.co/xSjpGzq2/CN-BRASIL.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=canalbrasil"
-        },
-		{
-          "nome": "Discovery Channel HD1",
-          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoverychannel"
-        },
-		{
-          "nome": "Discovery Channel HD2",
-          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "https://w7.embedtv.cc/discoverychannel"
-        },
-		{
-          "nome": "Discovery Channel HD3",
-          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "https://rdcanais.org/discoverychannel"
-        },
-		{
-          "nome": "Discovery Channel HD4",
-          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "https://v2.rdembed.sbs/discoverychannel"
-        },
-		{
-          "nome": "Discovery Channel HD5",
-          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "iframe:https://multicanais.cyou/player.php?id=discoverychannel"
-        },
-		{
-          "nome": "Discovery Channel HD6",
-          "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discovery"
         }
       ]
     },
