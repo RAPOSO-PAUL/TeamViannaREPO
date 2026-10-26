@@ -5,7 +5,19 @@
   "type": "tv",
   "added_at": "2026-10-25",
   "episodes": [
-    { "season": 3, "episode": 1, "embeds": [ "https://mgeb.site/embed/96677/3/1", "https://redetoons.my/watch/t3-ep1/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/3/1", "https://myembed.biz/serie/96677/3/1" ] },
+    { "season": 1, "episode": 1, "embeds": [ "https://mgeb.site/embed/96677/1/1", "https://redetoons.my/watch/t1-ep1/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/1/1", "https://myembed.biz/serie/96677/1/1" ] },
+	{ "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/96677/1/2", "https://redetoons.my/watch/t1-ep2/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/1/2", "https://myembed.biz/serie/96677/1/2" ] },
+	{ "season": 1, "episode": 3, "embeds": [ "https://mgeb.site/embed/96677/1/3", "https://redetoons.my/watch/t1-ep3/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/1/3", "https://myembed.biz/serie/96677/1/3" ] },
+	{ "season": 1, "episode": 4, "embeds": [ "https://mgeb.site/embed/96677/1/4", "https://redetoons.my/watch/t1-ep4/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/1/4", "https://myembed.biz/serie/96677/1/4" ] },
+	{ "season": 1, "episode": 5, "embeds": [ "https://mgeb.site/embed/96677/1/5", "https://redetoons.my/watch/t1-ep5/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/1/5", "https://myembed.biz/serie/96677/1/5" ] },
+	
+	{ "season": 2, "episode": 1, "embeds": [ "https://mgeb.site/embed/96677/2/1", "https://redetoons.my/watch/t2-ep1/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/2/1", "https://myembed.biz/serie/96677/2/1" ] },
+	{ "season": 2, "episode": 2, "embeds": [ "https://mgeb.site/embed/96677/2/2", "https://redetoons.my/watch/t2-ep2/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/2/2", "https://myembed.biz/serie/96677/2/2" ] },
+	{ "season": 2, "episode": 3, "embeds": [ "https://mgeb.site/embed/96677/2/3", "https://redetoons.my/watch/t2-ep3/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/2/3", "https://myembed.biz/serie/96677/2/3" ] },
+	{ "season": 2, "episode": 4, "embeds": [ "https://mgeb.site/embed/96677/2/4", "https://redetoons.my/watch/t2-ep4/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/2/4", "https://myembed.biz/serie/96677/2/4" ] },
+	{ "season": 2, "episode": 5, "embeds": [ "https://mgeb.site/embed/96677/2/5", "https://redetoons.my/watch/t2-ep5/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/2/5", "https://myembed.biz/serie/96677/2/5" ] },
+	
+	{ "season": 3, "episode": 1, "embeds": [ "https://mgeb.site/embed/96677/3/1", "https://redetoons.my/watch/t3-ep1/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/3/1", "https://myembed.biz/serie/96677/3/1" ] },
 	{ "season": 3, "episode": 2, "embeds": [ "https://mgeb.site/embed/96677/3/2", "https://redetoons.my/watch/t3-ep2/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/3/2", "https://myembed.biz/serie/96677/3/2" ] },
 	{ "season": 3, "episode": 3, "embeds": [ "https://mgeb.site/embed/96677/3/3", "https://redetoons.my/watch/t3-ep3/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/3/3", "https://myembed.biz/serie/96677/3/3" ] },
 	{ "season": 3, "episode": 4, "embeds": [ "https://mgeb.site/embed/96677/3/4", "https://redetoons.my/watch/t3-ep4/e?id=96677&type=tv", "https://redeflixapi.store/serie/96677/3/4", "https://myembed.biz/serie/96677/3/4" ] },
