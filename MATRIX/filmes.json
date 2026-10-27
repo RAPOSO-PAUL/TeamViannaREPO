@@ -17,6 +17,7 @@
   "tmdb_id":1465063,
   "type":"movie",
   "added_at":"2026-10-27",
+  "kids":["Prezinhos", "Aborrecentes"],
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1465063"},
     {"name":"PLAYER 2","embed":"https://redetoons.tv/watch/e?id=1465063&type=movie"},
