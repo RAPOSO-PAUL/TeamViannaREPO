@@ -7,6 +7,9 @@
   "tema": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/tema-pronto.json",
   "background": "https://i.ibb.co/NdvhVfGn/fundo.jpg",
   "background_infantil": "https://i.ibb.co/5XF5yfX2/fundo-infantil.jpg",
+  "sites_iguais": {
+  "redeflix.bar": "redeflixapi.store"
+},
   "streamings": [
   { "nome": "Netflix", "imagem": "netflix" },
   { "nome": "Prime Video", "imagem": "primevideo" },
