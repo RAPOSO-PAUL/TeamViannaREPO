@@ -1228,7 +1228,17 @@
 		{
           "nome": "TELECINE PIPOCA HD4",
           "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/telecinepipoca"
+          "embed": "https://v2.rdembed.sbs/telecinepipoca"
+        },
+		{
+          "nome": "TELECINE PIPOCA HD5",
+          "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=telecinepipoca"
+        },
+		{
+          "nome": "TELECINE PIPOCA HD6",
+          "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=telecinepipoca"
         },
 		{
           "nome": "TELECINE PREMIUM HD1",
@@ -1994,6 +2004,36 @@
           "nome": "Discovery Science HD6",
           "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoverysience"
+        },
+		{
+          "nome": "Discovery Theater HD1",
+          "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoverytheater"
+        },
+		{
+          "nome": "Discovery Theater HD2",
+          "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
+          "embed": "https://w7.embedtv.cc/discoverytheather"
+        },
+		{
+          "nome": "Discovery Theater HD3",
+          "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
+          "embed": "https://rdcanais.org/discoverytheater"
+        },
+		{
+          "nome": "Discovery Theater HD4",
+          "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
+          "embed": "https://v2.rdembed.sbs/discoverytheater"
+        },
+		{
+          "nome": "Discovery Theater HD5",
+          "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoverytheather"
+        },
+		{
+          "nome": "Discovery Theater HD6",
+          "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoverytheater"
         }
       ]
     },
