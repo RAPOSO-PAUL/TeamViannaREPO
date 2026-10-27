@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":8681,
+  "type":"movie",
+  "added_at":"2026-10-27",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/8681"},
+    {"name":"PLAYER 2","embed":"https://redetoons.my/watch/e?id=8681&type=movie"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.bar/filme/8681"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/8681"},
+    {"name":"720p DUAL","magnet":"magnet:?xt=urn:btih:05b33d3d856cc444138f6a7d713548d239b4533f&dn=Busca+Implacavel+DVDRip+x264+DUBLADO&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"}
+  ],
+  "youtube":"ZxKDnpiJaVc"
+},
+{
   "tmdb_id":1329016,
   "type":"movie",
   "added_at":"2026-10-26",
