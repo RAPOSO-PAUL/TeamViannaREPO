@@ -1198,7 +1198,17 @@
 		{
           "nome": "TELECINE FUN HD4",
           "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/telecinefun"
+          "embed": "https://v2.rdembed.sbs/telecinefun"
+        },
+		{
+          "nome": "TELECINE FUN HD5",
+          "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=telecinefun"
+        },
+		{
+          "nome": "TELECINE FUN HD6",
+          "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=telecinefun"
         },
 		{
           "nome": "TELECINE PIPOCA HD1",
@@ -1954,6 +1964,36 @@
           "nome": "Discovery Home & Health HD6",
           "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoveryhomeihealth"
+        },
+		{
+          "nome": "Discovery Science HD1",
+          "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoveryscience"
+        },
+		{
+          "nome": "Discovery Science HD2",
+          "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
+          "embed": "https://w7.embedtv.cc/discoveryscience"
+        },
+		{
+          "nome": "Discovery Science HD3",
+          "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
+          "embed": "https://rdcanais.org/discoveryscience"
+        },
+		{
+          "nome": "Discovery Science HD4",
+          "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
+          "embed": "https://v2.rdembed.sbs/discoveryscience"
+        },
+		{
+          "nome": "Discovery Science HD5",
+          "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoveryscience"
+        },
+		{
+          "nome": "Discovery Science HD6",
+          "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoverysience"
         }
       ]
     },
