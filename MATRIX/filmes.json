@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1283515,
+  "type":"movie",
+  "added_at":"2026-10-27",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.site/embed/1283515"},
+    {"name":"PLAYER 2","embed":"https://redetoons.tv/watch/e?id=1465063&type=1283515"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.bar/filme/1283515"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1283515"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:zxf4jnswqonqoafdvl7mm5pw73iiqef6&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Verity.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"JjIVd97hoFE"
+},
+{
   "tmdb_id":1465063,
   "type":"movie",
   "added_at":"2026-10-27",
