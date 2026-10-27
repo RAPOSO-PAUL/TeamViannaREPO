@@ -215,10 +215,11 @@
     {
       "tmdb_id": 312359,
       "type": "tv",
-      "added_at": "2026-10-19",
+      "added_at": "2026-10-27",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.site/embed/312359/1/1", "https://redetoons.my/watch/t1-ep1/e?id=312359&type=tv", "https://redeflixapi.bar/serie/312359/1/1", "https://myembed.biz/serie/312359/1/1" ] },
-        { "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/312359/1/2", "https://redetoons.my/watch/t1-ep2/e?id=312359&type=tv", "https://redeflixapi.bar/serie/312359/1/2", "https://myembed.biz/serie/312359/1/2" ] }
+        { "season": 1, "episode": 2, "embeds": [ "https://mgeb.site/embed/312359/1/2", "https://redetoons.my/watch/t1-ep2/e?id=312359&type=tv", "https://redeflixapi.bar/serie/312359/1/2", "https://myembed.biz/serie/312359/1/2" ] },
+		{ "season": 1, "episode": 3, "embeds": [ "https://mgeb.site/embed/312359/1/3", "https://redetoons.my/watch/t1-ep3/e?id=312359&type=tv", "https://redeflixapi.bar/serie/312359/1/3", "https://myembed.biz/serie/312359/1/3" ] }
       ]
     },
     {
