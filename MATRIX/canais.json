@@ -63,6 +63,11 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sbt"
         },
 		{
+          "nome": "SBT SP HD7",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://www.tvonlinehd.com.br/canal.php?c=sbtsp"
+        },
+		{
           "nome": "GLOBO SP HD1",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globosp"
@@ -91,6 +96,11 @@
           "nome": "GLOBO SP HD6",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bobosp"
+        },
+		{
+          "nome": "GLOBO SP HD7",
+          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
+          "embed": "https://www.tvonlinehd.com.br/canal.php?c=globosp"
         },
 		{
           "nome": "GLOBO RJ HD1",
