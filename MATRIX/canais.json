@@ -65,7 +65,7 @@
 		{
           "nome": "SBT SP HD7",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://www.tvonlinehd.com.br/canal.php?c=sbtsp"
+          "embed": "https://tvonlinehd.com.br/canal.php?c=sbtsp"
         },
 		{
           "nome": "GLOBO SP HD1",
@@ -98,9 +98,9 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bobosp"
         },
 		{
-          "nome": "GLOBO SP HD7",
+          "nome": "GLOBO SP HD8",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://www.tvonlinehd.com.br/canal.php?c=globosp"
+          "embed": "https://tvonlinehd.com.br/canal.php?c=globosp"
         },
 		{
           "nome": "GLOBO RJ HD1",
@@ -455,7 +455,7 @@
 		{
           "nome": "ESPN 1 HD6",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://www.tvonlinehd.com.br/canal.php?c=espn"
+          "embed": "https://tvonlinehd.com.br/canal.php?c=espn"
         },
 		{
           "nome": "ESPN 2 HD1",
