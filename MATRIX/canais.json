@@ -1258,7 +1258,17 @@
 		{
           "nome": "TELECINE PREMIUM HD4",
           "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
-          "embed": "https://nossoplayeronlinehd.ink/tv/telecinepremium"
+          "embed": "https://v2.rdembed.sbs/telecinepremium"
+        },
+		{
+          "nome": "TELECINE PREMIUM HD5",
+          "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=telecinepremium"
+        },
+		{
+          "nome": "TELECINE PREMIUM HD6",
+          "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=telecinepremium"
         },
 		{
           "nome": "TELECINE CULT HD1",
@@ -2034,6 +2044,36 @@
           "nome": "Discovery Theater HD6",
           "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoverytheater"
+        },
+		{
+          "nome": "Discovery Turbo HD1",
+          "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoveryturbo"
+        },
+		{
+          "nome": "Discovery Turbo HD2",
+          "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
+          "embed": "https://w7.embedtv.cc/discoveryturbo"
+        },
+		{
+          "nome": "Discovery Turbo HD3",
+          "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
+          "embed": "https://rdcanais.org/discoveryturbo"
+        },
+		{
+          "nome": "Discovery Turbo HD4",
+          "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
+          "embed": "https://v2.rdembed.sbs/discoveryturbo"
+        },
+		{
+          "nome": "Discovery Turbo HD5",
+          "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoveryturbo"
+        },
+		{
+          "nome": "Discovery Turbo HD6",
+          "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoveryturbo"
         }
       ]
     },
