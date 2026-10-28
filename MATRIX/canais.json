@@ -416,11 +416,6 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sportv3"
         },
 		{
-		"nome": "ESPN HD",
-		 "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg", 
-		 "embed": "https://www.youtube.com/@espnbrasil"
-		},
-		{
           "nome": "ESPN 1 HD1",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=espn"
