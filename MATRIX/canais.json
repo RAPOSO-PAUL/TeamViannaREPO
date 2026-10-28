@@ -12,7 +12,8 @@
 	"rdembed.sbs",
 	"embedcanaisdetv",
 	"redecanais.",
-	"redecanaistv."
+	"redecanaistv.",
+	"tvonlinehd."
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -24,7 +25,8 @@
   "rdcanais.org",
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
-  "rdembed.sbs"
+  "rdembed.sbs",
+  "tvonlinehd."
 ],
   "categorias": [
     {
@@ -439,6 +441,11 @@
           "nome": "ESPN 1 HD5",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=espn"
+        },
+		{
+          "nome": "ESPN 1 HD6",
+          "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
+          "embed": "https://www.tvonlinehd.com.br/canal.php?c=espn"
         },
 		{
           "nome": "ESPN 2 HD1",
