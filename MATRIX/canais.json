@@ -643,6 +643,11 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=premiereclubes"
         },
 		{
+          "nome": "PREMIERE HD6",
+          "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=premiere"
+        },
+		{
           "nome": "PREMIERE 2 HD1",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=premiere2"
