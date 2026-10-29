@@ -133,6 +133,11 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=boborj"
         },
 		{
+          "nome": "GLOBO RJ HD7",
+          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=globorj"
+        },
+		{
           "nome": "GLOBO DF HD1",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globodf"
@@ -2096,6 +2101,41 @@
           "nome": "Discovery Turbo HD6",
           "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoveryturbo"
+        },
+		{
+          "nome": "Discovery World HD1",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoveryworld"
+        },
+		{
+          "nome": "Discovery World HD2",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://w7.embedtv.cc/discoveryworld"
+        },
+		{
+          "nome": "Discovery World HD3",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://rdcanais.org/discoveryworld"
+        },
+		{
+          "nome": "Discovery World HD4",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://v2.rdembed.sbs/discoveryturb"
+        },
+		{
+          "nome": "Discovery World HD5",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoveryworld"
+        },
+		{
+          "nome": "Discovery World HD6",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoveryworld"
+        },
+		{
+          "nome": "Discovery World HD6",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=discoveryworld"
         }
       ]
     },
