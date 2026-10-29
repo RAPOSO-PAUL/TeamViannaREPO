@@ -3,7 +3,8 @@
     {
       "tmdb_id": 6670,
       "type": "tv",
-      "added_at": "2026-10-29"
+      "added_at": "2026-10-29",
+	  "kids": ["Chefinhos", "Prezinhos", "Aborrecentes"]
     },
 	{
       "tmdb_id": 288458,
