@@ -573,7 +573,7 @@
     {
       "tmdb_id": 243875,
       "type": "tv",
-      "added_at": "2026-10-04",
+      "added_at": "2026-10-29",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/243875/1/1", "https://redetoons.tv/watch/t1-ep1/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/1/1", "https://myembed.biz/serie/243875/1/1" ] },
         { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/243875/1/2", "https://redetoons.tv/watch/t1-ep2/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/1/2", "https://myembed.biz/serie/243875/1/2" ] },
@@ -616,7 +616,8 @@
         { "season": 2, "episode": 19, "embeds": [ "https://mgeb.lat/embed/243875/2/19", "https://redetoons.tv/watch/t2-ep19/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/2/19", "https://myembed.biz/serie/243875/2/19" ] },
         { "season": 2, "episode": 20, "embeds": [ "https://mgeb.lat/embed/243875/2/20", "https://redetoons.tv/watch/t2-ep20/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/2/20", "https://myembed.biz/serie/243875/2/20" ] },
         { "season": 2, "episode": 21, "embeds": [ "https://mgeb.lat/embed/243875/2/21", "https://redetoons.tv/watch/t2-ep21/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/2/21", "https://myembed.biz/serie/243875/2/21" ] },
-        { "season": 3, "episode": 1, "embeds": [ "https://mgeb.lat/embed/243875/3/1", "https://redetoons.tv/watch/t3-ep1/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/3/1", "https://myembed.biz/serie/243875/3/1" ] }
+        { "season": 3, "episode": 1, "embeds": [ "https://mgeb.lat/embed/243875/3/1", "https://redetoons.tv/watch/t3-ep1/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/3/1", "https://myembed.biz/serie/243875/3/1" ] },
+		{ "season": 3, "episode": 2, "embeds": [ "https://mgeb.lat/embed/243875/3/2", "https://redetoons.tv/watch/t3-ep2/e?id=243875&type=tv", "https://redeflixapi.bar/serie/243875/3/2", "https://myembed.biz/serie/243875/3/2" ] }
       ]
     },
     {
