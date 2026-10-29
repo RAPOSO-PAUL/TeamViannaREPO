@@ -1042,6 +1042,26 @@
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo05"
         },
+		{
+          "nome": "PRIME VIDEO HD18",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo"
+        },
+		{
+          "nome": "PRIME VIDEO HD19",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo2"
+        },
+		{
+          "nome": "PRIME VIDEO HD20",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo3"
+        },
+		{
+          "nome": "PRIME VIDEO HD21",
+          "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo4"
+        },
         {
 		"nome": "CAZE TV HD",
 		 "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg", 
