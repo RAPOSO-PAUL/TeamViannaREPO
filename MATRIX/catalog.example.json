@@ -10,6 +10,13 @@
   "sites_iguais": {
   "redeflixapi.bar": "redeflixapi.store"
 },
+  "legendas_online": {
+  "wyzie": "wyzie-ofyo9iiu0ie11f15ktmg7r9xvesh62yz",
+  "subdl": "subdl_RdS-QnBDPEMrBYsozltQi9zf5c0G4UyPsBk5SrhGxDI",
+  "opensubtitles": "hxztbrpoKsMJFQcQDr8JNRevqzm9qYqx",
+  "ordem": ["wyzie", "subdl", "opensubtitles"],
+  "automatico": true
+},
   "streamings": [
   { "nome": "Netflix", "imagem": "netflix" },
   { "nome": "Prime Video", "imagem": "primevideo" },
