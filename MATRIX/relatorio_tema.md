@@ -1,6 +1,6 @@
 # Relatório da aba temática
 
-Rodada de 29/10/2026 23:02 (Brasília).
+Rodada de 30/10/2026 10:52 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
@@ -438,7 +438,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 ## HALLOWEEN
 
 - Datas: 10-15 a 11-02 · ativo: False
-- **236 filmes** e **14 séries**
+- **237 filmes** e **14 séries**
 
 ### Filmes
 
@@ -629,6 +629,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `609972` Atividade Paranormal: Ente Próximo — palavra-chave "halloween"
 - `614479` Sobrenatural: A Porta Vermelha — palavra-chave "halloween"
 - `615774` Scooby-Doo! De Volta à Ilha dos Zumbis — palavra-chave "halloween"
+- `616747` Mansão Mal-Assombrada — palavra-chave "halloween"
 - `624963` Manual de Caça a Monstros — palavra-chave "halloween"
 - `632727` O Massacre da Serra Elétrica: O Retorno de Leatherface — palavra-chave "halloween"
 - `634336` O Jogo dos Segredos — palavra-chave "halloween"
