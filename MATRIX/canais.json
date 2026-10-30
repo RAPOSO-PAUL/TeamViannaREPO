@@ -65,7 +65,7 @@
 		{
           "nome": "SBT SP HD7",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=sbtsp"
+          "embed": "https://www.tvonlinehd.com.br/player?id=sbt"
         },
 		{
           "nome": "GLOBO SP HD1",
@@ -196,6 +196,11 @@
           "nome": "GLOBO MG HD4",
           "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
           "embed": "https://v2.rdembed.sbs/globomg"
+        },
+		{
+          "nome": "GLOBO MG HD5",
+          "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=globomg"
         },
 		{
           "nome": "GLOBO RS HD1",
@@ -2271,6 +2276,36 @@
           "nome": "CANAL BRASIL HD3",
           "imagem": "https://i.ibb.co/xSjpGzq2/CN-BRASIL.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=canalbrasil"
+        },
+		{
+          "nome": "Food Network HD1",
+          "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=foodnetwork"
+        },
+		{
+          "nome": "Food Network HD2",
+          "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
+          "embed": "https://w7.embedtv.cc/foodnetwork"
+        },
+		{
+          "nome": "Food Network HD3",
+          "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
+          "embed": "https://rdcanais.org/foodnetwork"
+        },
+		{
+          "nome": "Food Network HD4",
+          "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
+          "embed": "https://v2.rdembed.sbs/foodnetwork"
+        },
+		{
+          "nome": "Food Network HD5",
+          "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=foodnetwork"
+        },
+		{
+          "nome": "Food Network HD6",
+          "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=foodnetwork"
         }
       ]
     },
