@@ -19022,14 +19022,14 @@
 {
   "tmdb_id":1204680,
   "type":"movie",
-  "added_at":"2026-10-04",
+  "added_at":"2026-10-29",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1204680"},
     {"name":"PLAYER 2","embed":"https://redetoons.tv/watch/e?id=1204680&type=movie"},
     {"name":"PLAYER 3","embed":"https://redeflixapi.bar/filme/1204680"},
     {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1204680"},
-    {"name":"1080p","magnet":"magnet:?xt=urn:btih:c07871ac804ad57ce942d419e0a990f263ce1ad6&dn=Coyote%20vs%20Acme%202026%201080p%20DCP%20DDP5%201%20H264-AOC%20%5B%20UIndex.org%20%5D&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce"},
-    {"name":"1080p 2","magnet":"magnet:?xt=urn:btih:d6016207f72e20f6279cdd58793026bc704db5a0&dn=Coyote%20vs%20Acme%201080p%20DCPRIP%20Multi%20x264-DKS%20%5B%20UIndex.org%20%5D&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce"}
+    {"name":"1080p","magnet":"magnet:?xt=urn:btih:88fa24fc993c99de35b7ce13ff43b9c56d20eca2&dn=Coyote%20vs.%20Acme%202026%20WEB-DL%201080p%20x264%20DUAL%202.0&xl=2625507121&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"1080p 2","magnet":"magnet:?xt=urn:btih:092d31eabff295941daf5a4020b8675fa42e58de&dn=Coyote%20vs.%20Acme%202026%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&xl=7952795528&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"}
   ],
   "youtube":"NVgXOsLVx70"
 },
