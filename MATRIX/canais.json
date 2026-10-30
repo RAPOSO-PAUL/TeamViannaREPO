@@ -158,6 +158,11 @@
           "embed": "https://v2.rdembed.sbs/globodf"
         },
 		{
+          "nome": "GLOBO DF HD5",
+          "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=globodf"
+        },
+		{
           "nome": "GLOBO ES HD1",
           "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globoes"
@@ -2156,6 +2161,41 @@
           "nome": "Discovery World HD7",
           "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
           "embed": "https://www.tvonlinehd.com.br/player?id=discoveryworld"
+        },
+		{
+          "nome": "Discovery ID HD1",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoveryid"
+        },
+		{
+          "nome": "Discovery ID HD2",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://w7.embedtv.cc/discoveryid"
+        },
+		{
+          "nome": "Discovery ID HD3",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://rdcanais.org/discoveryid"
+        },
+		{
+          "nome": "Discovery ID HD4",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://v2.rdembed.sbs/discoveryid"
+        },
+		{
+          "nome": "Discovery ID HD5",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoveryid"
+        },
+		{
+          "nome": "Discovery ID HD6",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=investigacaodiscovery"
+        },
+		{
+          "nome": "Discovery ID HD7",
+          "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=discoveryid"
         }
       ]
     },
