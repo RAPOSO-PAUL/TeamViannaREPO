@@ -178,6 +178,11 @@
           "embed": "https://rdcanais.org/globoes"
         },
 		{
+          "nome": "GLOBO ES HD4",
+          "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=globoes"
+        },
+		{
           "nome": "GLOBO MG HD1",
           "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globomg"
@@ -228,6 +233,11 @@
           "embed": "iframe:https://multicanais.cyou/player.php?id=globors"
         },
 		{
+          "nome": "GLOBO RS HD6",
+          "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=globors"
+        },
+		{
           "nome": "RECORD SP HD1",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=recordsp"
@@ -258,6 +268,11 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=record"
         },
 		{
+          "nome": "RECORD SP HD6",
+          "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=recordsp"
+        },
+		{
           "nome": "RECORD RJ HD1",
           "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=recordrj"
@@ -271,6 +286,11 @@
           "nome": "RECORD RJ HD3",
           "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=recordrj"
+        },
+		{
+          "nome": "RECORD RJ HD4",
+          "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=recordrj"
         },
 		{
           "nome": "RECORD MG HD1",
@@ -2341,6 +2361,41 @@
           "nome": "GNT HD7",
           "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
           "embed": "https://www.tvonlinehd.com.br/player?id=gnt"
+        },
+		{
+          "nome": "HGTV HD1",
+          "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hgtv"
+        },
+		{
+          "nome": "HGTV HD2",
+          "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
+          "embed": "https://w7.embedtv.cc/hgtv"
+        },
+		{
+          "nome": "HGTV HD3",
+          "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
+          "embed": "https://rdcanais.org/hgtv"
+        },
+		{
+          "nome": "HGTV HD4",
+          "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
+          "embed": "https://v2.rdembed.sbs/hgtv"
+        },
+		{
+          "nome": "HGTV HD5",
+          "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=hgtv"
+        },
+		{
+          "nome": "HGTV HD6",
+          "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=hgtv"
+        },
+		{
+          "nome": "HGTV HD7",
+          "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=hgtv"
         }
       ]
     },
