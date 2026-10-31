@@ -2306,6 +2306,36 @@
           "nome": "Food Network HD6",
           "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=foodnetwork"
+        },
+		{
+          "nome": "GNT HD1",
+          "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=gnt"
+        },
+		{
+          "nome": "GNT HD2",
+          "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
+          "embed": "https://w7.embedtv.cc/gnt"
+        },
+		{
+          "nome": "GNT HD3",
+          "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
+          "embed": "https://rdcanais.org/gnt"
+        },
+		{
+          "nome": "GNT HD4",
+          "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
+          "embed": "https://v2.rdembed.sbs/gnt"
+        },
+		{
+          "nome": "GNT HD5",
+          "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=gnt"
+        },
+		{
+          "nome": "GNT HD6",
+          "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=gnt"
         }
       ]
     },
@@ -2316,6 +2346,16 @@
           "nome": "Todo Mundo Odeia o Chris",
           "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
           "embed": "https://w7.embedtv.cc/24h_odeiachris"
+        },
+		{
+          "nome": "Todo Mundo Odeia o Chris 2",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "https://v2.rdembed.sbs/24h-todo-mundo-odeia-o-chris"
+        },
+		{
+          "nome": "Todo Mundo Odeia o Chris 3",
+          "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=~RkIHMQMNCwwJB0sbDV4"
         }
       ]
     }
