@@ -2336,6 +2336,11 @@
           "nome": "GNT HD6",
           "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=gnt"
+        },
+		{
+          "nome": "GNT HD7",
+          "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
+          "embed": "https://www.tvonlinehd.com.br/player?id=gnt"
         }
       ]
     },
