@@ -1,6 +1,6 @@
 # Relatório da aba temática
 
-Rodada de 31/10/2026 17:48 (Brasília).
+Rodada de 31/10/2026 19:21 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
@@ -8,6 +8,10 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 - Datas: 10-21 a 01-06 · ativo: True
 - **451 filmes** e **5 séries**
+- Animação: 42 filmes, 1 séries
+- Família: 98 filmes, 1 séries
+- Clássicos: 20 filmes, 0 séries
+- Romances: 192 filmes, 0 séries
 
 ### Filmes
 
@@ -439,6 +443,10 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 - Datas: 10-15 a 11-02 · ativo: False
 - **237 filmes** e **14 séries**
+- Animação: 30 filmes, 0 séries
+- Família: 18 filmes, 1 séries
+- Clássicos: 44 filmes, 0 séries
+- Romances: 8 filmes, 0 séries
 
 ### Filmes
 
@@ -701,6 +709,10 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 - Datas: 2027-03-14 a 2027-03-29 · ativo: True
 - **39 filmes** e **1 séries**
+- Animação: 5 filmes, 0 séries
+- Família: 1 filmes, 0 séries
+- Clássicos: 3 filmes, 0 séries
+- Romances: 3 filmes, 0 séries
 
 ### Filmes
 
