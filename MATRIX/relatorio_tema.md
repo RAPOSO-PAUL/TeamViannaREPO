@@ -1,21 +1,23 @@
 # Relatório da aba temática
 
-Rodada de 31/10/2026 19:55 (Brasília).
+Rodada de 31/10/2026 20:39 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
 - Datas: 10-21 a 01-06 · ativo: True
-- **451 filmes** e **5 séries**
+- **454 filmes** e **5 séries**
 - Animação: 42 filmes, 1 séries
-- Família: 98 filmes, 1 séries
-- Clássicos: 20 filmes, 0 séries
-- Romances: 192 filmes, 0 séries
+- Família: 100 filmes, 1 séries
+- Clássicos: 5 filmes, 0 séries
+- Romances: 194 filmes, 0 séries
 
 ### Filmes
 
 - `5375` Titio Noel — "noel" no nome
+- `5825` Férias Frustradas de Natal — "natal" no nome
+- `8871` O Grinch — "christmas" no nome
 - `10147` Papai Noel às Avessas — "papai noel" no nome
 - `11395` Meu Papai é Noel — "noel" no nome
 - `11661` Feliz Natal — "natal" no nome
@@ -314,6 +316,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `9647` Os Fantasmas Contra-Atacam — palavra-chave "christmas"
 - `9714` Esqueceram de Mim 3 — palavra-chave "christmas"
 - `10033` Apenas Amigos — palavra-chave "christmas"
+- `10719` Um Duende em Nova York — palavra-chave "christmas"
 - `11412` Despertar de um Pesadelo — palavra-chave "christmas"
 - `13373` Caiu do Céu — palavra-chave "christmas"
 - `13474` P2 - Sem Saída — palavra-chave "christmas"
@@ -412,9 +415,6 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `1255775` Merv — palavra-chave "christmas"
 - `1290287` Um Amor Feito de Neve — palavra-chave "christmas"
 - `1323475` Borbulhas de Amor — palavra-chave "christmas"
-- `1365044` Irmã de Neve — palavra-chave "christmas"
-- `1392796` Diário de um Banana: A Gota d'Água — palavra-chave "christmas"
-- `1606791` Say Cheese — palavra-chave "christmas"
 
 ### Séries
 
