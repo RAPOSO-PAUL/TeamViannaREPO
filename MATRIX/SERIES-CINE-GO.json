@@ -1,6 +1,15 @@
 {
   "series": [
     {
+      "tmdb_id": 292741,
+      "type": "tv",
+      "added_at": "2026-10-31",
+      "episodes": [
+        { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/292741/1/1", "https://redetoons.one/watch/t1-ep1/e?id=292741&type=tv", "https://redeflixapi.bar/serie/292741/1/1", "https://myembed.biz/serie/292741/1/1" ] },
+		{ "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/292741/1/2", "https://redetoons.one/watch/t1-ep2/e?id=292741&type=tv", "https://redeflixapi.bar/serie/292741/1/2", "https://myembed.biz/serie/292741/1/2" ] }
+      ]
+    },
+	{
       "tmdb_id": 234310,
       "type": "tv",
       "added_at": "2026-10-30",
