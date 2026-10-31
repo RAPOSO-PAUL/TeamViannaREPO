@@ -71519,6 +71519,7 @@
 {
   "tmdb_id":419680,
   "type":"movie",
+  "capa_tema": "familia-natal",
   "added_at":"2026-10-04",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/419680"},
@@ -114855,6 +114856,7 @@
   "tmdb_id":360920,
   "type":"movie",
   "added_at":"2026-10-04",
+  "capa_tema": "anima-natal",
   "kids":["Prezinhos","Aborrecentes"],
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/360920"},
