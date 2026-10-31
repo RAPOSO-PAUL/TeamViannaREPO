@@ -15,7 +15,10 @@
       "palavras_chave": ["christmas", "santa claus", "christmas eve", "christmas party", "christmas tree", "holiday season"],
       "excluir_termos": ["rio grande do norte", "natal rn", "natal, rn", "cidade natal", "terra natal", "planeta natal"],
       "incluir": [],
-      "excluir": []
+      "excluir": [],
+	  "classicos": {
+    "filmes": [771, 772, 9714, 8871, 5825],
+    "series": []
     },
     {
       "id": "halloween",

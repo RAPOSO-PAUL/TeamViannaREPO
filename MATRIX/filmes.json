@@ -1,6 +1,34 @@
 {
 "movies":[
 {
+  "tmdb_id":8871,
+  "type":"movie",
+  "added_at":"2026-10-31",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/8871"},
+    {"name":"PLAYER 2","embed":"https://redetoons.one/watch/e?id=8871&type=movie"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.bar/filme/8871"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/8871"},
+    {"name":"1080p DUB","magnet":"magnet:?xt=urn:btih:329694AC1EA90FBBB552D4EE63B6D1CFA4ECBCFF&dn=O%20Grinch.%282000%29.Dublado.1080p.By.Luan.Harper&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce"}
+  ],
+  "youtube":"KxE0Y2XMaF4"
+},
+{
+  "tmdb_id":5825,
+  "type":"movie",
+  "added_at":"2026-10-31",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/5825"},
+    {"name":"PLAYER 2","embed":"https://redetoons.one/watch/e?id=5825&type=movie"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.bar/filme/5825"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/5825"},
+    {"name":"1080p DUB","magnet":"magnet:?xt=urn:btih:7834e35bccb8b1de158d406a2b4273bd4439229b&dn=COMOEUBAIXO.COM..DVDRIP.1080P.Ferias+frustradas+de+natal+dublado+ptbr+avi&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80"},
+	{"name":"720p DUAL","magnet":"magnet:?xt=urn:btih:E7A962B0DC38A954AABBECC18F0C5AE6E413CE10&dn=COMOEUBAIXO.COM..MKV.-DUBLADO-DUAL-AUDIO-..COMANDOTORRENTSHD.NET%20-%20F%c3%a9rias%20Frustradas%20de%20Natal%201989%20Bluray%20720p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce"},
+	{"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:38752C7C6BD6C8244C4A799E26503C087C8B455D&dn=COMOEUBAIXO.COM..MKV.-DUBLADO-DUAL-AUDIO-..COMANDOTORRENTSHD.NET%20-%20F%c3%a9rias%20Frustradas%20de%20Natal%201989%20Bluray%201080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce"}
+  ],
+  "youtube":"BStiQxOhRMs"
+},
+{
   "tmdb_id":1128204,
   "type":"movie",
   "added_at":"2026-10-31",
@@ -140195,6 +140223,7 @@
 {
   "tmdb_id":549053,
   "type":"movie",
+  "capa_tema": "romance-natal",
   "added_at":"2026-10-04",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/549053"},
@@ -198298,6 +198327,7 @@
 {
   "tmdb_id":771,
   "type":"movie",
+  "capa_tema": "classicos-natal",
   "added_at":"2026-08-12",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/771"},
