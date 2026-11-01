@@ -3,7 +3,7 @@
   "temas": [
     {
       "id": "natal",
-      "ativo": false,
+      "ativo": true,
       "de": "10-21",
       "ate": "01-06",
       "nome": "NATAL",
