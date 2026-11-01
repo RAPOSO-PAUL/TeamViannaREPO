@@ -27771,7 +27771,7 @@
     {
       "tmdb_id": 207484,
       "type": "tv",
-      "added_at": "2026-10-26",
+      "added_at": "2026-11-01",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/207484/1/1", "https://redetoons.one/watch/t1-ep1/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/1/1", "https://myembed.biz/serie/207484/1/1" ] },
         { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/207484/1/2", "https://redetoons.one/watch/t1-ep2/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/1/2", "https://myembed.biz/serie/207484/1/2" ] },
@@ -27789,7 +27789,8 @@
         { "season": 2, "episode": 3, "embeds": [ "https://mgeb.lat/embed/207484/2/3", "https://redetoons.one/watch/t2-ep3/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/2/3", "https://myembed.biz/serie/207484/2/3" ] },
         { "season": 2, "episode": 4, "embeds": [ "https://mgeb.lat/embed/207484/2/4", "https://redetoons.one/watch/t2-ep4/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/2/4", "https://myembed.biz/serie/207484/2/4" ] },
         { "season": 2, "episode": 5, "embeds": [ "https://mgeb.lat/embed/207484/2/5", "https://redetoons.one/watch/t2-ep5/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/2/5", "https://myembed.biz/serie/207484/2/5" ] },
-		{ "season": 2, "episode": 6, "embeds": [ "https://mgeb.lat/embed/207484/2/6", "https://redetoons.one/watch/t2-ep6/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/2/6", "https://myembed.biz/serie/207484/2/6" ] }
+		{ "season": 2, "episode": 6, "embeds": [ "https://mgeb.lat/embed/207484/2/6", "https://redetoons.one/watch/t2-ep6/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/2/6", "https://myembed.biz/serie/207484/2/6" ] },
+		{ "season": 2, "episode": 7, "embeds": [ "https://mgeb.lat/embed/207484/2/7", "https://redetoons.one/watch/t2-ep7/e?id=207484&type=tv", "https://redeflixapi.bar/serie/207484/2/7", "https://myembed.biz/serie/207484/2/7" ] }
       ]
     },
     {
