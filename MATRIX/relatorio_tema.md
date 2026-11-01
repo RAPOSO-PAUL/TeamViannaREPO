@@ -1,6 +1,6 @@
 # Relatório da aba temática
 
-Rodada de 31/10/2026 20:39 (Brasília).
+Rodada de 31/10/2026 21:19 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
@@ -10,7 +10,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - **454 filmes** e **5 séries**
 - Animação: 42 filmes, 1 séries
 - Família: 100 filmes, 1 séries
-- Clássicos: 5 filmes, 0 séries
+- Clássicos: 8 filmes, 0 séries
 - Romances: 194 filmes, 0 séries
 
 ### Filmes
