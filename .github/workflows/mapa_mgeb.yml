@@ -1,0 +1,54 @@
+# ROBO DO MAPA DA CONTA DO PLAYER 1 (02/11/2026) — ver scripts/mapa_mgeb.py
+# A cada 2 h grava MATRIX/mgeb_filmes.txt e MATRIX/mgeb_series.txt.
+# Precisa dos segredos MGEB_USUARIO e MGEB_SENHA (Settings > Secrets and
+# variables > Actions). O app CINE GO! le estes arquivos em vez de baixar a
+# lista inteira do painel em cada aparelho.
+name: Mapa da conta do PLAYER 1
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mapa-mgeb
+  cancel-in-progress: false
+
+jobs:
+  mapa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Montar o mapa
+        env:
+          MGEB_USUARIO: ${{ secrets.MGEB_USUARIO }}
+          MGEB_SENHA: ${{ secrets.MGEB_SENHA }}
+          MGEB_SERVIDOR: ${{ secrets.MGEB_SERVIDOR }}
+        run: python scripts/mapa_mgeb.py
+
+      - name: Gravar no repositorio
+        if: always()
+        run: |
+          git config user.name "robo-mapa-mgeb"
+          git config user.email "robo-mapa-mgeb@users.noreply.github.com"
+          git add MATRIX/mgeb_filmes.txt MATRIX/mgeb_series.txt 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git commit -m "mapa da conta do PLAYER 1 (robô)"
+          # outros robos deste repositorio tambem gravam: puxa antes de enviar
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 10
+          done
+          exit 1
