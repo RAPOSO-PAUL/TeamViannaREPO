@@ -56,7 +56,7 @@
 	{
       "tmdb_id": 288458,
       "type": "tv",
-      "added_at": "2026-10-25",
+      "added_at": "2026-11-01",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/288458/1/1", "https://redetoons.one/watch/t1-ep1/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/1", "https://myembed.biz/serie/288458/1/1" ] },
 		{ "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/288458/1/2", "https://redetoons.one/watch/t1-ep2/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/2", "https://myembed.biz/serie/288458/1/2" ] },
@@ -69,7 +69,11 @@
 		{ "season": 1, "episode": 9, "embeds": [ "https://mgeb.lat/embed/288458/1/9", "https://redetoons.one/watch/t1-ep9/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/9", "https://myembed.biz/serie/288458/1/9" ] },
 		{ "season": 1, "episode": 10, "embeds": [ "https://mgeb.lat/embed/288458/1/10", "https://redetoons.one/watch/t1-ep10/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/10", "https://myembed.biz/serie/288458/1/10" ] },
 		{ "season": 1, "episode": 11, "embeds": [ "https://mgeb.lat/embed/288458/1/11", "https://redetoons.one/watch/t1-ep11/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/11", "https://myembed.biz/serie/288458/1/11" ] },
-		{ "season": 1, "episode": 12, "embeds": [ "https://mgeb.lat/embed/288458/1/12", "https://redetoons.one/watch/t1-ep12/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/12", "https://myembed.biz/serie/288458/1/12" ] }
+		{ "season": 1, "episode": 12, "embeds": [ "https://mgeb.lat/embed/288458/1/12", "https://redetoons.one/watch/t1-ep12/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/12", "https://myembed.biz/serie/288458/1/12" ] },
+		{ "season": 1, "episode": 13, "embeds": [ "https://mgeb.lat/embed/288458/1/13", "https://redetoons.one/watch/t1-ep13/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/13", "https://myembed.biz/serie/288458/1/13" ] },
+		{ "season": 1, "episode": 14, "embeds": [ "https://mgeb.lat/embed/288458/1/14", "https://redetoons.one/watch/t1-ep14/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/14", "https://myembed.biz/serie/288458/1/14" ] },
+		{ "season": 1, "episode": 15, "embeds": [ "https://mgeb.lat/embed/288458/1/15", "https://redetoons.one/watch/t1-ep15/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/15", "https://myembed.biz/serie/288458/1/15" ] },
+		{ "season": 1, "episode": 16, "embeds": [ "https://mgeb.lat/embed/288458/1/16", "https://redetoons.one/watch/t1-ep16/e?id=288458&type=tv", "https://redeflixapi.bar/serie/288458/1/16", "https://myembed.biz/serie/288458/1/16" ] }
       ]
     },
 	{
