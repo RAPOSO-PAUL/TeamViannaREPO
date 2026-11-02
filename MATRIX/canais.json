@@ -65,7 +65,7 @@
 		{
           "nome": "SBT SP HD7",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=sbt"
+          "embed": "https://www.tvonlinehd.api.br/player?id=sbt"
         },
 		{
           "nome": "GLOBO SP HD1",
@@ -100,7 +100,7 @@
 		{
           "nome": "GLOBO SP HD7",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=globosp"
+          "embed": "https://www.tvonlinehd.api.br/player?id=globosp"
         },
 		{
           "nome": "GLOBO RJ HD1",
@@ -135,7 +135,7 @@
 		{
           "nome": "GLOBO RJ HD7",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=globorj"
+          "embed": "https://www.tvonlinehd.api.br/player?id=globorj"
         },
 		{
           "nome": "GLOBO DF HD1",
@@ -160,7 +160,7 @@
 		{
           "nome": "GLOBO DF HD5",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=globodf"
+          "embed": "https://www.tvonlinehd.api.br/player?id=globodf"
         },
 		{
           "nome": "GLOBO ES HD1",
@@ -180,7 +180,7 @@
 		{
           "nome": "GLOBO ES HD4",
           "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=globoes"
+          "embed": "https://www.tvonlinehd.api.br/player?id=globoes"
         },
 		{
           "nome": "GLOBO MG HD1",
@@ -205,7 +205,7 @@
 		{
           "nome": "GLOBO MG HD5",
           "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=globomg"
+          "embed": "https://www.tvonlinehd.api.br/player?id=globomg"
         },
 		{
           "nome": "GLOBO RS HD1",
@@ -235,7 +235,7 @@
 		{
           "nome": "GLOBO RS HD6",
           "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=globors"
+          "embed": "https://www.tvonlinehd.api.br/player?id=globors"
         },
 		{
           "nome": "RECORD SP HD1",
@@ -268,9 +268,9 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=record"
         },
 		{
-          "nome": "RECORD SP HD6",
+          "nome": "RECORD SP HD7",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=recordsp"
+          "embed": "https://www.tvonlinehd.api.br/player?id=recordsp"
         },
 		{
           "nome": "RECORD RJ HD1",
@@ -290,7 +290,7 @@
 		{
           "nome": "RECORD RJ HD4",
           "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=recordrj"
+          "embed": "https://www.tvonlinehd.api.br/player?id=recordrj"
         },
 		{
           "nome": "RECORD MG HD1",
@@ -490,7 +490,7 @@
 		{
           "nome": "ESPN 1 HD6",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=espn"
+          "embed": "https://www.tvonlinehd.api.br/player?id=espn"
         },
 		{
           "nome": "ESPN 2 HD1",
@@ -680,7 +680,7 @@
 		{
           "nome": "PREMIERE HD6",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=premiere"
+          "embed": "https://www.tvonlinehd.api.br/player?id=premiere"
         },
 		{
           "nome": "PREMIERE 2 HD1",
@@ -1075,22 +1075,22 @@
 		{
           "nome": "PRIME VIDEO HD18",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo"
+          "embed": "https://www.tvonlinehd.api.br/player?id=primevideo"
         },
 		{
           "nome": "PRIME VIDEO HD19",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo2"
+          "embed": "https://www.tvonlinehd.api.br/player?id=primevideo2"
         },
 		{
           "nome": "PRIME VIDEO HD20",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo3"
+          "embed": "https://www.tvonlinehd.api.br/player?id=primevideo3"
         },
 		{
           "nome": "PRIME VIDEO HD21",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=primevideo4"
+          "embed": "https://www.tvonlinehd.api.br/player?id=primevideo4"
         },
         {
 		"nome": "CAZE TV HD",
@@ -2185,7 +2185,7 @@
 		{
           "nome": "Discovery World HD7",
           "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=discoveryworld"
+          "embed": "https://www.tvonlinehd.api.br/player?id=discoveryworld"
         },
 		{
           "nome": "Discovery ID HD1",
@@ -2220,7 +2220,7 @@
 		{
           "nome": "Discovery ID HD7",
           "imagem": "https://i.ibb.co/zHfxWBDq/dic-id.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=discoveryid"
+          "embed": "https://www.tvonlinehd.api.br/player?id=discoveryid"
         }
       ]
     },
@@ -2360,7 +2360,7 @@
 		{
           "nome": "GNT HD7",
           "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=gnt"
+          "embed": "https://www.tvonlinehd.api.br/player?id=gnt"
         },
 		{
           "nome": "HGTV HD1",
@@ -2395,7 +2395,7 @@
 		{
           "nome": "HGTV HD7",
           "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=hgtv"
+          "embed": "https://www.tvonlinehd.api.br/player?id=hgtv"
         }
       ]
     },
@@ -2415,7 +2415,7 @@
 		{
           "nome": "Todo Mundo Odeia o Chris 3",
           "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
-          "embed": "https://www.tvonlinehd.com.br/player?id=~RkIHMQMNCwwJB0sbDV4"
+          "embed": "https://www.tvonlinehd.api.br/player?id=~RkIHMQMNCwwJB0sbDV4"
         }
       ]
     }
