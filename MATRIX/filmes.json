@@ -3,7 +3,7 @@
 {
   "tmdb_id":1811134,
   "type":"movie",
-  "kids": ["Prezinhos", "Aborrecentes"]
+  "kids": ["Prezinhos", "Aborrecentes"],
   "added_at":"2026-11-01",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1811134"},
