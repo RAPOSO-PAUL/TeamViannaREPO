@@ -1,0 +1,103 @@
+# ROBO DO MAPA DA CONTA DO PLAYER 1 — ver scripts/mapa_mgeb.py
+# A cada 2 h grava MATRIX/mgeb_filmes.txt e MATRIX/mgeb_series.txt.
+# Precisa dos segredos MGEB_USUARIO e MGEB_SENHA (Settings > Secrets and
+# variables > Actions). O app CINE GO! le estes arquivos em vez de baixar a
+# lista inteira do painel em cada aparelho.
+#
+# (02/11, noite) O PAINEL NAO RESPONDEU DIRETO (HTTP 520/522): o robo liga
+# o tunel WARP (scripts/ligar_warp.sh — so o painel passa por ele) e tenta
+# de novo. Recusa (401/403/429) NAO tenta de novo: para na hora, como
+# sempre (o painel bane o IP com falhas seguidas).
+name: Mapa da conta do PLAYER 1
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mapa-mgeb
+  cancel-in-progress: false
+
+jobs:
+  mapa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Montar o mapa (direto)
+        id: direto
+        env:
+          MGEB_USUARIO: ${{ secrets.MGEB_USUARIO }}
+          MGEB_SENHA: ${{ secrets.MGEB_SENHA }}
+          MGEB_SERVIDOR: ${{ secrets.MGEB_SERVIDOR }}
+        run: |
+          set +e
+          python scripts/mapa_mgeb.py
+          c=$?
+          echo "saida=$c" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Ligar o túnel WARP (o painel não respondeu direto)
+        id: warp
+        if: steps.direto.outputs.saida == '2'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MGEB_SERVIDOR: ${{ secrets.MGEB_SERVIDOR }}
+        run: bash scripts/ligar_warp.sh
+
+      - name: Montar o mapa (pelo túnel WARP)
+        id: pelowarp
+        if: steps.direto.outputs.saida == '2' && steps.warp.outcome == 'success'
+        env:
+          MGEB_USUARIO: ${{ secrets.MGEB_USUARIO }}
+          MGEB_SENHA: ${{ secrets.MGEB_SENHA }}
+          MGEB_SERVIDOR: ${{ secrets.MGEB_SERVIDOR }}
+        run: |
+          set +e
+          python scripts/mapa_mgeb.py
+          c=$?
+          echo "saida=$c" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Desligar o túnel
+        if: always() && steps.warp.outcome == 'success'
+        run: sudo wg-quick down warp || true
+
+      - name: Gravar no repositorio
+        if: always()
+        run: |
+          git config user.name "robo-mapa-mgeb"
+          git config user.email "robo-mapa-mgeb@users.noreply.github.com"
+          git add MATRIX/mgeb_filmes.txt MATRIX/mgeb_series.txt 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git commit -m "mapa da conta do PLAYER 1 (robô)"
+          # outros robos deste repositorio tambem gravam: puxa antes de enviar
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 10
+          done
+          exit 1
+
+      # o X vermelho so aparece quando NADA foi gravado (direto nem pelo tunel)
+      - name: Resultado
+        if: always()
+        run: |
+          d="${{ steps.direto.outputs.saida }}"
+          w="${{ steps.pelowarp.outputs.saida }}"
+          echo "direto: ${d:-?} · pelo túnel: ${w:-não tentou}"
+          if [ "$d" = "0" ] || [ "$w" = "0" ]; then exit 0; fi
+          echo "nada gravado — o app continua pedindo a lista ao painel, como antes"
+          exit 1
