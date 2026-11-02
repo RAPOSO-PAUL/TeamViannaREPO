@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1811134,
+  "type":"movie",
+  "added_at":"2026-11-01",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1811134"},
+    {"name":"PLAYER 2","embed":"https://redetoons.one/watch/e?id=1811134&type=movie"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.bar/filme/1811134"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1811134"},
+	{"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:ac0fd20e961922b75784ae7597c312eaeaeab446&dn=Academia.Sobrenatural.Nascimento.da.Marca.do.Drag%C3%A3o.2026.WEB-DL.1080p.x264.DUAL.2.0-STARCKFILMES&xl=1916765560&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.vraphim.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fr.l5.ca%3A6969%2Fanunciar&tr=https%3A%2F%2Ftracker.yemekyedim.com%3A443%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fanunciar&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftrackers.mlsub.net%3A443%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fanunciar&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fanunciar&tr=udp%3A%2F%2Fp2p.publictracker.xyz%3A6969%2Fanunciar&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fu6.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce"}
+  ],
+  "youtube":"uteRS6T11UA"
+},
+{
   "tmdb_id":1789549,
   "type":"movie",
   "added_at":"2026-11-01",
