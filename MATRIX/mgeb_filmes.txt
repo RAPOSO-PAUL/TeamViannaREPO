@@ -1,4 +1,4 @@
-#gerado	1793662665477
+#gerado	1793689037056
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
 1165841	105647	m3u8	Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul	
 382260	105610	m3u8	Team Hot Wheels: A Mega Corrida	
@@ -1977,7 +1977,7 @@
 1234731	107	mp4	Anaconda	
 840464	90	mp4	Destruição Final 2	
 1482791	106023	m3u8	Son of the Soil	
-1409853	105700	mp4	Enterrado Vivo	
+1409853	105700	m3u8	Enterrado Vivo	
 11088	105684	m3u8	O Assalto	
 19495	105680	m3u8	Nômade	
 18550	105678	mp4	A Caçada	
@@ -5293,7 +5293,7 @@
 601801	102196	mp4	Um Trapaceiro do Bem	
 322986	102162	mp4	O Último Virgem	
 227970	102161	m3u8	Os Homens São de Marte... E É Pra Lá Que Eu Vou	
-495026	102145	mp4	Whindersson Nunes: Proparoxítona	
+495026	102145	m3u8	Whindersson Nunes: Proparoxítona	
 630520	102139	mp4	A Noite Mágica	
 1103666	102130	mp4	Fantasma	
 1273633	102106	m3u8	Sting	
@@ -9820,7 +9820,7 @@
 1588671	175	m3u8	O Grande Roubo do Louvre: O Crime Minuto a Minuto	
 1610413	129	mp4	A Última Aventura: Nos Bastidores de Stranger Things 5	
 1465743	127	m3u8	Wizkid: De Lagos Para o Mundo	
-45890	106047	mp4	Moana	
+1754154	106045	m3u8	Smalltown Funk Girls	
 1418275	106034	m3u8	The Ladder	
 1593151	106025	m3u8	Stepfather	
 1813355	106022	m3u8	Uma História de Derry	
