@@ -1,4 +1,4 @@
-#gerado	1793722818441
+#gerado	1793742718199
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
 1165841	105647	m3u8	Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul	
 382260	105610	m3u8	Team Hot Wheels: A Mega Corrida	
@@ -13064,7 +13064,7 @@
 544404	14188	mp4	Quem Você Pensa que Sou?	
 9563	14180	mp4	Um Domingo Qualquer	
 9030	14176	mp4	O Olho do Mal	
-510314	14175	m3u8	Simonal	
+510314	14175	mp4	Simonal	
 392681	14164	m3u8	O Serial Killer Mascarado	
 631360	14154	m3u8	Carcereiros: O Filme	
 542917	14124	mp4	O Silêncio da Cidade Branca	
