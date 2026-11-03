@@ -1756,6 +1756,11 @@
           "embed": "iframe:https://multicanais.cyou/player.php?id=space"
         },
 		{
+          "nome": "TNT HD",
+          "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
+          "embed": "https://www.youtube.com/@TNTSportsBR"
+        },
+		{
           "nome": "TNT HD1",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=tnt"
