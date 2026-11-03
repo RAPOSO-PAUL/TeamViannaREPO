@@ -2226,9 +2226,34 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=history"
         },
 		{
-          "nome": "History HD7",
+          "nome": "History 2 HD1",
           "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
-          "embed": "https://www.tvonlinehd.api.br/player.php?id=~HB8cGgMbFw"
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=history2"
+        },
+		{
+          "nome": "History 2 HD2",
+          "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
+          "embed": "https://w7.embedtv.cc/history2"
+        },
+		{
+          "nome": "History 2 HD3",
+          "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
+          "embed": "https://rdcanais.org/history2"
+        },
+		{
+          "nome": "History 2 HD4",
+          "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
+          "embed": "https://v2.rdembed.sbs/history2"
+        },
+		{
+          "nome": "History 2 HD5",
+          "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=history2"
+        },
+		{
+          "nome": "History 2 HD6",
+          "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=history2"
         }
       ]
     },
