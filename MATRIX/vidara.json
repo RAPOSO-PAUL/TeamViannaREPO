@@ -1,8 +1,9 @@
 {
-  "_como_usar": "Chave: filme:<tmdb> ou serie:<tmdb da série>:<temporada>:<episódio>. Valor: {\"vidara\": \"código\", \"lulu\": \"código\", \"streamtape\": \"código\", \"nome\": \"DUBLADO\"} — pode ter só um, dois ou os três; é UMA opção só: o app tenta na ordem de _ordem_dos_players (vidara, lulu, streamtape) e passa sozinho para o seguinte se um não der. Também vale o link inteiro no lugar do código. Chaves com _ na frente são ignoradas. _ordem: primeiro = esta opção como PLAYER #1. _dominios: o domínio de cada site (mudou o domínio? troque só aqui; com mais de um, o app tenta o seguinte se o primeiro não abrir).",
+  "_como_usar": "Chave: filme:<tmdb> ou serie:<tmdb da série>:<temporada>:<episódio>. Valor: {\"vidara\": \"código\", \"uqload\": \"código\", \"lulu\": \"código\", \"streamtape\": \"código\", \"nome\": \"DUBLADO\"} — pode ter um, dois, três ou os quatro; é UMA opção só: o app tenta na ordem de _ordem_dos_players e passa sozinho para o seguinte se um não der. Campo vazio é ignorado. Também vale o link inteiro no lugar do código. Chaves com _ na frente são ignoradas. _ordem: primeiro = esta opção como PLAYER #1. _dominios: o domínio de cada site (mudou o domínio? troque só aqui; com mais de um, o app tenta o seguinte se o primeiro não abrir).",
   "_ordem": "ultimo",
   "_ordem_dos_players": [
     "vidara",
+    "uqload",
     "lulu",
     "streamtape"
   ],
@@ -10,6 +11,9 @@
     "vidara": [
       "vidara.so",
       "vidara.to"
+    ],
+    "uqload": [
+      "uqload.vc"
     ],
     "lulu": [
       "luluvido.com",
@@ -19,7 +23,6 @@
       "streamtape.com"
     ]
   },
-
   "filme:8681": { "vidara": "1vi0zHduXDeA0", "lulu": "", "streamtape": "", "nome": "DUBLADO" },
   "filme:445466": { "vidara": "OJ9RQZtl1oZaU", "lulu": "", "streamtape": "", "nome": "DUBLADO" },
   "filme:1480613": { "vidara": "fQbbOggBr2LFI", "lulu": "", "streamtape": "", "nome": "DUBLADO" },
@@ -36,5 +39,6 @@
   "filme:1571955": { "vidara": "tgErBMkNR2Ho8", "lulu": "", "streamtape": "", "nome": "DUBLADO" },
   "filme:1507696": { "vidara": "pyS7GxgsMXW24", "lulu": "", "streamtape": "", "nome": "DUBLADO" },
   "filme:1204680": { "vidara": "badbYVAwQ55GZ", "lulu": "", "streamtape": "", "nome": "DUBLADO" },
-  "filme:1487317": { "vidara": "", "lulu": "t3ijjq0625oy", "streamtape": "", "nome": "DUBLADO" }
+  "filme:1487317": { "vidara": "", "lulu": "t3ijjq0625oy", "streamtape": "", "nome": "DUBLADO" },
+  "filme:1402404": { "vidara": "", "uqload": "1zxuixmwuq6o", "lulu": "", "streamtape": "", "nome": "DUBLADO" }
 }
