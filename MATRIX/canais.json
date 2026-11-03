@@ -12,8 +12,7 @@
 	"rdembed.sbs",
 	"embedcanaisdetv",
 	"redecanais.",
-	"redecanaistv.",
-	"tvonlinehd."
+	"redecanaistv."
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -25,8 +24,7 @@
   "rdcanais.org",
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
-  "rdembed.sbs",
-  "tvonlinehd."
+  "rdembed.sbs"
 ],
   "categorias": [
     {
@@ -63,11 +61,6 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sbt"
         },
 		{
-          "nome": "SBT SP HD7",
-          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://www.tvonlinehd.api.br/player?id=sbtsp#/canal/~BxQbHRw"
-        },
-		{
           "nome": "GLOBO SP HD1",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globosp"
@@ -96,11 +89,6 @@
           "nome": "GLOBO SP HD6",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=bobosp"
-        },
-		{
-          "nome": "GLOBO SP HD7",
-          "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://www.tvonlinehd.api.br/player?id=globosp#/canal/~ExoADAMaHg"
         },
 		{
           "nome": "GLOBO RJ HD1",
@@ -133,11 +121,6 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=boborj"
         },
 		{
-          "nome": "GLOBO RJ HD7",
-          "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://www.tvonlinehd.api.br/player?id=globorj#/canal/~ExoADAMbBA"
-        },
-		{
           "nome": "GLOBO DF HD1",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globodf"
@@ -156,11 +139,6 @@
           "nome": "GLOBO DF HD4",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
           "embed": "https://v2.rdembed.sbs/globodf"
-        },
-		{
-          "nome": "GLOBO DF HD5",
-          "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
-          "embed": "https://www.tvonlinehd.api.br/player?id=globdfj#/canal/~ExoADAMNCA"
         },
 		{
           "nome": "GLOBO ES HD1",
