@@ -1,4 +1,4 @@
-#gerado	1793689082164
+#gerado	1793722874013
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -395,7 +395,6 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
-34835	105978	mp4	009-1	
 5006	105949	mp4	Bozo Show	
 30992	105933	mp4	Love Hina	
 68737	104951	mp4	Regal Academy	
@@ -1131,7 +1130,6 @@
 2660	18388	mp4	KND: A Turma do Bairro	
 74606	18385	mp4	Irmão do Jorel	
 606	18383	mp4	Du, Dudu e Edu	
-274671	18345	mp4	The Beginning After the End	
 94404	18344	mp4	Dorohedoro	
 301944	18341	mp4	MARRIAGETOXIN	
 13800	18339	mp4	Thundarr, O bárbaro	
@@ -1159,7 +1157,6 @@
 123548	10926	mp4	Castlevania: Noturno	
 246	10919	mp4	Avatar: A Lenda de Aang	
 92592	10918	mp4	BNA	
-33880	10916	mp4	A Lenda de Korra	
 21175	10913	mp4	Shinzo	
 60572	10910	mp4	Pokémon	
 37863	10892	mp4	Fullmetal Alchemist	
