@@ -1,0 +1,7 @@
+{
+  "_como_usar": "Chave: filme:<tmdb> ou serie:<tmdb da série>:<temporada>:<episódio>. Valor: {\"vidara\": \"código\", \"streamtape\": \"código\", \"nome\": \"DUBLADO\"} (pode ter só um dos dois; o app tenta o vidara e, se não der, o streamtape, na MESMA opção). Também vale só o código do vidara como texto, ou uma lista. Chaves com _ na frente são ignoradas. \"_ordem\": \"primeiro\" põe esta opção como PLAYER #1. \"_ordem_dos_players\": \"streamtape\" tenta o streamtape antes do vidara.",
+  "_ordem": "ultimo",
+  "_ordem_dos_players": "vidara",
+
+  "filme:8681": { "vidara": "1vi0zHduXDeA0", "streamtape": "", "nome": "DUBLADO" }
+}
