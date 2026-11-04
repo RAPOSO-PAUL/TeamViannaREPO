@@ -1,4 +1,4 @@
-#gerado	1793742718199
+#gerado	1793759148050
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
 1165841	105647	m3u8	Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul	
 382260	105610	m3u8	Team Hot Wheels: A Mega Corrida	
@@ -654,7 +654,7 @@
 539745	64418	mp4	A Revolução dos Bichos	
 586945	54832	mp4	A Travessia	
 166428	54732	mp4	Como Treinar o Seu Dragão 3	
-1659389	54671	mp4	ONE PIECE HEROINES	
+1659389	54671	m3u8	ONE PIECE HEROINES	
 64246	54670	mp4	Colorful	
 10144	54597	mp4	A Pequena Sereia	
 16418	54593	m3u8	Barbie em a Pequena Polegar	
@@ -1350,7 +1350,7 @@
 11533	102309	mp4	Jasão e o Velo de Ouro	
 11158	102296	mp4	Querida, Estiquei o Bebê	
 9457	102262	mp4	Tentáculos	
-21755	102237	mp4	Vigaristas	
+21755	102237	m3u8	Vigaristas	
 584898	102201	mp4	Rumble Strip	
 655234	102198	mp4	The Islands	
 64428	102078	mp4	A Vingança da Deusa	
@@ -2100,7 +2100,7 @@
 9012	104173	mp4	Jackass, Cara-de-Pau: O Filme	
 447665	104171	mp4	Kickboxer: A Retaliação	
 9416	104163	mp4	Tudo Por Dinheiro	
-20187	104157	mp4	Escalado para Morrer	
+20187	104157	m3u8	Escalado para Morrer	
 9947	104153	mp4	Elektra	
 26877	104147	mp4	A Sombra de um Desejo	
 793387	104136	mp4	Noite Sagrada: Caçadores de Demônios	
@@ -4207,7 +4207,7 @@
 72710	1676	mp4	A Hospedeira	
 51620	1671	mp4	Corrida Mortal 2	
 1503187	1667	m3u8	Matadores de Aliens do Espaço Sideral	
-280	1651	mp4	O Exterminador do Futuro 2: O Julgamento Final	
+280	1651	m3u8	O Exterminador do Futuro 2: O Julgamento Final	
 9615	1646	m3u8	Velozes e Furiosos: Desafio em Tóquio	
 10477	1637	mp4	Alta Velocidade	
 500664	1635	m3u8	Upgrade: Atualização	
@@ -4624,7 +4624,6 @@
 254065	14433	mp4	A História de Gabby Douglas	
 612308	14331	m3u8	Receita Para o Amor	
 422842	13920	m3u8	O Mistério de Hailey Dean: Assassinato com Amor	
-685051	13877	m3u8	Ambulância do Terror	
 582344	12911	m3u8	Liberi Di Scegliere	
 705054	12549	mp4	Gêmea Assassina	
 783508	11997	m3u8	Mistério das Palavras Cruzadas: A Queda Fatal	
@@ -4986,7 +4985,7 @@
 13649	104180	mp4	High School Musical 2	
 15144	104174	mp4	Gatinhas e Gatões	
 9531	104164	mp4	Superman III	
-2185	104154	mp4	Grande Problema	
+2185	104154	m3u8	Grande Problema	
 10451	104146	mp4	Comer Beber Viver	
 188222	104145	mp4	Entourage: Fama e Amizade	
 10029	104133	mp4	Uma Loucura de Casamento	
@@ -4996,7 +4995,7 @@
 620725	104111	mp4	Jexi: Um Celular Sem Filtro	
 4203	104108	mp4	Mulheres à Beira de um Ataque de Nervos	
 16094	104106	mp4	Uma Festa de Arromba	
-47707	104102	mp4	Ovos de Ouro	
+47707	104102	m3u8	Ovos de Ouro	
 4593	104093	mp4	O Discreto Charme da Burguesia	
 11575	104092	mp4	A Corrida do Século	
 11597	104059	mp4	A Revolta dos Brinquedos	
@@ -6468,14 +6467,12 @@
 1306434	75737	mp4	Doctor-X - O Filme	
 445466	75732	m3u8	Idiotas	
 1622764	75726	mp4	Broad Trip	
-11591	75712	mp4	O Médico Erótico	
 1204680	75294	mp4	Coyote vs. ACME	
 1180536	75267	mp4	The Wedding Party	
 1676318	75255	mp4	De Volta Aos Anos 90	
 1163402	75253	mp4	Quem é seu Pai?	
 1074080	75200	mp4	Forjando Campeões 2	
 1418582	72152	mp4	Quinze Dias	
-11566	72022	mp4	Dave, Presidente por um Dia	
 554569	72017	mp4	Abandonado no Altar	
 62895	71970	m3u8	Ai que Vida!	
 1437939	71793	m3u8	Cocorico 2	
@@ -9813,6 +9810,7 @@
 1588671	175	m3u8	O Grande Roubo do Louvre: O Crime Minuto a Minuto	
 1610413	129	mp4	A Última Aventura: Nos Bastidores de Stranger Things 5	
 1465743	127	m3u8	Wizkid: De Lagos Para o Mundo	
+458293	106068	mp4	Michael Jackson: Searching for Neverland	
 1754154	106045	m3u8	Smalltown Funk Girls	
 1418275	106034	m3u8	The Ladder	
 1593151	106025	m3u8	Stepfather	
@@ -10136,7 +10134,7 @@
 12545	104162	mp4	Jesus Cristo Superstar	
 743814	104161	mp4	Servir ao povo	
 103328	104151	mp4	Holy Motors	
-691214	104141	mp4	Pacifiction	
+691214	104141	m3u8	Pacifiction	
 314385	104139	mp4	À Beira Mar	
 976293	104138	mp4	Pare com Suas Mentiras	
 400	104135	mp4	Coisas Para Fazer em Denver Quando Você Está Morto	
@@ -10528,7 +10526,7 @@
 471859	102233	mp4	As Discípulas de Charles Manson	
 701443	102231	mp4	Ao Fim da Trilha	
 24241	102223	mp4	E Estrelando Pancho Villa	
-327464	102222	mp4	Luz, Câmera, 50 Anos: Lampião e Maria Bonita - O Filme	
+327464	102222	m3u8	Luz, Câmera, 50 Anos: Lampião e Maria Bonita - O Filme	
 523244	102212	m3u8	Judas Collar	
 339976	102195	mp4	Uma Mulher Americana	
 688301	102194	mp4	A Mulher de um Espião	
@@ -12985,7 +12983,7 @@
 293646	15141	mp4	Os 33	
 515741	15117	mp4	Anjo Meu	
 464733	15104	mp4	Tráfico de Mulheres	
-372227	15058	m3u8	Onde Está Deus?	
+372227	15058	mp4	Onde Está Deus?	
 52772	15054	m3u8	A Chama Que Não Se Apaga	
 89455	15030	m3u8	360: A vida é um círculo perfeito	
 324786	15011	mp4	Até o Último Homem	
@@ -15760,7 +15758,6 @@
 62	15227	mp4	2001: Uma Odisséia no Espaço	
 17654	15078	mp4	Distrito 9	
 419704	15036	mp4	Ad Astra - Rumo às Estrelas	
-468091	15003	m3u8	Após a Letargia	
 63	15000	mp4	Os 12 Macacos	
 487242	14934	mp4	Esquadrão Suicida: Acerto de Contas	
 840	14860	mp4	Contatos Imediatos do Terceiro Grau	
@@ -16131,7 +16128,6 @@
 300671	15221	mp4	13 Horas: Os Soldados Secretos de Benghazi	
 429351	15220	m3u8	12 Heróis	
 14028	14795	mp4	Atrás das Linhas Inimigas 3: Operação Colômbia	
-464867	14661	m3u8	Operação Dunkirk	
 679796	14008	mp4	Linhas Inimigas	
 516486	13825	mp4	Greyhound - Na Mira do Inimigo	
 726876	13753	mp4	Atrás da Linha: Fuga para Dunkirk	
