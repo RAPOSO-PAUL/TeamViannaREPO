@@ -1,6 +1,18 @@
 {
 "movies":[
 {
+  "tmdb_id":1813355,
+  "type":"movie",
+  "added_at":"2026-11-03",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1813355"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.bar/filme/1813355"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1813355"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:7de3d30b6859287fa79bd0e203c648e80d2f5279&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.IT+Welcome+to+Derry+S00E01+1080p+WEB-DL+DUAL-5.1%5D"}
+  ],
+  "youtube":"iOjzJsHS0M0"
+},
+{
   "tmdb_id":1402404,
   "type":"movie",
   "added_at":"2026-11-02",
