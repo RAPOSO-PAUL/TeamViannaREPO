@@ -1,4 +1,4 @@
-#gerado	1793840334807
+#gerado	1793871470829
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -81,7 +81,6 @@
 1618	77715	mp4	Liga da Justiça	
 43249	77112	mp4	Aika	
 68006	76520	mp4	Busca Implacável	
-98545	75876	mp4	Minecraft: Story Mode	
 55013	75461	mp4	Dororon Enma-kun Meeramera	
 65959	75459	mp4	Crying Freeman	
 65733	72628	mp4	Doraemon: O Gato do Futuro	
@@ -395,7 +394,6 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
-314271	106051	mp4	Bass ex Machina	
 5006	105949	mp4	Bozo Show	
 30992	105933	mp4	Love Hina	
 68737	104951	mp4	Regal Academy	
@@ -1288,7 +1286,6 @@
 71008	10472	mp4	The Royal Tutor	
 80537	10468	mp4	Hanebado!	
 74081	10458	mp4	Blend S	
-80464	10455	mp4	Holmes of Kyoto	
 62255	10454	mp4	Seraph of the End	
 62227	10452	mp4	Triage X	
 66992	10451	mp4	Taboo Tattoo	
@@ -1316,7 +1313,6 @@
 73021	10326	mp4	(Des)encanto	
 76063	10325	mp4	Citrus	
 73946	10322	mp4	INUYASHIKI O ÚLTIMO HERÓI	
-74089	10320	mp4	GARO -VANISHING LINE-	
 71024	10315	mp4	Castlevania	
 65383	10309	mp4	Love Live! Sunshine!!	
 68574	10307	mp4	The Disappearance of Nagato Yuki-Chan	
@@ -2359,7 +2355,6 @@
 279601	482	mp4	Homem X Bebê	
 285770	462	mp4	Desprazer em Te Conhecer	
 225647	290	mp4	Boots	
-292741	106057	mp4	Noturno	
 123377	101665	mp4	Dom	
 100543	101653	mp4	Penance	
 99509	101649	mp4	Freud	
@@ -3858,7 +3853,6 @@
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
 210224	106175	mp4	Verônica com K	
-323903	106056	mp4	The Terror: Devil in Silver	
 288458	106049	mp4	Ben-Hur: A Série	
 340553	105992	mp4	O Curioso Coração do Oficial Lee	
 33301	105975	mp4	Franklin e Bash	
@@ -4937,7 +4931,6 @@
 62852	10374	mp4	Billions	
 67726	10371	mp4	Beyond	
 62704	10369	mp4	Ballers	
-64550	10353	mp4	American Gothic	
 60791	10351	mp4	American Crime	
 43899	10342	mp4	A Bíblia	
 5917	10339	mp4	Barrados no Baile: Nova Geração	
@@ -5019,7 +5012,6 @@
 73314	9938	mp4	Borderliner	
 87172	9937	mp4	Família ao Resgate	
 81946	9936	mp4	Inimigo Interno	
-81942	9935	mp4	Proven Innocent	
 81224	9929	mp4	Os Miseráveis	
 78597	9923	mp4	Fugitiva	
 82007	9914	mp4	Immortals	
