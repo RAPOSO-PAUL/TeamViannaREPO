@@ -4,6 +4,7 @@
   "tmdb_id":1760311,
   "type":"movie",
   "added_at":"2026-11-05",
+  "kids":["Chefinhos", "Prezinhos", "Aborrecentes"],
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1760311"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.bar/filme/1760311"},
