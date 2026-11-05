@@ -1,6 +1,20 @@
 {
 "movies":[
 {
+  "tmdb_id":1423191,
+  "type":"movie",
+  "added_at":"2026-11-05",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1423191"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.bar/filme/1423191"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1423191"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:c63e38cc6e205c95e008b63023cc565e61673293&dn=Resident%20Evil%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2017091988&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:noxc5zbqsxsa4gic5y4sgitrdgutteew&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Resident.Evil.2026.1080p.WEB-DL.x264.DUAL.5.1"},
+	{"name":"1080p DUAL 3","magnet":"magnet:?xt=urn:btih:nrqnzsxumjmucm5usxr7ocp3u63fdb2c&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.SEM-COMPACTA%C3%87%C3%83O.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Resident.Evil.2026.1080p.FULL.HD.WEB-DL.DUAL.5.1"}
+  ],
+  "youtube":"M-WFfF2ETgk"
+},
+{
   "tmdb_id":1760311,
   "type":"movie",
   "added_at":"2026-11-05",
