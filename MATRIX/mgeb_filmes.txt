@@ -1,4 +1,4 @@
-#gerado	1793821938331
+#gerado	1793840240628
 791523	106166	m3u8	O Bosque Selvagem	
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
 1165841	105647	m3u8	Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul	
@@ -3278,7 +3278,6 @@
 1195631	35763	mp4	William Tell: O Guerreiro	
 1081003	29976	m3u8	Supergirl	
 1279493	29975	mp4	O Último Grande Assalto	
-1688177	29800	mp4	An Enemy Within	
 29958	29776	m3u8	Cobras	
 1584215	29628	mp4	Projeto Internato	
 1288341	29626	m3u8	Sete Atiradores	
@@ -3311,7 +3310,6 @@
 12764	15064	mp4	Braddock 2: O Início da Missão	
 27352	15063	mp4	Braddock 3: O Resgate	
 11702	15055	mp4	Assassinos Substitutos	
-411268	15045	m3u8	Operação Secreta	
 8195	15044	m3u8	Ronin	
 15357	15043	mp4	B13-U 13º Distrito - Ultimato	
 315669	15024	m3u8	Um Agente Fora de Série	
@@ -3321,9 +3319,7 @@
 520901	14998	mp4	Doom: Annihilation	
 11230	14989	mp4	O Mestre Invencível	
 2140	14988	m3u8	Beijo do Dragão	
-39468	14960	m3u8	Godzilla vs Megaguirus	
 457249	14938	mp4	Vixen: O Filme	
-99582	14927	m3u8	Alto Impacto	
 619	14926	mp4	O Guarda-Costas	
 9904	14885	mp4	Selvagem	
 557972	14868	m3u8	Zona Desmilitarizada	
@@ -3367,7 +3363,6 @@
 27985	14552	m3u8	Amigos para Sempre	
 531503	14504	m3u8	À Queima-Roupa	
 388399	14492	mp4	O Dia do Atentado	
-25594	14475	m3u8	Acerto de Contas	
 9619	14461	mp4	O Inferno de Dante	
 33196	14460	mp4	Tsunami: A Fúria do Oceano	
 9342	14435	mp4	A Máscara do Zorro	
@@ -3432,7 +3427,6 @@
 22538	13728	mp4	Scott Pilgrim Contra o Mundo	
 703745	13713	mp4	Do Fundo do Mar 3	
 146227	13709	m3u8	Resgate em Alta Velocidade	
-606906	13707	m3u8	Steel Rain 2: Summit	
 721452	13704	m3u8	Uma Noite em Banguecoque	
 15268	13701	mp4	Street Fighter: A Lenda de Chun-Li	
 718444	13699	m3u8	Rogue	
@@ -16468,7 +16462,6 @@
 328387	14212	mp4	Nerve - Um Jogo Sem Regras	
 29427	14182	mp4	A Epidemia	
 1903	13995	m3u8	Vanilla Sky	
-669153	13971	m3u8	Frieda - Coming Home	
 436401	13868	mp4	Um Crime no Concurso de Sobremesas	
 22620	13712	mp4	Scooby-Doo! O Mistério Começa	
 47533	13711	m3u8	Scooby-Doo! e a Maldição do Monstro do Lago	
@@ -17660,7 +17653,7 @@
 514593	104312	mp4	Você Deveria Ter Partido	
 19287	104290	mp4	O Duende 4 - No Espaço	
 362826	104275	mp4	Wildling: Criaturas Noturnas	
-340382	104253	mp4	Ataque dos Titãs 2: O Fim do Mundo	
+340382	104253	m3u8	Ataque dos Titãs 2: O Fim do Mundo	
 38084	104252	mp4	A Casa do Espanto 3	
 11879	104187	mp4	Quando Chega a Escuridão	
 8997	104177	mp4	O Homem Sem Sombra 2	
@@ -18517,7 +18510,6 @@
 698320	37310	mp4	O Chapeleiro Louco	
 587496	37188	mp4	Vigiados	
 1318435	35764	mp4	Drag Queens Contra Zumbis	
-1694978	30057	mp4	Chum	
 763	29968	mp4	Fome Animal	
 999136	29723	mp4	Não Entre	
 1654715	29267	mp4	The Summoning of Chloe Kane	
@@ -18579,7 +18571,7 @@
 594314	14307	m3u8	A Lenda Sinistra	
 473902	14298	m3u8	Amityville - A Origem da Maldição	
 662844	14259	mp4	Anjos das Trevas	
-665087	14229	m3u8	Till Death Do We Rot	
+644876	14242	m3u8	The Mennonite of the Living Dead	
 9645	14217	mp4	Navio Fantasma	
 413857	14142	mp4	As Garotas Da Tragédia	
 42250	14113	m3u8	Python 2	
