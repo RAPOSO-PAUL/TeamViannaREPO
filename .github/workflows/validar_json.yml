@@ -1,0 +1,39 @@
+# CONFERE OS JSON DO CATALOGO A CADA ENVIO — ver scripts/validar_json.py
+# (05/11) Em 04/11 faltou o "}" no fim do filmes.json e o robo dos
+# metadados parou sem ninguem perceber. Agora, a cada envio que mexe num
+# .json da pasta MATRIX, este robo abre todos eles. Arquivo quebrado:
+#   • aviso no TELEGRAM com o arquivo, a linha e as linhas em volta;
+#   • o envio fica com o X vermelho no GitHub (Actions).
+# Segredos (Settings > Secrets and variables > Actions), opcionais:
+#   TELEGRAM_TOKEN  — o token do robo do Telegram
+#   TELEGRAM_CHAT   — o numero do chat/grupo que recebe o aviso
+name: Conferir os JSON do catálogo
+
+on:
+  push:
+    paths:
+      - "MATRIX/**.json"
+      - "scripts/validar_json.py"
+      - ".github/workflows/validar_json.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: validar-json-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Conferir os .json da pasta MATRIX
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        run: python scripts/validar_json.py MATRIX
