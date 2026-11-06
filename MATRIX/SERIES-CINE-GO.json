@@ -29287,7 +29287,7 @@
     {
       "tmdb_id": 250203,
       "type": "tv",
-      "added_at": "2026-10-29",
+      "added_at": "2026-11-05",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/250203/1/1", "https://redeflixapi.click/serie/250203/1/1", "https://myembed.biz/serie/250203/1/1" ] },
         { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/250203/1/2", "https://redeflixapi.click/serie/250203/1/2", "https://myembed.biz/serie/250203/1/2" ] },
@@ -29295,7 +29295,8 @@
         { "season": 1, "episode": 4, "embeds": [ "https://mgeb.lat/embed/250203/1/4", "https://redeflixapi.click/serie/250203/1/4", "https://myembed.biz/serie/250203/1/4" ] },
         { "season": 1, "episode": 5, "embeds": [ "https://mgeb.lat/embed/250203/1/5", "https://redeflixapi.click/serie/250203/1/5", "https://myembed.biz/serie/250203/1/5" ] },
         { "season": 1, "episode": 6, "embeds": [ "https://mgeb.lat/embed/250203/1/6", "https://redeflixapi.click/serie/250203/1/6", "https://myembed.biz/serie/250203/1/6" ] },
-        { "season": 1, "episode": 7, "embeds": [ "https://mgeb.lat/embed/250203/1/7", "https://redeflixapi.click/serie/250203/1/7", "https://myembed.biz/serie/250203/1/7" ] }
+        { "season": 1, "episode": 7, "embeds": [ "https://mgeb.lat/embed/250203/1/7", "https://redeflixapi.click/serie/250203/1/7", "https://myembed.biz/serie/250203/1/7" ] },
+		{ "season": 1, "episode": 8, "embeds": [ "https://mgeb.lat/embed/250203/1/8", "https://redeflixapi.click/serie/250203/1/8", "https://myembed.biz/serie/250203/1/8" ] }
       ]
     },
     {
