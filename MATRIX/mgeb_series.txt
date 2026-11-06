@@ -1,4 +1,4 @@
-#gerado	1793923686812
+#gerado	1793981752246
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -82,7 +82,6 @@
 43249	77112	mp4	Aika	
 68006	76520	mp4	Busca Implacável	
 55013	75461	mp4	Dororon Enma-kun Meeramera	
-65959	75459	mp4	Crying Freeman	
 65733	72628	mp4	Doraemon: O Gato do Futuro	
 281281	65322	mp4	Unidade de Elite GIGN	
 81630	64525	mp4	Barom One	
@@ -687,7 +686,6 @@
 60868	52281	mp4	Walkure Romanze	
 62450	52279	mp4	Plastic Memories	
 74088	52277	mp4	Evil or Live	
-80628	52275	mp4	Yume Oukoku to Nemureru 100 Nin no Ouji-sama	
 65616	52272	mp4	Nobunaga the Fool	
 115911	51003	mp4	Orient	
 205308	50196	mp4	Tomo-chan Is a Girl!	
@@ -1317,7 +1315,6 @@
 65383	10309	mp4	Love Live! Sunshine!!	
 68574	10307	mp4	The Disappearance of Nagato Yuki-Chan	
 62273	10306	mp4	Food Wars! Shokugeki no Soma	
-74191	10302	mp4	Wake Up, Girls!	
 74183	10125	mp4	Ousama Game The Animation	
 80560	10109	mp4	Sirius the Jaeger	
 84154	10105	mp4	Os 3 Lá Embaixo: Contos da Arcadia	
@@ -3189,7 +3186,6 @@
 304258	60516	mp4	Maguila - Prefiro Ficar Louco a Morrer de Fome	
 1749	55013	mp4	O Segredo das Coisas	
 230466	55008	mp4	Maravilhas Sombrias	
-70508	52219	mp4	Five Came Back	
 52918	51485	mp4	Irmãos de Guerra	
 317068	49561	mp4	Andar na Pedra: A História do Raimundos	
 316790	49556	mp4	A Promotora	
@@ -3852,6 +3848,7 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+279246	106188	mp4	A Imperatriz Se Casou Novamente	
 210224	106175	mp4	Verônica com K	
 288458	106049	mp4	Ben-Hur: A Série	
 340553	105992	mp4	O Curioso Coração do Oficial Lee	
@@ -4978,7 +4975,6 @@
 64852	10091	mp4	Trapped	
 64353	10090	mp4	Versailles	
 62142	10088	mp4	The Returned	
-64093	10085	mp4	Não Há Segunda Chance	
 65579	10082	mp4	A Jogada	
 62814	10081	mp4	Segredos em Família	
 66238	10079	mp4	The Five (UK)	
@@ -6305,7 +6301,6 @@
 118443	10777	mp4	Assim Falava Kishibe Rohan	
 60585	10405	mp4	Bosch	
 4087	10360	mp4	Arquivo X	
-73000	10250	mp4	The Miniaturist	
 72744	10247	mp4	The Disappearance	
 76819	10236	mp4	Requiem	
 70485	10200	mp4	Sr. Mercedes	
@@ -7570,6 +7565,44 @@
 289996	203	mp4	Três Graças	
 301174	178	mp4	Coração Acelerado	
 46151	46	mp4	Êta Mundo Melhor!	
+9275	99899	mp4	Πρωινός Καφές	
+158532	99626	mp4	Clique	
+30072	99606	mp4	The Fix	
+318419	98672	mp4	Paradise: O Podcast Oficial	
+6836	97413	mp4	康熙來了	
+6563	97340	mp4	めざましテレビ	
+225817	96500	mp4	Alma de Cozinheira	
+218932	96430	mp4	BBB Tá On	
+71645	95569	mp4	Lady Night	
+118774	95449	mp4	Posso Explicar	
+127821	95409	mp4	Jojo Nove e Meia	
+222764	95345	mp4	Pânico Jovem Pan	
+111925	95339	mp4	Minha Receita	
+135196	95330	mp4	Dani-se	
+126510	95304	mp4	Bem Juntinhos	
+300334	95036	mp4	Hebe	
+125006	76509	mp4	Big Brother Brasil: A Eliminação	
+333703	76437	mp4	Palco Estrela da Casa	
+214738	36227	mp4	Caldeirão com Mion	
+208716	36226	mp4	Domingão com Huck	
+129029	28512	mp4	Adotada #TBT	
+34406	27245	mp4	Take Dois com Phineas e Ferb	
+124366	27237	mp4	Casa Kalimann	
+94232	27168	mp4	Que História é Essa, Porchat?	
+201177	24584	mp4	Avisa Lá Que Eu Vou	
+101157	20759	mp4	Show do Elmo	
+231796	20545	mp4	Sobre Nós Dois	
+236868	20119	mp4	Assim Como a Gente	
+236870	20096	mp4	Portugal Show	
+236540	19896	mp4	Panela Quente	
+241162	19784	mp4	Te Vejo No After	
+156741	19706	mp4	Bate-Papo BBB	
+243779	19702	mp4	Na Piscina, Com Fê Paes Leme	
+94663	19690	mp4	Conversa com Bial	
+231802	19637	mp4	Dois em Cena: Encontro de Gerações	
+251680	19535	mp4	Sabadou com Virginia	
+255367	19465	mp4	Na Cama com Pitanda	
+313305	18466	mp4	Ministério da Verdade	
 17035	98519	mp4	Generation Kill	
 3852	96540	mp4	연개소문	
 104954	95651	mp4	The Comey Rule	
