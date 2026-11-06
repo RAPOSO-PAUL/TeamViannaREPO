@@ -8,14 +8,7 @@
   "background": "https://i.ibb.co/NdvhVfGn/fundo.jpg",
   "background_infantil": "https://i.ibb.co/5XF5yfX2/fundo-infantil.jpg",
   "sites_iguais": {
-  "redeflixapi.bar": "redeflixapi.store"
-},
-  "legendas_online": {
-  "wyzie": "wyzie-ofyo9iiu0ie11f15ktmg7r9xvesh62yz",
-  "subdl": "subdl_RdS-QnBDPEMrBYsozltQi9zf5c0G4UyPsBk5SrhGxDI",
-  "opensubtitles": "hxztbrpoKsMJFQcQDr8JNRevqzm9qYqx",
-  "ordem": ["wyzie", "subdl", "opensubtitles"],
-  "automatico": true
+  "redeflixapi.click": "redeflixapi.bar"
 },
   "streamings": [
   { "nome": "Netflix", "imagem": "netflix" },
