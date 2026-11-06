@@ -1,4 +1,4 @@
-#gerado	1793948280597
+#gerado	1793981340474
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
@@ -730,7 +730,7 @@
 65759	41296	mp4	Happy Feet 2: O Pinguim	
 1109527	41273	mp4	Heróis da Máscara Dourada	
 50359	41234	mp4	Hop: Rebelde Sem Páscoa	
-324849	40991	mp4	Lego Batman: O Filme	
+324849	40991	m3u8	Lego Batman: O Filme	
 486072	40974	mp4	Leo Da Vinci: Missão Mona Lisa	
 80321	40876	mp4	Madagascar 3: Os Procurados	
 869626	40815	mp4	Marcel, a Concha de Sapatos	
@@ -2313,7 +2313,7 @@
 10348	102379	mp4	Thunderbolt: Ação Sobre Rodas	
 914434	102378	mp4	Operação Escorpião	
 1321239	102373	m3u8	Shark Warning	
-516700	102369	mp4	Gundala: A Ascensão de um Herói	
+516700	102369	m3u8	Gundala: A Ascensão de um Herói	
 32740	102356	mp4	O Vingador da Noite	
 15860	102354	mp4	Dragon Tiger	
 389425	102348	mp4	Código de Honra	
@@ -8245,7 +8245,6 @@
 860508	75631	m3u8	O Homem que Sussurra	
 1621552	75198	mp4	A Captura	
 1487864	71637	mp4	Nando Entre Dois Mundos: Um Filme Sintonia	
-1337438	68664	mp4	Não Identificada	
 19126	66372	mp4	A Última Aposta	
 1073	66371	mp4	O Suspeito da Rua Arlington	
 94204	66370	mp4	Encontro Maligno	
@@ -8740,7 +8739,7 @@
 828146	102414	mp4	Rompendo Barreiras: Nosso Planeta	
 869342	102391	mp4	O Dia da Posse	
 840652	102385	mp4	Cortina de Fumaça	
-1239121	102363	mp4	A Vida Secreta dos Orangotangos	
+1239121	102363	m3u8	A Vida Secreta dos Orangotangos	
 1076443	102355	m3u8	j-hope IN THE BOX	
 664280	102320	mp4	David Attenborough e Nosso Planeta	
 1272146	102270	mp4	O Guardião das Borboletas	
@@ -10478,11 +10477,11 @@
 411405	102399	mp4	Pequenos Delitos	
 1280440	102395	mp4	Boxer	
 1167351	102390	mp4	Longing	
-68730	102389	mp4	Silêncio	
+68730	102389	m3u8	Silêncio	
 473009	102384	mp4	Visitas Noturnas	
 21641	102380	mp4	Maldito Futebol Clube	
 5289	102376	mp4	Caos	
-453004	102367	mp4	Trajetória de um Campeão	
+453004	102367	m3u8	Trajetória de um Campeão	
 594478	102362	mp4	Sertânia	
 499724	102361	mp4	O Estranho Caso de Cornelius Bloom	
 506403	102350	m3u8	Submissão - Uma Luta Pela Qual Vale a Pena Morrer	
@@ -12201,12 +12200,12 @@
 1907	88459	mp4	A Praia	
 1106739	88429	m3u8	Jurado Nº2	
 524779	88386	mp4	O Tempero da Vida	
-983096	88317	mp4	O Poder do Perdão	
+983096	88317	m3u8	O Poder do Perdão	
 487364	88316	mp4	Sem Perdão	
 772762	88304	mp4	O Preço de Um Sonho	
 48773	88277	mp4	Jogo da Morte 2	
 453755	88273	m3u8	Ártico	
-12184	88266	mp4	A Outra	
+12184	88266	m3u8	A Outra	
 423	88224	m3u8	O Pianista	
 813858	88136	m3u8	Virando o Jogo	
 575157	88129	mp4	O Compositor	
@@ -12425,10 +12424,8 @@
 394117	75754	m3u8	Projeto Flórida	
 784524	75753	mp4	Magazine Dreams	
 1442033	75742	mp4	Sete Homens e uma Sentença	
-1135162	75740	mp4	Milonga	
 1257727	75736	mp4	Home	
 1074727	75729	mp4	Cidade Rabat	
-1639321	75724	mp4	Body Of Nurses	
 852854	75721	m3u8	A Pílula da Verdade	
 1232667	75638	mp4	Saudades te Amo	
 1272129	75636	mp4	O Rei da Internet	
@@ -17091,7 +17088,7 @@
 1074656	90542	mp4	Amor² Outra Vez	
 953233	90521	mp4	A Megera Domada	
 817889	90494	mp4	O Apocalipse do Amor	
-527641	90437	mp4	A Cinco Passos de Você	
+527641	90437	m3u8	A Cinco Passos de Você	
 1141202	90337	mp4	Táticas do Amor 2	
 1093231	90322	mp4	A Mãe da Noiva	
 1025805	90308	mp4	Ardente Paciência	
@@ -18352,7 +18349,6 @@
 1970	76081	mp4	O Grito	
 428399	76004	mp4	A Pele Fria	
 1322696	75901	mp4	2 Girls 1 Gut	
-36224	75900	mp4	Subconscious Cruelty	
 39883	75899	mp4	Schramm	
 106280	75893	mp4	Dark Tower	
 420245	75780	mp4	Não Bata Duas Vezes	
@@ -19073,7 +19069,7 @@
 631947	6393	m3u8	A Vingança da Chorona	
 1015261	6389	m3u8	Não Fale com Estranhos	
 1272890	6380	m3u8	Lowlifes	
-1261352	6371	mp4	Dead Whisper	
+1261352	6371	m3u8	Dead Whisper	
 1316673	6367	mp4	Shark Girl	
 799878	6362	m3u8	Lenda Maldita	
 930600	6356	m3u8	A Libertação	
@@ -19135,7 +19131,7 @@
 504631	5768	m3u8	A Maldição da Sereia	
 1207898	5764	m3u8	Jack: A Caixa Maldita 3 - A Ascensão	
 1035798	5762	m3u8	Rádio Pesadelo	
-1063877	5750	mp4	Não Se Mexa	
+1063877	5750	m3u8	Não Se Mexa	
 1054561	5740	m3u8	Abraço de Mãe	
 1262983	5737	m3u8	MadS	
 827931	5728	mp4	Corte no Tempo	
@@ -19888,8 +19884,8 @@
 1006812	102436	mp4	Encontro Fatal	
 130267	102418	mp4	O Homem Mais Procurado do Mundo	
 2155	102417	mp4	Jogo Duro	
-458842	102368	mp4	Madrinha	
-1644	102366	mp4	O Silêncio do Lago	
+458842	102368	m3u8	Madrinha	
+1644	102366	m3u8	O Silêncio do Lago	
 445113	102353	mp4	Duplicidade	
 8740	102340	mp4	O Silêncio do Lago	
 352997	102339	mp4	Alucinados	
@@ -20692,7 +20688,7 @@
 1260337	6521	m3u8	Driftwood	
 1159477	6504	m3u8	A Menina do Mar	
 628829	6500	m3u8	Among Them	
-1281532	6485	mp4	Hard Home	
+1281532	6485	m3u8	Hard Home	
 879502	6484	m3u8	Killer of Men	
 726139	6478	mp4	Projeto Silêncio	
 1209230	6477	m3u8	The Break of Dawn	
