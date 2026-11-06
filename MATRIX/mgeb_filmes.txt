@@ -1,4 +1,4 @@
-#gerado	1793902207187
+#gerado	1793922735688
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
@@ -587,7 +587,7 @@
 53611	80786	mp4	Sonhos Roubados	
 618851	80093	mp4	Pretty Guardian Sailor Moon Eternal: O Filme - Parte 1	
 567788	78942	mp4	Oddbods: Natal Atrapalhado	
-343977	78921	m3u8	Tom e Jerry: Aventura com Jonny Quest	
+343977	78921	mp4	Tom e Jerry: Aventura com Jonny Quest	
 21078	78920	m3u8	Tom e Jerry: Rumo à Marte	
 1142149	78803	mp4	A Garota que Chorava Pérolas	
 567785	77745	m3u8	Oddbods: Festinha Monstruosa	
@@ -1340,7 +1340,7 @@
 985101	102393	mp4	A Jangada	
 594530	102335	mp4	Aventuras de Betty	
 141058	102317	mp4	A Viking Saga: The Darkest Day	
-505418	102311	mp4	A Fuga do Prisioneiro 614	
+505418	102311	m3u8	A Fuga do Prisioneiro 614	
 11533	102309	mp4	Jasão e o Velo de Ouro	
 11158	102296	m3u8	Querida, Estiquei o Bebê	
 9457	102262	mp4	Tentáculos	
@@ -1538,6 +1538,7 @@
 7305	76822	mp4	Vivos	
 1936	76645	mp4	O Rio das Almas Perdidas	
 978	76612	mp4	Sete Anos no Tibet	
+63686	75775	mp4	Thor: O Filho de Asgard	
 1365401	75463	mp4	Meu Amigo Dino: Retorno ao Mundo Perdido	
 1315772	71638	m3u8	Minions & Monstros	
 20542	71383	mp4	Delgo	
@@ -1897,7 +1898,7 @@
 674	1821	m3u8	Harry Potter e o Cálice de Fogo	
 675	1819	mp4	Harry Potter e a Ordem da Fênix	
 12444	1817	mp4	Harry Potter e as Relíquias da Morte - Parte 1	
-12445	1816	mp4	Harry Potter e as Relíquias da Morte - Parte 2	
+12445	1816	m3u8	Harry Potter e as Relíquias da Morte - Parte 2	
 1858	1804	mp4	Transformers	
 2080	1798	mp4	X-Men Origens: Wolverine	
 1098006	1775	mp4	A Fonte da Juventude	
@@ -2319,12 +2320,12 @@
 20264	102346	mp4	O Guarda-Costas 2	
 13613	102344	mp4	Dia dos Mortos	
 64635	102342	mp4	O Vingador do Futuro	
-73500	102336	mp4	Você Não Pode Beijar a Noiva	
+73500	102336	m3u8	Você Não Pode Beijar a Noiva	
 608813	102332	mp4	Em Busca da Vitória	
 306264	102329	mp4	Power Rangers Super Megaforce: A Batalha Lendária	
 405965	102319	mp4	Um Homem Comum	
 252360	102318	mp4	Em Nome do Rei: A Última Missão	
-497814	102315	mp4	Invasão	
+497814	102315	m3u8	Invasão	
 9381	102306	mp4	Missão Babilônia	
 871799	102305	mp4	Perseguição	
 250388	102290	mp4	Rampage 2	
@@ -3743,7 +3744,7 @@
 955916	8084	mp4	Lift: Roubo nas Alturas	
 1015963	8080	m3u8	Calor Mortal	
 9972	8059	mp4	Condenação Brutal	
-157350	8050	mp4	Divergente	
+157350	8050	m3u8	Divergente	
 262500	8049	mp4	A Série Divergente: Insurgente	
 848187	8041	mp4	O Jogo do Disfarce	
 1224296	8040	m3u8	Unit 262	
@@ -6450,6 +6451,7 @@
 61728	75878	mp4	A Família Radical: O Filme	
 1257868	75783	m3u8	Couples Weekend	
 999582	75750	mp4	AMIGAS PARA SEMPRE	
+1306434	75737	mp4	Doctor-X - O Filme	
 445466	75732	m3u8	Idiotas	
 1204680	75294	m3u8	Coyote vs. ACME	
 1676318	75255	mp4	De Volta Aos Anos 90	
@@ -7466,7 +7468,7 @@
 1324276	6584	m3u8	Amigos Sem Compromisso	
 11551	6573	m3u8	Pequenos Guerreiros	
 1130405	6559	m3u8	La Famille Hennedricks	
-1043870	6554	mp4	Vencendo Sem Parar	
+1043870	6554	m3u8	Vencendo Sem Parar	
 782718	6526	m3u8	Meu Sangue Ferve por Você	
 1058736	6515	m3u8	Scream Therapy	
 1094138	6473	m3u8	Jackpot: Loteria Mortal!	
@@ -8015,7 +8017,7 @@
 327315	102321	mp4	A Máfia dos Vampiros	
 16161	102316	mp4	Baby Boy: O Dono da Rua	
 654905	102289	mp4	A Fera	
-42194	102286	mp4	Tekken	
+42194	102286	m3u8	Tekken	
 524	102249	m3u8	Cassino	
 437626	102248	mp4	Estocolmo	
 597094	102239	mp4	Primeiro Amor, o Último Yakuza	
@@ -9425,7 +9427,7 @@
 811769	90122	mp4	The First Wave	
 409446	90023	mp4	Profecias Reveladas	
 947763	88407	mp4	Endurance	
-542784	88264	mp4	Operação Resgate – Caverna na Tailândia	
+542784	88264	m3u8	Operação Resgate – Caverna na Tailândia	
 1774357	87899	mp4	Bruce, Brenda, David: O menino que nasceu três vezes	
 606153	83085	mp4	Limites	
 128011	82981	mp4	Sequestro	
@@ -12206,9 +12208,9 @@
 487364	88316	mp4	Sem Perdão	
 772762	88304	mp4	O Preço de Um Sonho	
 48773	88277	mp4	Jogo da Morte 2	
-453755	88273	mp4	Ártico	
+453755	88273	m3u8	Ártico	
 12184	88266	mp4	A Outra	
-423	88224	mp4	O Pianista	
+423	88224	m3u8	O Pianista	
 813858	88136	m3u8	Virando o Jogo	
 575157	88129	mp4	O Compositor	
 807023	88124	mp4	A Justiceira	
@@ -12427,6 +12429,7 @@
 784524	75753	mp4	Magazine Dreams	
 1442033	75742	mp4	Sete Homens e uma Sentença	
 253282	75741	mp4	Ela Perdeu o Controle	
+1135162	75740	mp4	Milonga	
 1257727	75736	mp4	Home	
 1074727	75729	mp4	Cidade Rabat	
 1639321	75724	mp4	Body Of Nurses	
@@ -12829,7 +12832,7 @@
 16858	40127	mp4	O Show Deve Continuar	
 1057577	40121	mp4	O Som do Caos	
 76826	40097	mp4	O Túmulo dos Vagalumes	
-406	40081	mp4	O Ódio	
+406	40081	m3u8	O Ódio	
 2007	40078	mp4	O Óleo de Lorenzo	
 1121316	40065	mp4	O Último Vagão	
 477489	40064	mp4	O Último Suspiro	
@@ -12994,7 +12997,6 @@
 106153	14591	m3u8	Bezerra de Menezes: O Diário de um Espírito	
 41520	14589	mp4	Chico Xavier	
 14620	14579	mp4	Efeito Borboleta 2	
-515743	14568	m3u8	Bola na Rede	
 222216	14560	mp4	Identidade Especial	
 13461	14558	m3u8	100 Escovadas Antes de Dormir	
 46665	14557	m3u8	Verdade ou Consequência	
@@ -13431,7 +13433,7 @@
 1098938	8699	m3u8	Tickets	
 1173558	8689	mp4	O Lado Bom de Ser Traída	
 899524	8686	m3u8	Golda - A Mulher de uma Nação	
-473330	8685	mp4	Pecados da Máfia	
+473330	8685	m3u8	Pecados da Máfia	
 955531	8682	mp4	Irmã Morte	
 862968	8678	mp4	Máfia da Dor	
 1135408	8677	m3u8	A Menina que Matou os Pais: A Confissão	
@@ -13666,7 +13668,7 @@
 1027253	6668	mp4	A Filha do Palhaço	
 1062323	6661	m3u8	O Campeão	
 1120543	6658	m3u8	Quando a Guerra Acabar	
-1197021	6655	mp4	Before the World Set on Fire	
+1197021	6655	m3u8	Before the World Set on Fire	
 1086726	6649	m3u8	एलएसडी 2: लव, सेक्स और धोखा 2	
 1115009	6645	m3u8	Uma Canção de Gratidão	
 753336	6633	m3u8	Origin	
@@ -15535,7 +15537,7 @@
 260372	102496	m3u8	Terror no Triângulo das Bermudas	
 10559	102423	mp4	Alta Frequência	
 26932	102345	mp4	A Ilha do Dr Moreau	
-630656	102333	mp4	A Morte e o Retorno do Superman	
+630656	102333	m3u8	A Morte e o Retorno do Superman	
 7012	102313	mp4	O Dia Seguinte	
 457041	102307	mp4	O Quarto Secreto	
 914206	102288	mp4	A Besta	
@@ -16491,7 +16493,7 @@
 926967	8271	m3u8	O Mistério da Floresta	
 1059345	7964	mp4	Cult Killer	
 1029654	7696	mp4	Cold Copy	
-12767	7624	mp4	Garganta do Diabo	
+12767	7624	m3u8	Garganta do Diabo	
 419430	7415	mp4	Corra!	
 832262	6958	mp4	The Dry 2: Força da Natureza	
 834562	6922	m3u8	O Cara da Piscina	
@@ -16798,7 +16800,7 @@
 11205	102381	mp4	Detonando em Barcelona	
 11068	102284	mp4	Vida de Solteiro	
 895959	102272	mp4	Flutuadora	
-724089	102241	mp4	O Inferno de Gabriel - Parte 2	
+724089	102241	m3u8	O Inferno de Gabriel - Parte 2	
 503403	102189	mp4	Meu Romance Perfeito	
 581316	102178	mp4	Arco-Íris do Amor	
 584288	102173	mp4	O Amor de Sylvie	
@@ -17803,7 +17805,7 @@
 1041517	102375	mp4	Deer Camp '86	
 648043	102337	m3u8	O Motorista	
 11348	102322	mp4	Terror em Mercy Falls	
-207475	102314	mp4	Ouija: Onde Tudo Começou	
+207475	102314	m3u8	Ouija: Onde Tudo Começou	
 480100	102301	mp4	Cine Pesadelo	
 527261	102300	m3u8	O Silêncio	
 13803	102299	mp4	Diversão Macabra	
@@ -18337,7 +18339,7 @@
 19222	78938	mp4	Sonâmbulos	
 76617	78926	m3u8	O Massacre da Serra Elétrica 3D: A Lenda Continua	
 599744	78924	m3u8	Fada do Dente	
-242512	78916	mp4	Ouija: O Jogo dos Espíritos	
+242512	78916	m3u8	Ouija: O Jogo dos Espíritos	
 42468	77711	mp4	Terror e Loucura	
 70740	77710	mp4	Goblin - O Sacrifício	
 10383	77664	mp4	Dominação	
@@ -18357,6 +18359,7 @@
 36224	75900	mp4	Subconscious Cruelty	
 39883	75899	mp4	Schramm	
 106280	75893	mp4	Dark Tower	
+420245	75780	mp4	Não Bata Duas Vezes	
 10706	75779	mp4	Mutação 2	
 833339	75752	mp4	Não Fale o Mal	
 1636674	75723	mp4	Beyond Sasquatch	
@@ -19136,7 +19139,7 @@
 504631	5768	m3u8	A Maldição da Sereia	
 1207898	5764	m3u8	Jack: A Caixa Maldita 3 - A Ascensão	
 1035798	5762	m3u8	Rádio Pesadelo	
-1063877	5750	m3u8	Não Se Mexa	
+1063877	5750	mp4	Não Se Mexa	
 1054561	5740	m3u8	Abraço de Mãe	
 1262983	5737	m3u8	MadS	
 827931	5728	mp4	Corte no Tempo	
@@ -20214,7 +20217,7 @@
 47261	82562	mp4	Abutres	
 574883	82544	mp4	Infidelidade	
 463022	82442	mp4	O Zelador	
-8271	81936	mp4	Paranóia	
+8271	81936	m3u8	Paranóia	
 34750	81828	m3u8	Desejo Fatal	
 452068	80694	mp4	Drone	
 432524	80571	mp4	A Colheita	
@@ -21006,4 +21009,4 @@
 1428862	63	mp4	Corta-fogo	
 1109406	48	mp4	Instinto Fatal	
 1389149	43	mp4	A Acusada	
-1199193	41	m3u8	Ensaio Fatal	
+1199193	41	mp4	Ensaio Fatal	

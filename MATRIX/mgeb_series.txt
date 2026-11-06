@@ -1,4 +1,4 @@
-#gerado	1793902681099
+#gerado	1793923686812
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -7570,44 +7570,6 @@
 289996	203	mp4	Três Graças	
 301174	178	mp4	Coração Acelerado	
 46151	46	mp4	Êta Mundo Melhor!	
-9275	99899	mp4	Πρωινός Καφές	
-158532	99626	mp4	Clique	
-30072	99606	mp4	The Fix	
-318419	98672	mp4	Paradise: O Podcast Oficial	
-6836	97413	mp4	康熙來了	
-6563	97340	mp4	めざましテレビ	
-225817	96500	mp4	Alma de Cozinheira	
-218932	96430	mp4	BBB Tá On	
-71645	95569	mp4	Lady Night	
-118774	95449	mp4	Posso Explicar	
-127821	95409	mp4	Jojo Nove e Meia	
-222764	95345	mp4	Pânico Jovem Pan	
-111925	95339	mp4	Minha Receita	
-135196	95330	mp4	Dani-se	
-126510	95304	mp4	Bem Juntinhos	
-300334	95036	mp4	Hebe	
-125006	76509	mp4	Big Brother Brasil: A Eliminação	
-333703	76437	mp4	Palco Estrela da Casa	
-214738	36227	mp4	Caldeirão com Mion	
-208716	36226	mp4	Domingão com Huck	
-129029	28512	mp4	Adotada #TBT	
-34406	27245	mp4	Take Dois com Phineas e Ferb	
-124366	27237	mp4	Casa Kalimann	
-94232	27168	mp4	Que História é Essa, Porchat?	
-201177	24584	mp4	Avisa Lá Que Eu Vou	
-101157	20759	mp4	Show do Elmo	
-231796	20545	mp4	Sobre Nós Dois	
-236868	20119	mp4	Assim Como a Gente	
-236870	20096	mp4	Portugal Show	
-236540	19896	mp4	Panela Quente	
-241162	19784	mp4	Te Vejo No After	
-156741	19706	mp4	Bate-Papo BBB	
-243779	19702	mp4	Na Piscina, Com Fê Paes Leme	
-94663	19690	mp4	Conversa com Bial	
-231802	19637	mp4	Dois em Cena: Encontro de Gerações	
-251680	19535	mp4	Sabadou com Virginia	
-255367	19465	mp4	Na Cama com Pitanda	
-313305	18466	mp4	Ministério da Verdade	
 17035	98519	mp4	Generation Kill	
 3852	96540	mp4	연개소문	
 104954	95651	mp4	The Comey Rule	
@@ -9009,6 +8971,225 @@
 0	68484	mp4	[Reel] Madrina Da Fofoca	
 0	68482	mp4	[Reel] Corrompendo o coração do meu chefe bilionário	
 0	68447	mp4	[Reel] Presa Entre Dois Gatos Da Escola Particular	
+0	105966	mp4	[Reel] Após Casar com o Don da Máfia, Encontrei uma Nova Vida	
+0	105965	mp4	[Reel] Seu Rei Licano Secreto	
+0	105964	mp4	[Reel] Por Trás da Secretária	
+0	105963	mp4	[Reel] O Dia em que Me Divorciei, Minha Mãe Bilionária Me Encontrou	
+0	105962	mp4	[Reel] A Companheira Amaldiçoada do Alfa	
+0	105959	mp4	[Reel] O Deus da Vida Rank SSS que Chamavam de Lixo	
+0	105958	mp4	[Reel] Meu Marido Fingiu a Própria Morte	
+0	105957	mp4	[Reel] Essa Menina de Oito Anos é uma Arquimaga?!	
+0	105956	mp4	[Reel] Vendido ao Rival que Eu Amava em Segredo	
+0	105955	mp4	[Reel] O REI ALFA E SUA NOIVA VIRGEM	
+0	105954	mp4	[Reel] O Arrependimento Tardio do Alfa	
+0	105948	mp4	[Reel] Apaixonada pelo Astro de Hollywood	
+0	105947	mp4	[Reel] Laço Proibido	
+0	105946	mp4	[Reel] Casei com o Vampiro que Nasci para Matar	
+0	105945	mp4	[Reel] O Retorno do Rejeitado: Deus Lobo Supremo	
+0	105944	mp4	[Reel] O Retorno da Rainha da Patinação	
+0	105943	mp4	[Reel] Beijos Falsos com o Amigo do Meu Ex	
+0	105942	mp4	[Reel] Casei com um Guarda-Costas Pobre, Só para Descobrir que Ele é um CEO Bilionário	
+0	105941	mp4	[Reel] Amor Na Cama do Meu Tio Postiço	
+0	105940	mp4	[Reel] Pare! O Noivo Fugiu	
+0	105939	mp4	[Reel] Meu Novo Pai Uiva para a Lua	
+0	105938	mp4	[Reel] O Acerto de Contas da Fazendeira	
+0	105937	mp4	[Reel] O Irmão Deles, o Sacrifício do Dragão	
+0	105936	mp4	[Reel] O Disfarce do Deus do Mar: Pescando o Amor	
+0	105935	mp4	[Reel] Querido, apenas diga sim!	
+0	105932	mp4	[Reel] ¡Olá! Vamos nos Casar?	
+0	105930	mp4	[Reel] Babá Ex-Presidiária e Pai Solteiro Bilionário	
+0	105926	mp4	[Reel] O Bilionário e a Babá da Sua Filha	
+0	102084	mp4	[Reel] Todas as razões erradas	
+0	101131	mp4	[Reel] Meu Final Feliz com o Bilionário	
+0	101130	mp4	[Reel] A Aposta de Término com Meu Ex-Bilionário	
+0	99463	mp4	[Reel] Quando o Amor Chega Tarde	
+0	99462	mp4	[Reel] A Chefe é Minha Filha	
+0	94833	mp4	[Reel] Nunca se divorcie de uma herdeira bilionária secreta	
+0	94832	mp4	[Reel] Após o Divórcio, Minha Ex-Esposa Virou uma Bilionária	
+0	94831	mp4	[Reel] Escoltando a Herdeira	
+0	94830	mp4	[Reel] Meu Ex Está nos Navy SEALs	
+0	87865	mp4	[Reel] Amor em confinamento	
+0	87864	mp4	[Reel] Campeão, ela não é a escolhida	
+0	87863	mp4	[Reel] Meu Marido se Arrepende de  ter se Divorciado de Mim	
+0	87862	mp4	[Reel] Querida, por favor, não case com ele	
+0	87861	mp4	[Reel] Três Irmãos Me Mimam	
+0	79042	mp4	[Reel] Sequestrada pelo Diabo	
+0	79041	mp4	[Reel] Meu marido secreto é meu chefe	
+0	79040	mp4	[Reel] Atenção! Bebê Fofo à Vista!	
+0	78871	mp4	[Reel] Atração Fatal: Romance da Máfia	
+0	78870	mp4	[Reel] Aventura Mortal com Meu Cunhado	
+0	78869	mp4	[Reel] A Esposa do CEO é Poderosa	
+0	76051	mp4	[Reel] O Casamento Secreto da Enfermeira	
+0	76036	mp4	[Reel] O Quarterback do Vizinho	
+0	75844	mp4	[Reel] O Romance Da Chefe Em Uma Cidade Pequena	
+0	75834	mp4	[Reel] Ele Me Partiu o Coração	
+0	75836	mp4	[Reel] Eu me casei como noiva substituta	
+0	75837	mp4	[Reel] Nós amaremos novamente	
+0	75838	mp4	[Reel] Sombras mais escuras de Elise	
+0	75840	mp4	[Reel] O Arrependimento é o Castigo	
+0	75833	mp4	[Reel] Apaixonando-me pelo meu advogado de divórcio	
+0	75825	mp4	[Reel] Meu Alfa Me Deu 72 Horas de Vida	
+0	75802	mp4	[Reel] Vingança na Cama do Irmão do Meu Ex	
+0	75809	mp4	[Reel] A Jornada da Garota Zumbi de Volta Para Casa	
+0	75652	mp4	[Reel] Marido Malvado, Por Favor, Acorde	
+0	75649	mp4	[Reel] Quebre meu coração novamente	
+0	75650	mp4	[Reel] Jogos perigosos	
+0	75651	mp4	[Reel] O Segredo da Herdeira Surda	
+0	75627	mp4	[Reel] Meu Estepe Real	
+0	75625	mp4	[Reel] Tarde Demais Para Voltar	
+0	75624	mp4	[Reel] Desejo pela Ama de Leite	
+0	75623	mp4	[Reel] O Pai Dele Me Fez Sua	
+0	75621	mp4	[Reel] Renascida para Dominar os Céus com Meu Dragão	
+0	75620	mp4	[Reel] Dei um "T-bone" no meu rival da F1	
+0	75609	mp4	[Reel] Meu Amante Mafioso Protetor	
+0	75606	mp4	[Reel] Congelada pelo Homem que Amava	
+0	75584	mp4	[Reel] O Garoto que o Quarterback Usou na Cama	
+0	75582	mp4	[Reel] Dividir um marido? Você não é digna	
+0	75494	mp4	[Reel] Casada por um cartão de residência, ficou por amor	
+0	75493	mp4	[Reel] Como domar um coroa	
+0	75492	mp4	[Reel] Encantado com o CEO	
+0	75491	mp4	[Reel] Domando o Leão: Bilionário nas Bicicletas	
+0	75490	mp4	[Reel] O pecado do pai	
+0	75456	mp4	[Reel] Amor Perdido no Gelo	
+0	75453	mp4	[Reel] Vendida ao Rival do Meu Noivo	
+0	75450	mp4	[Reel] A Noiva Errada do Chefe da Máfia	
+0	75448	mp4	[Reel] Herdeira Renascida: Meu Ex Se Arrepende de Tudo	
+0	75445	mp4	[Reel] Viciada no Tio do Meu Ex: Ternura Proibida	
+0	75441	mp4	[Reel] Casamento Relâmpago com Minha Esposa em Coma	
+0	75433	mp4	[Reel] Abandonada pelo Rei Tirano	
+0	75425	mp4	[Reel] A Rainha Alfa Sem-Lobo	
+0	75423	mp4	[Reel] Rank-SSS:  O Deus do Trovão  Nascido na Favela	
+0	75421	mp4	[Reel] Luna Bilionária: Domando Meus Companheiros Alfas	
+0	75417	mp4	[Reel] Fugindo do Futuro que Vi com Ele	
+0	74192	mp4	[Reel] Meu Rival do Hóquei Sob Mim	
+0	72397	mp4	[Reel] A Amante de Contrato do Bilionário	
+0	72396	mp4	[Reel] Nocaute, a Herdeira MVP Está de Volta	
+0	72394	mp4	[Reel] Apaixonado pelo Meu Rival de Gelo	
+0	72332	mp4	[Reel] Seduzindo a Rainha do Tirano: Vingança da Aprendiz	
+0	72329	mp4	[Reel] Destinado ao Alfa do Meu Irmão	
+0	72138	mp4	[Reel] Tio William, Diga 'Sim'!	
+0	72137	mp4	[Reel] De Caso com o Chefe	
+0	72135	mp4	[Reel] De Volta Ao Jogo	
+0	72133	mp4	[Reel] O Retorno da Herdeira	
+0	72132	mp4	[Reel] Apaixonando-me pelo General Pai do Meu Ex	
+0	72131	mp4	[Reel] Grávida pelo Pai do Meu Ex	
+0	72130	mp4	[Reel] Lista de Desejos da Virgem	
+0	72128	mp4	[Reel] Engravidada pelo pai professor do meu ex	
+0	72123	mp4	[Reel] Finja Até Me Amar	
+0	72122	mp4	[Reel] Amor na Tempestade	
+0	72121	mp4	[Reel] Amor Acelerado	
+0	72119	mp4	[Reel] Fogo selvagem entre nós	
+0	72118	mp4	[Reel] Nadando de Volta para Você	
+0	72107	mp4	[Reel] Nunca Caia Sozinho	
+0	72104	mp4	[Reel] Filhas Trocadas, Império Roubado	
+0	72091	mp4	[Reel] A Clínica Secreta do Advogado Bilionário	
+0	72090	mp4	[Reel] Tarde Demais para uma Deusa	
+0	72089	mp4	[Reel] O Irmão do Proctologista	
+0	72088	mp4	[Reel] Presídio Estrela	
+0	72087	mp4	[Reel] Minha Lareira Envia para o Reino dos Dragões	
+0	72086	mp4	[Reel] Renascendo das Cinzas: Rompendo Laços	
+0	72085	mp4	[Reel] Asas Acorrentadas	
+0	72078	mp4	[Reel] Fim da Cegueira: A Traição da Minha Mulher	
+0	72075	mp4	[Reel] Meu Companheiro Destinado Não Era Ele	
+0	72072	mp4	[Reel] O Segredo do Astro do Rock	
+0	72070	mp4	[Reel] O Espadachim Perdido	
+0	72069	mp4	[Reel] Persona Perigosa	
+0	71769	mp4	[Reel] Meu Noivo Bombeiro Retorna Como Bilionário	
+0	71770	mp4	[Reel] O bilionário completa minha lista de desejos	
+0	71771	mp4	[Reel] Dominada pelo Chefe do meu Pai	
+0	71772	mp4	[Reel] A Obsessão Secreta Do CEO Milionário	
+0	71773	mp4	[Reel] Me Submetendo ao Pai do Meu Ex	
+0	71738	mp4	[Reel] Traicionando o Meu Marido Bilionário	
+0	71739	mp4	[Reel] O amor envelhece como um bom vinho	
+0	71740	mp4	[Reel] Aquele que Eu Nunca Esqueci	
+0	71741	mp4	[Reel] Duque com benefícios	
+0	71742	mp4	[Reel] Trigêmeos Accidentais com o Bilionário	
+0	71729	mp4	[Reel] A Noiva Substituta do Dragão Demoníaco	
+0	71732	mp4	[Reel] Filha Esquecida	
+0	71736	mp4	[Reel] Um amor que não sobreviveu	
+0	71707	mp4	[Reel] Amor Proibido: A Gaiola do Irmão	
+0	71708	mp4	[Reel] o Chefe da Máfia que Me Ama	
+0	71709	mp4	[Reel] A Ascensão do Mago Caído	
+0	71710	mp4	[Reel] Cavaleiro das Cinzas: O Retorno do Sangue de Dragão	
+0	71711	mp4	[Reel] Lua de Mel Cancelada	
+0	71714	mp4	[Reel] Vendida ao Senhor da Guerra, Nascida Para o Céu	
+0	71716	mp4	[Reel] O Colega do Meu Marido	
+0	71719	mp4	[Reel] A Herdeira Que Bloqueou O Marido	
+0	71720	mp4	[Reel] Toque Ilegal	
+0	71721	mp4	[Reel] Ligados Pela Honra	
+0	71699	mp4	[Reel] A Noiva Roubada do Rei Alfa	
+0	71700	mp4	[Reel] A Ternura Fatal do Don	
+0	71701	mp4	[Reel] Meu Noivo Me Traiu, Meu Melhor Amigo Voltou	
+0	71704	mp4	[Reel] Renascimento: O Contra-Ataque da Comissária	
+0	71706	mp4	[Reel] Meu Congelamento. As Lágrimas Deles. Sem Perdão	
+0	71682	mp4	[Reel] Ela Escolheu o Dragão	
+0	71684	mp4	[Reel] Coroado em Sangue de Prata	
+0	71685	mp4	[Reel] Marcada pelo Amor	
+0	71689	mp4	[Reel] Fora do Gelo	
+0	71693	mp4	[Reel] Mimada pelo Tio do Meu Ex Após Renascer	
+0	71681	mp4	[Reel] Seu Namorado Atleta	
+0	71042	mp4	[Reel] Apaixonando-me pelo pai mafioso do meu ex	
+0	71048	mp4	[Reel] Domando O Tio Bilionário Do Meu Ex	
+0	71025	mp4	[Reel] A mulher começa a guerra	
+0	71031	mp4	[Reel] Preso em Sua Correnteza	
+0	71012	mp4	[Reel] A Rainha Divorciada: O Preço da Traição	
+0	70995	mp4	[Reel] De Estagiária a Noiva: Trigêmeos com o CEO	
+0	70996	mp4	[Reel] Como prender o filho do presidente	
+0	71005	mp4	[Reel] Sucumbindo ao Meu Chefe Perigoso	
+0	70986	mp4	[Reel] Perdoe-me, Não Me Esqueça	
+0	70990	mp4	[Reel] Dividida Entre os Gêmeos da Máfia	
+0	70991	mp4	[Reel] Renascida da Traição	
+0	70953	mp4	[Reel] O Retorno do Atacante Perdido	
+0	70954	mp4	[Reel] Compradora de Esperma Errada, Casamento Certo	
+0	70956	mp4	[Reel] Clube dos desejos	
+0	70957	mp4	[Reel] De Entregador a CEO	
+0	70961	mp4	[Reel] Receita para fingir um casamento	
+0	70940	mp4	[Reel] Oh Não! Eu Dormi com Meu Marido!	
+0	70943	mp4	[Reel] Sucessão: A Bela e o Bilionário	
+0	70948	mp4	[Reel] Sete Anos Sendo Sua Sombra	
+0	70928	mp4	[Reel] Acompanhando o médico bilionário implacável	
+0	70932	mp4	[Reel] Torno-me domador após extinção dos dragões	
+0	70933	mp4	[Reel] O retorno do deus das corridas	
+0	70938	mp4	[Reel] Mimando Meu Marido e os Gêmeos!	
+0	70923	mp4	[Reel] A Armadilha da Tutora	
+0	70904	mp4	[Reel] Durma Comigo, Mortal!	
+0	70891	mp4	[Reel] Pai Bilionário Sem-teto	
+0	70872	mp4	[Reel] O primeiro amor do príncipe	
+0	70878	mp4	[Reel] Como Se Tornar Uma Estrela de Cinema	
+0	70880	mp4	[Reel] Para o meu Romeu, com amor	
+0	68533	mp4	[Reel] A falsa esposa do bilionário	
+0	68521	mp4	[Reel] Volte Para Mim, Meu Amor de Infância	
+0	68526	mp4	[Reel] Agora você sabe quem eu sou	
+0	68516	mp4	[Reel] Casamento cancelado,  a rainha segue adiante	
+0	68517	mp4	[Reel] Só Mais Uma Vez	
+0	68518	mp4	[Reel] Perigoso	
+0	68519	mp4	[Reel] Os Gêmeos Secretos do Mafioso	
+0	68483	mp4	[Reel] Nós Vamos Amar Novamente	
+0	68478	mp4	[Reel] Odiando e Amando Meu Irmão Adotivo	
+0	68469	mp4	[Reel] Meu Romeu Sinistro	
+0	68462	mp4	[Reel] O Zelador Bilionário e a Noiva Substituta	
+0	68444	mp4	[Reel] O Fim do Mundo, O Início do Meu Império	
+0	68443	mp4	[Reel] Odeio te Amar	
+0	68442	mp4	[Reel] O Jogo da Sedução	
+0	68437	mp4	[Reel] Domando meus Bullies 2	
+0	68436	mp4	[Reel] O Retorno da Filha do Alpha	
+0	68433	mp4	[Reel] Campus Saga: O Despertar do Poder	
+0	68431	mp4	[Reel] O Casamento Imperfeito	
+0	68429	mp4	[Reel] Seu Amor Partiu Meu Coração	
+0	68428	mp4	[Reel] Domando meus Bullies 3	
+0	68424	mp4	[Reel] Na Jaula do Mafioso Perverso	
+0	68423	mp4	[Reel] Destruindo o Meu Guarda-costas	
+0	68421	mp4	[Reel] A Vida Dupla Da Herdeira Bilionária	
+0	68417	mp4	[Reel] Coisas que Ficaram por Dizer	
+0	68416	mp4	[Reel] O Pacto da Virgindade	
+0	68411	mp4	[Reel] Ensina-me a Dizer Adeus	
+0	68408	mp4	[Reel] O Retorno do Rei Enjaulado	
+0	68406	mp4	[Reel] A Princesa da Máfia: A Vingança	
+0	68398	mp4	[Reel] Seduzindo o pai da minha inimiga	
+0	68394	mp4	[Reel] Nada Escapa ao Meu Olhar	
+0	68389	mp4	[Reel] Como Partir o Coração do Meu Valentão	
+94901	66376	mp4	[Reel] Doce Tentação	
+803923	12594	mp4	[Reel] Você Pertence a Mim	
 0	105979	mp4	[Reel] Proibido se Apaixonar pelo Professor	
 0	105977	mp4	[Reel] Dormi com o Pai do Meu Ex	
 0	105976	mp4	[Reel] Pegando Meu Meio-Irmão Capitão de Futebol Americano	
