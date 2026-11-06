@@ -1605,6 +1605,16 @@
 		{
           "nome": "A&E HD4",
           "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
+          "embed": "https://v1.rdembed.lat/ae"
+        },
+		{
+          "nome": "A&E HD5",
+          "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=ae"
+        },
+		{
+          "nome": "A&E HD6",
+          "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=aie"
         },
 		{
@@ -1986,6 +1996,31 @@
           "nome": "CNN Brasil HD6",
           "imagem": "https://i.ibb.co/Dft2ZgyM/cnn-brasil.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=cnnbrasil"
+        },
+		{
+          "nome": "Globo News HD1",
+          "imagem": "https://i.ibb.co/zTPyxL1S/globop-news.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globonews"
+        },
+		{
+          "nome": "Globo News HD2",
+          "imagem": "https://i.ibb.co/zTPyxL1S/globop-news.jpg",
+          "embed": "https://w7.embedtv.cc/globonews"
+        },
+		{
+          "nome": "Globo News HD3",
+          "imagem": "https://i.ibb.co/zTPyxL1S/globop-news.jpg",
+          "embed": "https://v1.rdembed.lat/globonews"
+        },
+		{
+          "nome": "Globo News HD4",
+          "imagem": "https://i.ibb.co/zTPyxL1S/globop-news.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=globonews"
+        },
+		{
+          "nome": "Globo News HD5",
+          "imagem": "https://i.ibb.co/zTPyxL1S/globop-news.jpg",
+          "embed": "https://redecanais.by/player3/ch.php?canal=globonews"
         }
       ]
     },
