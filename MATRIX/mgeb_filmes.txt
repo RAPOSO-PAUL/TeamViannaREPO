@@ -1,4 +1,4 @@
-#gerado	1794041670413
+#gerado	1794069305896
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
@@ -1188,7 +1188,7 @@
 1146348	838	m3u8	Scooby-Doo e Krypto - O Supercão	
 14160	827	mp4	Up: Altas Aventuras	
 11052	826	m3u8	Yu-Gi-Oh! O Filme: Pirâmide de Luz	
-109445	685	mp4	Frozen: Uma Aventura Congelante	
+109445	685	m3u8	Frozen: Uma Aventura Congelante	
 980804	611	m3u8	LEGO Star Wars: Férias de Verão	
 774825	580	m3u8	A Era do Gelo: As Aventuras de Buck	
 109451	566	mp4	Tá Chovendo Hambúrguer 2	
@@ -4712,12 +4712,13 @@
 1361154	263	m3u8	Plantão de Natal	
 1325888	262	m3u8	A Carta de Natal	
 1030969	244	m3u8	Uma Faísca de Natal	
-1570488	106191	m3u8	O Natal Perfeito de um Cachorro	
+1570488	106191	mp4	O Natal Perfeito de um Cachorro	
 1756943	106185	m3u8	Sex Drive	
 1257147	106180	m3u8	Minha Melhor Amiga	
 1789549	106176	m3u8	O Presente de Aniversário	
 1478117	106038	m3u8	Pickleball Pete	
 1700680	106019	m3u8	Louco México Mágico	
+1402404	106012	m3u8	O Shaolin do Sertão 2	
 519176	105694	mp4	Gintama 2: Quebrando As Regras	
 10723	105692	mp4	À Prova de Balas	
 187596	105667	m3u8	A Minha Casa Caiu	
@@ -6374,7 +6375,7 @@
 765119	88505	m3u8	A Bolha	
 768092	88426	m3u8	Armadilhas do Amor	
 1056237	88361	m3u8	Lua de Sangue	
-835385	88359	mp4	Eu Aceito	
+835385	88359	m3u8	Eu Aceito	
 120753	88185	mp4	Jéca Tatu	
 10829	88111	m3u8	O Ataque dos Vermes Malditos 3: De Volta à Perfeição	
 339530	87985	mp4	O Ataque dos Vermes Malditos 5: Linhas de Sangue	
@@ -6614,7 +6615,7 @@
 10035	46800	m3u8	100 Garotas	
 838480	46798	mp4	#ComVocê: Volume: 1	
 514782	46676	mp4	Como Assaltar Um Banco	
-499088	46634	mp4	A Abelhinha Maya: O Filme	
+499088	46634	m3u8	A Abelhinha Maya: O Filme	
 496	46612	mp4	Borat: O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América	
 360142	46597	mp4	Mundo Cão	
 1029208	46520	mp4	Um Natal Improvável	
@@ -7509,7 +7510,7 @@
 664300	5936	m3u8	Shiva Baby	
 888768	5931	m3u8	O Melhor Torcedor do Mundo	
 1017507	5929	mp4	Jogos Entre Amigos 2: Eulogia Atrapalhada	
-1094009	5927	mp4	Acampamento com as Amigas	
+1094009	5927	m3u8	Acampamento com as Amigas	
 774456	5921	m3u8	Garcia & Garcia	
 1200981	5890	m3u8	O Preço de Educar	
 1181545	5789	m3u8	Kandasamys: O Bebê	
@@ -15343,7 +15344,7 @@
 540977	102849	m3u8	Vingança no Oeste	
 538225	102827	mp4	Deadwood	
 249134	102515	m3u8	A Ronda da Vingança	
-887767	102409	mp4	O Último Duelo	
+887767	102409	m3u8	O Último Duelo	
 391	102357	mp4	Por um Punhado de Dólares	
 13503	102331	mp4	Texas Rangers: Acima da Lei	
 473165	102267	mp4	Inferno no Faroeste 2	
@@ -17382,7 +17383,7 @@
 1029330	6278	mp4	Outra Chance para o Amor	
 949701	6205	m3u8	O Beijo do Demônio	
 1352821	6062	m3u8	Um Verdadeiro Cavalheiro	
-883011	6019	mp4	Mundo Novo	
+883011	6019	m3u8	Mundo Novo	
 1125953	6015	m3u8	13 Sentimentos	
 1007723	6007	m3u8	Ela me Ensinou a Amar	
 999501	5959	m3u8	Rodeio Rock	
@@ -19131,7 +19132,7 @@
 504631	5768	m3u8	A Maldição da Sereia	
 1207898	5764	m3u8	Jack: A Caixa Maldita 3 - A Ascensão	
 1035798	5762	m3u8	Rádio Pesadelo	
-1063877	5750	m3u8	Não Se Mexa	
+1063877	5750	mp4	Não Se Mexa	
 1054561	5740	m3u8	Abraço de Mãe	
 1262983	5737	m3u8	MadS	
 827931	5728	mp4	Corte no Tempo	
