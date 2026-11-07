@@ -1,4 +1,8 @@
-#gerado	1794069305896
+#gerado	1794088694312
+289354	106196	mp4	Galinha Pintadinha 4	
+122355	106195	mp4	Galinha Pintadinha 3	
+67201	106194	mp4	Galinha Pintadinha 2	
+67200	106192	mp4	Galinha Pintadinha 1	
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
@@ -1538,7 +1542,6 @@
 7305	76822	mp4	Vivos	
 1936	76645	mp4	O Rio das Almas Perdidas	
 978	76612	mp4	Sete Anos no Tibet	
-1365401	75463	mp4	Meu Amigo Dino: Retorno ao Mundo Perdido	
 1315772	71638	m3u8	Minions & Monstros	
 20542	71383	mp4	Delgo	
 115972	66678	mp4	Robin Hood – O Invencível	
@@ -4718,7 +4721,6 @@
 1789549	106176	m3u8	O Presente de Aniversário	
 1478117	106038	m3u8	Pickleball Pete	
 1700680	106019	m3u8	Louco México Mágico	
-1402404	106012	m3u8	O Shaolin do Sertão 2	
 519176	105694	mp4	Gintama 2: Quebrando As Regras	
 10723	105692	mp4	À Prova de Balas	
 187596	105667	m3u8	A Minha Casa Caiu	
@@ -8245,7 +8247,6 @@
 860508	75631	m3u8	O Homem que Sussurra	
 1621552	75198	mp4	A Captura	
 1487864	71637	mp4	Nando Entre Dois Mundos: Um Filme Sintonia	
-1337438	68664	mp4	Não Identificada	
 19126	66372	mp4	A Última Aposta	
 1073	66371	mp4	O Suspeito da Rua Arlington	
 94204	66370	mp4	Encontro Maligno	
@@ -8364,7 +8365,7 @@
 559969	14976	mp4	El Camino: A Breaking Bad Film	
 18405	14962	mp4	A Última Casa	
 385371	14783	m3u8	O Homem da Meia Noite	
-242582	14754	m3u8	O Abutre	
+242582	14754	mp4	O Abutre	
 7457	14438	mp4	Alpha Dog	
 398978	14406	mp4	O Irlandês	
 11412	14354	mp4	Despertar de um Pesadelo	
@@ -11365,7 +11366,7 @@
 644208	94882	mp4	遊撃	
 250231	94849	mp4	Césio 137 - O Pesadelo de Goiânia	
 10958	94811	m3u8	Vôo 93	
-101731	94797	mp4	O Reencontro	
+101731	94797	m3u8	O Reencontro	
 1324371	94795	m3u8	Atriz	
 125935	94791	mp4	Eu Receberia as Piores Notícias dos Seus Lindos Lábios	
 123833	94787	mp4	Amores Possíveis	
@@ -18355,7 +18356,6 @@
 420245	75780	mp4	Não Bata Duas Vezes	
 10706	75779	mp4	Mutação 2	
 833339	75752	mp4	Não Fale o Mal	
-1636674	75723	mp4	Beyond Sasquatch	
 4961	75719	mp4	Mutação	
 71469	75711	mp4	A Hora da Escuridão	
 964849	72391	mp4	O Filho da Escuridão	
@@ -20348,7 +20348,6 @@
 11258	15046	mp4	Tempestade	
 80184	15001	mp4	O Quarto Secreto	
 2275	14905	mp4	A Filha do General	
-408949	14810	m3u8	Diário de Um Exorcista - Zero	
 371801	14739	m3u8	Ponto de Tensão	
 234212	14734	m3u8	A Casa dos Mortos	
 288158	14730	mp4	A Mulher de Preto 2 - Anjo da Morte	
