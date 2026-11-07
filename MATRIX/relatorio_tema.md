@@ -1,6 +1,6 @@
 # Relatório da aba temática
 
-Rodada de 06/11/2026 22:56 (Brasília).
+Rodada de 07/11/2026 10:46 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
@@ -561,7 +561,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `25751` Colheita Maldita 5: Campos do Terror — palavra-chave "halloween"
 - `25752` Colheita Maldita 666: Isaac Está de Volta — palavra-chave "halloween"
 - `25754` A Colheita Maldita — palavra-chave "halloween"
-- `26515` Pumpkinhead: A Vingança do Diabo — palavra-chave "halloween"
+- `26515` Sangue Demoníaco — palavra-chave "halloween"
 - `26953` O Mestre dos Brinquedos — palavra-chave "halloween"
 - `35977` Pumpkinhead: O Retorno — palavra-chave "halloween"
 - `41436` Atividade Paranormal 2 — palavra-chave "halloween"
