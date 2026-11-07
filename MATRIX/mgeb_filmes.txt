@@ -1,4 +1,4 @@
-#gerado	1794000969908
+#gerado	1794016991412
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
@@ -4712,6 +4712,7 @@
 1361154	263	m3u8	Plantão de Natal	
 1325888	262	m3u8	A Carta de Natal	
 1030969	244	m3u8	Uma Faísca de Natal	
+1570488	106191	m3u8	O Natal Perfeito de um Cachorro	
 1756943	106185	m3u8	Sex Drive	
 1257147	106180	m3u8	Minha Melhor Amiga	
 1789549	106176	m3u8	O Presente de Aniversário	
@@ -8244,6 +8245,7 @@
 860508	75631	m3u8	O Homem que Sussurra	
 1621552	75198	mp4	A Captura	
 1487864	71637	mp4	Nando Entre Dois Mundos: Um Filme Sintonia	
+1337438	68664	mp4	Não Identificada	
 19126	66372	mp4	A Última Aposta	
 1073	66371	mp4	O Suspeito da Rua Arlington	
 94204	66370	mp4	Encontro Maligno	
@@ -8735,7 +8737,7 @@
 653567	102615	mp4	Miss Americana	
 476275	102614	m3u8	Ferrari – Rumo à Imortalidade	
 636971	102540	m3u8	Viveiro	
-828146	102414	mp4	Rompendo Barreiras: Nosso Planeta	
+828146	102414	m3u8	Rompendo Barreiras: Nosso Planeta	
 869342	102391	mp4	O Dia da Posse	
 840652	102385	mp4	Cortina de Fumaça	
 1239121	102363	m3u8	A Vida Secreta dos Orangotangos	
@@ -12425,6 +12427,7 @@
 1442033	75742	mp4	Sete Homens e uma Sentença	
 1257727	75736	mp4	Home	
 1074727	75729	mp4	Cidade Rabat	
+1639321	75724	mp4	Body Of Nurses	
 852854	75721	m3u8	A Pílula da Verdade	
 1232667	75638	mp4	Saudades te Amo	
 1272129	75636	mp4	O Rei da Internet	
@@ -18352,6 +18355,7 @@
 420245	75780	mp4	Não Bata Duas Vezes	
 10706	75779	mp4	Mutação 2	
 833339	75752	mp4	Não Fale o Mal	
+1636674	75723	mp4	Beyond Sasquatch	
 4961	75719	mp4	Mutação	
 71469	75711	mp4	A Hora da Escuridão	
 964849	72391	mp4	O Filho da Escuridão	
@@ -19128,7 +19132,7 @@
 504631	5768	m3u8	A Maldição da Sereia	
 1207898	5764	m3u8	Jack: A Caixa Maldita 3 - A Ascensão	
 1035798	5762	m3u8	Rádio Pesadelo	
-1063877	5750	m3u8	Não Se Mexa	
+1063877	5750	mp4	Não Se Mexa	
 1054561	5740	m3u8	Abraço de Mãe	
 1262983	5737	m3u8	MadS	
 827931	5728	mp4	Corte no Tempo	
@@ -20998,4 +21002,4 @@
 1428862	63	mp4	Corta-fogo	
 1109406	48	mp4	Instinto Fatal	
 1389149	43	mp4	A Acusada	
-1199193	41	m3u8	Ensaio Fatal	
+1199193	41	mp4	Ensaio Fatal	
