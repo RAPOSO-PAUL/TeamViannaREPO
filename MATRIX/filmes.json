@@ -1,6 +1,32 @@
 {
 "movies":[
 {
+  "tmdb_id":1294189,
+  "type":"movie",
+  "added_at":"2026-11-06",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1294189"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.click/filme/1294189"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1294189"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:4ea9296e64c3af04c03a983ca414b31a819d8036&dn=Fuga%20Mortal%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2607061070&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:763kkrocals5obzkka7sreldc6mmgcqt&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Fuga+Mortal.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"v8HyRrwocR4"
+},
+{
+  "tmdb_id":1570488,
+  "type":"movie",
+  "added_at":"2026-11-06",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1570488"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.click/filme/1570488"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1570488"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:857a3b4632cb2d6437bad8dd1070b86fcbcd5729&dn=O%20Natal%20Perfeito%20de%20um%20Cachorro%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2595553126&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:6mfmttv5qpf2mcwrwhkfg2tdwsoldghs&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.O+Natal+Perfeito+de+um+Cachorro.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"5l-5favSmfQ"
+},
+{
   "tmdb_id":1756943,
   "type":"movie",
   "added_at":"2026-11-05",
