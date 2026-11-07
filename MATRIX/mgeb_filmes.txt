@@ -1,4 +1,4 @@
-#gerado	1794016991412
+#gerado	1794041670413
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
 1811134	106048	m3u8	Academia Sobrenatural: Nascimento da Marca do Dragão	
@@ -190,8 +190,8 @@
 3509	102503	mp4	O Homem Duplo	
 9606	102456	mp4	Metrópolis	
 1034055	102427	mp4	A Turma da Floresta 2: Ao Redor do Mundo	
-13691	102411	mp4	Leitão: O Filme	
-136405	102406	mp4	Outback - Uma Galera Animal	
+13691	102411	m3u8	Leitão: O Filme	
+136405	102406	m3u8	Outback - Uma Galera Animal	
 4977	102371	m3u8	Paprika	
 170687	102302	m3u8	Os Boxtrolls	
 732450	102251	mp4	Batman: Alma do Dragão	
@@ -1329,7 +1329,7 @@
 223702	102725	m3u8	Festa da Salsicha	
 9948	102721	mp4	O Cão e a Raposa 2	
 46528	102710	mp4	O Caminho do Guerreiro	
-11774	102706	mp4	Desventuras em Série	
+11774	102706	m3u8	Desventuras em Série	
 364324	102698	m3u8	Crônicas da Tribo Fantasma	
 9952	102577	m3u8	O Sobrevivente	
 399360	102535	mp4	Alfa	
@@ -1700,7 +1700,7 @@
 571655	13751	m3u8	Valhalla: A Lenda de Thor	
 425148	13743	mp4	Show Dogs: O Agente Canino	
 497582	13659	mp4	Enola Holmes	
-400160	13592	m3u8	Bob Esponja: O Incrível Resgate	
+400160	13592	mp4	Bob Esponja: O Incrível Resgate	
 589982	13511	m3u8	Abra Suas Asas	
 547066	13460	mp4	O Dom da Serpente	
 631939	13289	mp4	O Legionário	
@@ -2296,14 +2296,14 @@
 843352	102472	mp4	Legend of the White Dragon	
 1294189	102469	mp4	The Mongoose	
 1647	102442	mp4	O Novato	
-449535	102433	mp4	Cabana da Morte	
+449535	102433	m3u8	Cabana da Morte	
 42012	102430	m3u8	Retroceder Nunca, Render-se Jamais 2	
 460321	102416	mp4	Close	
 447427	102408	m3u8	Rei Arthur - A Volta da Excalibur	
 1872	102404	mp4	Rise - A Ressurreição	
 8452	102403	m3u8	O 6º Dia	
 299824	102401	mp4	Mojin - A Lenda Perdida	
-10855	102394	mp4	Fatal	
+10855	102394	m3u8	Fatal	
 466550	102388	mp4	Drive	
 683311	102387	mp4	Castle Falls	
 395883	102386	m3u8	Andron: O Labirinto Negro	
@@ -2897,7 +2897,7 @@
 4515	89982	mp4	Leões e Cordeiros	
 136418	88492	mp4	Redenção	
 496704	88431	m3u8	O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno	
-763920	88383	mp4	Em Rota de Colisão	
+763920	88383	m3u8	Em Rota de Colisão	
 481203	88348	mp4	A Última Missão	
 71676	88101	m3u8	Motoqueiro Fantasma: Espírito de Vingança	
 10890	87895	m3u8	Recrutas da Pesada	
@@ -4718,7 +4718,6 @@
 1789549	106176	m3u8	O Presente de Aniversário	
 1478117	106038	m3u8	Pickleball Pete	
 1700680	106019	m3u8	Louco México Mágico	
-1402404	106012	m3u8	O Shaolin do Sertão 2	
 519176	105694	mp4	Gintama 2: Quebrando As Regras	
 10723	105692	mp4	À Prova de Balas	
 187596	105667	m3u8	A Minha Casa Caiu	
@@ -10466,7 +10465,7 @@
 37233	102465	mp4	A Firma	
 1278101	102461	mp4	O Meu Pequeno Eu	
 1213395	102435	mp4	The Firing Squad	
-961080	102434	mp4	A Prisioneira De Bordeaux	
+961080	102434	m3u8	A Prisioneira De Bordeaux	
 607549	102431	mp4	Com Amor e Muita Inspiração	
 192133	102426	mp4	Jimi: Tudo a Meu Favor	
 227975	102424	mp4	Praia do Futuro	
@@ -12200,7 +12199,7 @@
 443463	88460	m3u8	Sem Rastros	
 1907	88459	mp4	A Praia	
 1106739	88429	m3u8	Jurado Nº2	
-524779	88386	mp4	O Tempero da Vida	
+524779	88386	m3u8	O Tempero da Vida	
 983096	88317	m3u8	O Poder do Perdão	
 487364	88316	mp4	Sem Perdão	
 772762	88304	mp4	O Preço de Um Sonho	
@@ -14125,7 +14124,7 @@
 1259983	2694	m3u8	Gourou	
 632666	2693	m3u8	Desgrávida	
 1380316	2689	mp4	Ardente Vingança	
-1303439	2686	mp4	Captain Tsunami's Army	
+1303439	2686	m3u8	Captain Tsunami's Army	
 1008043	2679	m3u8	O Casal Duplicado	
 1014887	2662	m3u8	Culpa	
 71	2661	mp4	Billy Elliot	
@@ -15027,7 +15026,7 @@
 10150	102654	mp4	O Último Unicórnio	
 9495	102583	mp4	O Corvo	
 139649	102485	m3u8	Kiriku - Os Homens e as Mulheres	
-445821	102444	mp4	Sentença de Morte	
+445821	102444	m3u8	Sentença de Morte	
 533412	102352	m3u8	O Barco	
 69921	102141	m3u8	Dazzle	
 906237	102108	mp4	Lorelei	
@@ -19123,7 +19122,7 @@
 929947	5812	m3u8	Destinos Aterrorizantes no Caminho do Medo	
 480105	5809	m3u8	Medo Profundo: O Segundo Ataque	
 780609	5808	mp4	Men: Faces do Medo	
-1126094	5803	mp4	Festival of the Living Dead	
+1126094	5803	m3u8	Festival of the Living Dead	
 1124914	5801	m3u8	Jack and Jill 3	
 1246989	5800	m3u8	Para Betina Pengikut Iblis 2	
 984105	5793	m3u8	A Ressurreição da Múmia	
@@ -19132,7 +19131,7 @@
 504631	5768	m3u8	A Maldição da Sereia	
 1207898	5764	m3u8	Jack: A Caixa Maldita 3 - A Ascensão	
 1035798	5762	m3u8	Rádio Pesadelo	
-1063877	5750	mp4	Não Se Mexa	
+1063877	5750	m3u8	Não Se Mexa	
 1054561	5740	m3u8	Abraço de Mãe	
 1262983	5737	m3u8	MadS	
 827931	5728	mp4	Corte no Tempo	
