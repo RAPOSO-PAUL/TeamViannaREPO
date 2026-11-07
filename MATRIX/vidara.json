@@ -1,6 +1,6 @@
 {
   "_como_usar": "Chave: filme:<tmdb> ou serie:<tmdb da série>:<temporada>:<episódio>. Valor: {\"vidara\": \"código\", \"uqload\": \"código\", \"lulu\": \"código\", \"streamtape\": \"código\", \"nome\": \"DUBLADO\"} — pode ter um, dois, três ou os quatro; é UMA opção só: o app tenta na ordem de _ordem_dos_players e passa sozinho para o seguinte se um não der. Campo vazio é ignorado. Também vale o link inteiro no lugar do código. Chaves com _ na frente são ignoradas. _ordem: a posição desta opção entre os players — \"primeiro\", \"segundo\" (ou 2), \"terceiro\"... ou \"ultimo\"; num título só, use \"posicao\": 2 dentro do { } dele. _dominios: o domínio de cada site (mudou o domínio? troque só aqui; com mais de um, o app tenta o seguinte se o primeiro não abrir).",
-  "_ordem": "segundo",
+  "_ordem": "primeiro",
   "_ordem_dos_players": [
     "vidara",
     "uqload",
