@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1816668,
+  "type":"movie",
+  "added_at":"2026-11-07",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1816668"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.click/filme/1816668"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1816668"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:3329184ac3f8895e06c726d8a1e45c36a1cc9902&dn=Ninho%20-%20O%20Pre%C3%A7o%20da%20Fama%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2114047626&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:85cf12bfed9826d4a54d6aa8044ffa8430a6dcfe&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&dn=BAIXARAPIDO.COM-.MUSICAS.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Ninho.O.Pre%C3%A7o.da.Fama.2026.1080p.WEB-DL.DUAL.5.1%5D"}
+  ],
+  "youtube":"rwmC80TVN50"
+},
+{
   "tmdb_id":1480574,
   "type":"movie",
   "added_at":"2026-11-07",
