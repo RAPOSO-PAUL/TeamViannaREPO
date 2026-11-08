@@ -1,0 +1,48 @@
+# ROBO QUE CONFERE OS CODIGOS DO vidara.json — ver scripts/conferir_vidara.py
+# (08/11) Uma vez por dia abre a pagina de um lote de codigos (1 por vez,
+# com pausa) e grava MATRIX/vidara_status.json com os que o site disse DUAS
+# vezes seguidas que foram removidos. O app CINE GO! manda esse player para
+# o fim da ordem. Nao precisa de segredo nenhum.
+name: Conferir os códigos do vidara.json
+
+on:
+  schedule:
+    - cron: "41 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: conferir-vidara
+  cancel-in-progress: false
+
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Conferir um lote de códigos
+        run: python scripts/conferir_vidara.py
+
+      - name: Gravar o resultado
+        run: |
+          git config user.name "robo-conferir-vidara"
+          git config user.email "robo-conferir-vidara@users.noreply.github.com"
+          git add MATRIX/vidara_status.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git commit -m "códigos do vidara.json conferidos (robô)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 5
+          done
+          exit 1
