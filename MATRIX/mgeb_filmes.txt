@@ -1,4 +1,4 @@
-#gerado	1794101633979
+#gerado	1794128863180
 289354	106196	mp4	Galinha Pintadinha 4	
 122355	106195	mp4	Galinha Pintadinha 3	
 67201	106194	mp4	Galinha Pintadinha 2	
@@ -192,7 +192,7 @@
 1082751	102523	m3u8	Mini Beat Power Rockers: O Filme	
 265712	102511	m3u8	STAND BY ME Doraemon	
 3509	102503	mp4	O Homem Duplo	
-9606	102456	mp4	Metrópolis	
+9606	102456	m3u8	Metrópolis	
 1034055	102427	mp4	A Turma da Floresta 2: Ao Redor do Mundo	
 13691	102411	m3u8	Leitão: O Filme	
 136405	102406	m3u8	Outback - Uma Galera Animal	
@@ -548,7 +548,7 @@
 509733	90686	mp4	Agente 00-Gato	
 580600	90685	mp4	Astro Kid	
 550738	90654	mp4	Agentes Selvagens	
-315162	90626	mp4	Gato de Botas 2: O Último Pedido	
+315162	90626	m3u8	Gato de Botas 2: O Último Pedido	
 10555	90612	mp4	O Espanta Tubarões	
 274862	90606	mp4	Lego Ninjago: O Filme	
 44896	90537	m3u8	Rango	
@@ -1542,6 +1542,7 @@
 7305	76822	mp4	Vivos	
 1936	76645	mp4	O Rio das Almas Perdidas	
 978	76612	mp4	Sete Anos no Tibet	
+1365401	75463	mp4	Meu Amigo Dino: Retorno ao Mundo Perdido	
 1315772	71638	m3u8	Minions & Monstros	
 20542	71383	mp4	Delgo	
 115972	66678	mp4	Robin Hood – O Invencível	
@@ -8365,7 +8366,7 @@
 559969	14976	mp4	El Camino: A Breaking Bad Film	
 18405	14962	mp4	A Última Casa	
 385371	14783	m3u8	O Homem da Meia Noite	
-242582	14754	mp4	O Abutre	
+242582	14754	m3u8	O Abutre	
 7457	14438	mp4	Alpha Dog	
 398978	14406	mp4	O Irlandês	
 11412	14354	mp4	Despertar de um Pesadelo	
@@ -12426,7 +12427,6 @@
 394117	75754	m3u8	Projeto Flórida	
 784524	75753	mp4	Magazine Dreams	
 1442033	75742	mp4	Sete Homens e uma Sentença	
-1257727	75736	mp4	Home	
 1074727	75729	mp4	Cidade Rabat	
 1639321	75724	mp4	Body Of Nurses	
 852854	75721	m3u8	A Pílula da Verdade	
@@ -14722,7 +14722,7 @@
 361380	64695	m3u8	Barbie e Suas Irmãs em Uma Aventura de Cachorrinhos	
 25132	54698	m3u8	A Pedra Mágica	
 119426	54676	mp4	O Tesouro de Ali Babá	
-73456	54579	m3u8	Barbie: Escola de Princesas	
+73456	54579	mp4	Barbie: Escola de Princesas	
 417047	54571	mp4	Barbie & Suas Irmãs: Em Busca Dos Cachorrinhos	
 10588	51185	mp4	O Gato	
 1108427	48860	m3u8	Moana	
@@ -17388,7 +17388,7 @@
 1125953	6015	m3u8	13 Sentimentos	
 1007723	6007	m3u8	Ela me Ensinou a Amar	
 999501	5959	m3u8	Rodeio Rock	
-1267217	5937	mp4	Sugar Baby	
+1267217	5937	m3u8	Sugar Baby	
 1371350	5815	mp4	Felicidade é...	
 1072551	5717	m3u8	O Despertar de Uma Paixão	
 659959	5691	mp4	Verão de 85	
@@ -17793,7 +17793,7 @@
 1514026	102471	m3u8	Buddy	
 241842	102463	mp4	Zumbis na Neve 2	
 1742441	102458	mp4	V/H/S/Mixtape	
-444490	102457	mp4	Arcade - Você Vai Entrar Nesse Jogo	
+444490	102457	m3u8	Arcade - Você Vai Entrar Nesse Jogo	
 301365	102443	mp4	Demônio de Neon	
 464879	102440	mp4	Cabana 28 - Madrugada do Horror	
 1596	102432	mp4	População 436	
@@ -18755,7 +18755,7 @@
 1126637	9275	m3u8	Pollen	
 1051560	9272	m3u8	O Diabo Vem à Noite	
 1113574	9249	m3u8	Death By Desire	
-975022	9225	mp4	Do Céu ao Inferno	
+975022	9225	m3u8	Do Céu ao Inferno	
 994138	9218	m3u8	Natureza Sombria	
 752867	9208	m3u8	The Outwaters	
 1067714	9205	m3u8	Olhar Alheio	
@@ -19132,7 +19132,7 @@
 504631	5768	m3u8	A Maldição da Sereia	
 1207898	5764	m3u8	Jack: A Caixa Maldita 3 - A Ascensão	
 1035798	5762	m3u8	Rádio Pesadelo	
-1063877	5750	mp4	Não Se Mexa	
+1063877	5750	m3u8	Não Se Mexa	
 1054561	5740	m3u8	Abraço de Mãe	
 1262983	5737	m3u8	MadS	
 827931	5728	mp4	Corte no Tempo	
@@ -19912,7 +19912,7 @@
 329269	101921	mp4	Above Suspicion	
 7988	101861	mp4	A Ilha	
 545284	101838	mp4	Inimigo Íntimo	
-1480574	101835	mp4	Just Play Dead	
+1480574	101835	m3u8	Just Play Dead	
 1023915	101813	mp4	2073	
 601197	101804	m3u8	Avó Psicótica	
 1399696	101789	mp4	Hysteria	
