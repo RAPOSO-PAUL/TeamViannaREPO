@@ -11,13 +11,24 @@
 # da conta (megaembed.com). O resto do servidor (o proprio GitHub, o git
 # push) continua pelo caminho normal — assim o robo nao perde a conexao
 # com o GitHub.
+#
+# (08/11) WARP_HOSTS (opcional): outros dominios no lugar do painel,
+# separados por espaco — o robo do vidara.json (conferir_vidara.yml) usa
+# para o lulu e o streamtape, que bloqueiam o servidor do GitHub. Sem
+# WARP_HOSTS, tudo exatamente como antes (so o painel).
 # =====================================================================
 set -euo pipefail
 
 SERV="${MGEB_SERVIDOR:-}"
 [ -n "$SERV" ] || SERV="https://megaembed.com"
 HOST="$(echo "$SERV" | sed -E 's#^[a-zA-Z]+://##; s#[/:].*##')"
-echo "domínio do painel: $HOST"
+if [ -n "${WARP_HOSTS:-}" ]; then
+  HOSTS="$WARP_HOSTS"
+  echo "domínios pelo túnel: $HOSTS"
+else
+  HOSTS="$HOST"
+  echo "domínio do painel: $HOST"
+fi
 
 sudo apt-get update -qq
 sudo apt-get install -y -qq wireguard-tools >/dev/null
@@ -42,9 +53,13 @@ done
 [ "$ok" = 1 ] || { echo "não consegui criar a conta WARP"; exit 1; }
 ./wgcf generate
 
-IPS="$(getent ahostsv4 "$HOST" | awk '{print $1}' | sort -u | tr '\n' ' ')"
-[ -n "$IPS" ] || { echo "não achei o IP de $HOST"; exit 1; }
-echo "IPs do painel pelo túnel: $IPS"
+IPS=""
+for h in $HOSTS; do
+  IPS="$IPS $( (getent ahostsv4 "$h" || true) | awk '{print $1}' | sort -u | tr '\n' ' ')"
+done
+IPS="$(echo $IPS | tr ' ' '\n' | grep -E '^[0-9.]+$' | sort -u | tr '\n' ' ' || true)"
+[ -n "$IPS" ] || { echo "não achei o IP de $HOSTS"; exit 1; }
+echo "IPs pelo túnel: $IPS"
 
 # o perfil do wgcf vira um tunel SO para os IPs do painel (sem DNS, sem IPv6)
 python3 - "$IPS" <<'PY'
