@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":1654940,
+  "type":"movie",
+  "added_at":"2026-11-09",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1654940"},
+    {"name":"PLAYER 2","embed":"https://redeflixapi.click/filme/1654940"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1654940"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:39ba555dc0fe573603767a0add9fab1b6cad04de&dn=Um%20Ano%20de%20Vida%2C%20Compre%20Um%20Homem%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2837143692&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:52z6it4x5qgjryzv3v6djqmyr24qbd3n&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Um+Ano+de+Vida%2C+Compre+Um+Homem.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"iXz31hWFZnY"
+},
+{
   "tmdb_id":1816668,
   "type":"movie",
   "added_at":"2026-11-07",
