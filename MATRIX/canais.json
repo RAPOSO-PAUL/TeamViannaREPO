@@ -2021,6 +2021,21 @@
           "nome": "Globo News HD5",
           "imagem": "https://i.ibb.co/zTPyxL1S/globop-news.jpg",
           "embed": "https://redecanais.by/player3/ch.php?canal=globonews"
+        },
+		{
+          "nome": "Jovem Pan News HD1",
+          "imagem": "https://i.ibb.co/PGtWL7qN/jovem-pan-news.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=jovempannews"
+        },
+		{
+          "nome": "Jovem Pan News HD2",
+          "imagem": "https://i.ibb.co/PGtWL7qN/jovem-pan-news.jpg",
+          "embed": "https://rdcanais.org/jpnews"
+        },
+		{
+          "nome": "Jovem Pan News HD3",
+          "imagem": "https://i.ibb.co/PGtWL7qN/jovem-pan-news.jpg",
+          "embed": "https://v1.rdembed.lat/jovempannews"
         }
       ]
     },
