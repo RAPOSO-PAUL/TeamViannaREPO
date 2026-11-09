@@ -1,6 +1,15 @@
 {
   "series": [
     {
+      "tmdb_id": 248830,
+      "type": "tv",
+      "added_at": "2026-11-09",
+      "episodes": [
+        { "season": 2, "episode": 1, "embeds": [ "https://mgeb.lat/embed/248830/2/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=STCKT02EP01'></iframe>", "https://redeflixapi.click/serie/248830/2/1", "https://myembed.biz/serie/248830/2/1" ] },
+		{ "season": 2, "episode": 2, "embeds": [ "https://mgeb.lat/embed/248830/2/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=STCKT02EP02'></iframe>", "https://redeflixapi.click/serie/248830/2/2", "https://myembed.biz/serie/248830/2/2" ] }
+      ]
+    },
+	{
       "tmdb_id": 314271,
       "type": "tv",
       "added_at": "2026-11-09",
