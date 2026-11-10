@@ -1,6 +1,19 @@
 {
   "series": [
     {
+      "tmdb_id": 225385,
+      "type": "tv",
+      "added_at": "2026-11-10",
+      "episodes": [
+        { "season": 2, "episode": 1, "embeds": [ "https://mgeb.lat/embed/225385/2/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BLCKDVST02EP01'></iframe>", "https://redeflixapi.click/serie/225385/2/1", "https://myembed.biz/serie/225385/2/1" ] },
+		{ "season": 2, "episode": 2, "embeds": [ "https://mgeb.lat/embed/225385/2/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BLCKDVST02EP02'></iframe>", "https://redeflixapi.click/serie/225385/2/2", "https://myembed.biz/serie/225385/2/2" ] },
+		{ "season": 2, "episode": 3, "embeds": [ "https://mgeb.lat/embed/225385/2/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BLCKDVST02EP03'></iframe>", "https://redeflixapi.click/serie/225385/2/3", "https://myembed.biz/serie/225385/2/3" ] },
+		{ "season": 2, "episode": 4, "embeds": [ "https://mgeb.lat/embed/225385/2/4", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BLCKDVST02EP04'></iframe>", "https://redeflixapi.click/serie/225385/2/4", "https://myembed.biz/serie/225385/2/4" ] },
+		{ "season": 2, "episode": 5, "embeds": [ "https://mgeb.lat/embed/225385/2/5", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BLCKDVST02EP05'></iframe>", "https://redeflixapi.click/serie/225385/2/5", "https://myembed.biz/serie/225385/2/5" ] },
+		{ "season": 2, "episode": 6, "embeds": [ "https://mgeb.lat/embed/225385/2/6", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BLCKDVST02EP06'></iframe>", "https://redeflixapi.click/serie/225385/2/6", "https://myembed.biz/serie/225385/2/6" ] }
+      ]
+    },
+	{
       "tmdb_id": 258742,
       "type": "tv",
       "added_at": "2026-11-10",
