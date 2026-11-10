@@ -1,6 +1,21 @@
 {
 "movies":[
 {
+  "tmdb_id":1263337,
+  "type":"movie",
+  "added_at":"2026-11-09",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1263337"},
+	{"name":"PLAYER 2","embed":"<iframe src='https://redecanais.by/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=CRCAOSLVGM'></iframe>"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.click/filme/1263337"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1263337"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:6c2c6a1cb35f26600c70e1027f38b9ab5619e850&dn=Cora%C3%A7%C3%A3o%20Selvagem%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2248400022&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:yyuxjt7yk26oycqvppjpoawxojhugglr&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Cora%C3%A7%C3%A3o.Selvagem.2026.1080p.WEB-DL.DUAL.5.1"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:c19a35d80e35923263dc8e2ca1cf637c9d0a1eb3&dn=Cora%C3%A7%C3%A3o%20Selvagem%202026%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&xl=6897463785&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"}
+  ],
+  "youtube":"rfDjqg_cwFs"
+},
+{
   "tmdb_id":1570467,
   "type":"movie",
   "added_at":"2026-11-09",
