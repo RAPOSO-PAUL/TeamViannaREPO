@@ -1,4 +1,4 @@
-#gerado	1794314716756
+#gerado	1794344035116
 1146058	106201	m3u8	O Peixe Pout-Pout	
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
@@ -1389,7 +1389,7 @@
 19164	95852	mp4	Em Busca do Vale Encantado IV: Viagem Através da Névoa	
 1559978	95806	mp4	Enrolados	
 645289	95230	mp4	紅の海	
-1263337	94848	mp4	Coração Selvagem	
+1263337	94848	m3u8	Coração Selvagem	
 10323	94804	mp4	Fúria de Titãs	
 88730	94769	mp4	Os Saltimbancos Trapalhões	
 34196	94756	mp4	Deus é Brasileiro	
@@ -1805,7 +1805,7 @@
 512200	6154	mp4	Jumanji: Próxima Fase	
 412117	6011	mp4	Pets: A Vida Secreta dos Bichos 2	
 1352582	5980	m3u8	O Clube do Tesouro	
-417830	5970	mp4	Diário de um Banana: Caindo na Estrada	
+417830	5970	m3u8	Diário de um Banana: Caindo na Estrada	
 1233243	5932	m3u8	O Último Sacrifício	
 1109782	5778	m3u8	Karsmênia	
 1091181	5763	mp4	Lobisomens	
@@ -1965,6 +1965,8 @@
 714	114	m3u8	007: O Amanhã Nunca Morre	
 1234731	107	mp4	Anaconda	
 840464	90	mp4	Destruição Final 2	
+1819906	112724	mp4	UFC Fight Night 293: Cortes-Acosta vs. Walker	
+1648226	106280	mp4	UFC Freedom 250: Topuria vs. Gaethje	
 1703103	106245	m3u8	Addicted to Change	
 1630420	106206	m3u8	Crime em Cena	
 1642568	106204	m3u8	The Last Temptation of Becky	
@@ -2396,7 +2398,7 @@
 1146344	100703	mp4	O Golpe Final	
 918461	100693	mp4	兵王之绝境狙杀	
 1705930	100685	mp4	UFC Fight Night 278: Muhammad vs. Bonfim	
-1563616	100679	mp4	Fúria no Asfalto	
+1563616	100679	m3u8	Fúria no Asfalto	
 1048794	100677	mp4	Espumas ao Vento	
 1439930	100664	mp4	O Justiceiro: Uma Última Morte	
 1339149	100660	m3u8	12 Horas de Fúria Infinda	
@@ -3363,7 +3365,6 @@
 27985	14552	m3u8	Amigos para Sempre	
 531503	14504	m3u8	À Queima-Roupa	
 388399	14492	mp4	O Dia do Atentado	
-25594	14475	m3u8	Acerto de Contas	
 9619	14461	mp4	O Inferno de Dante	
 33196	14460	mp4	Tsunami: A Fúria do Oceano	
 9342	14435	mp4	A Máscara do Zorro	
@@ -8551,7 +8552,7 @@
 1457104	3526	m3u8	Disorder	
 1294698	3473	m3u8	Caso 137	
 510689	3388	m3u8	Entre as Sombras	
-1584619	3375	m3u8	Assassinato em Mônaco	
+1584619	3375	mp4	Assassinato em Mônaco	
 1140738	3337	m3u8	Os Filhos Bastardos	
 839727	3235	m3u8	Segredos de uma Golpista	
 1194388	3211	mp4	A Sombra	
@@ -8632,6 +8633,7 @@
 1062907	55	mp4	Matador Improvável	
 1310871	39	mp4	A Marca do Mal	
 681434	34	m3u8	Conselhos De Um Serial Killer Aposentado	
+1794569	112726	m3u8	Desprotegida: O Crime de Pazos	
 1657441	106272	m3u8	A Sobrevivência da Arte	
 1699970	106247	m3u8	The Welcome Table	
 1703741	106244	m3u8	Onde Estiver Estarei: Uma Paixão Rubro-negra	
@@ -8843,7 +8845,7 @@
 1106590	100744	mp4	Rejeito	
 919797	100727	mp4	流れ者図鑑	
 1621972	100718	mp4	O Cravista	
-1570924	100715	mp4	O Sniper de DC: Um Caso de Violência Doméstica	
+1570924	100715	m3u8	O Sniper de DC: Um Caso de Violência Doméstica	
 1297117	100714	mp4	Memórias de um Esclerosado	
 996360	100706	mp4	L'épreuve du feu	
 1693002	100695	mp4	O Assassinato de Rachel Nickell	
@@ -9807,6 +9809,8 @@
 1588671	175	m3u8	O Grande Roubo do Louvre: O Crime Minuto a Minuto	
 1610413	129	mp4	A Última Aventura: Nos Bastidores de Stranger Things 5	
 1465743	127	m3u8	Wizkid: De Lagos Para o Mundo	
+1483525	112725	m3u8	Amor Possível	
+1570467	112723	m3u8	Frequência Explosiva	
 1650956	106276	m3u8	O Diario de Gotham	
 1719951	106237	mp4	eu e ele	
 1721742	106235	mp4	Em outra vida, fui datilógrafo	
@@ -10420,7 +10424,7 @@
 397514	102878	m3u8	O Massacre do Moinho de Vento	
 764510	102872	m3u8	A Felicidade das Coisas	
 335791	102864	m3u8	Além da Realidade	
-283378	102863	mp4	Fallen	
+283378	102863	m3u8	Fallen	
 237791	102860	mp4	Hoje Eu Quero Voltar Sozinho	
 653601	102833	mp4	Entre Realidades	
 414001	102821	mp4	Somente o Mar Sabe	
@@ -14496,7 +14500,7 @@
 32302	102994	mp4	3 Ninjas: Aventura na Mega Mountain	
 110416	102992	mp4	A Canção do Mar	
 9325	102865	mp4	Mogli: O Menino Lobo	
-14873	102861	mp4	Mogli: O Menino Lobo 2	
+14873	102861	m3u8	Mogli: O Menino Lobo 2	
 34204	102813	m3u8	Regresso a Halloweentown	
 17880	102771	m3u8	Meu Melhor Amigo	
 14175	102755	m3u8	Valiant: Um Herói que Vale a Pena	
@@ -15197,7 +15201,7 @@
 927	37408	mp4	Gremlins	
 10210	20110	mp4	Sonho de uma Noite de Verão	
 2395	15382	mp4	Asterix nos Jogos Olímpicos	
-10882	15253	mp4	A Bela Adormecida	
+10882	15253	m3u8	A Bela Adormecida	
 109491	15112	mp4	Dezesseis Luas	
 49524	15076	mp4	R.I.P.D.: Agentes do Além	
 856	14949	mp4	Uma Cilada para Roger Rabbit	
@@ -16853,7 +16857,7 @@
 1238685	100638	mp4	Sangria	
 911645	100626	mp4	गहराइयाँ	
 1119544	100509	mp4	De Volta à Roma	
-1561758	100508	mp4	É Preciso um Vilarejo…	
+1561758	100508	m3u8	É Preciso um Vilarejo…	
 1035369	100506	mp4	É Natal de Novo	
 904956	100449	mp4	Ясь и Янина	
 1466115	100442	mp4	Se Esse Amor Desaparecesse Hoje	
@@ -17702,7 +17706,7 @@
 26774	103693	mp4	O Estigma de Satanás	
 13025	103670	mp4	Diário dos Mortos	
 321258	103633	mp4	Boneco do Mal	
-1569947	103628	mp4	O Padre: Massacre no Dia de Ação de Graças	
+1569947	103628	m3u8	O Padre: Massacre no Dia de Ação de Graças	
 10577	103623	mp4	Drácula 2000	
 241258	103614	m3u8	Dominação	
 836225	103588	mp4	Exorcismo Sagrado	
@@ -17902,7 +17906,7 @@
 10676	101101	mp4	Halloween III: A Noite das Bruxas	
 1481626	101098	mp4	O Amor Mata	
 1022988	100911	mp4	Espírito Materno	
-1400837	100888	mp4	Outra Mamãe	
+1400837	100888	m3u8	Outra Mamãe	
 821669	100871	m3u8	Retrato do Mal	
 1231497	100804	mp4	O Solar dos Prazeres Noturnos	
 1284041	100786	mp4	A Última Casa	
@@ -18033,7 +18037,7 @@
 24150	98988	mp4	H2: Halloween 2	
 1744005	98986	mp4	The Shape	
 655435	98977	mp4	フェール	
-1577232	98960	mp4	bloody Christmas	
+1577232	98960	m3u8	bloody Christmas	
 1448938	98956	mp4	Abdução	
 11298	98935	mp4	Grito de Horror	
 168098	98930	mp4	Celular	
