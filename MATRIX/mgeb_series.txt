@@ -1,4 +1,4 @@
-#gerado	1794283929454
+#gerado	1794314767676
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -3837,7 +3837,6 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
-323903	112698	mp4	The Terror: Devil in Silver	
 303044	112697	mp4	Campus Drivers	
 210224	106175	mp4	Verônica com K	
 288458	106049	mp4	Ben-Hur: A Série	
