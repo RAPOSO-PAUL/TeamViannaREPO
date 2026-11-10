@@ -1,4 +1,4 @@
-#gerado	1794257457061
+#gerado	1794283929454
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -392,7 +392,7 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
-301139	106213	mp4	#I'm Looking for a Zombie	
+314271	112707	mp4	Bass ex Machina	
 5006	105949	mp4	Bozo Show	
 30992	105933	mp4	Love Hina	
 68737	104951	mp4	Regal Academy	
@@ -3837,6 +3837,8 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+323903	112698	mp4	The Terror: Devil in Silver	
+303044	112697	mp4	Campus Drivers	
 210224	106175	mp4	Verônica com K	
 288458	106049	mp4	Ben-Hur: A Série	
 340553	105992	mp4	O Curioso Coração do Oficial Lee	
