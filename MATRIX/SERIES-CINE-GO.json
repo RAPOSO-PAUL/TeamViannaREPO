@@ -1,6 +1,16 @@
 {
   "series": [
     {
+      "tmdb_id": 258742,
+      "type": "tv",
+      "added_at": "2026-11-10",
+      "episodes": [
+        { "season": 2, "episode": 1, "embeds": [ "https://mgeb.lat/embed/258742/2/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP01'></iframe>", "https://redeflixapi.click/serie/258742/2/1", "https://myembed.biz/serie/258742/2/1" ] },
+		{ "season": 2, "episode": 2, "embeds": [ "https://mgeb.lat/embed/258742/2/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP02'></iframe>", "https://redeflixapi.click/serie/258742/2/2", "https://myembed.biz/serie/258742/2/2" ] },
+		{ "season": 2, "episode": 3, "embeds": [ "https://mgeb.lat/embed/258742/2/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP03'></iframe>", "https://redeflixapi.click/serie/258742/2/3", "https://myembed.biz/serie/258742/2/3" ] }
+      ]
+    },
+	{
       "tmdb_id": 258989,
       "type": "tv",
       "added_at": "2026-11-09",

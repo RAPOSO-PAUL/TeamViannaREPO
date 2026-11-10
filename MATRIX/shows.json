@@ -1,6 +1,12 @@
 {
   "shows": [
     {
+      "tmdb_id": 258742,
+      "type": "tv",
+      "added_at": "2026-11-10",
+	  "youtube":"Grc8krCkF1Q"
+    },
+	{
       "tmdb_id": 258989,
       "type": "tv",
       "added_at": "2026-11-09",

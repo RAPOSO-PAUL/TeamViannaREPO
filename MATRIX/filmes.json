@@ -1,6 +1,20 @@
 {
 "movies":[
 {
+  "tmdb_id":1483525,
+  "type":"movie",
+  "added_at":"2026-11-10",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1483525"},
+	{"name":"PLAYER 2","embed":"<iframe src='https://redecanais.by/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=AMRPSVL'></iframe>"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.click/filme/1483525"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1483525"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:15b823f08e7370494aff796a78b50c90f165201e&dn=Amor%20Poss%C3%ADvel%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=4267712484&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:a3b4ria7ahbzhjlphpytr65xpvzugskw&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Amor+Poss%C3%ADvel.2026.1080p.WEB-DL.x264.DUAL.5.1"}
+  ],
+  "youtube":"KM9JEemzqGk"
+},
+{
   "tmdb_id":1263337,
   "type":"movie",
   "added_at":"2026-11-09",
