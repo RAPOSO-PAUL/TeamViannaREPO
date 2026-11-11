@@ -1,4 +1,4 @@
-#gerado	1794389542965
+#gerado	1794419800446
 421594	112727	m3u8	Nana and Kaoru	
 1146058	106201	m3u8	O Peixe Pout-Pout	
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
@@ -2237,7 +2237,7 @@
 991247	103049	mp4	Uma Emboscada para o Rei	
 8374	103026	mp4	Santos Justiceiros	
 74523	103009	mp4	Nascido Para Correr	
-9876	103006	mp4	Pare! Senão Mamãe Atira	
+9876	103006	m3u8	Pare! Senão Mamãe Atira	
 49527	102993	m3u8	À Beira do Abismo	
 80741	102985	mp4	Initial D Third Stage	
 2207	102981	mp4	16 Quadras	
@@ -4287,7 +4287,7 @@
 845781	1103	mp4	Operação Natal	
 939243	1086	m3u8	Sonic 3: O Filme	
 575265	1084	m3u8	Missão: Impossível - O Acerto Final	
-1504635	1071	mp4	Mar Branco	
+1504635	1071	m3u8	Mar Branco	
 557	1060	m3u8	Homem-Aranha	
 559	1055	mp4	Homem-Aranha 3	
 1930	1054	mp4	O Espetacular Homem-Aranha	
@@ -5176,7 +5176,7 @@
 773	103015	mp4	Pequena Miss Sunshine	
 55465	103014	mp4	O Natal Maluco de Harold e Kumar	
 35320	103013	mp4	Escola da Vida	
-12096	103007	mp4	A Pantera Cor-de-Rosa	
+12096	103007	m3u8	A Pantera Cor-de-Rosa	
 1008651	103003	mp4	Vidas de Ponta-Cabeça	
 10542	102990	mp4	A Camisinha Assassina	
 14405	102986	mp4	Perdido pra Cachorro	
@@ -10447,7 +10447,7 @@
 796	102723	mp4	Segundas Intenções	
 37993	102714	m3u8	Anjos do Sol	
 211052	102712	m3u8	Miss Violência	
-115782	102705	mp4	Jobs	
+115782	102705	m3u8	Jobs	
 1696	102683	m3u8	Rejeitados pelo Diabo	
 31046	102678	m3u8	Crimes no Paraíso	
 1232449	102672	mp4	Corações Jovens	
@@ -14317,7 +14317,7 @@
 1236470	689	mp4	O Ônibus Perdido	
 1242404	688	mp4	Steve	
 1212113	663	m3u8	Virgínia e Adelaide	
-1484640	636	m3u8	Limpa	
+1484640	636	mp4	Limpa	
 1630	624	mp4	O Povo Contra Larry Flynt	
 1214509	587	mp4	Natureza Violenta	
 1264573	571	m3u8	Amor e Obsessão	
@@ -14496,7 +14496,7 @@
 849877	103112	mp4	Joey & Ella: Uma Amizade Extraordinária	
 24883	103040	mp4	O Regresso do Corcel Negro	
 1081334	103033	mp4	Coração de Campeão	
-1058622	103001	mp4	Meus Pais Foram Abduzidos (e Agora Me Sinto um Completo Estranho)	
+1058622	103001	m3u8	Meus Pais Foram Abduzidos (e Agora Me Sinto um Completo Estranho)	
 32302	102994	m3u8	3 Ninjas: Aventura na Mega Mountain	
 110416	102992	m3u8	A Canção do Mar	
 9325	102865	mp4	Mogli: O Menino Lobo	
@@ -18599,7 +18599,6 @@
 485774	13996	m3u8	Vende-se Esta Casa	
 492611	13991	m3u8	Os Órfãos	
 340103	13949	m3u8	Um Monstro no Caminho	
-662989	13944	m3u8	Savage Creatures	
 635772	13892	m3u8	Forasteiros Malditos	
 707214	13865	m3u8	Até o Final	
 578	13858	mp4	Tubarão	
@@ -18873,7 +18872,7 @@
 744857	8655	mp4	O Mal que Nos Habita	
 645516	8654	m3u8	Noite das Vampiras	
 1062413	8641	m3u8	Heretic	
-1073079	8640	mp4	Cabras da Morte	
+1073079	8640	m3u8	Cabras da Morte	
 886778	8635	m3u8	Sins of the Father	
 1140866	8629	m3u8	Sede de Sangue	
 1046210	8617	m3u8	Tumbal Kanjeng Iblis	
@@ -20295,7 +20294,7 @@
 7295	46808	mp4	8mm 2: Oito Milímetros 2	
 522466	46592	mp4	Terras Perigosas	
 258284	46247	mp4	Um Passado Sombrio	
-290098	46223	mp4	A Criada	
+290098	46223	m3u8	A Criada	
 351211	46153	mp4	Bruxa de Blair	
 1213	46076	mp4	O Talentoso Ripley	
 869	45873	mp4	Planeta dos Macacos	
