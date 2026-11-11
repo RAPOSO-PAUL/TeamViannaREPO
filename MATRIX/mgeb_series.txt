@@ -1,4 +1,4 @@
-#gerado	1794362383626
+#gerado	1794389591148
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -1306,7 +1306,6 @@
 38324	10329	mp4	Fly, o Pequeno Guerreiro	
 73021	10326	mp4	(Des)encanto	
 76063	10325	mp4	Citrus	
-73946	10322	mp4	INUYASHIKI O ÚLTIMO HERÓI	
 71024	10315	mp4	Castlevania	
 65383	10309	mp4	Love Live! Sunshine!!	
 68574	10307	mp4	The Disappearance of Nagato Yuki-Chan	
@@ -3838,7 +3837,6 @@
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
 258989	112729	mp4	Muhammad Ali: O Maior	
-93742	112728	mp4	Chamas do Destino	
 303044	112697	mp4	Campus Drivers	
 288458	106049	mp4	Ben-Hur: A Série	
 340553	105992	mp4	O Curioso Coração do Oficial Lee	
