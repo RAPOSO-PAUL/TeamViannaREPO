@@ -1,7 +1,9 @@
 {
   "_como_usar": "Um ator por linha, na ordem da tela. tmdb_id = o número da PESSOA no TMDB (o da página dela: themoviedb.org/person/NUMERO-nome). foto e titulos são opcionais.",
   "atores": [
-    { "nome": "NOME DO ATOR 1", "tmdb_id": 0 },
-    { "nome": "NOME DA ATRIZ 2","tmdb_id": 0 }
+    { "nome": "Denzel Washington", "tmdb_id": 5292 },
+    { "nome": "Mel Gibson","tmdb_id": 2461 },
+	{ "nome": "Sylvester Stallone","tmdb_id": 16483 },
+	{ "nome": "Samuel L. Jackson","tmdb_id": 2231 }
   ]
 }
