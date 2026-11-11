@@ -1,6 +1,20 @@
 {
 "movies":[
 {
+  "tmdb_id":1817773,
+  "type":"movie",
+  "added_at":"2026-11-11",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1817773"},
+	{"name":"PLAYER 2","embed":"<iframe src='https://redecanais.by/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=ALTAGMAOCSODSRLGS'></iframe>"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.click/filme/1817773"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1817773"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:2e2eb44454f8dd5ae006a465e7ba38b9bc01bb7f&dn=Alta%20Gama%20-%20O%20Caso%20dos%20Rel%C3%B3gios%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2056330632&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:yacd3eefgq54wzsejazrpa6xxwmjb4bp&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Alta.Gama.O.Caso.dos.Relogios.2026.1080p.WEB-DL.DUAL.5.1"}
+  ],
+  "youtube":"W2LEi8s5xQI"
+},
+{
   "tmdb_id":1380417,
   "type":"movie",
   "added_at":"2026-11-10",
