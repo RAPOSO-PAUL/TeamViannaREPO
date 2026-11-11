@@ -1,6 +1,6 @@
 # Relatório da aba temática
 
-Rodada de 11/11/2026 11:54 (Brasília).
+Rodada de 11/11/2026 11:57 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
@@ -429,7 +429,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - ❌ `71340` Krypton — fora: "planeta natal" na sinopse
 - ❌ `72743` O Peso da Verdade — fora: "cidade natal" na sinopse
 - ❌ `79357` Carter — fora: "cidade natal" na sinopse
-- ❌ `82001` Roswell, New Mexico — fora: "cidade natal" na sinopse
+- ❌ `82001` Roswell, Novo México — fora: "cidade natal" na sinopse
 - ❌ `86164` Briarpatch — fora: "cidade natal" na sinopse
 - ❌ `88713` We Are Who We Are — fora: "cidade natal" na sinopse
 - ❌ `99121` Walker — fora: "cidade natal" na sinopse
