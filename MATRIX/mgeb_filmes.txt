@@ -1,4 +1,4 @@
-#gerado	1794344035116
+#gerado	1794362335970
 1146058	106201	m3u8	O Peixe Pout-Pout	
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
 791523	106166	m3u8	O Bosque Selvagem	
@@ -2246,7 +2246,7 @@
 1149953	102971	mp4	Sem Saída	
 8982	102933	mp4	O Protetor	
 1151334	102917	m3u8	Motorista de Fuga	
-1656	102903	mp4	A Lenda do Zorro	
+1656	102903	m3u8	A Lenda do Zorro	
 1511752	102895	mp4	UFC on ESPN 71: Taira vs. Park	
 139567	102883	m3u8	Fogo Contra Fogo	
 331576	102853	m3u8	Comando Final 2: Hora das Consequências	
@@ -2970,7 +2970,7 @@
 15945	75743	mp4	A Caminho da Guerra	
 12715	75720	mp4	Os Aventureiros do Fogo	
 868668	75661	mp4	Mestre Bhagat Singh	
-10196	75647	mp4	O Último Mestre do Ar	
+10196	75647	m3u8	O Último Mestre do Ar	
 547475	75637	mp4	Rendel 2: Ciclo da Vingança	
 1744462	75589	mp4	Grand Theft Auto VI: Um Olhar Estendido	
 1414048	75292	mp4	Day of Reckoning	
@@ -4119,7 +4119,7 @@
 76338	2388	mp4	Thor: O Mundo Sombrio	
 68721	2387	m3u8	Homem de Ferro 3	
 1771	2379	m3u8	Capitão América: O Primeiro Vingador	
-1380291	2359	mp4	Jack Ryan de Tom Clancy: Guerra Fantasma	
+1380291	2359	m3u8	Jack Ryan de Tom Clancy: Guerra Fantasma	
 894205	2339	mp4	Lobisomem na Noite	
 225938	2335	mp4	Homem Aranha: O Desafio do Dragão	
 1051486	2311	m3u8	O Rei Tirano	
@@ -5196,7 +5196,7 @@
 1214573	102875	m3u8	O Sertão Vai Vir ao Mar	
 2665	102873	mp4	Apertem os Cintos, o Piloto Sumiu 2	
 1144326	102870	m3u8	Murilo Couto: Leso	
-472338	102857	mp4	Terror no Pântano 4	
+472338	102857	m3u8	Terror no Pântano 4	
 104859	102838	m3u8	Mac & Devin Vão Para a Escola	
 109443	102835	mp4	Tudo por um Furo	
 597231	102825	m3u8	Caindo em Pé	
@@ -5249,7 +5249,7 @@
 1623256	102482	m3u8	O Temporal	
 18480	102464	mp4	Brüno	
 1790351	102459	mp4	De Repente Adolescente	
-10358	102438	mp4	Pagando Bem, Que Mal Tem?	
+10358	102438	m3u8	Pagando Bem, Que Mal Tem?	
 816707	102429	mp4	Herdeiros Indesejados	
 19109	102428	mp4	Quase Virgem	
 94363	102421	mp4	Caipira	
@@ -6936,7 +6936,7 @@
 858	15041	mp4	Sintonia de Amor	
 260535	15026	mp4	Os Batutinhas: Uma Nova Aventura	
 11565	15017	mp4	Vovó... Zona 2	
-11908	15016	mp4	Terror no Pântano	
+11908	15016	m3u8	Terror no Pântano	
 2800	15005	mp4	Dizem por aí...	
 10246	14986	m3u8	Porky's: A Casa do Amor e do Riso	
 54004	14979	m3u8	Passaporte para Paris	
@@ -12441,7 +12441,7 @@
 1412987	76068	mp4	Deuses da Peste	
 1219590	76066	m3u8	Praia Formosa	
 1074731	76042	mp4	O Estranho	
-1536559	76041	mp4	Felicidade em Dobro	
+1536559	76041	m3u8	Felicidade em Dobro	
 1136603	76040	mp4	Quando Eu Me Encontrar	
 435707	76003	m3u8	Peles	
 1517123	75886	mp4	No Caminho	
@@ -12978,7 +12978,6 @@
 515741	15117	mp4	Anjo Meu	
 464733	15104	mp4	Tráfico de Mulheres	
 372227	15058	mp4	Onde Está Deus?	
-52772	15054	m3u8	A Chama Que Não Se Apaga	
 89455	15030	m3u8	360: A vida é um círculo perfeito	
 324786	15011	mp4	Até o Último Homem	
 557818	15008	m3u8	Um Amor do Passado	
@@ -13497,7 +13496,7 @@
 334543	8413	m3u8	Lion: Uma Jornada para Casa	
 396371	8394	m3u8	A Grande Jogada	
 417565	8390	m3u8	O Filho Eterno	
-441168	8381	mp4	Aluna Exemplar e Estrela Pornô	
+441168	8381	m3u8	Aluna Exemplar e Estrela Pornô	
 347629	8377	m3u8	Honra ao Mérito	
 210479	8375	m3u8	Locke	
 249660	8374	mp4	Deus Não Está Morto	
@@ -14161,7 +14160,7 @@
 525102	2556	m3u8	Girl Lost - A Garota de Programa	
 491472	2534	m3u8	No Portal da Eternidade	
 1156104	2465	mp4	O Chamado da Água	
-1405945	2360	mp4	Covil	
+1405945	2360	m3u8	Covil	
 1248711	2297	m3u8	So Fades the Light	
 1019871	2265	mp4	Pequenos Pecados	
 974950	2237	m3u8	Emilia Pérez	
@@ -17560,6 +17559,7 @@
 1268609	62	mp4	Pavana	
 1316092	58	mp4	“O Morro dos Ventos Uivantes”	
 1131822	53	m3u8	Traição Entre Amigas	
+1481603	112730	m3u8	Vizinhos vs. Monstros	
 1278593	106208	m3u8	Novo Eu	
 1314832	106168	m3u8	Thingy	
 1538774	106044	m3u8	Shadows of Willow Cabin	
@@ -18331,9 +18331,9 @@
 11357	85961	mp4	Halloween 4: O Retorno de Michael Myers	
 12699	85762	m3u8	Hellraiser: O Mundo do Inferno	
 17455	85761	mp4	Hellraiser: O Retorno dos Mortos	
-11246	85760	m3u8	Hellraiser: Caçador do Inferno	
+11246	85760	mp4	Hellraiser: Caçador do Inferno	
 12597	85759	m3u8	Hellraiser: Inferno	
-612882	85683	mp4	O Lago da Morte	
+612882	85683	m3u8	O Lago da Morte	
 790	85681	mp4	A Bruma Assassina	
 439015	85654	m3u8	Slender Man: Pesadelo Sem Rosto	
 631583	85567	m3u8	O Sacrifício	
