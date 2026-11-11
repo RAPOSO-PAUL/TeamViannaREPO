@@ -3,6 +3,8 @@
   "guia": "https://raw.githubusercontent.com/RAPOSO-PAUL/GUIA-TV/refs/heads/main/guia.json",
   "acervo_filmes": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/filmes.json",
   "acervo_series": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/series.json",
+  "novelas": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/NOVELAS.json",
+  "atores": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/atores.json",
   "metadados": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/metadados.json",
   "tema": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/tema-pronto.json",
   "background": "https://i.ibb.co/NdvhVfGn/fundo.jpg",
