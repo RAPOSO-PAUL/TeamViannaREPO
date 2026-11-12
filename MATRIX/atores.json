@@ -1,7 +1,8 @@
 {
   "_como_usar": "Um ator por linha, na ordem da tela. tmdb_id = o número da PESSOA no TMDB (o da página dela: themoviedb.org/person/NUMERO-nome). foto e titulos são opcionais.",
   "atores": [
-    { "nome": "Anne Hathaway","tmdb_id": 1813 },
+    { "nome": "Arnold Schwarzenegger","tmdb_id": 1100 },
+	{ "nome": "Anne Hathaway","tmdb_id": 1813 },
 	{ "nome": "Brad Pitt","tmdb_id": 287 },
     { "nome": "Denzel Washington", "tmdb_id": 5292 },
     { "nome": "Mel Gibson","tmdb_id": 2461 },
