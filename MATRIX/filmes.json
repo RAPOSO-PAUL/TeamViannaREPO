@@ -4,6 +4,7 @@
   "tmdb_id":1146058,
   "type":"movie",
   "added_at":"2026-11-12",
+  "kids":["Chefinhos", "Prezinhos", "Aborrecentes"],
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1146058"},
 	{"name":"PLAYER 2","embed":"<iframe src='https://redecanais.by/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=OPXEPOUTPOUT'></iframe>"},
