@@ -1,6 +1,20 @@
 {
 "movies":[
 {
+  "tmdb_id":1146058,
+  "type":"movie",
+  "added_at":"2026-11-12",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1146058"},
+	{"name":"PLAYER 2","embed":"<iframe src='https://redecanais.by/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=OPXEPOUTPOUT'></iframe>"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.click/filme/1146058"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1146058"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:2012eb019e03bde565c01d441b487f998dcc809b&dn=O%20Peixe%20Pout-Pout%202026%20WEB-DL%201080p%20x264%20DUAL%202.0&xl=2425994150&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+    {"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:3ywqkka5ynsltveael7c42fktumcszjl&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.O.Peixe.Pout-Pout.2026.1080p.WEB-DL.DUAL.2.0"}
+  ],
+  "youtube":"E38o5HPJKmA"
+},
+{
   "tmdb_id":1743695,
   "type":"movie",
   "added_at":"2026-11-11",
