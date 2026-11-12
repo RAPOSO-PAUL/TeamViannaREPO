@@ -1,4 +1,4 @@
-#gerado	1794419800446
+#gerado	1794444597804
 421594	112727	m3u8	Nana and Kaoru	
 1146058	106201	m3u8	O Peixe Pout-Pout	
 1760311	106181	m3u8	Barbie em O Quebra-Nozes	
@@ -630,7 +630,7 @@
 175574	66255	mp4	Bons de Bico	
 24480	66251	mp4	Parcialmente Nublado	
 739486	66243	mp4	Subsolo	
-1484453	66241	mp4	Snoopy Apresenta - Um Musical de Verão	
+1484453	66241	m3u8	Snoopy Apresenta - Um Musical de Verão	
 458777	66239	mp4	Zoolander: Super Modelo	
 850818	66238	mp4	Barbie: Cidade Grande e Muitos Sonhos	
 875628	66236	mp4	Thomas & Seus Amigos: Corrida pela Taça Sodor	
@@ -2974,7 +2974,6 @@
 10196	75647	m3u8	O Último Mestre do Ar	
 547475	75637	mp4	Rendel 2: Ciclo da Vingança	
 1744462	75589	mp4	Grand Theft Auto VI: Um Olhar Estendido	
-1414048	75292	mp4	Day of Reckoning	
 19576	73692	m3u8	One Piece: O Filme	
 16456	71623	mp4	O Corvo: Vingança Maldita	
 5844	69107	mp4	ALIVE	
@@ -3043,7 +3042,7 @@
 9448	54878	mp4	Tiro e Queda	
 16325	54874	mp4	A Chamada	
 963746	54817	mp4	Até o Limite da Honra	
-1438203	54716	m3u8	Shogun's Ninja	
+1438203	54716	mp4	Shogun's Ninja	
 38940	54690	mp4	Homem de Guerra	
 26127	54687	mp4	Fuga Mortal	
 67097	54683	mp4	Espada de Sangue	
@@ -8718,7 +8717,7 @@
 1559456	103030	mp4	Em Busca da Harmonia: A Visão de um Rei	
 67984	103028	mp4	Surf Adventures: O Filme	
 1403477	103023	mp4	Hoops, Hopes & Dreams	
-238529	103022	mp4	Triangle: Lembranças do Incêndio	
+238529	103022	m3u8	Triangle: Lembranças do Incêndio	
 1051396	102991	mp4	A Camisa Mais Pesada do Mundo	
 1259080	102973	mp4	Sozinho no Fim do Mundo	
 1555381	102972	mp4	Terceirão - Um Ano, Quatro Vidas	
@@ -8747,7 +8746,7 @@
 1531747	102911	m3u8	O Aprendiz de Serial Killer	
 1530723	102910	m3u8	O Papa que Venceu o Comunismo	
 1137480	102893	mp4	Reggae Resistência	
-1484267	102891	mp4	Desastre Total: Mães Detetives	
+1484267	102891	m3u8	Desastre Total: Mães Detetives	
 888917	102840	m3u8	Os Reis da Fraude	
 1115191	102767	m3u8	Contaminação: A Verdade Sobre o que Comemos	
 1045533	102759	m3u8	Escola Base: Um Repórter Enfrenta o Passado	
@@ -8840,7 +8839,7 @@
 1641961	100782	m3u8	Untold: A Morte e a Vida de Lamar Odom	
 1105934	100780	mp4	1968 - Um Ano Na Vida	
 1704846	100773	m3u8	Instadocs: Alex Murdaugh, Unconvicted	
-1477453	100767	mp4	Desastre Total: Festival Astroworld	
+1477453	100767	m3u8	Desastre Total: Festival Astroworld	
 1734724	100764	m3u8	Preta - Eu Não Ando Só	
 921621	100753	mp4	Uz laika malas	
 1106590	100744	mp4	Rejeito	
@@ -12334,7 +12333,7 @@
 40165	78897	mp4	Salomé	
 472516	78892	mp4	O Momento em que Você se Apaixona	
 1195100	78829	m3u8	Marco: A Verdade Inventada	
-1480424	78819	m3u8	Karla	
+1480424	78819	mp4	Karla	
 46645	77665	mp4	Querô	
 1372	77652	mp4	Diamante de Sangue	
 72213	77651	mp4	Corajosos	
@@ -16246,7 +16245,7 @@
 445040	90064	mp4	O Despertar De Um Assassino	
 582494	89921	mp4	O Mensageiro	
 369698	88503	mp4	Viking	
-1380417	87959	mp4	No Limite da Justiça	
+1380417	87959	m3u8	No Limite da Justiça	
 977942	87889	m3u8	O Rebelde	
 606	82787	mp4	Entre Dois Amores	
 242452	81787	mp4	O Advogado	
@@ -18326,7 +18325,7 @@
 26957	87892	m3u8	O Mestre dos Brinquedos 4	
 26954	87891	m3u8	O Mestre dos Brinquedos II	
 1423191	87872	m3u8	Resident Evil	
-346364	87268	mp4	It: A Coisa	
+346364	87268	m3u8	It: A Coisa	
 10987	85963	mp4	Halloween 6: A Última Vingança	
 11361	85962	mp4	Halloween 5: A Vingança de Michael Myers	
 11357	85961	mp4	Halloween 4: O Retorno de Michael Myers	
@@ -18390,7 +18389,7 @@
 964849	72391	mp4	O Filho da Escuridão	
 1291595	72162	mp4	Sobrenatural: Agora Entre Nós	
 1578416	71799	mp4	Outsiders	
-1477712	71276	mp4	O Sorveteiro	
+1477712	71276	m3u8	O Sorveteiro	
 787747	68592	mp4	Segredo Obscuro	
 40095	66672	mp4	Um Tira do Outro Mundo	
 55377	66548	mp4	Amityville 4 - A Fuga do Mal	
@@ -18662,7 +18661,7 @@
 744746	12487	m3u8	O Alerta	
 879879	12465	mp4	Aranha Gigante no Sótão	
 801271	12450	mp4	O Mundo dos Esquecidos	
-808090	12432	mp4	A Casa no Bayou	
+808090	12432	m3u8	A Casa no Bayou	
 477036	12405	m3u8	A Sonata Maldita	
 754934	12404	m3u8	Herdeiro	
 614200	12401	m3u8	Eat Brains Love	
@@ -19876,7 +19875,7 @@
 543915	103063	mp4	The Boat	
 121677	103042	mp4	O Relutante Fundamentalista	
 4437	103011	mp4	2010: O Ano em que Faremos Contato	
-1018	103004	mp4	Cidade dos Sonhos	
+1018	103004	m3u8	Cidade dos Sonhos	
 1415974	103000	mp4	Na Solidão da Noite: Assassinatos na Mansão Bansal	
 414523	102979	mp4	16 Extremos	
 459928	102975	mp4	12 Feet Deep	
