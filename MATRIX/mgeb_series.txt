@@ -1,4 +1,4 @@
-#gerado	1794477395151
+#gerado	1794507895717
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -392,6 +392,10 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
+336654	112751	mp4	My Girlfriend's Friend	
+134667	112750	mp4	Reincarnated as a Sword	
+323937	112749	mp4	Dandivine	
+335790	112748	mp4	I'm Dating a Dark Summoner	
 292554	112746	mp4	Marry Me, Let's Have a Baby!	
 249891	112745	mp4	Yoasobi Gurashi!	
 146339	112744	mp4	Spare Me, Great Lord!	
