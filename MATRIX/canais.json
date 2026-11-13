@@ -635,7 +635,7 @@
       ]
     },
     {
-      "nome": "Premiere",
+      "nome": "Premiere E PPV",
       "canais": [
         {
           "nome": "PREMIERE HD1",
@@ -871,13 +871,8 @@
           "nome": "PREMIERE 8 HD5",
           "imagem": "https://i.ibb.co/SXHnfcyP/premiere-8.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=premiere8"
-        }
-      ]
-    },
-	{
-      "nome": "Pay Per View",
-      "canais": [
-	    {
+        },
+		{
           "nome": "HBO MAX HD1",
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=max"
@@ -1971,6 +1966,36 @@
           "nome": "CartooNetwork HD6",
           "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=cartoon"
+        },
+		{
+          "nome": "Cartoonito HD1",
+          "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cartoonito"
+        },
+		{
+          "nome": "Cartoonito HD2",
+          "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
+          "embed": "https://w7.embedtv.cc//cartoonito"
+        },
+		{
+          "nome": "Cartoonito HD3",
+          "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
+          "embed": "https://rdcanais.org/cartoonito"
+        },
+		{
+          "nome": "Cartoonito HD4",
+          "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
+          "embed": "https://v1.rdembed.lat/cartoonito"
+        },
+		{
+          "nome": "Cartoonito HD5",
+          "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=cartoonito"
+        },
+		{
+          "nome": "Cartoonito HD6",
+          "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=cartoonito"
         }
       ]
     },
