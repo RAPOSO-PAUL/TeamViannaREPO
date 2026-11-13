@@ -1180,7 +1180,7 @@
       ]
     },
 	{
-      "nome": "Telecine",
+      "nome": "Telecine E HBO",
       "canais": [
         {
           "nome": "TELECINE ACTION HD1",
@@ -1361,13 +1361,8 @@
           "nome": "TELECINE CULT HD6",
           "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=telecinecult"
-        }
-      ]
-    },
-	{
-      "nome": "HBO",
-      "canais": [
-        {
+        },
+		{
           "nome": "HBO HD1",
           "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=hbo"
@@ -1941,6 +1936,41 @@
           "nome": "Universal HD6",
           "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=universal"
+        }
+      ]
+    },
+	{
+      "nome": "INFANTIL",
+      "canais": [
+        {
+          "nome": "CartooNetwork HD1",
+          "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=cartoonnetwork"
+        },
+		{
+          "nome": "CartooNetwork HD2",
+          "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
+          "embed": "https://w7.embedtv.cc/cartoonnetwork"
+        },
+		{
+          "nome": "CartooNetwork HD3",
+          "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
+          "embed": "https://rdcanais.org/cartoonnetwork"
+        },
+		{
+          "nome": "CartooNetwork HD4",
+          "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
+          "embed": "https://v1.rdembed.lat/cartoonnetwork"
+        },
+		{
+          "nome": "CartooNetwork HD5",
+          "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=cartoonnetwork"
+        },
+		{
+          "nome": "CartooNetwork HD6",
+          "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=cartoon"
         }
       ]
     },
