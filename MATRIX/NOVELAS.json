@@ -1,6 +1,14 @@
 {
   "series": [
     {
+      "tmdb_id": 328440,
+      "type": "tv",
+      "added_at": "2026-11-13",
+      "episodes": [
+        { "season": 1, "episode": 1, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=LANMNHATERACP001'></iframe>", "https://mgeb.lat/embed/328440/1/1", "https://redeflixapi.click/serie/328440/1/1", "https://myembed.biz/serie/328440/1/1" ] }
+      ]
+    },
+	{
       "tmdb_id": 63109,
       "type": "tv",
       "added_at": "2026-11-12",
