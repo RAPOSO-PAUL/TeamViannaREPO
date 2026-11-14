@@ -1,4 +1,4 @@
-#gerado	1794613246332
+#gerado	1794638452437
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -392,6 +392,14 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
+81044	113119	mp4	Uma sentada das alturas	
+65439	113113	mp4	Big Order	
+72505	113112	mp4	In Another World With My Smartphone	
+80464	113111	mp4	Holmes of Kyoto	
+71000	113109	mp4	Tsugumomo	
+80628	113108	mp4	Yume Oukoku to Nemureru 100 Nin no Ouji-sama	
+80562	113107	mp4	Sete Sentidos da Re-União	
+68394	113053	mp4	Em Busca de Watership Down	
 134667	112750	mp4	Reincarnated as a Sword	
 323937	112749	mp4	Dandivine	
 335790	112748	mp4	I'm Dating a Dark Summoner	
@@ -1437,6 +1445,7 @@
 258901	477	mp4	SANDA	
 440023	95557	mp4	Policial de Aço Jiban - O Filme	
 858717	96260	mp4	Harry e Meghan: Escapando do Palácio	
+80713	113110	mp4	Um Chute no Meu Diabo!	
 303745	112733	mp4	Amor Disfarçado	
 112538	105674	mp4	Um Natal Nada Normal	
 111499	105665	mp4	De Brutas, Nada	
@@ -2351,6 +2360,7 @@
 279601	482	mp4	Homem X Bebê	
 285770	462	mp4	Desprazer em Te Conhecer	
 225647	290	mp4	Boots	
+292741	112986	mp4	Noturno	
 123377	101665	mp4	Dom	
 100543	101653	mp4	Penance	
 99509	101649	mp4	Freud	
@@ -2855,6 +2865,7 @@
 291339	261	mp4	Memória de um Assassino	
 206828	198	mp4	DTF St. Louis	
 213306	132	mp4	Detetive Alex Cross	
+70508	113029	mp4	Cinco que Voltaram	
 111726	105673	mp4	Move	
 107904	105663	mp4	Linha de Tensão	
 296466	103075	mp4	Marília Mendonça: Sentimento Louco	
@@ -3844,6 +3855,10 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+4613	113114	mp4	Band of Brothers	
+321958	112988	mp4	Line of Fire	
+323903	112985	mp4	The Terror: Devil in Silver	
+249565	112983	mp4	The Good Daughter	
 270431	112739	mp4	Quando Eu Encontrar a Lua	
 334700	112736	mp4	Dom de Iludir	
 291507	112735	mp4	O Corpo	
