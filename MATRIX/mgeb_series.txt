@@ -1,4 +1,4 @@
-#gerado	1794638452437
+#gerado	1794669110862
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -392,6 +392,9 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
+42951	113122	mp4	Kaiji	
+42877	113121	mp4	Akagi	
+80463	113120	mp4	Mr. TONEGAWA Middle Management Blues	
 81044	113119	mp4	Uma sentada das alturas	
 65439	113113	mp4	Big Order	
 72505	113112	mp4	In Another World With My Smartphone	
