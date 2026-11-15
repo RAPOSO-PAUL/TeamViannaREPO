@@ -1,17 +1,17 @@
 # Relatório da aba temática
 
-Rodada de 15/11/2026 11:33 (Brasília).
+Rodada de 15/11/2026 13:19 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
 - Datas: 10-21 a 01-06 · ativo: True
-- **455 filmes** e **5 séries**
+- **456 filmes** e **5 séries**
 - Animação: 42 filmes, 1 séries
-- Família: 100 filmes, 1 séries
+- Família: 101 filmes, 1 séries
 - Clássicos: 9 filmes, 0 séries
-- Romances: 194 filmes, 0 séries
+- Romances: 195 filmes, 0 séries
 
 ### Filmes
 
@@ -299,6 +299,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `1401318` Um Natal Ex-pecial — "natal" no nome
 - `1425122` Um Natal Bem Jonas Brothers — "natal" no nome
 - `1441563` O Segredo do Papai Noel — "papai noel" no nome
+- `1559980` Gospel de Natal — "natal" no nome
 - `1570488` O Natal Perfeito de um Cachorro — "natal" no nome
 - `1585269` A Magia do Natal — "natal" no nome
 - `345` De Olhos Bem Fechados — palavra-chave "christmas party"
@@ -414,7 +415,6 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `1218762` Feliz Assalto! — palavra-chave "christmas"
 - `1234811` Nosso Segredinho — palavra-chave "christmas"
 - `1255775` Merv — palavra-chave "christmas"
-- `1290287` Um Amor Feito de Neve — palavra-chave "christmas"
 
 ### Séries
 
