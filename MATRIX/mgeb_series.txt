@@ -1,4 +1,4 @@
-#gerado	1794735345399
+#gerado	1794762995018
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -392,6 +392,7 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
+293001	113145	mp4	Green Arrow	
 307903	113143	mp4	HORROR COLLECTOR	
 42951	113122	mp4	Kaiji	
 42877	113121	mp4	Akagi	
