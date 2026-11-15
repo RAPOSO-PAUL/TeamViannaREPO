@@ -1,6 +1,21 @@
 {
 "movies":[
 {
+  "tmdb_id":1825836,
+  "type":"movie",
+  "added_at":"2026-11-15",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1825836"},
+	{"name":"PLAYER 2","embed":"https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277326"},
+    {"name":"PLAYER 3","embed":"https://redeflixapi.click/filme/1825836"},
+    {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1825836"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:b08e834b3bd55a983296543131b9fb14b2577f37&dn=Vingadores%20-%20Ultimato%20Encore%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=4838683795&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:f7fa3b4c7bdcaf41014612343143548f5d60eccc&dn=Vingadores.Ultimato.Encore.2026.WEB-DL.1080p.x264.DUAL.5.1-STARCKFILMES&xl=4834667542&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fp2p.publictracker.xyz%3A6969%2Fanunciar&tr=udp%3A%2F%2Fevan.im%3A6969%2Fanunciar&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fanunciar&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fanunciar&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Fr.l5.ca%3A6969%2Fanunciar&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.yemekyedim.com%3A443%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.vraphim.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fu6.trakx.crim.ist%3A1337%2Fannounce&tr=https%3A%2F%2Ftrackers.mlsub.net%3A443%2Fannounce"},
+	{"name":"1080p DUAL 3","magnet":"magnet:?xt=urn:btih:30464cde70c725b6bafd746adb13e85944ab7697&dn=Vingadores.Ultimato.Encore.2026.WEB-DL.1080p.x264.FULLHD.DUAL.5.1-STARCKFILMES&xl=9174740484&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fanunciar&tr=udp%3A%2F%2Fp2p.publictracker.xyz%3A6969%2Fanunciar&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fu6.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.vraphim.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fr.l5.ca%3A6969%2Fanunciar&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fanunciar&tr=https%3A%2F%2Ftracker.yemekyedim.com%3A443%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=https%3A%2F%2Ftrackers.mlsub.net%3A443%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fanunciar"}
+  ],
+  "youtube":"HiAzj9HZQnE"
+},
+{
   "tmdb_id":1559980,
   "type":"movie",
   "added_at":"2026-11-15",
