@@ -11,6 +11,7 @@
 	{ "nome": "Samuel L. Jackson","tmdb_id": 2231 },
 	{ "nome": "Scarlett Johansson","tmdb_id": 1245 },
 	{ "nome": "Terry Crews","tmdb_id": 53256 },
-    { "nome": "Tom Cruise","tmdb_id": 500 }
+    { "nome": "Tom Cruise","tmdb_id": 500 },
+	{ "nome": "Will Smith","tmdb_id": 2888 }
   ]
 }
