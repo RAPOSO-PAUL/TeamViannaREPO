@@ -1,4 +1,4 @@
-#gerado	1794689290784
+#gerado	1794707989737
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -3858,6 +3858,7 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+100575	113123	mp4	Tyler Perry's Ruthless	
 4613	113114	mp4	Band of Brothers	
 321958	112988	mp4	Line of Fire	
 323903	112985	mp4	The Terror: Devil in Silver	
@@ -6138,6 +6139,7 @@
 299235	15288	mp4	ドSなペット	
 286049	2399	mp4	Kuro Gal a La Carte	
 95897	2328	mp4	Overflow: Transbordando	
+233002	113142	mp4	A Caverna de Petra	
 100809	105656	mp4	Nickelodeons Spyders	
 97441	101643	mp4	Dude, o Cãopanheiro	
 67457	99624	mp4	Sigmund e os Monstros Marinhos	
