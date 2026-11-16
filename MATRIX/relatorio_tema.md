@@ -1,6 +1,6 @@
 # Relatório da aba temática
 
-Rodada de 15/11/2026 16:51 (Brasília).
+Rodada de 15/11/2026 22:54 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
