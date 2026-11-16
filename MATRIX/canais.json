@@ -33,22 +33,22 @@
       "nome": "A FAZENDA 18",
       "canais": [
         {
-          "nome": "A Fazenda 18 HD1",
+          "nome": "A Fazenda 18 CAMv1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
           "embed": "https://w7.embedtv.cc/afazenda"
         },
 		{
-          "nome": "A Fazenda 18 HD2",
+          "nome": "A Fazenda 18 CAMv1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
           "embed": "https://v2.rdembed.lat/afazenda"
         },
 		{
-          "nome": "A Fazenda 18 HD3",
+          "nome": "A Fazenda 18 CAMv1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=afazenda"
         },
 		{
-          "nome": "A Fazenda 18 HD4",
+          "nome": "A Fazenda 18 CAMv1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
           "embed": "https://redecanais.care/canais-de-tv/player3/live.php?etv=afazenda"
         }
