@@ -1,4 +1,5 @@
-#gerado	1794811533620
+#gerado	1794854478900
+254630	113184	mp4	12 12 12	
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
 293607	102445	mp4	100 Dias de Mentiras	
@@ -392,7 +393,7 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
-293001	113145	mp4	Green Arrow	
+2129	116657	mp4	As Aventuras de Jimmy Neutron, O Menino Gênio	
 307903	113143	mp4	HORROR COLLECTOR	
 42951	113122	mp4	Kaiji	
 42877	113121	mp4	Akagi	
@@ -1712,7 +1713,6 @@
 285992	64611	mp4	โซ่รักอัคนี	
 254528	55097	mp4	O Falcão do Golfe	
 158251	54639	mp4	Amor e Intrigas	
-296437	54230	mp4	The Frontier Lord Begins with Zero Subjects	
 283609	54224	mp4	Super Subbu	
 295778	54070	mp4	Scrubs	
 245267	52214	mp4	Caught! Wild & Weird America	
@@ -3141,7 +3141,6 @@
 72572	94991	mp4	Hackers	
 330968	94871	mp4	O.J. Simpson: Verdades Nunca Vistas	
 106530	94866	mp4	A Indústria da Cura	
-158088	94865	mp4	800 metros	
 113647	94854	mp4	Cirurgiões Inovadores	
 222792	94803	mp4	O Império dos Chimpanzés	
 68545	94802	mp4	Captive: Histórias sobre Reféns	
@@ -3698,7 +3697,6 @@
 90837	9755	mp4	Isto É futebol	
 85431	9726	mp4	Maçonaria - Segredos Revelados	
 93557	9701	mp4	Os Imortais do Brasil	
-94813	9683	mp4	O Monstro ao Lado	
 75782	9664	mp4	One Strange Rock	
 96815	9661	mp4	Explicando O Sexo	
 98887	9654	mp4	Tudo ou nada: Seleçao Brasileira	
