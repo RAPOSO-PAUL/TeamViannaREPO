@@ -1862,7 +1862,7 @@
         { "season": 5, "episode": 8, "embeds": [ "https://mgeb.lat/embed/85077/5/8", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer26&subfolder=ondemand&vid=THCHSNOSECLHDT05EP08'></iframe>", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-134032", "https://redeflixapi.click/serie/85077/5/8", "https://myembed.biz/serie/85077/5/8" ] },
 		{ "season": 6, "episode": 1, "embeds": [ "https://mgeb.lat/embed/85077/6/1", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277209", "https://redeflixapi.click/serie/85077/6/1", "https://myembed.biz/serie/85077/6/1" ] },
 		{ "season": 6, "episode": 2, "embeds": [ "https://mgeb.lat/embed/85077/6/2", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277216", "https://redeflixapi.click/serie/85077/6/2", "https://myembed.biz/serie/85077/6/2" ] },
-		{ "season": 6, "episode": 3, "embeds": [ "https://mgeb.lat/embed/85077/6/3", "https://redeflixapi.click/serie/85077/6/3", "https://myembed.biz/serie/85077/6/3" ] }
+		{ "season": 6, "episode": 3, "embeds": [ "https://mgeb.lat/embed/85077/6/3", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277261", "https://redeflixapi.click/serie/85077/6/3", "https://myembed.biz/serie/85077/6/3" ] }
       ]
     },
     {
@@ -29447,15 +29447,16 @@
     {
       "tmdb_id": 304842,
       "type": "tv",
-      "added_at": "2026-10-30",
+      "added_at": "2026-11-15",
       "episodes": [
-        { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/304842/1/1", "https://redeflixapi.click/serie/304842/1/1", "https://myembed.biz/serie/304842/1/1" ] },
-        { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/304842/1/2", "https://redeflixapi.click/serie/304842/1/2", "https://myembed.biz/serie/304842/1/2" ] },
-        { "season": 1, "episode": 3, "embeds": [ "https://mgeb.lat/embed/304842/1/3", "https://redeflixapi.click/serie/304842/1/3", "https://myembed.biz/serie/304842/1/3" ] },
-        { "season": 1, "episode": 4, "embeds": [ "https://mgeb.lat/embed/304842/1/4", "https://redeflixapi.click/serie/304842/1/4", "https://myembed.biz/serie/304842/1/4" ] },
-        { "season": 1, "episode": 5, "embeds": [ "https://mgeb.lat/embed/304842/1/5", "https://redeflixapi.click/serie/304842/1/5", "https://myembed.biz/serie/304842/1/5" ] },
-        { "season": 1, "episode": 6, "embeds": [ "https://mgeb.lat/embed/304842/1/6", "https://redeflixapi.click/serie/304842/1/6", "https://myembed.biz/serie/304842/1/6" ] },
-        { "season": 1, "episode": 7, "embeds": [ "https://mgeb.lat/embed/304842/1/7", "https://redeflixapi.click/serie/304842/1/7", "https://myembed.biz/serie/304842/1/7" ] }
+        { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/304842/1/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP01'></iframe>", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-59531", "https://redeflixapi.click/serie/304842/1/1", "https://myembed.biz/serie/304842/1/1" ] },
+        { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/304842/1/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP02'></iframe>", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-59509", "https://redeflixapi.click/serie/304842/1/2", "https://myembed.biz/serie/304842/1/2" ] },
+        { "season": 1, "episode": 3, "embeds": [ "https://mgeb.lat/embed/304842/1/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP03'></iframe>", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-59527", "https://redeflixapi.click/serie/304842/1/3", "https://myembed.biz/serie/304842/1/3" ] },
+        { "season": 1, "episode": 4, "embeds": [ "https://mgeb.lat/embed/304842/1/4", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP04'></iframe>", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-242980", "https://redeflixapi.click/serie/304842/1/4", "https://myembed.biz/serie/304842/1/4" ] },
+        { "season": 1, "episode": 5, "embeds": [ "https://mgeb.lat/embed/304842/1/5", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP05'></iframe>", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-242981", "https://redeflixapi.click/serie/304842/1/5", "https://myembed.biz/serie/304842/1/5" ] },
+        { "season": 1, "episode": 6, "embeds": [ "https://mgeb.lat/embed/304842/1/6", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP06'></iframe>", "https://redeflixapi.click/serie/304842/1/6", "https://myembed.biz/serie/304842/1/6" ] },
+        { "season": 1, "episode": 7, "embeds": [ "https://mgeb.lat/embed/304842/1/7", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP07'></iframe>", "https://redeflixapi.click/serie/304842/1/7", "https://myembed.biz/serie/304842/1/7" ] },
+		{ "season": 1, "episode": 8, "embeds": [ "https://mgeb.lat/embed/304842/1/8", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THEDROPUMSGSNWFALT01EP08'></iframe>", "https://redeflixapi.click/serie/304842/1/8", "https://myembed.biz/serie/304842/1/8" ] }
       ]
     },
     {

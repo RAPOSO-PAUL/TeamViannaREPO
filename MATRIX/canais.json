@@ -63,6 +63,11 @@
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=sbt"
         },
 		{
+          "nome": "SBT SP HD7",
+          "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
+          "embed": "https://redecanais.care/canais-de-tv/player3/live.php?etv=sbtsp"
+        },
+		{
           "nome": "GLOBO SP HD1",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
           "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=globosp"
