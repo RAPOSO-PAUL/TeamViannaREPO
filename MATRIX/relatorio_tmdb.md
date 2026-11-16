@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 15/11/2026 22:54 (Brasília).
+Rodada de 16/11/2026 13:47 (Brasília).
 
-- Catálogo: 14653 filmes e 1264 séries
-- Consultados nesta rodada: 1 (1 novos)
+- Catálogo: 14654 filmes e 1264 séries
+- Consultados nesta rodada: 1124 (1 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -15,6 +15,7 @@ Confira o `tmdb_id` destes no catálogo.
 - movie `1123170` — https://www.themoviedb.org/movie/1123170
 - movie `1628448` — https://www.themoviedb.org/movie/1628448
 - movie `1738197` — https://www.themoviedb.org/movie/1738197
+- movie `1771512` — https://www.themoviedb.org/movie/1771512
 - movie `1792912` — https://www.themoviedb.org/movie/1792912
 
 ## Sem capa no TMDB
