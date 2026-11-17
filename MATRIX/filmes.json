@@ -1,6 +1,18 @@
 {
 "movies":[
 {
+  "tmdb_id":7484,
+  "type":"movie",
+  "added_at":"2026-11-17",
+  "sources":[
+    {"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=OBCHVAPGR"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/7484"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:37AF0EE4FDAE52B3F5B4375B1D7B196939636AA1&dn=O%20Bicho%20Vai%20Pegar%202006%20BLUDV&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:37E3843D0F0A895ED614B07B6E7506234E6E42AF&dn=O%20Bicho%20Vai%20Pegar%202006%20%5b1080p%5d%20BLUDV&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce"},
+  ],
+  "youtube":"YHQAL6s3Mk8"
+},
+{
   "tmdb_id":1368337,
   "type":"movie",
   "added_at":"2026-11-17",
