@@ -1,4 +1,4 @@
-#gerado	1794884390522
+#gerado	1794922588341
 254630	113184	mp4	12 12 12	
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
@@ -393,6 +393,7 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
+72705	116669	mp4	Marvel: Homem-Aranha	
 2129	116657	mp4	As Aventuras de Jimmy Neutron, O Menino Gênio	
 307903	113143	mp4	HORROR COLLECTOR	
 42951	113122	mp4	Kaiji	
@@ -1451,6 +1452,7 @@
 258901	477	mp4	SANDA	
 440023	95557	mp4	Policial de Aço Jiban - O Filme	
 858717	96260	mp4	Harry e Meghan: Escapando do Palácio	
+4623	116662	mp4	A Nova Escola do Imperador	
 80713	113110	mp4	Um Chute no Meu Diabo!	
 303745	112733	mp4	Amor Disfarçado	
 112538	105674	mp4	Um Natal Nada Normal	
@@ -3858,6 +3860,7 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+60640	116667	mp4	A Gata	
 100575	113123	mp4	Tyler Perry's Ruthless	
 4613	113114	mp4	Band of Brothers	
 321958	112988	mp4	Line of Fire	
@@ -9272,6 +9275,63 @@
 0	68439	mp4	[Reel] Meu Meio-irmão é Minha Fraqueza	
 0	68422	mp4	[Reel] Pétalas de Sangue	
 0	68392	mp4	[Reel] Meu Ex, o Irmão Dele e o Nosso Bebê	
+0	116730	mp4	[Reel] Encontrar Você: O Herdeiro Perdido do Imperador	
+0	116729	mp4	[Reel] Casada com o Tio do Ex-Noivo	
+0	116728	mp4	[Reel] OPS! MEU MARIDO E MEU FILHO SÃO TRITÕES!	
+0	116727	mp4	[Reel] Eu Enterrei Nosso Filho Enquanto Você Fingiu Ser Pobre	
+0	116726	mp4	[Reel] John Carter, Herói de Marte	
+0	116725	mp4	[Reel] O Lorde das Sereias se Afoga em Arrependimento	
+0	116724	mp4	[Reel] Ele Me Traiu, Então Dormi com O Pai Dele	
+0	116723	mp4	[Reel] Grande Erro! Você Expulsou o Deus da Corrida	
+0	116722	mp4	[Reel] Don't Mess with the Don's Wife	
+0	116721	mp4	[Reel] A Garota que Você Humilhou É Minha Herdeira	
+0	116720	mp4	[Reel] O Disfarce do Deus do Mar: Pescando o Amor	
+0	116719	mp4	[Reel] O Alfa Predestinado	
+0	116718	mp4	[Reel] Guerra por Herança - A Verdadeira Herdeira	
+0	116717	mp4	[Reel] Meu Rival Recebeu Minha Foto Sensual por Engano	
+0	116716	mp4	[Reel] Deus da Ruína	
+0	116715	mp4	[Reel] O Cavalariço Governa o Reino.	
+0	116714	mp4	[Reel] Confesse ou Bata	
+0	116713	mp4	[Reel] Destinado ao Alfa do Meu Irmão	
+0	116712	mp4	[Reel] A Mulher do Campo Que Você Bateu É a Madrinha da Máfia	
+0	116711	mp4	[Reel] O Marido Que Ela Descartou É Dragão do Inverno	
+0	116710	mp4	[Reel] Sedenta pelo Meu Sogro Vampiro	
+0	116709	mp4	[Reel] Agente das Sombras	
+0	116708	mp4	[Reel] Ligado ao Bebê do Alfa da Máfia	
+0	116707	mp4	[Reel] Reivindicada pelo Meu Meio-Irmão Alfa	
+0	116706	mp4	[Reel] O Novo Herdeiro da Madrinha	
+0	116705	mp4	[Reel] O Filho Perdido Agora é um Comandante	
+0	116704	mp4	[Reel] A Rainha Sem-lobo	
+0	116703	mp4	[Reel] Após as Provações Cruéis do Alfa	
+0	116702	mp4	[Reel] O Dia em que Deixei de Te Amar	
+0	116701	mp4	[Reel] Lorde Exilado: Meus Canhões Dominam o Mundo Mágico	
+0	116700	mp4	[Reel] Companheira do Meu Inimigo Jurado	
+0	116699	mp4	[Reel] Rei da Ilha	
+0	116698	mp4	[Reel] De homem para homem	
+0	116697	mp4	[Reel] Acerto de Contas na Lua Cheia	
+0	116696	mp4	[Reel] Chega de Chantagem Emocional	
+0	116695	mp4	[Reel] O Feitiço do Falso Namoro	
+0	116694	mp4	[Reel] Deus Da Ira	
+0	116693	mp4	[Reel] O Despertar da Princesa dos Lobisomens Rejeitada	
+0	116692	mp4	[Reel] A Virgem Sacrificada Que Seduziu Um Deus	
+0	116691	mp4	[Reel] A Coroa de Espinhos e Maré	
+0	116690	mp4	[Reel] Sacrificada ao Rei Minotauro	
+0	116689	mp4	[Reel] Venerada por Cinco Reis Dragões	
+0	116688	mp4	[Reel] Nunca Mexa com um Feiticeiro Supremo	
+0	116679	mp4	[Reel] O Arrependimento do Lorde Dragão	
+0	116678	mp4	[Reel] Vinculada ao Príncipe Dragão Errado	
+0	116677	mp4	[Reel] Domando meus Bullies	
+0	116676	mp4	[Reel] A Vingança do Deus do Surf	
+0	116675	mp4	[Reel] A Vingança do Nerd Superpoderoso	
+0	116674	mp4	[Reel] A Criada Proibida do Rei Dragão	
+0	116673	mp4	[Reel] A Lágrima da Sereia	
+0	116672	mp4	[Reel] Uma Vira-lata Sem-teto? Sou Dona do Seu Império!	
+0	116671	mp4	[Reel] Vale a Pena Correr Atrás	
+0	116668	mp4	[Reel] Ele Segurou a Mão Dela Primeiro	
+0	116666	mp4	[Reel] O Príncipe Perdido Contra-Ataca	
+0	116665	mp4	[Reel] Três Reis da Máfia, Uma Esposa em Fuga	
+0	116664	mp4	[Reel] O Rei da Máfia me Fez Ajoelhar 100 Vezes	
+0	116663	mp4	[Reel] O Arrependimento dos Meus Quatro Pais Fera	
 0	105934	mp4	[Reel] A vida dupla do meu marido bilionário	
 0	105728	mp4	[Reel] Quando o amor foi embora	
 0	105727	mp4	[Reel] Após a Partida da Deusa do Destino, o Império Mafioso do Meu Ex Desmoronou	
