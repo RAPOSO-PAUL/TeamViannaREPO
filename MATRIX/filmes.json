@@ -1,13 +1,28 @@
 {
 "movies":[
 {
+  "tmdb_id":1474226,
+  "type":"movie",
+  "added_at":"2026-11-16",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1474226"},
+	{"name":"PLAYER 2","embed":"<iframe src='https://redecanais.by/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=AMLDCAODVSTDO'></iframe>"},
+	{"name":"PLAYER 3","embed":"https://redecanais.zone/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-273768"},
+    {"name":"PLAYER 4","embed":"https://redeflixapi.click/filme/1474226"},
+    {"name":"PLAYER 5","embed":"https://myembed.biz/filme/1474226"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:413064138f7c33127173cb4525f436279cbd5811&dn=A%20Maldi%C3%A7%C3%A3o%20do%20Vestido%202026%20WEB-DL%201080p%20x264%20DUAL%202.0&xl=1949476665&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:jdv6hleziylmd4mc67dctnbcxftwr2hm&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.A+Maldi%C3%A7%C3%A3o+do+Vestido.2026.1080p.WEB-DL.x264.DUAL.2.0"}
+  ],
+  "youtube":"dKEpui6pozs"
+},
+{
   "tmdb_id":1400763,
   "type":"movie",
   "added_at":"2026-11-16",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1400763"},
 	{"name":"PLAYER 2","embed":"<iframe src='https://redecanais.by/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=UMTQEDOTOMNDO'></iframe>"},
-	{"name":"PLAYER 3","embed":"https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-273766"},
+	{"name":"PLAYER 3","embed":"https://redecanais.zone/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-273766"},
     {"name":"PLAYER 4","embed":"https://redeflixapi.click/filme/1400763"},
     {"name":"PLAYER 5","embed":"https://myembed.biz/filme/1400763"},
     {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:2e5882414eb470fc70807c3edc7e609e0fb25b0b&dn=Um%20Toque%20de%20Outro%20Mundo%202026%20WEB-DL%201080p%20x264%20DUAL%202.0&xl=2543175552&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
@@ -21,7 +36,7 @@
   "added_at":"2026-11-15",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1664682"},
-	{"name":"PLAYER 2","embed":"https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-273649"},
+	{"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-273649"},
     {"name":"PLAYER 3","embed":"https://redeflixapi.click/filme/1664682"},
     {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1664682"},
     {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:64f76b4e400dd33ed1d2d6a52f77a1d84ae9f6ba&dn=Suzane%20von%20Richthofen%20-%20O%20que%20o%20Tempo%20N%C3%A3o%20Apaga%202026%20WEB-DL%201080p%20x264%20NACIONAL%205.1&xl=2436842058&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
@@ -35,7 +50,7 @@
   "added_at":"2026-11-15",
   "sources":[
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/1825836"},
-	{"name":"PLAYER 2","embed":"https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277326"},
+	{"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277326"},
     {"name":"PLAYER 3","embed":"https://redeflixapi.click/filme/1825836"},
     {"name":"PLAYER 4","embed":"https://myembed.biz/filme/1825836"},
     {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:b08e834b3bd55a983296543131b9fb14b2577f37&dn=Vingadores%20-%20Ultimato%20Encore%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=4838683795&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"},
@@ -182349,7 +182364,7 @@
     {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/980431"},
     {"name":"PLAYER 2","embed":"https://redeflixapi.click/filme/980431"},
     {"name":"PLAYER 3","embed":"https://myembed.biz/filme/980431"},
-	{"name":"PLAYER 4","embed":"https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-259208"},
+	{"name":"PLAYER 4","embed":"https://redecanais.zone/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-259208"},
     {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:45c638d765c152f9240a4b963c36e9e87ae686e0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.vraphim.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Fu6.trakx.crim.ist%3A1337%2Fannounce&tr=https%3A%2F%2Ftrackers.mlsub.net%3A443%2Fannounce&tr=udp%3A%2F%2Fp2p.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.yemekyedim.com%3A443%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fannounce&tr=udp%3A%2F%2Fr.l5.ca%3A6969%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-"},
     {"name":"1080p Dual Áudio 2","magnet":"magnet:?xt=urn:btih:62dab83ff5b64e8e663259f26c6e95f7491898d5&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.vraphim.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Fu6.trakx.crim.ist%3A1337%2Fannounce&tr=https%3A%2F%2Ftrackers.mlsub.net%3A443%2Fannounce&tr=udp%3A%2F%2Fp2p.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.yemekyedim.com%3A443%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fannounce&tr=udp%3A%2F%2Fr.l5.ca%3A6969%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-"}
   ],
