@@ -114,11 +114,21 @@
     {
       "tmdb_id": 234310,
       "type": "tv",
-      "added_at": "2026-11-09",
+      "added_at": "2026-11-17",
       "episodes": [
-        { "season": 2, "episode": 1, "embeds": [ "https://mgeb.lat/embed/234310/2/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT02EP01'></iframe>", "https://myembed.biz/serie/234310/2/1" ] },
+        { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/234310/1/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP01'></iframe>", "https://myembed.biz/serie/234310/1/1" ] },
+		{ "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/234310/1/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP02'></iframe>", "https://myembed.biz/serie/234310/1/2" ] },
+		{ "season": 1, "episode": 3, "embeds": [ "https://mgeb.lat/embed/234310/1/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP03'></iframe>", "https://myembed.biz/serie/234310/1/3" ] },
+		{ "season": 1, "episode": 4, "embeds": [ "https://mgeb.lat/embed/234310/1/4", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP04'></iframe>", "https://myembed.biz/serie/234310/1/4" ] },
+		{ "season": 1, "episode": 5, "embeds": [ "https://mgeb.lat/embed/234310/1/5", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP05'></iframe>", "https://myembed.biz/serie/234310/1/5" ] },
+		{ "season": 1, "episode": 6, "embeds": [ "https://mgeb.lat/embed/234310/1/6", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP06'></iframe>", "https://myembed.biz/serie/234310/1/6" ] },
+		{ "season": 1, "episode": 7, "embeds": [ "https://mgeb.lat/embed/234310/1/7", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP07'></iframe>", "https://myembed.biz/serie/234310/1/7" ] },
+		{ "season": 1, "episode": 8, "embeds": [ "https://mgeb.lat/embed/234310/1/8", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT01EP08'></iframe>", "https://myembed.biz/serie/234310/1/8" ] },
+		
+		{ "season": 2, "episode": 1, "embeds": [ "https://mgeb.lat/embed/234310/2/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT02EP01'></iframe>", "https://myembed.biz/serie/234310/2/1" ] },
         { "season": 2, "episode": 2, "embeds": [ "https://mgeb.lat/embed/234310/2/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT02EP02'></iframe>", "https://myembed.biz/serie/234310/2/2" ] },
-        { "season": 2, "episode": 3, "embeds": [ "https://mgeb.lat/embed/234310/2/3", "https://myembed.biz/serie/234310/2/3" ] }
+        { "season": 2, "episode": 3, "embeds": [ "https://mgeb.lat/embed/234310/2/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT02EP03'></iframe>", "https://myembed.biz/serie/234310/2/3" ] },
+		{ "season": 2, "episode": 4, "embeds": [ "https://mgeb.lat/embed/234310/2/4", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=ONDESTAWNDT02EP04'></iframe>", "https://myembed.biz/serie/234310/2/4" ] }
       ]
     },
     {
