@@ -1,6 +1,18 @@
 {
 "movies":[
 {
+  "tmdb_id":1518204,
+  "type":"movie",
+  "added_at":"2026-11-17",
+  "sources":[
+    {"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?server=RCFServer2&subfolder=ondemand&vid=ALEN"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/1518204"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:gyohsogi7wng4d573kfhwe6qyv6imcml&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.5.1.-DUBLADO-DUAL-AUDIO-.Allen.2026.1080p.WEB-DL.x264.DUAL.5.1"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:19e738cd678b4635e7fe94fc033e7064dcac20c4&dn=Allen%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2717302929&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337"}
+  ],
+  "youtube":"lIdGfZ7X7iE"
+},
+{
   "tmdb_id":7484,
   "type":"movie",
   "added_at":"2026-11-17",
@@ -8,7 +20,7 @@
     {"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=OBCHVAPGR"},
     {"name":"PLAYER 3","embed":"https://myembed.biz/filme/7484"},
     {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:37AF0EE4FDAE52B3F5B4375B1D7B196939636AA1&dn=O%20Bicho%20Vai%20Pegar%202006%20BLUDV&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce"},
-	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:37E3843D0F0A895ED614B07B6E7506234E6E42AF&dn=O%20Bicho%20Vai%20Pegar%202006%20%5b1080p%5d%20BLUDV&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:37E3843D0F0A895ED614B07B6E7506234E6E42AF&dn=O%20Bicho%20Vai%20Pegar%202006%20%5b1080p%5d%20BLUDV&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce"}
   ],
   "youtube":"YHQAL6s3Mk8"
 },

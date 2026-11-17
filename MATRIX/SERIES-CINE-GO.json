@@ -22,7 +22,7 @@
     {
       "tmdb_id": 258742,
       "type": "tv",
-      "added_at": "2026-11-10",
+      "added_at": "2026-11-17",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/258742/1/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT01EP01'></iframe>", "https://myembed.biz/serie/258742/1/1" ] },
         { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/258742/1/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT01EP02'></iframe>", "https://myembed.biz/serie/258742/1/2" ] },
@@ -35,7 +35,8 @@
         { "season": 1, "episode": 9, "embeds": [ "https://mgeb.lat/embed/258742/1/9", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT01EP09'></iframe>", "https://myembed.biz/serie/258742/1/9" ] },
         { "season": 2, "episode": 1, "embeds": [ "https://mgeb.lat/embed/258742/2/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP01'></iframe>", "https://myembed.biz/serie/258742/2/1" ] },
         { "season": 2, "episode": 2, "embeds": [ "https://mgeb.lat/embed/258742/2/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP02'></iframe>", "https://myembed.biz/serie/258742/2/2" ] },
-        { "season": 2, "episode": 3, "embeds": [ "https://mgeb.lat/embed/258742/2/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP03'></iframe>", "https://myembed.biz/serie/258742/2/3" ] }
+        { "season": 2, "episode": 3, "embeds": [ "https://mgeb.lat/embed/258742/2/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP03'></iframe>", "https://myembed.biz/serie/258742/2/3" ] },
+		{ "season": 2, "episode": 4, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=TDOEJSTOT02EP04'></iframe>", "https://myembed.biz/serie/258742/2/4" ] }
       ]
     },
     {
