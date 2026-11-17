@@ -1,0 +1,108 @@
+# ROBO DOS EPISODIOS DO MGB (PLAYER 1) — ver scripts/mapa_mgeb_episodios.py
+# A cada 2 h (meia hora depois do "Mapa da conta do PLAYER 1") le, UMA POR
+# VEZ e com pausa, a ficha das series do catalogo que estao na conta do mgeb
+# e grava MATRIX/mgeb_episodios.txt. O app CINE GO! poe o MGB em cada
+# episodio da lista (e completa as temporadas/episodios que faltavam).
+#
+# Usa os MESMOS segredos do mapa_mgeb.yml (MGEB_USUARIO, MGEB_SENHA,
+# MGEB_SERVIDOR). Mesmo grupo de concorrencia: os dois robos do mgeb NUNCA
+# pedem ao painel ao mesmo tempo.
+#
+# O painel nao respondeu direto (e nada foi lido): liga o tunel WARP
+# (scripts/ligar_warp.sh, o mesmo do mapa_mgeb.yml) e tenta de novo, uma vez.
+# Recusa (401/403/429) NAO tenta de novo.
+name: Episódios do MGB (PLAYER 1)
+
+on:
+  schedule:
+    - cron: "53 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mapa-mgeb
+  cancel-in-progress: false
+
+jobs:
+  episodios:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ler as fichas (direto)
+        id: direto
+        timeout-minutes: 15
+        env:
+          MGEB_USUARIO: ${{ secrets.MGEB_USUARIO }}
+          MGEB_SENHA: ${{ secrets.MGEB_SENHA }}
+          MGEB_SERVIDOR: ${{ secrets.MGEB_SERVIDOR }}
+        run: |
+          set +e
+          python scripts/mapa_mgeb_episodios.py
+          c=$?
+          echo "saida=$c" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Ligar o túnel WARP (o painel não respondeu direto)
+        id: warp
+        if: steps.direto.outputs.saida == '2'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MGEB_SERVIDOR: ${{ secrets.MGEB_SERVIDOR }}
+        run: bash scripts/ligar_warp.sh
+
+      - name: Ler as fichas (pelo túnel WARP)
+        id: pelowarp
+        if: steps.direto.outputs.saida == '2' && steps.warp.outcome == 'success'
+        timeout-minutes: 15
+        env:
+          MGEB_USUARIO: ${{ secrets.MGEB_USUARIO }}
+          MGEB_SENHA: ${{ secrets.MGEB_SENHA }}
+          MGEB_SERVIDOR: ${{ secrets.MGEB_SERVIDOR }}
+        run: |
+          set +e
+          python scripts/mapa_mgeb_episodios.py
+          c=$?
+          echo "saida=$c" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Desligar o túnel
+        if: always() && steps.warp.outcome == 'success'
+        run: sudo wg-quick down warp || true
+
+      # grava SEMPRE (mesmo se a rodada foi cortada): o progresso nao se perde
+      - name: Gravar no repositorio
+        if: always()
+        run: |
+          git config user.name "robo-episodios-mgeb"
+          git config user.email "robo-episodios-mgeb@users.noreply.github.com"
+          git add MATRIX/mgeb_episodios.txt .robo_mgeb/episodios.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git commit -m "episódios do MGB (robô)"
+          # outros robos deste repositorio tambem gravam: puxa antes de enviar
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 10
+          done
+          exit 1
+
+      - name: Resultado
+        if: always()
+        run: |
+          d="${{ steps.direto.outputs.saida }}"
+          w="${{ steps.pelowarp.outputs.saida }}"
+          echo "direto: ${d:-?} · pelo túnel: ${w:-não tentou}"
+          if [ "$d" = "0" ] || [ "$w" = "0" ]; then exit 0; fi
+          echo "a rodada não leu nada (veja o passo acima) — a próxima continua de onde parou"
+          exit 1
