@@ -1,0 +1,78 @@
+# ROBO DO REDEMUVI — monta MATRIX/redemuvi_filmes.txt, redemuvi_series.txt
+# e redemuvi_canais.txt para o CINE GO (ver scripts/mapa_redemuvi.py).
+#
+# A CONTA fica SO nos Secrets do repositorio (Settings -> Secrets and
+# variables -> Actions -> New repository secret):
+#   REDEMUVI_USUARIO   e   REDEMUVI_SENHA
+# Nunca no codigo, nunca no MATRIX.
+#
+# (16/11, noite) A rodada tem PRAZO (35 min no script): o que faltou fica
+# para a proxima. As fichas e os txt sao salvos MESMO se a rodada for
+# interrompida (os passos de salvar rodam sempre — "if: always()").
+name: mapa_redemuvi
+
+on:
+  schedule:
+    - cron: "41 */2 * * *"      # a cada 2 h (no minuto 41)
+  workflow_dispatch:            # botao "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mapa_redemuvi
+  cancel-in-progress: false
+
+jobs:
+  mapa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+
+      # as fichas ja pedidas (fora do repositorio)
+      - name: Fichas guardadas (trazer)
+        uses: actions/cache/restore@v4
+        with:
+          path: .robo_redemuvi
+          key: redemuvi-estado-${{ github.run_id }}
+          restore-keys: |
+            redemuvi-estado-
+
+      - name: Montar o mapa
+        timeout-minutes: 42
+        env:
+          REDEMUVI_USUARIO: ${{ secrets.REDEMUVI_USUARIO }}
+          REDEMUVI_SENHA: ${{ secrets.REDEMUVI_SENHA }}
+          REDEMUVI_PRAZO_MIN: "35"
+          REDEMUVI_FICHAS_JUNTAS: "4"
+        run: python3 scripts/mapa_redemuvi.py
+
+      # salva as fichas SEMPRE (ate se o passo de cima falhar ou estourar o tempo)
+      - name: Fichas guardadas (salvar)
+        if: always() && hashFiles('.robo_redemuvi/**') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: .robo_redemuvi
+          key: redemuvi-estado-${{ github.run_id }}
+
+      - name: Gravar no repositorio (so se mudou)
+        if: always()
+        run: |
+          git config user.name "robo-redemuvi"
+          git config user.email "robo-redemuvi@users.noreply.github.com"
+          for f in MATRIX/redemuvi_filmes.txt MATRIX/redemuvi_series.txt MATRIX/redemuvi_canais.txt; do
+            [ -f "$f" ] && git add "$f"
+          done
+          if git diff --cached --quiet; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git commit -m "redemuvi: mapa atualizado"
+          # outros robos podem ter gravado ao mesmo tempo: junta e tenta de novo
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep $((i * 10))
+          done
+          echo "nao consegui gravar depois de 5 tentativas"
+          exit 1

@@ -1,0 +1,142 @@
+#gerado	1794882893064
+26096	24h - Chaves	24h - Chaves	⏰ 24 Horas
+26098	ESPN	ESPN	⚽ Esportes
+81367	24h - Dragon Ball Z	24h - Dragon Ball Z	⏰ 24 Horas
+81369	24h - Naruto	24h - Naruto	⏰ 24 Horas
+81371	24h - Os Simpsons	24h - Os Simpsons	⏰ 24 Horas
+81372	24h - Pica Pau	24h - Pica Pau	⏰ 24 Horas
+81373	24h - Todo Mundo Odeia o Chris	24h - Todo Mundo Odeia o Chris	⏰ 24 Horas
+81374	A Bola (PT)	A Bola (PT)	⚽ Esportes
+81375	A Fazenda 18	A Fazenda 18	🐓 A Fazenda
+81376	A Fazenda 18 (2)	A Fazenda 18 (2)	🐓 A Fazenda
+81377	A Fazenda 18 (3)	A Fazenda 18 (3)	🐓 A Fazenda
+81378	A Fazenda 18 (4)	A Fazenda 18 (4)	🐓 A Fazenda
+81379	A Fazenda 18 (5)	A Fazenda 18 (5)	🐓 A Fazenda
+81380	A&E	A&E	🍿 Filmes & Séries
+81381	AdultSwim	AdultSwim	🧸 Infantil
+81383	AMC	AMC	🍿 Filmes & Séries
+81384	Animal Planet	Animal Planet	🎭 Variedades
+81386	AXN	AXN	🍿 Filmes & Séries
+81387	Band News TV	Band News TV	📰 Notícias
+81388	Band RJ	Band RJ	📡 Canais Abertos
+81389	Band SP	Band SP	📡 Canais Abertos
+81390	Band Sports	Band Sports	⚽ Esportes
+81392	Benfica TV (PT)	Benfica TV (PT)	⚽ Esportes
+81393	BIS	BIS	🎭 Variedades
+81394	Canal 11 (PT)	Canal 11 (PT)	⚽ Esportes
+81396	Canal Off	Canal Off	⚽ Esportes
+81398	Cartoon Network	Cartoon Network	🧸 Infantil
+81399	Cartoonito	Cartoonito	🧸 Infantil
+81400	Cazé TV	Cazé TV	⚽ Esportes
+81402	Cazé TV 2	Cazé TV 2	⚽ Esportes
+81403	Cazé TV 3	Cazé TV 3	⚽ Esportes
+81404	Cinemax	Cinemax	🍿 Filmes & Séries
+81405	CNN Brasil	CNN Brasil	📰 Notícias
+81406	Combate	Combate	⚽ Esportes
+81407	DAZN 1 (PT)	DAZN 1 (PT)	⚽ Esportes
+81408	DAZN 2 (PT)	DAZN 2 (PT)	⚽ Esportes
+81409	DAZN 3 (PT)	DAZN 3 (PT)	⚽ Esportes
+81411	Discovery Channel	Discovery Channel	🎭 Variedades
+81412	Discovery Home&Health	Discovery Home&Health	🎭 Variedades
+81413	Discovery Kids	Discovery Kids	🧸 Infantil
+81414	Discovery Science	Discovery Science	🎭 Variedades
+81415	Discovery Theater	Discovery Theater	🎭 Variedades
+81416	Discovery Turbo	Discovery Turbo	🎭 Variedades
+81417	Disney+ 1	Disney+ 1	⚽ Esportes
+81418	Disney+ 2	Disney+ 2	⚽ Esportes
+81419	Disney+ 3	Disney+ 3	⚽ Esportes
+81420	ESPN 2	ESPN 2	⚽ Esportes
+81421	ESPN 3	ESPN 3	⚽ Esportes
+81422	ESPN 4	ESPN 4	⚽ Esportes
+81423	ESPN 5	ESPN 5	⚽ Esportes
+81424	ESPN 6	ESPN 6	⚽ Esportes
+81427	Food Network	Food Network	🎭 Variedades
+81431	Globo AM	Globo AM	📡 Canais Abertos
+81433	Globo CE	Globo CE	📡 Canais Abertos
+81434	Globo DF	Globo DF	📡 Canais Abertos
+81435	Globo ES	Globo ES	📡 Canais Abertos
+81436	Globo GO	Globo GO	📡 Canais Abertos
+81437	Globo MG	Globo MG	📡 Canais Abertos
+81438	Globo News	Globo News	📰 Notícias
+81439	Globo PB	Globo PB	📡 Canais Abertos
+81440	Globo PE	Globo PE	📡 Canais Abertos
+81441	Globo RJ	Globo RJ	📡 Canais Abertos
+81442	Globo RS	Globo RS	📡 Canais Abertos
+81443	Globo SP	Globo SP	📡 Canais Abertos
+81444	Globoplay Novelas	Globoplay Novelas	🍿 Filmes & Séries
+81445	Gloob	Gloob	🧸 Infantil
+81446	GNT	GNT	🎭 Variedades
+81447	HBO	HBO	🍿 Filmes & Séries
+81448	HBO 2	HBO 2	🍿 Filmes & Séries
+81449	HBO Family	HBO Family	🍿 Filmes & Séries
+81450	HBO Mundi	HBO Mundi	🍿 Filmes & Séries
+81451	HBO Plus	HBO Plus	🍿 Filmes & Séries
+81452	HBO Pop	HBO Pop	🍿 Filmes & Séries
+81456	History	History	🎭 Variedades
+81457	History 2	History 2	🎭 Variedades
+81458	Investigação Discovery	Investigação Discovery	🎭 Variedades
+81462	Megapix	Megapix	🍿 Filmes & Séries
+81464	MTV	MTV	🎭 Variedades
+81465	Multishow	Multishow	🎭 Variedades
+81470	Paramount+	Paramount+	⚽ Esportes
+81471	Paramount+ (2)	Paramount+ (2)	⚽ Esportes
+81474	Premiere	Premiere	⚽ Esportes
+81475	Premiere 2	Premiere 2	⚽ Esportes
+81476	Premiere 3	Premiere 3	⚽ Esportes
+81477	Premiere 4	Premiere 4	⚽ Esportes
+81478	Premiere 5	Premiere 5	⚽ Esportes
+81479	Premiere 6	Premiere 6	⚽ Esportes
+81480	Premiere 7	Premiere 7	⚽ Esportes
+81481	Premiere 8	Premiere 8	⚽ Esportes
+81482	Prime Video	Prime Video	⚽ Esportes
+81483	Prime Video 2	Prime Video 2	⚽ Esportes
+81484	Prime Video 3	Prime Video 3	⚽ Esportes
+81485	Prime Video 4	Prime Video 4	⚽ Esportes
+81488	RecordTV GO	RecordTV GO	📡 Canais Abertos
+81489	RecordTV MG	RecordTV MG	📡 Canais Abertos
+81490	RecordTV RJ	RecordTV RJ	📡 Canais Abertos
+81491	RecordTV SP	RecordTV SP	📡 Canais Abertos
+81494	Rede Vida	Rede Vida	📡 Canais Abertos
+81499	Runtime Ação	Runtime Ação	🍿 Filmes & Séries
+81500	Runtime CinEspanto	Runtime CinEspanto	🍿 Filmes & Séries
+81501	Runtime Comédia	Runtime Comédia	🍿 Filmes & Séries
+81502	Runtime Crime	Runtime Crime	🍿 Filmes & Séries
+81503	Runtime Família	Runtime Família	🍿 Filmes & Séries
+81504	Runtime Romance	Runtime Romance	🍿 Filmes & Séries
+81505	Runtime TV E Filmes	Runtime TV E Filmes	🍿 Filmes & Séries
+81507	SBT RJ	SBT RJ	📡 Canais Abertos
+81508	SBT SP	SBT SP	📡 Canais Abertos
+81513	Sony Channel	Sony Channel	🍿 Filmes & Séries
+81517	Space	Space	🍿 Filmes & Séries
+81518	Sport TV (PT)	Sport TV (PT)	⚽ Esportes
+81519	Sport TV 1 (PT)	Sport TV 1 (PT)	⚽ Esportes
+81520	Sport TV 2 (PT)	Sport TV 2 (PT)	⚽ Esportes
+81521	Sport TV 3 (PT)	Sport TV 3 (PT)	⚽ Esportes
+81522	Sport TV 4 (PT)	Sport TV 4 (PT)	⚽ Esportes
+81523	Sport TV 5 (PT)	Sport TV 5 (PT)	⚽ Esportes
+81524	Sport TV 6 (PT)	Sport TV 6 (PT)	⚽ Esportes
+81525	SporTV	SporTV	⚽ Esportes
+81526	SporTV 2	SporTV 2	⚽ Esportes
+81527	SporTV 3	SporTV 3	⚽ Esportes
+81528	SporTV 4	SporTV 4	⚽ Esportes
+81529	SportyNet	SportyNet	⚽ Esportes
+81530	SportyNet+ 1	SportyNet+ 1	⚽ Esportes
+81531	SportyNet+ 2	SportyNet+ 2	⚽ Esportes
+81532	SportyNet+ 3	SportyNet+ 3	⚽ Esportes
+81533	Studio Universal	Studio Universal	🍿 Filmes & Séries
+81534	TCM	TCM	🍿 Filmes & Séries
+81535	Telecine Action	Telecine Action	🍿 Filmes & Séries
+81536	Telecine Cult	Telecine Cult	🍿 Filmes & Séries
+81537	Telecine Fun	Telecine Fun	🍿 Filmes & Séries
+81538	Telecine Pipoca	Telecine Pipoca	🍿 Filmes & Séries
+81539	Telecine Premium	Telecine Premium	🍿 Filmes & Séries
+81540	Telecine Touch	Telecine Touch	🍿 Filmes & Séries
+81545	TLC	TLC	🎭 Variedades
+81546	TNT	TNT	🍿 Filmes & Séries
+81547	TNT Novelas	TNT Novelas	🍿 Filmes & Séries
+81548	TNT Series	TNT Series	🍿 Filmes & Séries
+81555	TV Pai Eterno	TV Pai Eterno	📡 Canais Abertos
+81557	UFC Fight Pass	UFC Fight Pass	⚽ Esportes
+81558	Universal TV	Universal TV	🍿 Filmes & Séries
+81561	WarnerBros TV	WarnerBros TV	🍿 Filmes & Séries
+81563	X Sports	X Sports	⚽ Esportes
