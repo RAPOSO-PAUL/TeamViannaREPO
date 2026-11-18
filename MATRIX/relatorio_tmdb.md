@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 18/11/2026 11:41 (Brasília).
+Rodada de 18/11/2026 13:13 (Brasília).
 
 - Catálogo: 14660 filmes e 1264 séries
-- Consultados nesta rodada: 2 (2 novos)
+- Consultados nesta rodada: 1114 (0 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -48,7 +48,6 @@ Confira o `tmdb_id` destes no catálogo.
 - movie `1378362` Submerged
 - movie `1472343` Arsenal
 - movie `1484650` O Fantástico Jaspion
-- movie `1489190` Monstro
 - movie `1492911` Agonia
 - movie `1496608` Nevesta
 - movie `1567707` Shortcomings
