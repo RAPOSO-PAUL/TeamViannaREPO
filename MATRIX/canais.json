@@ -22,7 +22,7 @@
   "embedtv.lat",
   "embedtv.cc",
   "rdcanais.net",
-  "rdcanais.org",
+  "rdcanais.cc",
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
   "rdembed.sbs",
@@ -48,9 +48,19 @@
           "embed": "iframe:https://multicanais.cyou/player.php?id=afazenda"
         },
 		{
-          "nome": "A Fazenda 18 HD4",
+          "nome": "A Fazenda 18 2 HD1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
-          "embed": "https://redecanais.care/canais-de-tv/player3/live.php?etv=afazenda"
+          "embed": "https://w7.embedtv.cc/afazenda2"
+        },
+		{
+          "nome": "A Fazenda 18 2 HD2",
+          "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
+          "embed": "https://v2.rdembed.lat/afazenda2"
+        },
+		{
+          "nome": "A Fazenda 18 2 HD3",
+          "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=afazenda2"
         }
       ]
     },
@@ -70,7 +80,7 @@
 		{
           "nome": "SBT SP HD3",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://rdcanais.org/sbt"
+          "embed": "https://rdcanais.cc/sbt"
         },
 		{
           "nome": "SBT SP HD4",
@@ -105,7 +115,7 @@
 		{
           "nome": "GLOBO SP HD3",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://rdcanais.org/globosp"
+          "embed": "https://rdcanais.cc/globosp"
         },
 		{
           "nome": "GLOBO SP HD4",
@@ -135,7 +145,7 @@
 		{
           "nome": "GLOBO RJ HD3",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://rdcanais.org/globorj"
+          "embed": "https://rdcanais.cc/globorj"
         },
 		{
           "nome": "GLOBO RJ HD4",
@@ -165,7 +175,7 @@
 		{
           "nome": "GLOBO DF HD3",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
-          "embed": "https://rdcanais.org/globodf"
+          "embed": "https://rdcanais.cc/globodf"
         },
 		{
           "nome": "GLOBO DF HD4",
@@ -195,7 +205,7 @@
 		{
           "nome": "GLOBO ES HD3",
           "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
-          "embed": "https://rdcanais.org/globoes"
+          "embed": "https://rdcanais.cc/globoes"
         },
 		{
           "nome": "GLOBO ES HD4",
@@ -215,7 +225,7 @@
 		{
           "nome": "GLOBO MG HD3",
           "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
-          "embed": "https://rdcanais.org/globomg"
+          "embed": "https://rdcanais.cc/globomg"
         },
 		{
           "nome": "GLOBO MG HD4",
@@ -240,7 +250,7 @@
 		{
           "nome": "GLOBO RS HD3",
           "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
-          "embed": "https://rdcanais.org/globors"
+          "embed": "https://rdcanais.cc/globors"
         },
 		{
           "nome": "GLOBO RS HD4",
@@ -270,7 +280,7 @@
 		{
           "nome": "RECORD SP HD3",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
-          "embed": "https://rdcanais.org/record"
+          "embed": "https://rdcanais.cc/record"
         },
 		{
           "nome": "RECORD SP HD4",
@@ -340,7 +350,7 @@
 		{
           "nome": "BAND HD3",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
-          "embed": "https://rdcanais.org/band"
+          "embed": "https://rdcanais.cc/band"
         },
         {
           "nome": "BAND HD4",
@@ -375,7 +385,7 @@
 		{
           "nome": "REDETV HD2",
           "imagem": "https://i.ibb.co/8DB34C9H/redetv.jpg",
-          "embed": "https://rdcanais.org/redetv"
+          "embed": "https://rdcanais.cc/redetv"
         },
 		{
           "nome": "REDETV HD3",
@@ -405,7 +415,7 @@
         {
           "nome": "SPORTV HD3",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "https://rdcanais.org/sportvalternativo"
+          "embed": "https://rdcanais.cc/sportvalternativo"
         },
         {
           "nome": "SPORTV HD4",
@@ -435,7 +445,7 @@
         {
           "nome": "SPORTV 2 HD3",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
-          "embed": "https://rdcanais.org/sportv2"
+          "embed": "https://rdcanais.cc/sportv2"
         },
         {
           "nome": "SPORTV 2 HD4",
@@ -465,7 +475,7 @@
         {
           "nome": "SPORTV 3 HD3",
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
-          "embed": "https://rdcanais.org/sportv3"
+          "embed": "https://rdcanais.cc/sportv3"
         },
         {
           "nome": "SPORTV 3 HD4",
@@ -525,7 +535,7 @@
         {
           "nome": "ESPN 2 HD3",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "embed": "https://rdcanais.org/espn2"
+          "embed": "https://rdcanais.cc/espn2"
         },
         {
           "nome": "ESPN 2 HD4",
@@ -555,7 +565,7 @@
         {
           "nome": "ESPN 3 HD3",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "embed": "https://rdcanais.org/espn3"
+          "embed": "https://rdcanais.cc/espn3"
         },
         {
           "nome": "ESPN 3 HD4",
@@ -585,7 +595,7 @@
         {
           "nome": "ESPN 4 HD3",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "embed": "https://rdcanais.org/espn4"
+          "embed": "https://rdcanais.cc/espn4"
         },
         {
           "nome": "ESPN 4 HD4",
@@ -615,7 +625,7 @@
         {
           "nome": "ESPN 5 HD3",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "embed": "https://rdcanais.org/espn5"
+          "embed": "https://rdcanais.cc/espn5"
         },
         {
           "nome": "ESPN 5 HD4",
@@ -645,7 +655,7 @@
         {
           "nome": "ESPN 6 HD3",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "embed": "https://rdcanais.org/espn6"
+          "embed": "https://rdcanais.cc/espn6"
         },
         {
           "nome": "ESPN 6 HD4",
@@ -680,7 +690,7 @@
 		{
           "nome": "PREMIERE HD3",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "https://rdcanais.org/premiereclubesalternativo"
+          "embed": "https://rdcanais.cc/premiereclubesalternativo"
         },
 		{
           "nome": "PREMIERE HD4",
@@ -710,7 +720,7 @@
 		{
           "nome": "PREMIERE 2 HD3",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "https://rdcanais.org/premiere2alternativo"
+          "embed": "https://rdcanais.cc/premiere2alternativo"
         },
 		{
           "nome": "PREMIERE 2 HD4",
@@ -740,7 +750,7 @@
 		{
           "nome": "PREMIERE 3 HD3",
           "imagem": "https://i.ibb.co/XrFxFS8H/premiere-3.jpg",
-          "embed": "https://rdcanais.org/premiere3alternativo"
+          "embed": "https://rdcanais.cc/premiere3alternativo"
         },
 		{
           "nome": "PREMIERE 3 HD4",
@@ -770,7 +780,7 @@
 		{
           "nome": "PREMIERE 4 HD3",
           "imagem": "https://i.ibb.co/gL8TfLcX/premiere-34.jpg",
-          "embed": "https://rdcanais.org/premiere4alternativo"
+          "embed": "https://rdcanais.cc/premiere4alternativo"
         },
 		{
           "nome": "PREMIERE 4 HD4",
@@ -800,7 +810,7 @@
 		{
           "nome": "PREMIERE 5 HD3",
           "imagem": "https://i.ibb.co/1Y0JXWCC/premiere-5.jpg",
-          "embed": "https://rdcanais.org/premiere5alternativo"
+          "embed": "https://rdcanais.cc/premiere5alternativo"
         },
 		{
           "nome": "PREMIERE 5 HD4",
@@ -830,7 +840,7 @@
 		{
           "nome": "PREMIERE 6 HD3",
           "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
-          "embed": "https://rdcanais.org/premiere6alternativo"
+          "embed": "https://rdcanais.cc/premiere6alternativo"
         },
 		{
           "nome": "PREMIERE 6 HD4",
@@ -860,7 +870,7 @@
 		{
           "nome": "PREMIERE 7 HD3",
           "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
-          "embed": "https://rdcanais.org/premiere7alternativo"
+          "embed": "https://rdcanais.cc/premiere7alternativo"
         },
 		{
           "nome": "PREMIERE 7 HD4",
@@ -890,7 +900,7 @@
 		{
           "nome": "PREMIERE 8 HD3",
           "imagem": "https://i.ibb.co/SXHnfcyP/premiere-8.jpg",
-          "embed": "https://rdcanais.org/premiere8alternativo"
+          "embed": "https://rdcanais.cc/premiere8alternativo"
         },
 		{
           "nome": "PREMIERE 8 HD4",
@@ -1125,7 +1135,7 @@
 		{
           "nome": "CAZE TV HD4",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://rdcanais.org/cazetv"
+          "embed": "https://rdcanais.cc/cazetv"
         },
 		{
           "nome": "CAZE TV HD5",
@@ -1150,7 +1160,7 @@
 		{
           "nome": "CAZE TV HD9",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://rdcanais.org/cazetv2"
+          "embed": "https://rdcanais.cc/cazetv2"
         },
 		{
           "nome": "CAZE TV HD10",
@@ -1170,7 +1180,7 @@
 		{
           "nome": "CAZE TV HD13",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://rdcanais.org/cazetv3"
+          "embed": "https://rdcanais.cc/cazetv3"
         },
 		{
           "nome": "CAZE TV HD14",
@@ -1220,7 +1230,7 @@
         {
           "nome": "TELECINE ACTION HD3",
           "imagem": "https://i.ibb.co/Q7187G1N/tc-action.jpg",
-          "embed": "https://rdcanais.org/telecineaction"
+          "embed": "https://rdcanais.cc/telecineaction"
         },
         {
           "nome": "TELECINE ACTION HD4",
@@ -1250,7 +1260,7 @@
 		{
           "nome": "TELECINE TOUCH HD3",
           "imagem": "https://i.ibb.co/s4VB0w6/tc-touch.jpg",
-          "embed": "https://rdcanais.org/telecinetouch"
+          "embed": "https://rdcanais.cc/telecinetouch"
         },
 		{
           "nome": "TELECINE TOUCH HD4",
@@ -1280,7 +1290,7 @@
 		{
           "nome": "TELECINE FUN HD3",
           "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
-          "embed": "https://rdcanais.org/telecinefun"
+          "embed": "https://rdcanais.cc/telecinefun"
         },
 		{
           "nome": "TELECINE FUN HD4",
@@ -1310,7 +1320,7 @@
 		{
           "nome": "TELECINE PIPOCA HD3",
           "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
-          "embed": "https://rdcanais.org/telecinepipoca"
+          "embed": "https://rdcanais.cc/telecinepipoca"
         },
 		{
           "nome": "TELECINE PIPOCA HD4",
@@ -1340,7 +1350,7 @@
 		{
           "nome": "TELECINE PREMIUM HD3",
           "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
-          "embed": "https://rdcanais.org/telecinepremium"
+          "embed": "https://rdcanais.cc/telecinepremium"
         },
 		{
           "nome": "TELECINE PREMIUM HD4",
@@ -1370,7 +1380,7 @@
 		{
           "nome": "TELECINE CULT HD3",
           "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
-          "embed": "https://rdcanais.org/telecinecult"
+          "embed": "https://rdcanais.cc/telecinecult"
         },
 		{
           "nome": "TELECINE CULT HD4",
@@ -1400,7 +1410,7 @@
 		{
           "nome": "HBO HD3",
           "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
-          "embed": "https://rdcanais.org/hbo"
+          "embed": "https://rdcanais.cc/hbo"
         },
 		{
           "nome": "HBO HD4",
@@ -1430,7 +1440,7 @@
 		{
           "nome": "HBO 2 HD3",
           "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
-          "embed": "https://rdcanais.org/hbo2"
+          "embed": "https://rdcanais.cc/hbo2"
         },
 		{
           "nome": "HBO 2 HD4",
@@ -1460,7 +1470,7 @@
 		{
           "nome": "HBO Family HD3",
           "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
-          "embed": "https://rdcanais.org/hbofamily"
+          "embed": "https://rdcanais.cc/hbofamily"
         },
 		{
           "nome": "HBO Family HD4",
@@ -1515,7 +1525,7 @@
 		{
           "nome": "HBO Plus HD3",
           "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
-          "embed": "https://rdcanais.org/hboplus"
+          "embed": "https://rdcanais.cc/hboplus"
         },
 		{
           "nome": "HBO Plus HD4",
@@ -1545,7 +1555,7 @@
 		{
           "nome": "HBO Pop HD3",
           "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
-          "embed": "https://rdcanais.org/hbopop"
+          "embed": "https://rdcanais.cc/hbopop"
         },
 		{
           "nome": "HBO Pop HD4",
@@ -1570,7 +1580,7 @@
 		{
           "nome": "HBO Signature HD2",
           "imagem": "https://i.ibb.co/fzJbxVCz/hbo-signature.jpg",
-          "embed": "https://rdcanais.org/hbosignature"
+          "embed": "https://rdcanais.cc/hbosignature"
         },
 		{
           "nome": "HBO Signature HD3",
@@ -1595,7 +1605,7 @@
 		{
           "nome": "HBO Xtreme HD3",
           "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
-          "embed": "https://rdcanais.org/hboxtreme"
+          "embed": "https://rdcanais.cc/hboxtreme"
         },
 		{
           "nome": "HBO Xtreme HD4",
@@ -1630,7 +1640,7 @@
 		{
           "nome": "A&E HD3",
           "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
-          "embed": "https://rdcanais.org/ae"
+          "embed": "https://rdcanais.cc/ae"
         },
 		{
           "nome": "A&E HD4",
@@ -1660,7 +1670,7 @@
 		{
           "nome": "AMC HD3",
           "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
-          "embed": "https://rdcanais.org/amc"
+          "embed": "https://rdcanais.cc/amc"
         },
 		{
           "nome": "AMC HD4",
@@ -1685,7 +1695,7 @@
 		{
           "nome": "AXN HD3",
           "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
-          "embed": "https://rdcanais.org/axn"
+          "embed": "https://rdcanais.cc/axn"
         },
 		{
           "nome": "AXN HD4",
@@ -1710,7 +1720,7 @@
 		{
           "nome": "CINEMAX HD3",
           "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
-          "embed": "https://rdcanais.org/cinemax"
+          "embed": "https://rdcanais.cc/cinemax"
         },
 		{
           "nome": "CINEMAX HD4",
@@ -1735,7 +1745,7 @@
 		{
           "nome": "MEGAPIX HD3",
           "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
-          "embed": "https://rdcanais.org/megapix"
+          "embed": "https://rdcanais.cc/megapix"
         },
 		{
           "nome": "MEGAPIX HD4",
@@ -1765,7 +1775,7 @@
 		{
           "nome": "SONY HD3",
           "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
-          "embed": "https://rdcanais.org/sonychannel"
+          "embed": "https://rdcanais.cc/sonychannel"
         },
 		{
           "nome": "SONY HD4",
@@ -1795,7 +1805,7 @@
 		{
           "nome": "SPACE HD3",
           "imagem": "https://i.ibb.co/mrRf65yQ/space.jpg",
-          "embed": "https://rdcanais.org/space"
+          "embed": "https://rdcanais.cc/space"
         },
 		{
           "nome": "SPACE HD4",
@@ -1825,7 +1835,7 @@
 		{
           "nome": "TNT HD3",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
-          "embed": "https://rdcanais.org/tnt"
+          "embed": "https://rdcanais.cc/tnt"
         },
 		{
           "nome": "TNT HD4",
@@ -1855,7 +1865,7 @@
 		{
           "nome": "TNT Novelas HD3",
           "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
-          "embed": "https://rdcanais.org/tntnovelas"
+          "embed": "https://rdcanais.cc/tntnovelas"
         },
 		{
           "nome": "TNT Novelas HD4",
@@ -1885,7 +1895,7 @@
 		{
           "nome": "TNT Series HD3",
           "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
-          "embed": "https://rdcanais.org/tntseries"
+          "embed": "https://rdcanais.cc/tntseries"
         },
 		{
           "nome": "TNT Series HD4",
@@ -1915,7 +1925,7 @@
 		{
           "nome": "Studio Universal HD3",
           "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
-          "embed": "https://rdcanais.org/studiouniversal"
+          "embed": "https://rdcanais.cc/studiouniversal"
         },
 		{
           "nome": "Studio Universal HD4",
@@ -1945,7 +1955,7 @@
 		{
           "nome": "Universal HD3",
           "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
-          "embed": "https://rdcanais.org/universaltv"
+          "embed": "https://rdcanais.cc/universaltv"
         },
 		{
           "nome": "Universal HD4",
@@ -1980,7 +1990,7 @@
 		{
           "nome": "CartooNetwork HD3",
           "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
-          "embed": "https://rdcanais.org/cartoonnetwork"
+          "embed": "https://rdcanais.cc/cartoonnetwork"
         },
 		{
           "nome": "CartooNetwork HD4",
@@ -2005,12 +2015,12 @@
 		{
           "nome": "Cartoonito HD2",
           "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
-          "embed": "https://w7.embedtv.cc//cartoonito"
+          "embed": "https://w7.embedtv.cc/cartoonito"
         },
 		{
           "nome": "Cartoonito HD3",
           "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
-          "embed": "https://rdcanais.org/cartoonito"
+          "embed": "https://rdcanais.cc/cartoonito"
         },
 		{
           "nome": "Cartoonito HD4",
@@ -2026,6 +2036,36 @@
           "nome": "Cartoonito HD6",
           "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=cartoonito"
+        },
+		{
+          "nome": "Discovery Kids HD1",
+          "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=discoverykids"
+        },
+		{
+          "nome": "Discovery Kids HD2",
+          "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
+          "embed": "https://w7.embedtv.cc/discoverykids"
+        },
+		{
+          "nome": "Discovery Kids HD3",
+          "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
+          "embed": "https://rdcanais.cc/discoverykids"
+        },
+		{
+          "nome": "Discovery Kids HD4",
+          "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
+          "embed": "https://v2.rdembed.lat/discoverykids"
+        },
+		{
+          "nome": "Discovery Kids HD5",
+          "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=discoverykids"
+        },
+		{
+          "nome": "Discovery Kids HD6",
+          "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoverykids"
         }
       ]
     },
@@ -2045,7 +2085,7 @@
 		{
           "nome": "Band News HD3",
           "imagem": "https://i.ibb.co/0p9gQRLX/BAND-NEWS.jpg",
-          "embed": "https://rdcanais.org/bandnews"
+          "embed": "https://rdcanais.cc/bandnews"
         },
 		{
           "nome": "Band News HD4",
@@ -2075,7 +2115,7 @@
 		{
           "nome": "CNN Brasil HD3",
           "imagem": "https://i.ibb.co/Dft2ZgyM/cnn-brasil.jpg",
-          "embed": "https://rdcanais.org/cnnbrasilalternativo"
+          "embed": "https://rdcanais.cc/cnnbrasilalternativo"
         },
 		{
           "nome": "CNN Brasil HD4",
@@ -2125,7 +2165,7 @@
 		{
           "nome": "Jovem Pan News HD2",
           "imagem": "https://i.ibb.co/PGtWL7qN/jovem-pan-news.jpg",
-          "embed": "https://rdcanais.org/jpnews"
+          "embed": "https://rdcanais.cc/jpnews"
         },
 		{
           "nome": "Jovem Pan News HD3",
@@ -2140,7 +2180,7 @@
 		{
           "nome": "Record News HD2",
           "imagem": "https://i.ibb.co/R47QRP62/rc-news.jpg",
-          "embed": "https://rdcanais.org/recordnews"
+          "embed": "https://rdcanais.cc/recordnews"
         },
 		{
           "nome": "Record News HD3",
@@ -2170,7 +2210,7 @@
 		{
           "nome": "Animal Planet HD3",
           "imagem": "https://i.ibb.co/MyJ8zHMY/ANIMAL-PLANET.jpg",
-          "embed": "https://rdcanais.org/animalplanet"
+          "embed": "https://rdcanais.cc/animalplanet"
         },
 		{
           "nome": "Animal Planet HD4",
@@ -2200,7 +2240,7 @@
 		{
           "nome": "Discovery Channel HD3",
           "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "https://rdcanais.org/discoverychannel"
+          "embed": "https://rdcanais.cc/discoverychannel"
         },
 		{
           "nome": "Discovery Channel HD4",
@@ -2230,7 +2270,7 @@
 		{
           "nome": "Discovery Home & Health HD3",
           "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
-          "embed": "https://rdcanais.org/discoveryheh"
+          "embed": "https://rdcanais.cc/discoveryheh"
         },
 		{
           "nome": "Discovery Home & Health HD4",
@@ -2260,7 +2300,7 @@
 		{
           "nome": "Discovery Science HD3",
           "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
-          "embed": "https://rdcanais.org/discoveryscience"
+          "embed": "https://rdcanais.cc/discoveryscience"
         },
 		{
           "nome": "Discovery Science HD4",
@@ -2290,7 +2330,7 @@
 		{
           "nome": "Discovery Theater HD3",
           "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
-          "embed": "https://rdcanais.org/discoverytheater"
+          "embed": "https://rdcanais.cc/discoverytheater"
         },
 		{
           "nome": "Discovery Theater HD4",
@@ -2320,7 +2360,7 @@
 		{
           "nome": "Discovery Turbo HD3",
           "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
-          "embed": "https://rdcanais.org/discoveryturbo"
+          "embed": "https://rdcanais.cc/discoveryturbo"
         },
 		{
           "nome": "Discovery Turbo HD4",
@@ -2350,7 +2390,7 @@
 		{
           "nome": "Discovery World HD3",
           "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
-          "embed": "https://rdcanais.org/discoveryworld"
+          "embed": "https://rdcanais.cc/discoveryworld"
         },
 		{
           "nome": "Discovery World HD4",
@@ -2385,7 +2425,7 @@
 		{
           "nome": "Discovery ID HD3",
           "imagem": "https://i.ibb.co/zHfxWBDq/dic-id.jpg",
-          "embed": "https://rdcanais.org/discoveryid"
+          "embed": "https://rdcanais.cc/discoveryid"
         },
 		{
           "nome": "Discovery ID HD4",
@@ -2420,7 +2460,7 @@
 		{
           "nome": "History HD3",
           "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
-          "embed": "https://rdcanais.org/history"
+          "embed": "https://rdcanais.cc/history"
         },
 		{
           "nome": "History HD4",
@@ -2450,7 +2490,7 @@
 		{
           "nome": "History 2 HD3",
           "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
-          "embed": "https://rdcanais.org/history2"
+          "embed": "https://rdcanais.cc/history2"
         },
 		{
           "nome": "History 2 HD4",
@@ -2485,7 +2525,7 @@
 		{
           "nome": "Adult Swim HD3",
           "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
-          "embed": "https://rdcanais.org/adultswim"
+          "embed": "https://rdcanais.cc/adultswim"
         },
 		{
           "nome": "Adult Swim HD4",
@@ -2500,7 +2540,7 @@
 		{
           "nome": "ARTE1 HD1",
           "imagem": "https://i.ibb.co/yFDYJvdb/ARTE1.jpg",
-          "embed": "https://rdcanais.org/arte1"
+          "embed": "https://rdcanais.cc/arte1"
         },
 		{
           "nome": "ARTE1 HD2",
@@ -2515,7 +2555,7 @@
 		{
           "nome": "BIS HD1",
           "imagem": "https://i.ibb.co/Jj5CD3cJ/bis.jpg",
-          "embed": "https://rdcanais.org/bis"
+          "embed": "https://rdcanais.cc/bis"
         },
 		{
           "nome": "BIS HD2",
@@ -2530,7 +2570,7 @@
 		{
           "nome": "CANAL BRASIL HD1",
           "imagem": "https://i.ibb.co/xSjpGzq2/CN-BRASIL.jpg",
-          "embed": "https://rdcanais.org/canalbrasil"
+          "embed": "https://rdcanais.cc/canalbrasil"
         },
 		{
           "nome": "CANAL BRASIL HD2",
@@ -2555,7 +2595,7 @@
 		{
           "nome": "Food Network HD3",
           "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
-          "embed": "https://rdcanais.org/foodnetwork"
+          "embed": "https://rdcanais.cc/foodnetwork"
         },
 		{
           "nome": "Food Network HD4",
@@ -2585,7 +2625,7 @@
 		{
           "nome": "GNT HD3",
           "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
-          "embed": "https://rdcanais.org/gnt"
+          "embed": "https://rdcanais.cc/gnt"
         },
 		{
           "nome": "GNT HD4",
@@ -2620,7 +2660,7 @@
 		{
           "nome": "HGTV HD3",
           "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
-          "embed": "https://rdcanais.org/hgtv"
+          "embed": "https://rdcanais.cc/hgtv"
         },
 		{
           "nome": "HGTV HD4",
