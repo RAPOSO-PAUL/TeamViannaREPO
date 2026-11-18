@@ -1,4 +1,4 @@
-#gerado	1794954613808
+#gerado	1794987714977
 254630	113184	mp4	12 12 12	
 2177	105897	mp4	O Elo Perdido	
 104361	104827	mp4	Máquinas de Sangue	
@@ -225,7 +225,6 @@
 46975	10400	mp4	Crossing Lines	
 1402	10383	mp4	The Walking Dead	
 47054	10365	mp4	Atlântida	
-63645	10348	mp4	Agent X	
 1973	10336	mp4	24 Horas	
 77169	10291	mp4	Cobra Kai	
 66190	10282	mp4	Manto e Adaga	
@@ -237,7 +236,6 @@
 60802	9998	mp4	O Último Navio	
 17610	9980	mp4	NCIS: Los Angeles	
 64555	9918	mp4	Frontier	
-87415	9912	mp4	Shadow	
 61387	9875	mp4	NCIS: Nova Orleans	
 90822	9808	mp4	Aruanas	
 61599	9801	mp4	Os Bibliotecários	
@@ -393,20 +391,13 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
-72705	116669	mp4	Marvel: Homem-Aranha	
+336478	117430	mp4	A Casa Mágica da Doozie	
 2129	116657	mp4	As Aventuras de Jimmy Neutron, O Menino Gênio	
 307903	113143	mp4	HORROR COLLECTOR	
 42951	113122	mp4	Kaiji	
 42877	113121	mp4	Akagi	
 80463	113120	mp4	Mr. TONEGAWA Middle Management Blues	
 81044	113119	mp4	Uma sentada das alturas	
-65439	113113	mp4	Big Order	
-72505	113112	mp4	In Another World With My Smartphone	
-80464	113111	mp4	Holmes of Kyoto	
-71000	113109	mp4	Tsugumomo	
-80628	113108	mp4	Yume Oukoku to Nemureru 100 Nin no Ouji-sama	
-80562	113107	mp4	Sete Sentidos da Re-União	
-68394	113053	mp4	Em Busca de Watership Down	
 134667	112750	mp4	Reincarnated as a Sword	
 323937	112749	mp4	Dandivine	
 335790	112748	mp4	I'm Dating a Dark Summoner	
@@ -1452,8 +1443,9 @@
 258901	477	mp4	SANDA	
 440023	95557	mp4	Policial de Aço Jiban - O Filme	
 858717	96260	mp4	Harry e Meghan: Escapando do Palácio	
+336243	117429	mp4	ChiaroScuro	
+287296	117419	mp4	Honey	
 4623	116662	mp4	A Nova Escola do Imperador	
-80713	113110	mp4	Um Chute no Meu Diabo!	
 303745	112733	mp4	Amor Disfarçado	
 112538	105674	mp4	Um Natal Nada Normal	
 111499	105665	mp4	De Brutas, Nada	
@@ -2035,15 +2027,10 @@
 81284	10292	mp4	A Bizarra Confeitaria de Christine McConnell	
 73411	10280	mp4	Maniac	
 81317	10273	mp4	Forever	
-79005	10272	mp4	Dietland	
-77485	10268	mp4	The Last O.G.	
 71733	10241	mp4	SMILF	
-71739	10221	mp4	Ghosted	
-75967	10215	mp4	Corporate	
 71887	10195	mp4	Marlon	
 71308	10192	mp4	Disjointed	
 71683	10189	mp4	White Gold	
-69320	10187	mp4	Trial & Error	
 71209	10160	mp4	Great News	
 67040	10146	mp4	Speechless	
 83412	10132	mp4	Amor Ocasional	
@@ -2067,9 +2054,7 @@
 67487	9956	mp4	O Tick	
 84977	9949	mp4	Boneca Russa	
 605	9944	mp4	Sabrina, a Aprendiz de Feiticeira	
-80483	9943	mp4	Weird City	
 1981	9932	mp4	Charmed: Jovens Bruxas	
-76148	9925	mp4	Derry Girls	
 79410	9910	mp4	After Life: Vocês Vão Ter de Me Engolir	
 82503	9909	mp4	Les Emmerdeurs	
 85486	9907	mp4	Se joga, Charlie	
@@ -2080,9 +2065,7 @@
 82578	9889	mp4	O Segredo da Nick	
 88455	9887	mp4	Os Roni	
 88366	9882	mp4	Lunáticos	
-66556	9878	mp4	Wrecked	
 48891	9876	mp4	Brooklyn Nine-Nine: Lei e Desordem	
-79356	9865	mp4	Tuca & Bertie	
 79723	9855	mp4	The Cool Kids	
 89490	9852	mp4	É o Bruno!	
 79583	9845	mp4	Felizes Juntos	
@@ -2090,7 +2073,6 @@
 84111	9843	mp4	O Príncipe de Peoria	
 85958	9842	mp4	Resgate em Malibu - A Série	
 61381	9837	mp4	Black-ish	
-1712	9831	mp4	Os Monstros	
 1892	9830	mp4	Um Maluco no Pedaço	
 52	9826	mp4	De Volta aos Anos 70	
 4454	9824	mp4	Will e Grace	
@@ -2367,6 +2349,7 @@
 279601	482	mp4	Homem X Bebê	
 285770	462	mp4	Desprazer em Te Conhecer	
 225647	290	mp4	Boots	
+303182	116843	mp4	O Crime de Pazos	
 292741	112986	mp4	Noturno	
 123377	101665	mp4	Dom	
 100543	101653	mp4	Penance	
@@ -2586,13 +2569,11 @@
 66789	10337	mp4	24 Horas: O Legado	
 62146	10333	mp4	100 Code	
 81358	10283	mp4	Mr Inbetween	
-79013	10277	mp4	Inocente	
 76177	10254	mp4	Trust	
 75540	10239	mp4	Sete Segundos	
 72745	10227	mp4	Instinct	
 72749	10222	mp4	Contagem Regressiva	
 72748	10205	mp4	C. B. Strike	
-73689	10204	mp4	Rellik	
 72496	10194	mp4	Lei & Ordem: Crimes Reais	
 68018	10190	mp4	Lista Negra: Redenção	
 70858	10165	mp4	La Porta Rossa	
@@ -2600,10 +2581,8 @@
 1438	10102	mp4	A Escuta	
 1426	10096	mp4	Luther	
 66023	10067	mp4	Marcella	
-64023	10066	mp4	Modus	
 63733	10065	mp4	O Hipnotizador	
 66599	10060	mp4	Private Eyes	
-44264	10051	mp4	Endeavour, o Jovem Morse	
 1427	10049	mp4	Broadchurch	
 46533	10048	mp4	The Americans	
 46638	10039	mp4	Top of the Lake	
@@ -2872,7 +2851,7 @@
 291339	261	mp4	Memória de um Assassino	
 206828	198	mp4	DTF St. Louis	
 213306	132	mp4	Detetive Alex Cross	
-70508	113029	mp4	Cinco que Voltaram	
+340784	117426	mp4	Quebra-Cabeça Mortal	
 111726	105673	mp4	Move	
 107904	105663	mp4	Linha de Tensão	
 296466	103075	mp4	Marília Mendonça: Sentimento Louco	
@@ -3860,9 +3839,13 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+307853	117431	mp4	Luz em Dias de Chuva	
+338562	117428	mp4	A Lei de Alicia	
+69692	117425	mp4	Ouro Verde	
+312661	117424	mp4	Milagres da Sala de Emergência	
+261315	117418	mp4	Florescer na Escuridão	
 60640	116667	mp4	A Gata	
 100575	113123	mp4	Tyler Perry's Ruthless	
-4613	113114	mp4	Band of Brothers	
 321958	112988	mp4	Line of Fire	
 323903	112985	mp4	The Terror: Devil in Silver	
 249565	112983	mp4	The Good Daughter	
@@ -4435,7 +4418,6 @@
 315825	54050	mp4	Juntas & Separadas	
 70943	52278	mp4	ONIHEI	
 73042	52249	mp4	Perrengue	
-87856	52223	mp4	Eu Conheci Jesus	
 83931	52220	mp4	45 rpm	
 80013	51491	mp4	Felizes para Sempre?	
 232670	51108	mp4	Um Amor Tão Lindo	
@@ -4948,7 +4930,6 @@
 67683	10381	mp4	Travelers	
 71693	10375	mp4	Blood Drive	
 62852	10374	mp4	Billions	
-67726	10371	mp4	Beyond	
 62704	10369	mp4	Ballers	
 60791	10351	mp4	American Crime	
 43899	10342	mp4	A Bíblia	
@@ -4957,22 +4938,13 @@
 78881	10288	mp4	Piquenique em Hanging Rock	
 67894	10286	mp4	Nobel - Peace at Any Cost	
 75820	10285	mp4	Mr. Sunshine - Um Raio de Sol	
-81829	10278	mp4	Leve como uma pena	
-79012	10271	mp4	The Woman in White	
 58347	10261	mp4	Diablo Guardián	
-74712	10259	mp4	Deep State	
-71713	10238	mp4	Rise	
 75944	10235	mp4	Mosaic	
-72340	10232	mp4	Adoráveis Mulheres	
-75506	10226	mp4	Here and Now	
 71766	10220	mp4	For the People	
 76796	10213	mp4	Collateral	
 74024	10212	mp4	Velvet Collection	
 65817	10208	mp4	The Deuce	
-71714	10207	mp4	The Brave	
-68002	10185	mp4	Time After Time	
 70215	10184	mp4	The White Princess	
-68915	10179	mp4	Still Star-Crossed	
 69480	10167	mp4	Mary de Morte	
 68799	10157	mp4	Gilmore Girls: Um Ano para Recordar	
 69851	10156	mp4	FEUD	
@@ -4983,11 +4955,8 @@
 67119	10140	mp4	Notorious	
 66761	10137	mp4	Medici: Mestres de Florença	
 69871	10134	mp4	Case	
-61399	10126	mp4	Clube da Pulseira Vermelha	
-64836	10122	mp4	Good Behavior	
 67026	10119	mp4	Designated Survivor	
 67118	10117	mp4	Conviction	
-64073	10116	mp4	Class	
 66912	10114	mp4	Chance	
 67679	10111	mp4	Queen Sugar	
 84310	10107	mp4	Manju	
@@ -4996,7 +4965,6 @@
 64852	10091	mp4	Trapped	
 62142	10088	mp4	The Returned	
 65579	10082	mp4	A Jogada	
-62814	10081	mp4	Segredos em Família	
 66238	10079	mp4	The Five (UK)	
 61859	10078	mp4	O Gerente da Noite	
 64432	10076	mp4	The Magicians: Escola de Magia	
@@ -5004,14 +4972,12 @@
 65978	10070	mp4	The A Word: A Vida com Joe	
 64437	10062	mp4	Os Forasteiros	
 63329	10058	mp4	Rosewood	
-64434	10057	mp4	Seconda Chance	
 64433	10055	mp4	Shades of Blue: Segredos Policiais	
 39279	10046	mp4	Uma Escolha do Coração	
 44549	10043	mp4	Nashville: No Ritmo da Fama	
 57092	10037	mp4	The White Queen	
 60066	10031	mp4	The Assets	
 48865	10028	mp4	Reinado	
-46958	10026	mp4	Ravenswood	
 4616	10012	mp4	Xena: A Princesa Guerreira	
 56296	10007	mp4	Orphan Black	
 47141	10001	mp4	A Ponte	
@@ -5025,7 +4991,6 @@
 70593	9952	mp4	Kingdom	
 68716	9950	mp4	Inumanos da Marvel	
 85854	9939	mp4	A Viúva	
-73314	9938	mp4	Borderliner	
 87172	9937	mp4	Família ao Resgate	
 81946	9936	mp4	Inimigo Interno	
 81224	9929	mp4	Os Miseráveis	
@@ -5042,7 +5007,6 @@
 32708	9868	mp4	Prova do Crime	
 61427	9867	mp4	Kingdom: Decisão Dividida	
 84647	9859	mp4	The Society	
-82094	9856	mp4	Jogo de Espiões	
 86365	9854	mp4	The Red Line: Vidas Cruzadas	
 88512	9848	mp4	Amizade Dolorida	
 81940	9846	mp4	Dilema	
@@ -6246,6 +6210,7 @@
 155780	3732	mp4	Batwheels	
 93265	3286	mp4	Aucademia	
 62569	1404	mp4	Go! Princess Precure	
+334412	117423	mp4	Student of the Year: After Dark	
 289517	106046	mp4	Um Trabalho do Inferno	
 213562	102859	mp4	Crystal Lake	
 293610	102449	mp4	Doctor X: A Máfia do Jaleco Branco	
@@ -6325,10 +6290,7 @@
 72744	10247	mp4	The Disappearance	
 76819	10236	mp4	Requiem	
 70485	10200	mp4	Sr. Mercedes	
-68406	10145	mp4	Pustina	
-70719	10000	mp4	Ten Days in the Valley	
 12786	9961	mp4	Mistérios do Detetive Murdoch	
-75592	9931	mp4	Keeping Faith	
 80055	9834	mp4	Chambers	
 81922	9797	mp4	The Fix	
 89287	9792	mp4	Instinto	
@@ -6441,6 +6403,7 @@
 17112	36224	mp4	Globo Repórter	
 122650	36223	mp4	Globo Rural	
 61153	36222	mp4	Profissão Repórter	
+341603	117422	mp4	Estrelas no Altar: Anele & Buzza	
 131589	105762	mp4	Brincando com Fogo: América Latina	
 86807	101018	mp4	Namoro, Amizade... Ou Adeus?	
 91766	101016	mp4	Hyperdrive	
@@ -7178,8 +7141,6 @@
 72925	10243	mp4	Stargate Origins	
 63646	10216	mp4	Counterpart: Mundo Paralelo	
 67861	10199	mp4	Midnight, Texas	
-68001	10170	mp4	Powerless	
-71969	10168	mp4	Missions	
 78183	10131	mp4	Nightflyers	
 1983	10129	mp4	Guardiões do Futuro Timeranger	
 68427	10123	mp4	Marte	
@@ -7190,14 +7151,12 @@
 39510	10022	mp4	Touch - Visões do Futuro	
 51370	10010	mp4	Ressurreição	
 85442	9996	mp4	Terrores Urbanos	
-39345	9987	mp4	Divine: The Series	
 33852	9983	mp4	Lost Girl	
 8459	9973	mp4	Being Erica	
 62017	9963	mp4	O Homem do Castelo Alto	
 75758	9962	mp4	Perdidos no Espaço	
 85703	9946	mp4	Sempre Bruxa	
 83300	9924	mp4	Diablero	
-82875	9916	mp4	Origin	
 85424	9902	mp4	Osmosis	
 79460	9796	mp4	Legados	
 79130	9784	mp4	Outra Vida	
@@ -7356,6 +7315,7 @@
 270420	295	mp4	De Repente Humana	
 223530	264	mp4	Star Trek: Academia da Frota Estelar	
 202411	258	mp4	Monarch - Legado de Monstros	
+90591	117427	mp4	Pecado Mortal	
 327107	99613	mp4	Avenida Brasil 2	
 282232	98070	mp4	As Pupilas do Senhor Reitor	
 28577	97254	mp4	Bang Bang	
@@ -7381,7 +7341,6 @@
 40	77723	mp4	Dallas	
 42789	76755	mp4	Páginas da Vida	
 91337	65545	mp4	Ribeirão do Tempo	
-90591	65449	mp4	Pecado Mortal	
 295099	65425	mp4	Amor em Ruínas	
 158158	65423	mp4	Prova de Amor	
 117926	65422	mp4	Paraíso	
@@ -8537,6 +8496,9 @@
 0	68405	mp4	[Reel] O Gênio da Lâmpada Sob Contrato	
 0	68399	mp4	[Reel] Minha Visão de Raio-X Vê Bem Através de Você	
 0	68397	mp4	[Reel] O Rei Disfarçado	
+0	116761	mp4	[Reel] O Gênio do Ferro-Velho Salvou Meu Império	
+0	116760	mp4	[Reel] Você Não Merece a Misericórdia do Arcanjo	
+0	116759	mp4	[Reel] Fora do Meu Iate!	
 0	116758	mp4	[Reel] Minha Família Mafiosa Chamou Meu Marido de Fracassado — Eles Têm 48 Horas Para Se Arrepender	
 0	116757	mp4	[Reel] Meu Pai Roceiro É o Padrinho	
 0	116756	mp4	[Reel] Cowboys em Marte	
