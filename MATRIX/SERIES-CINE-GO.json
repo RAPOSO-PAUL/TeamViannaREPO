@@ -755,7 +755,7 @@
     {
       "tmdb_id": 243875,
       "type": "tv",
-      "added_at": "2026-11-10",
+      "added_at": "2026-11-18",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/243875/1/1", "https://myembed.biz/serie/243875/1/1" ] },
         { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/243875/1/2", "https://myembed.biz/serie/243875/1/2" ] },
@@ -800,7 +800,8 @@
         { "season": 2, "episode": 21, "embeds": [ "https://mgeb.lat/embed/243875/2/21", "https://myembed.biz/serie/243875/2/21" ] },
         { "season": 3, "episode": 1, "embeds": [ "https://mgeb.lat/embed/243875/3/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=GRGIEMDYSPRMRCSMTOT03EP01'></iframe>", "https://myembed.biz/serie/243875/3/1" ] },
         { "season": 3, "episode": 2, "embeds": [ "https://mgeb.lat/embed/243875/3/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=GRGIEMDYSPRMRCSMTOT03EP02'></iframe>", "https://myembed.biz/serie/243875/3/2" ] },
-        { "season": 3, "episode": 3, "embeds": [ "https://mgeb.lat/embed/243875/3/3", "https://myembed.biz/serie/243875/3/3" ] }
+        { "season": 3, "episode": 3, "embeds": [ "https://mgeb.lat/embed/243875/3/3", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=GRGIEMDYSPRMRCSMTOT03EP03'></iframe>", "https://myembed.biz/serie/243875/3/3" ] },
+		{ "season": 3, "episode": 4, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=GRGIEMDYSPRMRCSMTOT03EP04'></iframe>", "https://myembed.biz/serie/243875/3/4" ] }
       ]
     },
     {
