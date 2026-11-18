@@ -16,6 +16,7 @@
   "tmdb_id":13690,
   "type":"movie",
   "added_at":"2026-11-18",
+  "kids":["Chefinhos","Prezinhos","Aborrecentes"],
   "sources":[
     {"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=OBCHVAPGR2"},
     {"name":"PLAYER 3","embed":"https://myembed.biz/filme/13690"},
@@ -41,6 +42,7 @@
   "tmdb_id":7484,
   "type":"movie",
   "added_at":"2026-11-17",
+  "kids":["Chefinhos","Prezinhos","Aborrecentes"],
   "sources":[
     {"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=OBCHVAPGR"},
     {"name":"PLAYER 3","embed":"https://myembed.biz/filme/7484"},
