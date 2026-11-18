@@ -1,6 +1,19 @@
 {
 "movies":[
 {
+  "tmdb_id":13690,
+  "type":"movie",
+  "added_at":"2026-11-18",
+  "sources":[
+    {"name":"PLAYER 2","embed":"https://redecanais.zone/player3/server.php?server=RCFServer3&subfolder=ondemand&vid=OBCHVAPGR2"},
+    {"name":"PLAYER 3","embed":"https://myembed.biz/filme/13690"},
+    {"name":"1080p DUAL","magnet":"magnet:?xt=urn:btih:FQ4W4OEVKK2QG46NY6KI7Y426CLWS6WK&dn=VAMOSTORRENT.COM...720P.MKV.-DUBLADO-DUAL-AUDIO-..O%20Bicho%20Vai%20Pegar%202%202008%20BLUDV.COM&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce"},
+	{"name":"1080p DUAL 2","magnet":"magnet:?xt=urn:btih:CI45HAEZOO23XFOLP3O5K7BNBSKJ3UU5&dn=VAMOSTORRENT.COM...MKV.-DUBLADO-DUAL-AUDIO-..O%20Bicho%20Vai%20Pegar%202%202008%20%5B1080p%5D%20BLUDV.COM&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce"},
+	{"name":"1080p DUAL 3","magnet":"magnet:?xt=urn:btih:CW2WDY3IDSYIACVTLM73JY3LABTVO2KA&dn=VAMOSTORRENT.COM...MKV.-DUBLADO-DUAL-AUDIO-..O%20Bicho%20Vai%20Pegar%202%202008%205.1%20(1080p-FULL)%20LAPUMiA"}
+  ],
+  "youtube":"2t7_LxxM4dw"
+},
+{
   "tmdb_id":1518204,
   "type":"movie",
   "added_at":"2026-11-17",
