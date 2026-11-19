@@ -1,6 +1,21 @@
 {
   "series": [
     {
+      "tmdb_id": 291507,
+      "type": "tv",
+      "added_at": "2026-11-18",
+      "episodes": [
+        { "season": 1, "episode": 1, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP01'></iframe>", "https://myembed.biz/serie/291507/1/1" ] },
+		{ "season": 1, "episode": 2, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP02'></iframe>", "https://myembed.biz/serie/291507/1/2" ] },
+		{ "season": 1, "episode": 3, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP03'></iframe>", "https://myembed.biz/serie/291507/1/3" ] },
+		{ "season": 1, "episode": 4, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP04'></iframe>", "https://myembed.biz/serie/291507/1/4" ] },
+		{ "season": 1, "episode": 5, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP05'></iframe>", "https://myembed.biz/serie/291507/1/5" ] },
+		{ "season": 1, "episode": 6, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP06'></iframe>", "https://myembed.biz/serie/291507/1/6" ] },
+		{ "season": 1, "episode": 7, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP07'></iframe>", "https://myembed.biz/serie/291507/1/7" ] },
+		{ "season": 1, "episode": 8, "embeds": ["<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=OCRPOT01EP08'></iframe>", "https://myembed.biz/serie/291507/1/8" ] }
+      ]
+    },
+	{
       "tmdb_id": 225385,
       "type": "tv",
       "added_at": "2026-11-10",
