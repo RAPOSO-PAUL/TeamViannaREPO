@@ -61,6 +61,21 @@
           "nome": "A Fazenda 18 2 HD3",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
           "embed": "iframe:https://multicanais.cyou/player.php?id=afazenda2"
+        },
+		{
+          "nome": "A Fazenda 18 3 HD1",
+          "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
+          "embed": "https://w7.embedtv.cc/afazenda3"
+        },
+		{
+          "nome": "A Fazenda 18 3 HD2",
+          "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
+          "embed": "https://v2.rdembed.lat/afazenda4"
+        },
+		{
+          "nome": "A Fazenda 18 3 HD3",
+          "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=afazenda3"
         }
       ]
     },
@@ -2066,6 +2081,36 @@
           "nome": "Discovery Kids HD6",
           "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=discoverykids"
+        },
+		{
+          "nome": "GLooB HD1",
+          "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=gloob"
+        },
+		{
+          "nome": "GLooB HD2",
+          "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
+          "embed": "https://w7.embedtv.cc/gloob"
+        },
+		{
+          "nome": "GLooB HD3",
+          "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
+          "embed": "https://rdcanais.cc/gloob"
+        },
+		{
+          "nome": "GLooB HD4",
+          "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
+          "embed": "https://v2.rdembed.lat/gloob"
+        },
+		{
+          "nome": "GLooB HD5",
+          "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
+          "embed": "iframe:https://multicanais.cyou/player.php?id=gloob"
+        },
+		{
+          "nome": "GLooB HD6",
+          "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=gloob"
         }
       ]
     },
