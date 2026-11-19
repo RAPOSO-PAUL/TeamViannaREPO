@@ -1,4 +1,4 @@
-#gerado	1795022421594
+#gerado	1795048175299
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
 13417	116661	m3u8	A Nova Onda do Kronk	
@@ -264,7 +264,7 @@
 903368	100412	mp4	Нещаслива зірка	
 903363	100410	mp4	Казка про доброго носорога	
 903356	100407	mp4	Человек, который умел летать	
-16234	100389	mp4	Batman do Futuro: O Retorno do Coringa	
+16234	100389	m3u8	Batman do Futuro: O Retorno do Coringa	
 850723	100387	mp4	Coração de Pedra	
 833516	100386	mp4	Scooby-Doo, Cadê Você Agora!	
 17031	100385	mp4	Dragonlance: Dragões do Crepúsculo do Outono	
@@ -2888,7 +2888,7 @@
 9350	90229	mp4	Risco Total	
 1620	90226	mp4	Hitman: Assassino 47	
 346	90224	m3u8	Os Sete Samurais	
-9923	90223	mp4	Domino, a Caçadora de Recompensas	
+9923	90223	m3u8	Domino, a Caçadora de Recompensas	
 82	90221	mp4	Miami Vice	
 9989	90215	mp4	Ameaça Virtual	
 2099	90209	mp4	Jogo Bruto	
@@ -2945,7 +2945,7 @@
 1153576	82530	m3u8	Street Fighter	
 12648	81939	mp4	Agentes Secretos	
 157107	81344	mp4	Máfia	
-48340	81004	mp4	Santuário	
+48340	81004	m3u8	Santuário	
 24832	80677	mp4	Punhos de Aço	
 49049	80625	mp4	Dredd: O Juiz do Apocalipse	
 26583	80562	mp4	O Guardião	
@@ -3182,7 +3182,7 @@
 8869	40847	mp4	Malditas Aranhas!	
 549724	40802	mp4	Matadores de Canibais	
 9359	40794	mp4	Maverick	
-302156	40763	mp4	Mente Criminosa	
+302156	40763	m3u8	Mente Criminosa	
 11968	40757	mp4	Mergulho Radical	
 608	40716	mp4	MIB - Homens de Preto II	
 33613	40711	m3u8	Millennium III: A Rainha do Castelo de Ar	
@@ -3350,7 +3350,7 @@
 466190	14654	mp4	O Matador	
 43209	14645	m3u8	Ong-Bak 3	
 421313	14641	m3u8	Risco Máximo	
-461053	14639	mp4	S.W.A.T.: Operação: Escorpião	
+461053	14639	m3u8	S.W.A.T.: Operação: Escorpião	
 9070	14638	m3u8	Power Rangers: O Filme	
 5549	14637	mp4	RoboCop 2	
 19898	14630	mp4	Pandorum	
@@ -4935,7 +4935,7 @@
 1126844	104466	m3u8	As Semanas Mágicas	
 38843	104461	mp4	Ramona e Beezus	
 11857	104460	mp4	Correndo Atrás do Diploma	
-17362	104450	mp4	Loverboy: Garoto de Programa	
+17362	104450	m3u8	Loverboy: Garoto de Programa	
 79871	104442	mp4	O Fruto Maduro	
 79113	104440	m3u8	O Príncipe e Eu	
 23574	104437	mp4	A Senhora e Seus Maridos	
@@ -8579,7 +8579,7 @@
 1307373	2762	m3u8	Wasteman	
 1527309	2754	mp4	Ato Kwabena	
 275	2749	m3u8	Fargo: Uma Comédia de Erros	
-4415	2748	mp4	Os Miseráveis	
+4415	2748	m3u8	Os Miseráveis	
 1225582	2738	m3u8	Inside	
 210047	2723	m3u8	Dinheiro Sujo	
 37094	2722	mp4	Um Dia de Fúria	
@@ -9584,7 +9584,7 @@
 1392212	38250	mp4	A Glória Por Eles	
 1442440	38040	m3u8	Mamãe Golpista	
 1214554	29986	m3u8	DEVO	
-1699155	29544	mp4	Instinto Materno	
+1699155	29544	m3u8	Instinto Materno	
 1667493	29355	mp4	Tetra: Acreditar de Novo	
 1642859	15337	m3u8	Iron Maiden: Burning Ambition	
 416211	14700	m3u8	Os Capacetes Brancos	
@@ -9824,7 +9824,6 @@
 66184	116895	mp4	Barravento	
 83860	116897	mp4	Bebê De Outubro	
 28519	116905	mp4	Cadete Winslow	
-83932	116874	mp4	Traidor	
 1002482	116865	mp4	A Incrível Elisa	
 586661	116851	m3u8	100 Yards	
 82023	116658	m3u8	Hotel Desire	
@@ -10099,7 +10098,7 @@
 43323	104474	mp4	Ricardo III	
 10170	104473	mp4	A Casa da Rússia	
 8272	104471	mp4	A Família Savage	
-13957	104463	mp4	Um Amor para Toda a Vida	
+13957	104463	m3u8	Um Amor para Toda a Vida	
 23606	104462	mp4	O Mar Mais Silencioso Daquele Verão	
 615667	104453	mp4	A Voz Suprema do Blues	
 24192	104447	mp4	O Evangelho Segundo São Mateus	
@@ -11937,7 +11936,7 @@
 451184	91907	mp4	Wasp Network: Rede de Espiões	
 658619	91906	mp4	Os Segredos Obscuros da Minha Mãe	
 551395	91905	mp4	O Maestro	
-41823	91904	mp4	Mais e Melhores Blues	
+41823	91904	m3u8	Mais e Melhores Blues	
 695323	91903	mp4	Baile da Morte	
 63348	91902	mp4	O Caminho para a Eternidade	
 121640	91899	mp4	Zaytoun	
@@ -13504,7 +13503,7 @@
 1636768	8545	m3u8	Water Over Blood	
 986674	8535	m3u8	Shelter in Solitude	
 726209	8526	mp4	O Mundo Depois de Nós	
-5336	8524	mp4	Salò, ou os 120 Dias de Sodoma	
+5336	8524	m3u8	Salò, ou os 120 Dias de Sodoma	
 1082449	8523	m3u8	Doi Boy	
 870518	8522	mp4	Santuário	
 1150896	8504	m3u8	Broad Day	
@@ -15032,7 +15031,7 @@
 34647	104764	m3u8	Viagem Alucinante	
 20455	104586	mp4	Digimon: O Filme	
 13355	104545	m3u8	Scooby-Doo! Piratas à Bordo	
-35614	104467	mp4	Um Duende no Parque	
+35614	104467	m3u8	Um Duende no Parque	
 38222	104464	m3u8	Num Dia Claro de Verão	
 20329	104438	mp4	Death Note: L Muda o Mundo	
 31947	104433	mp4	King Kong 2	
@@ -15112,7 +15111,7 @@
 650058	97325	mp4	Огниво против Волшебной скважины	
 1516055	96499	mp4	A Outra Filha	
 647438	96329	mp4	东游	
-14191	95948	mp4	Aquamarine	
+14191	95948	m3u8	Aquamarine	
 644506	95009	mp4	Τα σημάδια της νύχτας	
 644434	94989	mp4	Самоорганизация биологических систем	
 522170	94933	mp4	Christabel	
@@ -15392,7 +15391,7 @@
 429	103180	mp4	Três Homens em Conflito	
 11040	102961	mp4	O Pequeno Grande Homem	
 540977	102849	m3u8	Vingança no Oeste	
-538225	102827	mp4	Deadwood	
+538225	102827	m3u8	Deadwood	
 249134	102515	m3u8	A Ronda da Vingança	
 887767	102409	m3u8	O Último Duelo	
 391	102357	m3u8	Por um Punhado de Dólares	
@@ -17707,7 +17706,7 @@
 15212	104572	mp4	A Experiência 4 - O Despertar	
 9682	104541	mp4	Pulse	
 661950	104488	mp4	Isolado na Pandemia	
-579828	104465	mp4	The Superdeep	
+579828	104465	m3u8	The Superdeep	
 13567	104418	mp4	Acampamento Sinistro	
 11654	104405	m3u8	Fome de Viver	
 11772	104387	m3u8	Desafio do Além	
@@ -20426,7 +20425,7 @@
 1090	15225	mp4	13º Andar	
 416772	15136	mp4	3 Pedidos	
 11258	15046	mp4	Tempestade	
-80184	15001	mp4	O Quarto Secreto	
+80184	15001	m3u8	O Quarto Secreto	
 2275	14905	mp4	A Filha do General	
 371801	14739	m3u8	Ponto de Tensão	
 234212	14734	m3u8	A Casa dos Mortos	
@@ -20462,7 +20461,7 @@
 443849	13926	mp4	Perseguindo o Assassino	
 414187	13907	m3u8	Sedução Perigosa	
 484436	13862	m3u8	Ánimas	
-17692	13856	mp4	Tubarão 3	
+17692	13856	m3u8	Tubarão 3	
 500656	13815	m3u8	Uma Mulher no Limite	
 714375	13807	m3u8	Encontro Fatal	
 273238	13805	m3u8	Tolerância Zero	
