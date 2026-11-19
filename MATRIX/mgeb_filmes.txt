@@ -1,4 +1,4 @@
-#gerado	1795084117506
+#gerado	1795121162301
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
 13417	116661	m3u8	A Nova Onda do Kronk	
@@ -271,7 +271,7 @@
 9078	100384	mp4	A Espada Era a Lei	
 62214	100383	m3u8	Frankenweenie	
 333667	100382	mp4	Rock Dog: No Faro do Sucesso	
-183011	100379	mp4	Liga da Justiça: Ponto de Ignição	
+183011	100379	m3u8	Liga da Justiça: Ponto de Ignição	
 140870	100378	mp4	Minúsculos: O Filme	
 1550797	100377	m3u8	Preparação e Pouso: Operação Bola de Neve	
 432383	100376	mp4	Amigos Alienígenas	
@@ -647,7 +647,6 @@
 173443	65426	m3u8	Uma História de Amor e Fúria	
 980431	64797	mp4	Avatar Aang: O Último Mestre do Ar	
 13285	64698	mp4	Barbie Fairytopia: Mermaidia	
-227200	64696	mp4	Barbie e suas Irmãs em uma Aventura de Cavalos	
 539745	64418	mp4	A Revolução dos Bichos	
 586945	54832	mp4	A Travessia	
 166428	54732	mp4	Como Treinar o Seu Dragão 3	
@@ -737,7 +736,7 @@
 851281	40668	mp4	Monster Hunter: Legends of the Guild	
 15512	40661	mp4	Monstros vs Alienígenas	
 10674	40642	m3u8	Mulan	
-523777	40557	mp4	Next Gen	
+523777	40557	m3u8	Next Gen	
 961323	40556	mp4	Nimona	
 12448	40445	mp4	O Corcunda de Notre Dame II: O Segredo do Sino	
 360920	40369	mp4	O Grinch	
@@ -798,7 +797,7 @@
 583209	15135	mp4	Marvel Rising: Coração de Ferro	
 452773	15060	mp4	As Aventuras de Tadeo 2: O Segredo do Rei Midas	
 217993	14947	mp4	Liga da Justiça: Guerra	
-485942	14937	mp4	Batman Ninja	
+485942	14937	m3u8	Batman Ninja	
 256835	14931	mp4	Toy Story: Esquecidos Pelo Tempo	
 12222	14923	m3u8	Horton e o Mundo dos Quem!	
 12242	14896	m3u8	Mulan 2: A Lenda Continua	
@@ -923,7 +922,7 @@
 393559	8410	m3u8	Minha Vida de Abobrinha	
 381693	8389	m3u8	Kung Fu Panda: Segredos do Pergaminho	
 1123093	8350	m3u8	Diário de um Banana no Natal: Casa dos Horrores	
-390734	8342	mp4	Kingsglaive: Final Fantasy XV	
+390734	8342	m3u8	Kingsglaive: Final Fantasy XV	
 392536	8341	m3u8	Lego Scooby-Doo! Hollywood Assombrada	
 506734	8310	m3u8	Lego DC Super Hero Girls: Escola de Super Vilãs	
 513736	8304	m3u8	LEGO DC Comics Super Heróis - Aquaman: A Fúria de Atlântida	
@@ -1151,7 +1150,7 @@
 1022789	1530	mp4	Divertida Mente 2	
 372058	1522	mp4	Your name.	
 57800	1421	mp4	A Era do Gelo 4	
-425	1420	mp4	A Era do Gelo	
+425	1420	m3u8	A Era do Gelo	
 8355	1414	mp4	A Era do Gelo 3	
 568160	1383	m3u8	O Tempo com Você	
 568124	1373	mp4	Encanto	
@@ -2070,7 +2069,7 @@
 443700	104511	mp4	Altitude	
 408866	104482	mp4	Re:Born	
 57663	104480	m3u8	Jogada Mortal 2 - Confronto de Campeões	
-16931	104479	mp4	Mergulho Radical 2: Os Recifes	
+16931	104479	m3u8	Mergulho Radical 2: Os Recifes	
 230896	104476	mp4	Homem de Ferro e Hulk: Super-Heróis Unidos	
 25278	104475	mp4	One Piece: Saga de Alabasta	
 32037	104422	mp4	A Travessia de Cassandra	
@@ -2661,7 +2660,7 @@
 662894	93376	mp4	Wolf Pack: Unidade de Combate	
 50473	93375	mp4	Flypaper - Os Desajustados	
 47945	93374	mp4	Amanhecer Sem Futuro	
-585257	93373	mp4	Heróis de Fogo	
+585257	93373	m3u8	Heróis de Fogo	
 21878	93371	mp4	O Cartel	
 42120	93368	mp4	Perigo Extremo	
 741067	93366	mp4	Bem-Vindo à Morte Súbita	
@@ -2968,7 +2967,6 @@
 492449	76399	mp4	A Lei das Ruas	
 246594	76394	mp4	Mega Shark Contra Mecha Shark	
 414190	76077	mp4	iBoy	
-1669841	76010	mp4	Bleach: Thousand-Year Blood War - The Calamity	
 1355228	75784	mp4	Gandhari	
 267193	75778	mp4	Irmão de Espião	
 1386315	75770	mp4	Corrida Contra o Tempo	
@@ -3369,7 +3367,7 @@
 531503	14504	m3u8	À Queima-Roupa	
 388399	14492	mp4	O Dia do Atentado	
 9619	14461	mp4	O Inferno de Dante	
-33196	14460	mp4	Tsunami: A Fúria do Oceano	
+33196	14460	m3u8	Tsunami: A Fúria do Oceano	
 9342	14435	mp4	A Máscara do Zorro	
 154	14422	mp4	Jornada nas Estrelas II: A Ira de Khan	
 5890	14412	m3u8	Azumi 2	
@@ -3890,7 +3888,7 @@
 15070	6085	mp4	O Imbatível	
 15255	6084	m3u8	O Lutador	
 348893	6083	mp4	Boyka: O Imbatível	
-1029235	6072	mp4	Azrael	
+1029235	6072	m3u8	Azrael	
 1124127	6046	m3u8	Air Force One Down	
 1025596	6016	m3u8	Caminhos de Sangue	
 1210794	5999	m3u8	Prisioneiro do Caos	
@@ -4112,7 +4110,7 @@
 367198	2535	m3u8	No Rastro do Tráfico	
 53807	2532	m3u8	Bruce Lee, Meu Irmão	
 9462	2531	mp4	O Voo do Dragão	
-19124	2478	mp4	Fúria Cega	
+19124	2478	m3u8	Fúria Cega	
 1228710	2457	mp4	Star Wars: O Mandaloriano e Grogu	
 66193	2443	m3u8	Santos e Pecadores	
 429617	2403	m3u8	Homem-Aranha: Longe de Casa	
@@ -4198,7 +4196,7 @@
 1503187	1667	m3u8	Matadores de Aliens do Espaço Sideral	
 280	1651	m3u8	O Exterminador do Futuro 2: O Julgamento Final	
 9615	1646	m3u8	Velozes e Furiosos: Desafio em Tóquio	
-10477	1637	mp4	Alta Velocidade	
+10477	1637	m3u8	Alta Velocidade	
 500664	1635	m3u8	Upgrade: Atualização	
 311324	1625	mp4	A Grande Muralha	
 9884	1608	m3u8	Efeito Colateral	
@@ -4241,7 +4239,6 @@
 338762	1399	m3u8	Bloodshot	
 577922	1391	mp4	Tenet	
 458576	1387	mp4	Monster Hunter	
-82992	1366	mp4	Velozes & Furiosos 6	
 460465	1361	mp4	Mortal Kombat	
 634528	1351	mp4	Na Mira do Perigo	
 497698	1342	mp4	Viúva Negra	
@@ -4304,7 +4301,6 @@
 911430	1016	m3u8	F1: O Filme	
 1035259	1008	m3u8	Corra Que a Polícia Vem Aí!	
 1367575	995	m3u8	Linha de Fogo	
-122917	988	mp4	O Hobbit: A Batalha dos Cinco Exércitos	
 1369679	980	m3u8	Velocidade Total	
 537056	967	m3u8	Batman: Silêncio	
 13491	963	m3u8	Arn - O Cavaleiro Templário	
@@ -4719,6 +4715,7 @@
 1361154	263	m3u8	Plantão de Natal	
 1325888	262	m3u8	A Carta de Natal	
 1030969	244	m3u8	Uma Faísca de Natal	
+532327	117435	m3u8	Dois Doidões em Harvard 2	
 18404	116876	mp4	Agência de Talentos	
 35031	116873	mp4	A Via Láctea	
 89008	116861	mp4	A Filha do Meu Melhor Amigo	
@@ -4856,7 +4853,7 @@
 109418	104941	m3u8	Gente Grande 2	
 1371610	104822	m3u8	Atração Proibida	
 1634949	104817	mp4	Lorne	
-331588	104812	mp4	A Fabulosa Gilly Hopkins	
+331588	104812	m3u8	A Fabulosa Gilly Hopkins	
 15566	104811	mp4	Sobrevivendo ao Natal	
 227738	104795	mp4	Mortadelo e Salaminho: Missão Inacreditável	
 10322	104779	mp4	Muito Além do Jardim	
@@ -4918,8 +4915,8 @@
 8992	104518	mp4	Garota Sinal Verde	
 10411	104514	m3u8	Um Distinto Cavalheiro	
 892	104510	mp4	Delicatessen	
-8079	104509	mp4	Om Shanti Om	
-6037	104508	mp4	Assassinato Por Morte	
+8079	104509	m3u8	Om Shanti Om	
+6037	104508	m3u8	Assassinato Por Morte	
 209403	104507	mp4	Palavrões	
 11317	104502	mp4	Meu Primeiro Amor - Parte 2	
 11523	104501	m3u8	Voando Alto	
@@ -6715,7 +6712,7 @@
 1618	42556	mp4	Ainda Muito Loucos	
 515248	42534	mp4	Alguém Especial	
 869641	42484	mp4	Amizade de Férias 2	
-21542	42478	mp4	Amor de Aluguel	
+21542	42478	m3u8	Amor de Aluguel	
 2771	42423	mp4	Anti-Herói Americano	
 9038	42418	mp4	Antes Só do que Mal Casado	
 116149	42362	mp4	As Aventuras de Paddington	
@@ -6797,7 +6794,7 @@
 696	40840	mp4	Manhattan	
 651	40801	m3u8	MASH	
 51481	40765	mp4	Meninas Malvadas 2	
-442056	40750	mp4	Meu Amigo Vampiro	
+442056	40750	m3u8	Meu Amigo Vampiro	
 545957	40727	mp4	Meu Primeiro Verão na Califórnia	
 2069	40722	mp4	Meu Vizinho Mafioso	
 675041	40701	mp4	Minha Vida Pela Sua	
@@ -7207,7 +7204,7 @@
 624798	11110	mp4	O Livro de Floyd	
 1046011	11072	m3u8	Pronto, Falei	
 1032454	11068	m3u8	Natal sem Filtro	
-1028938	11067	mp4	Natal em Hollywood	
+1028938	11067	m3u8	Natal em Hollywood	
 862553	11065	mp4	Quem Fica com o Bar?	
 843543	11056	m3u8	Ajustando um Amor	
 860854	11044	m3u8	Bromates: Amigos em Apuros	
@@ -7952,7 +7949,7 @@
 89501	104591	mp4	Gangster Sem Nome	
 26263	104553	mp4	Desejo de Matar 4: Operação Crackdown	
 1093	104524	mp4	Ascensor para o Cadafalso	
-5924	104523	mp4	Papillon	
+5924	104523	m3u8	Papillon	
 257	104521	mp4	Oliver Twist	
 10598	104503	mp4	Dirty: O Poder da Corrupção	
 26719	104360	mp4	Jogo de Emoções	
@@ -8218,9 +8215,9 @@
 150	90973	mp4	48 Horas	
 581526	90811	mp4	Livrai-nos do Mal	
 202643	90807	mp4	Barrabás	
-807	90805	mp4	Seven - Os Sete Crimes Capitais	
+807	90805	m3u8	Seven - Os Sete Crimes Capitais	
 23168	90800	m3u8	Atração Perigosa	
-665896	90779	mp4	Reparação	
+665896	90779	m3u8	Reparação	
 1053587	90758	mp4	Jogo do Destino	
 9739	90627	mp4	O Demolidor	
 187	90598	mp4	Sin City: A Cidade do Pecado	
@@ -10070,7 +10067,7 @@
 363126	104567	mp4	A Síndrome de Berlin	
 423646	104565	mp4	Em Pedaços	
 630240	104564	mp4	Titane	
-10333	104563	mp4	O Príncipe das Marés	
+10333	104563	m3u8	O Príncipe das Marés	
 665733	104561	mp4	Ervas Secas	
 209276	104559	mp4	Encarcerado	
 10795	104558	mp4	Não Conte a Ninguém	
@@ -10080,11 +10077,11 @@
 10534	104538	m3u8	Tormenta	
 46581	104537	mp4	Contos Imorais	
 17474	104536	mp4	No Mundo da Lua	
-271674	104533	mp4	Suite Francesa	
+271674	104533	m3u8	Suite Francesa	
 20539	104530	mp4	As Bruxas de Salém	
-280996	104527	mp4	Sr. Sherlock Holmes	
+280996	104527	m3u8	Sr. Sherlock Holmes	
 844	104517	mp4	2046: Os Segredos do Amor	
-29592	104513	mp4	Sede de Viver	
+29592	104513	m3u8	Sede de Viver	
 10876	104506	mp4	Contos Proibidos do Marquês de Sade	
 49096	104505	mp4	O Império da Paixão	
 238628	104497	m3u8	Tangerinas	
@@ -11459,7 +11456,7 @@
 53113	94525	mp4	Um Amor Verdadeiro	
 26022	94523	mp4	Meu Nome é Khan	
 1030009	94515	mp4	Orgulho e Compaixão	
-662237	94509	mp4	Sweet & Sour	
+662237	94509	m3u8	Sweet & Sour	
 814338	94466	mp4	O Amante de Lady Chatterley	
 109689	94457	m3u8	Sou Louco Por Você	
 785544	94424	mp4	Não Devíamos Ter Crescido	
@@ -11533,7 +11530,7 @@
 305937	92967	mp4	O Ciclista	
 13159	92948	mp4	Ela é a Poderosa	
 12454	92925	mp4	Agora ou Nunca	
-18947	92890	mp4	Os Piratas do Rock	
+18947	92890	m3u8	Os Piratas do Rock	
 44718	92874	mp4	Segredos de um Funeral	
 361788	92868	mp4	Depois de Tudo	
 273912	92725	mp4	La canción	
@@ -12889,7 +12886,7 @@
 9475	39793	m3u8	Perfume de Mulher	
 459910	39790	mp4	Perigo na Montanha	
 9516	39789	mp4	Perigo Para a Sociedade	
-792	39750	mp4	Platoon	
+792	39750	m3u8	Platoon	
 14834	39736	mp4	Ponto de Decisão	
 63193	39697	mp4	Primeiro da Classe	
 651907	39656	mp4	Pureza	
@@ -15084,7 +15081,7 @@
 258230	102009	m3u8	Sete Minutos Depois da Meia-Noite	
 9593	101955	mp4	O Último Grande Herói	
 354251	101939	m3u8	Southbound: Estrada para o inferno	
-338729	101772	mp4	Todo Dia, Uma Vida	
+338729	101772	m3u8	Todo Dia, Uma Vida	
 400106	101525	mp4	Bright	
 847	101505	m3u8	Willow - Na Terra da Magia	
 554311	101462	mp4	A Criança Zombie	
@@ -15753,7 +15750,7 @@
 5491	42671	mp4	A Reconquista	
 438590	42599	mp4	A-X-L: O Cão Robô	
 396806	42431	mp4	Anon	
-517096	41919	mp4	Cosmoball: Os Guardiões do Universo	
+517096	41919	m3u8	Cosmoball: Os Guardiões do Universo	
 10134	41883	mp4	Cyborg - O Dragão do Futuro	
 679548	41445	mp4	Experiência Alpha	
 721625	41136	mp4	Isolados: Medo Invisível	
@@ -15807,7 +15804,7 @@
 471498	13259	m3u8	Oxigênio	
 528356	13256	m3u8	A Pedra da Serpente	
 693158	13224	m3u8	A Presença	
-688258	13198	mp4	A Invasão: Ocupação Alienígena	
+688258	13198	m3u8	A Invasão: Ocupação Alienígena	
 641501	13188	mp4	Como Virei Super-Herói	
 842171	13167	mp4	Deep	
 791568	13163	m3u8	Colonizadores	
@@ -16152,7 +16149,7 @@
 716145	12794	m3u8	Sem Retorno	
 567566	12775	m3u8	A Outra Face da Guerra	
 762433	12444	m3u8	Zeros e Uns	
-728118	12368	mp4	Quo Vadis, Aida?	
+728118	12368	m3u8	Quo Vadis, Aida?	
 650031	12108	mp4	O Bombardeio	
 489245	12008	m3u8	Equipe Assassina	
 661231	11893	m3u8	O Soldado que Não Existiu	
@@ -16366,7 +16363,7 @@
 465291	105166	m3u8	Mistério na Venda de Garagem: Armadura Mortal	
 18681	104804	m3u8	Sedução Fatal	
 24615	104777	mp4	Aloha Scooby-Doo!	
-260	104512	mp4	Os 39 Degraus	
+260	104512	m3u8	Os 39 Degraus	
 18030	104335	m3u8	A Morte num Beijo	
 46503	104299	mp4	Entre Segredos e Mentiras	
 473	104282	mp4	Pi	
@@ -16688,9 +16685,7 @@
 542324	79113	mp4	Dancing Queen	
 352492	77635	mp4	XOXO: A Vida é Uma Festa	
 893656	76415	mp4	Gracinha	
-13655	75702	mp4	Camp Rock	
 1493400	71780	mp4	Camp Rock 3	
-13655	70649	mp4	Camp Rock	
 266565	66858	mp4	Garota Enxuta	
 1192396	66740	m3u8	Natal com Os Escolhidos: Noite Santa	
 127370	66627	mp4	Canção para Marion	
@@ -17131,7 +17126,7 @@
 806643	91139	mp4	A Vida Pode Mudar	
 286554	91129	mp4	Apenas Duas Noites	
 12090	91115	mp4	Recém-Casados	
-16270	91091	mp4	Construindo uma Carreira	
+16270	91091	m3u8	Construindo uma Carreira	
 1061163	91070	mp4	At Midnight	
 272693	91064	mp4	D.U.F.F. - Você Conhece, Tem ou É	
 1126852	91056	mp4	Ricos de Amor 2	
@@ -17705,7 +17700,7 @@
 199534	104580	mp4	Wolf Creek: Viagem ao Inferno 2	
 15212	104572	mp4	A Experiência 4 - O Despertar	
 9682	104541	mp4	Pulse	
-661950	104488	mp4	Isolado na Pandemia	
+661950	104488	m3u8	Isolado na Pandemia	
 579828	104465	m3u8	The Superdeep	
 13567	104418	mp4	Acampamento Sinistro	
 11654	104405	m3u8	Fome de Viver	
@@ -17812,7 +17807,7 @@
 14147	102832	m3u8	Adoradores do Diabo	
 500535	102829	m3u8	7 Minutos na Escuridão	
 459667	102828	m3u8	Circus Kane - O Circo dos Horrores	
-680593	102826	mp4	Demoníaca	
+680593	102826	m3u8	Demoníaca	
 13465	102808	mp4	As Aventuras de Ichabod e Sr. Sapo	
 365995	102803	m3u8	Perigo na Escuridão	
 265010	102802	m3u8	O Canal	
@@ -17858,7 +17853,7 @@
 61964	102562	m3u8	O Padrasto: Ele Voltou Para Ficar	
 465086	102557	mp4	O Grito	
 290555	102549	m3u8	Lobos	
-643550	102534	mp4	Noturno	
+643550	102534	m3u8	Noturno	
 549294	102519	m3u8	Sincrónico	
 1304567	102507	m3u8	How to Make a Werewolf	
 28260	102500	mp4	A Volta dos Mortos Vivos 3	
@@ -18029,7 +18024,7 @@
 1186023	100112	m3u8	Não Apaguem as Luzes	
 1247353	100110	m3u8	Convite Perigoso	
 900537	100104	mp4	肉蛾天	
-1035982	100073	mp4	Hell House: A Origem	
+1035982	100073	m3u8	Hell House: A Origem	
 1420896	99981	m3u8	M.E.B - Matadouro Extra Blood	
 200036	99942	mp4	A Noite do Chupacabras	
 820748	99941	mp4	Visões da Mente	
@@ -18045,7 +18040,7 @@
 567409	99874	mp4	Forças Malignas	
 768334	99870	mp4	Um Clássico Filme de Terror	
 590995	99869	mp4	Jovens Bruxas: Nova Irmandade	
-571055	99868	mp4	Desce?	
+571055	99868	m3u8	Desce?	
 91586	99867	mp4	Sobrenatural: Capítulo 2	
 704269	99862	mp4	Skull: A Máscara de Anhangá	
 672582	99859	mp4	A Casa Profunda	
