@@ -1,17 +1,17 @@
 # Relatório da aba temática
 
-Rodada de 18/11/2026 21:46 (Brasília).
+Rodada de 19/11/2026 10:53 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
 - Datas: 10-21 a 01-06 · ativo: True
-- **456 filmes** e **5 séries**
+- **457 filmes** e **5 séries**
 - Animação: 42 filmes, 1 séries
 - Família: 101 filmes, 1 séries
 - Clássicos: 9 filmes, 0 séries
-- Romances: 195 filmes, 0 séries
+- Romances: 196 filmes, 0 séries
 
 ### Filmes
 
@@ -302,6 +302,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `1559980` Gospel de Natal — "natal" no nome
 - `1570488` O Natal Perfeito de um Cachorro — "natal" no nome
 - `1585269` A Magia do Natal — "natal" no nome
+- `1757174` Transformação de Natal — "natal" no nome
 - `345` De Olhos Bem Fechados — palavra-chave "christmas party"
 - `364` Batman: O Retorno — palavra-chave "christmas"
 - `508` Simplesmente Amor — palavra-chave "christmas"
@@ -414,7 +415,6 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `1175697` De Volta ao Meu Coração — palavra-chave "christmas"
 - `1218762` Feliz Assalto! — palavra-chave "christmas"
 - `1234811` Nosso Segredinho — palavra-chave "christmas"
-- `1255775` Merv — palavra-chave "christmas"
 
 ### Séries
 
@@ -442,7 +442,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 ## HALLOWEEN
 
 - Datas: 10-15 a 11-02 · ativo: False
-- **237 filmes** e **14 séries**
+- **237 filmes** e **15 séries**
 - Animação: 30 filmes, 0 séries
 - Família: 18 filmes, 1 séries
 - Clássicos: 44 filmes, 0 séries
@@ -704,6 +704,7 @@ Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 - `93693` Clube do Terror — palavra-chave "halloween"
 - `113036` American Horror Stories — palavra-chave "halloween"
 - `119051` Wandinha — palavra-chave "halloween"
+- `291507` O Corpo — "halloween" na sinopse
 
 ## PÁSCOA
 
