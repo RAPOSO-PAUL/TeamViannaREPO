@@ -1,14 +1,14 @@
 # Relatório da aba temática
 
-Rodada de 20/11/2026 13:10 (Brasília).
+Rodada de 20/11/2026 16:58 (Brasília).
 
 Legenda: ❌ = a sinopse bateu, mas um dos `excluir_termos` barrou.
 
 ## NATAL
 
 - Datas: 10-21 a 01-06 · ativo: True
-- **457 filmes** e **5 séries**
-- Animação: 42 filmes, 1 séries
+- **458 filmes** e **5 séries**
+- Animação: 43 filmes, 1 séries
 - Família: 101 filmes, 1 séries
 - Clássicos: 9 filmes, 0 séries
 - Romances: 196 filmes, 0 séries
