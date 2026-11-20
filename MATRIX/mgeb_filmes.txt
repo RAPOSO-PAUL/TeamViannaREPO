@@ -1,4 +1,4 @@
-#gerado	1795145315603
+#gerado	1795179983941
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
 13417	116661	m3u8	A Nova Onda do Kronk	
@@ -544,7 +544,7 @@
 441130	90702	mp4	Wolfwalkers	
 916224	90691	mp4	Suzume	
 1136767	90687	m3u8	A Pequena Sereia - Um Oceano de Aventuras	
-509733	90686	mp4	Agente 00-Gato	
+509733	90686	m3u8	Agente 00-Gato	
 580600	90685	mp4	Astro Kid	
 550738	90654	mp4	Agentes Selvagens	
 315162	90626	m3u8	Gato de Botas 2: O Último Pedido	
@@ -649,6 +649,7 @@
 539745	64418	mp4	A Revolução dos Bichos	
 586945	54832	mp4	A Travessia	
 166428	54732	mp4	Como Treinar o Seu Dragão 3	
+1659389	54671	m3u8	ONE PIECE HEROINES	
 64246	54670	mp4	Colorful	
 10144	54597	mp4	A Pequena Sereia	
 16418	54593	m3u8	Barbie em a Pequena Polegar	
@@ -4280,7 +4281,7 @@
 539972	1120	mp4	Kraven: O Caçador	
 634492	1115	mp4	Madame Teia	
 845781	1103	mp4	Operação Natal	
-939243	1086	mp4	Sonic 3: O Filme	
+939243	1086	m3u8	Sonic 3: O Filme	
 575265	1084	m3u8	Missão: Impossível - O Acerto Final	
 1504635	1071	m3u8	Mar Branco	
 557	1060	m3u8	Homem-Aranha	
@@ -8677,7 +8678,7 @@
 803	104755	m3u8	Noite e Neblina	
 1648678	104749	m3u8	Orangotango	
 405931	104603	mp4	A Marcha dos Pinguins 2	
-1430	104577	mp4	Tiros em Columbine	
+1430	104577	m3u8	Tiros em Columbine	
 1255030	104456	m3u8	Os Segredos dos Neandertais	
 1728113	104401	mp4	KATSEYE: Wild Hearts	
 2359	104394	mp4	Sicko: $O$ Saúde	
@@ -9530,7 +9531,6 @@
 1361882	54861	mp4	O Grito	
 808734	52455	mp4	Lutar, Lutar, Lutar	
 1715492	48920	mp4	Naufrágio: O Pesadelo do Costa Concordia	
-1722713	48895	mp4	Miguel Ángel Blanco: As 48 Horas que Mudaram a Espanha	
 1261730	48181	mp4	Óvnis: Arquivos Ultrassecretos	
 1172499	48140	mp4	Ice Cold: O Caso Jessica Wongso	
 757388	46761	mp4	Audrey	
@@ -12095,7 +12095,7 @@
 15749	91565	mp4	Enquanto Ela Está Fora	
 626743	91562	mp4	Blind – Eu Estou Aqui	
 65599	91532	mp4	A Mulher do Pântano	
-41402	91516	mp4	Deixe-me Entrar	
+41402	91516	m3u8	Deixe-me Entrar	
 1217215	91497	mp4	NOTURNO	
 194980	91491	mp4	O Desafio	
 294963	91440	mp4	Rastro de Maldade	
@@ -13273,6 +13273,7 @@
 660353	11704	m3u8	Unabomber: Terrorista	
 413852	11694	m3u8	Bem-vinda, Estranha	
 968739	11653	m3u8	Ligações Perigosas	
+323372	11646	m3u8	O Cadáver de Anna Fritz	
 968572	11637	m3u8	Tudo por Jojo	
 861072	11631	m3u8	Não Me Diga Adeus	
 846005	11544	m3u8	Uma Amizade Tóxica	
@@ -13365,7 +13366,7 @@
 964980	9920	mp4	Air: A História Por Trás do Logo	
 764541	9870	m3u8	O Rio do Desejo	
 1014566	9791	mp4	Valentes	
-1071806	9593	mp4	Fome de Sucesso	
+1071806	9593	m3u8	Fome de Sucesso	
 952701	9575	m3u8	Retorno a Seul	
 801787	9362	mp4	Gringa	
 916386	9340	m3u8	O Falsificador	
@@ -15523,7 +15524,7 @@
 10350	104658	mp4	Wing Commander: A Batalha Final	
 35412	104585	m3u8	A Hora Final	
 13686	104582	mp4	O Segredo de Kovak	
-1081400	104578	mp4	O Mistério do Moinho	
+1081400	104578	m3u8	O Mistério do Moinho	
 334376	104562	m3u8	Ghost in the Shell: O Novo Filme	
 456048	104542	m3u8	Estado de Calamidade	
 3604	104516	mp4	Flash Gordon	
@@ -16490,6 +16491,7 @@
 77	15385	m3u8	Amnésia	
 532163	15214	m3u8	7 Splinters in Time	
 279968	14691	m3u8	Terras de Sangue	
+325078	14458	m3u8	Um Mistério de Aurora Teagarden: O Segredo da Caveira	
 328387	14212	mp4	Nerve - Um Jogo Sem Regras	
 29427	14182	m3u8	A Epidemia	
 1903	13995	m3u8	Vanilla Sky	
@@ -17451,7 +17453,7 @@
 1176508	5131	m3u8	O Dia Que Te Conheci	
 513576	5119	m3u8	Meu Eterno Talvez	
 970948	5108	m3u8	O que Acontece Depois	
-12556	5105	mp4	Minhas Adoráveis Ex-Namoradas	
+12556	5105	m3u8	Minhas Adoráveis Ex-Namoradas	
 1403775	5072	m3u8	Umjolo: Entre Dois Amores	
 1038803	5046	m3u8	Uma Paixão no Natal	
 661881	4991	m3u8	Lar Doce Lar... Ou Não	
@@ -18840,7 +18842,7 @@
 1032620	8991	m3u8	Gore: All Hallows' Eve	
 858015	8984	m3u8	Dashcam	
 1146246	8973	m3u8	Deep Web: Show da Morte	
-1010826	8957	mp4	O Clube de Leitores Assassinos	
+1010826	8957	m3u8	O Clube de Leitores Assassinos	
 1026542	8954	m3u8	Baby Blue - Assassino em Série	
 1081639	8932	m3u8	Arekalar	
 953388	8930	m3u8	Deney	
@@ -19620,7 +19622,6 @@
 1041613	1121	mp4	Imaculada	
 710295	1117	mp4	Lobisomem	
 1023922	1114	mp4	MaXXXine	
-1010600	1102	mp4	Os Estranhos: Capítulo 1	
 814889	1100	mp4	Não Solte!	
 1100782	1091	mp4	Sorria 2	
 1034541	1089	mp4	Terrifier 3	
@@ -19765,6 +19766,7 @@
 1615850	106167	m3u8	The Third Degree	
 467192	106164	m3u8	Até Que a Morte Nos Separe	
 1665710	106040	m3u8	Rent Free	
+1360865	106039	m3u8	Psychic Storm	
 1521116	106028	m3u8	The Cowboy Killer	
 322518	106018	m3u8	A Casa do Medo	
 37865	105929	mp4	Sepultado Vivo	
@@ -20734,7 +20736,7 @@
 1114738	6670	m3u8	Sem Deixar Vestigios	
 997618	6646	mp4	Os Pecados da Esposa do Pastor	
 850025	6627	m3u8	Indústria do Prazer	
-934287	6626	mp4	O Último Paciente	
+934287	6626	m3u8	O Último Paciente	
 1142414	6620	m3u8	Castigos da Traição	
 1126357	6581	m3u8	Fronteira Sombria	
 1303315	6561	mp4	Death Down the Aisle	
