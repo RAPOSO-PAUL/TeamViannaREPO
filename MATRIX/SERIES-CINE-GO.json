@@ -186,7 +186,7 @@
     {
       "tmdb_id": 288458,
       "type": "tv",
-      "added_at": "2026-11-13",
+      "added_at": "2026-11-20",
       "episodes": [
         { "season": 1, "episode": 1, "embeds": [ "https://mgeb.lat/embed/288458/1/1", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP01'></iframe>", "https://myembed.biz/serie/288458/1/1" ] },
         { "season": 1, "episode": 2, "embeds": [ "https://mgeb.lat/embed/288458/1/2", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP02'></iframe>", "https://myembed.biz/serie/288458/1/2" ] },
@@ -207,7 +207,10 @@
         { "season": 1, "episode": 17, "embeds": [ "https://mgeb.lat/embed/288458/1/17", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP17'></iframe>", "https://myembed.biz/serie/288458/1/17" ] },
         { "season": 1, "episode": 18, "embeds": [ "https://mgeb.lat/embed/288458/1/18", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP18'></iframe>", "https://myembed.biz/serie/288458/1/18" ] },
         { "season": 1, "episode": 19, "embeds": [ "https://mgeb.lat/embed/288458/1/19", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP19'></iframe>", "https://myembed.biz/serie/288458/1/19" ] },
-        { "season": 1, "episode": 20, "embeds": [ "https://mgeb.lat/embed/288458/1/20", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP20'></iframe>", "https://myembed.biz/serie/288458/1/20" ] }
+        { "season": 1, "episode": 20, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP20'></iframe>", "https://myembed.biz/serie/288458/1/20" ] },
+		{ "season": 1, "episode": 21, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP21'></iframe>", "https://myembed.biz/serie/288458/1/21" ] },
+		{ "season": 1, "episode": 22, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP22'></iframe>", "https://myembed.biz/serie/288458/1/22" ] },
+		{ "season": 1, "episode": 23, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=BNHRASRIEP23'></iframe>", "https://myembed.biz/serie/288458/1/23" ] }
       ]
     },
     {

@@ -2106,6 +2106,26 @@
           "nome": "GLooB HD6",
           "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
           "embed": "iframe:https://redecanais.by/player3/ch.php?canal=gloob"
+        },
+		{
+          "nome": "GLooBinho HD1",
+          "imagem": "https://i.ibb.co/mCNd1Jx5/gloobinho.jpg",
+          "embed": "iframe:https://embedcanaisdetv.xyz/e/index.php?canal=gloobinho"
+        },
+		{
+          "nome": "GLooBinho HD2",
+          "imagem": "https://i.ibb.co/mCNd1Jx5/gloobinho.jpg",
+          "embed": "https://rdcanais.cc/gloobinho"
+        },
+		{
+          "nome": "GLooBinho HD3",
+          "imagem": "https://i.ibb.co/mCNd1Jx5/gloobinho.jpg",
+          "embed": "https://v2.rdembed.lat/gloobinho"
+        },
+		{
+          "nome": "GLooBinho HD4",
+          "imagem": "https://i.ibb.co/mCNd1Jx5/gloobinho.jpg",
+          "embed": "iframe:https://redecanais.by/player3/ch.php?canal=gloobinho"
         }
       ]
     },
