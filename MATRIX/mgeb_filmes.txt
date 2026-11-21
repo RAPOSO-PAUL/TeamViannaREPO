@@ -1,4 +1,4 @@
-#gerado	1795230998306
+#gerado	1795265203681
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
 13417	116661	m3u8	A Nova Onda do Kronk	
@@ -520,7 +520,7 @@
 838240	94043	mp4	Meu Amigo Robô	
 1398283	93606	mp4	Ostinato	
 59387	93454	mp4	As Meninas Superpoderosas: O Filme	
-460790	93237	mp4	Tropas Estelares: Invasores de Marte	
+460790	93237	m3u8	Tropas Estelares: Invasores de Marte	
 877183	92914	mp4	Os Simpsons em Plusniversário	
 876716	92913	mp4	Oi, Alberto	
 553833	92175	mp4	Mundos Paralelos	
@@ -1422,7 +1422,7 @@
 719013	94534	mp4	A Irmandade do Dragão	
 746429	94533	mp4	Uma Tia da Pesada	
 42424	94454	mp4	Quase Feitos Um Para O Outro	
-458302	94356	mp4	O Pequeno Órfão	
+458302	94356	m3u8	O Pequeno Órfão	
 46019	94312	mp4	O Peregrino: Uma Jornada Para o Céu	
 352078	94301	mp4	Deixados para Trás - A Nova Geração	
 17305	94229	mp4	Billy e Mandy Contra o Bicho-Papão	
@@ -5004,7 +5004,7 @@
 9684	104036	mp4	Poucas e Boas	
 9716	104022	mp4	Todos Dizem Eu Te Amo	
 19265	104021	m3u8	Tudo Pode dar Certo	
-17681	104015	mp4	Scooby-Doo e a Bruxa Fantasma	
+17681	104015	m3u8	Scooby-Doo e a Bruxa Fantasma	
 1901	104014	mp4	Em Boa Companhia	
 683340	104013	m3u8	Vingança	
 8223	103999	mp4	Kika	
@@ -9810,6 +9810,7 @@
 1588671	175	m3u8	O Grande Roubo do Louvre: O Crime Minuto a Minuto	
 1610413	129	m3u8	A Última Aventura: Nos Bastidores de Stranger Things 5	
 1465743	127	m3u8	Wizkid: De Lagos Para o Mundo	
+1599230	117442	m3u8	Elsinore	
 1286656	117432	m3u8	Eu Sou o Rocky	
 1211921	117416	m3u8	A História de uma Campeã	
 650728	117415	m3u8	A Lista dos Desejos	
@@ -10055,7 +10056,7 @@
 36758	104625	mp4	Retratos de uma Mulher	
 13641	104606	mp4	Ligados pelo Crime	
 10629	104604	mp4	O Custo da Coragem	
-52505	104594	mp4	As Coisas Impossíveis do Amor	
+52505	104594	m3u8	As Coisas Impossíveis do Amor	
 9528	104589	mp4	O Violinista Que Veio do Mar	
 1653	104576	mp4	Diários de Motocicleta	
 80271	104574	mp4	Lola	
@@ -14347,7 +14348,7 @@
 1256610	484	m3u8	Um Lobo entre os Cisnes	
 1242669	461	m3u8	Mr. K	
 70006	460	m3u8	Quebrando Regras 2	
-997113	454	mp4	Hedda	
+997113	454	m3u8	Hedda	
 1193861	438	m3u8	A Mulher da Fila	
 8092	436	mp4	O Despertar de um Homem	
 236751	434	mp4	O Céu é de Verdade	
@@ -14457,7 +14458,7 @@
 56288	104757	mp4	Pequenos Espiões 4	
 382581	104722	mp4	Monster High:  A Assustadora Barreira de Coral	
 142308	104634	mp4	Os Filhotes da Mamãe Noel	
-10122	104599	mp4	O Vôo do Navegador	
+10122	104599	m3u8	O Vôo do Navegador	
 14612	104595	m3u8	Candleshoe, O Segredo da Mansão	
 25913	104584	mp4	Balto 2: Aventura na Terra do Gelo	
 36819	104557	m3u8	Os Bandidos do Tempo	
@@ -14832,7 +14833,7 @@
 26736	14163	mp4	Os Feiticeiros de Waverly Place - O Filme	
 637157	14057	m3u8	A Grande Luta	
 6589	13997	m3u8	Vira-Lata	
-690369	13947	mp4	LEGO DC Shazam: Magia e Monstros	
+690369	13947	m3u8	LEGO DC Shazam: Magia e Monstros	
 513584	13899	mp4	Pense Como um Cão	
 459670	13879	m3u8	Turma da Mônica: Laços	
 10735	13878	mp4	Tudo Que Uma Garota Quer	
@@ -15085,7 +15086,7 @@
 2319	100570	mp4	Surpresas da Vida	
 1382341	100491	mp4	No Reino das Sombras	
 372879	100380	mp4	As Quatro Chaves Mágicas	
-21683	100365	mp4	Batman: O Mistério da Mulher-Morcego	
+21683	100365	m3u8	Batman: O Mistério da Mulher-Morcego	
 1310744	100321	mp4	A Lenda dos Cavaleiros da Água	
 901306	100247	mp4	龙心少女	
 900481	100087	mp4	Оксиморон на вечността	
@@ -16045,7 +16046,7 @@
 18712	104701	m3u8	Iwo Jima - O Portal da Glória	
 19659	104695	mp4	Yamato	
 4708	104664	mp4	Paris Está em Chamas?	
-26648	104614	mp4	O Porteiro da Noite	
+26648	104614	m3u8	O Porteiro da Noite	
 248087	104605	mp4	Zero Eterno	
 11202	104581	m3u8	Patton, Rebelde ou Herói?	
 1047016	104455	mp4	Comandante	
@@ -16696,7 +16697,7 @@
 515114	41214	mp4	Honey 4: No Pulsar do Ritmo	
 504608	39566	mp4	Rocketman	
 10537	39194	mp4	The Doors	
-1515899	15338	mp4	Billie Eilish - Hit Me Hard and Soft: The Tour in 3D	
+1515899	15338	m3u8	Billie Eilish - Hit Me Hard and Soft: The Tour in 3D	
 412519	14804	mp4	Honey 3: No Ritmo do Amor	
 21724	14386	m3u8	Bobeou Dançou	
 6279	14223	mp4	Mudança de Hábito 2 - Mais Loucuras no Convento	
@@ -18107,7 +18108,7 @@
 265016	94812	m3u8	Extraterrestrial	
 474279	94776	mp4	O Nó do Diabo	
 1024721	94688	mp4	O Podcast	
-15301	94661	mp4	No Limite da Realidade	
+15301	94661	m3u8	No Limite da Realidade	
 290637	94063	mp4	Regresso do Mal	
 522438	94031	mp4	O Ataque do Tubarão de 6 Cabeças	
 201085	94025	mp4	A Colina Escarlate	
@@ -19213,7 +19214,7 @@
 1371650	5633	m3u8	Blood of the Werewolf's Claw	
 1358329	5628	m3u8	The House on Laura Anne Dr.	
 655363	5592	m3u8	Post Mortem - Fotos do Além	
-431075	5591	mp4	Morte Instantânea	
+431075	5591	m3u8	Morte Instantânea	
 522444	5587	mp4	Crocodilos: A Morte Te Espera	
 1141182	5554	m3u8	Instinto Voraz	
 1063879	5541	m3u8	Infestação	
@@ -19616,7 +19617,7 @@
 631842	1232	m3u8	Batem à Porta	
 1008042	1228	mp4	Fale Comigo	
 635910	1224	mp4	Drácula: A Última Viagem do Deméter	
-507089	1220	mp4	Five Nights at Freddy's - O Pesadelo Sem Fim	
+507089	1220	m3u8	Five Nights at Freddy's - O Pesadelo Sem Fim	
 758323	1218	mp4	O Exorcista do Papa	
 1406390	1203	mp4	Prédio Vazio	
 1008392	1182	m3u8	The Blackening: Jogo Mortal	
@@ -19912,7 +19913,7 @@
 1147546	103135	mp4	O Diplomata	
 543915	103063	mp4	The Boat	
 121677	103042	m3u8	O Relutante Fundamentalista	
-4437	103011	mp4	2010: O Ano em que Faremos Contato	
+4437	103011	m3u8	2010: O Ano em que Faremos Contato	
 1018	103004	m3u8	Cidade dos Sonhos	
 1415974	103000	mp4	Na Solidão da Noite: Assassinatos na Mansão Bansal	
 414523	102979	mp4	16 Extremos	
