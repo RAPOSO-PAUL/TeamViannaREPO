@@ -3,6 +3,11 @@
 """
 ROBO DOS EPISODIOS DO MGB (PLAYER 1 / conta do MegaEmbed) — 17/11/2026
 
+(20/11) AGORA TODAS AS SERIES DA CONTA (com tmdb): as do catalogo na frente
+da fila; as outras viram titulos novos no app pelo robo catalogo_apis.py
+(quando ja tiverem episodio). As que so estao na conta: reconferidas a cada
+7 dias (as do catalogo, 3).
+
 O QUE FAZ
 ---------
 Para cada SERIE (e novela) do catalogo do CINE GO! que esta na conta do
@@ -68,7 +73,7 @@ ESTADO = os.path.join(RAIZ, ".robo_mgeb", "episodios.json")
 AGENTE = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
           "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 
-LIMITE = int(os.environ.get("MGEB_EPISODIOS_LIMITE", "150"))   # fichas por rodada
+LIMITE = int(os.environ.get("MGEB_EPISODIOS_LIMITE", "200"))   # fichas por rodada
 PAUSA = 2.5                    # segundos entre um pedido e outro
 PRAZO_PEDIDO = 30              # segundos por ficha
 PRAZO = 12 * 60                # segundos de pedidos por rodada
@@ -76,6 +81,7 @@ HORA = 3600 * 1000
 ATIVA_MS = 21 * 24 * HORA      # ganhou episodio ha menos disto = "ativa"
 RELER_ATIVA_MS = 6 * HORA
 RELER_MS = 3 * 24 * HORA
+RELER_FORA_MS = 7 * 24 * HORA  # (20/11) as que so estao na conta (nao no seu JSON)
 
 
 class Recusou(Exception):
@@ -279,9 +285,11 @@ def fila(alvo, conta, catalogo, series, agora):
         if agora - s.get("mudou", 0) < ATIVA_MS:
             if agora - lido >= RELER_ATIVA_MS:
                 ativas.append(t)
-        elif agora - lido >= RELER_MS:
+        elif agora - lido >= (RELER_MS if t in catalogo else RELER_FORA_MS):
             outras.append(t)
-    novas.sort(key=lambda t: catalogo.get(t, ""), reverse=True)   # as mais novas do catalogo primeiro
+    # (20/11) as do catalogo primeiro (as mais novas dele na frente); depois as
+    # que so estao na conta (robo catalogo_apis.py), as de numero maior antes
+    novas.sort(key=lambda t: (t in catalogo, catalogo.get(t, ""), conta[t]), reverse=True)
     ativas.sort(key=lambda t: series[str(t)].get("lido", 0))
     outras.sort(key=lambda t: series[str(t)].get("lido", 0))
     return novas, ativas, outras
@@ -293,14 +301,18 @@ def main():
         return 1
     catalogo = series_do_catalogo()
     conta = series_da_conta()
-    alvo = [t for t in catalogo if t in conta]
-    print("séries no catálogo: %d · na conta do mgeb: %d" % (len(catalogo), len(alvo)))
+    # (20/11) TODAS as series da conta com tmdb (as do catalogo vao na frente da
+    # fila): o robo catalogo_apis.py poe no app as que tem episodio
+    no_catalogo = [t for t in catalogo if t in conta]
+    alvo = no_catalogo + [t for t in conta if t not in catalogo]
+    print("séries no catálogo: %d · na conta do mgeb: %d (do catálogo: %d)" % (len(catalogo), len(alvo), len(no_catalogo)))
     if not conta:
         print("MATRIX/mgeb_series.txt vazio ou ausente — nada a fazer (o mapa_mgeb.py ainda não rodou?)")
         return 0
     series = ler_estado()
-    # fora do catalogo ou da conta: sai do estado
-    for k in [k for k in series if inteiro(k) not in conta or inteiro(k) not in catalogo]:
+    # (20/11) fora da conta: sai do estado (fora do catalogo continua: o robo
+    # catalogo_apis.py poe no app as series da conta que tem episodio)
+    for k in [k for k in series if inteiro(k) not in conta]:
         del series[k]
 
     agora = agora_ms()
