@@ -1,4 +1,4 @@
-#gerado	1795211563124
+#gerado	1795230998306
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
 13417	116661	m3u8	A Nova Onda do Kronk	
@@ -737,7 +737,7 @@
 10674	40642	m3u8	Mulan	
 523777	40557	m3u8	Next Gen	
 961323	40556	mp4	Nimona	
-12448	40445	mp4	O Corcunda de Notre Dame II: O Segredo do Sino	
+12448	40445	m3u8	O Corcunda de Notre Dame II: O Segredo do Sino	
 360920	40369	mp4	O Grinch	
 73723	40299	mp4	O Lorax: Em Busca da Trúfula Perdida	
 335777	40176	mp4	O Que Será de Nozes 2	
@@ -2689,7 +2689,7 @@
 402331	93303	m3u8	O Alvo 2	
 636919	93302	mp4	Máfia contra Máfia	
 363088	93300	mp4	Homem-Formiga e a Vespa	
-12481	93298	mp4	O Dragão Chinês	
+12481	93298	m3u8	O Dragão Chinês	
 55292	93297	mp4	Shaolin	
 37931	93296	mp4	Corram Que o Agente Voltou	
 19274	93294	mp4	A Vingança do Dragão	
@@ -4676,7 +4676,7 @@
 1394389	5146	mp4	O Jarro de Natal	
 866660	5120	m3u8	O Tesouro de Natal	
 1031072	4509	m3u8	Como Conseguir Um Homem em 12 Dias	
-1032364	4504	mp4	Conhecendo o Sr. Natal	
+1032364	4504	m3u8	Conhecendo o Sr. Natal	
 1006307	4223	m3u8	O Retrato do Amor	
 997190	4198	m3u8	Acrescente Amor	
 1252342	3826	m3u8	O Passado Bate à Porta	
@@ -4880,7 +4880,7 @@
 10571	104641	mp4	Amor ou Amizade	
 172828	104637	mp4	Bad Milo!	
 21301	104635	m3u8	Barbeiragem Total	
-11520	104633	mp4	Dois Velhos Rabugentos	
+11520	104633	m3u8	Dois Velhos Rabugentos	
 40820	104628	mp4	Palco de Ilusões	
 37725	104624	m3u8	Coisas de Meninos e Meninas	
 11933	104623	mp4	Nada Além de Problemas	
@@ -6662,7 +6662,7 @@
 338	45616	mp4	Adeus, Lênin!	
 24438	45501	mp4	Cadê os Morgan?	
 11172	45496	m3u8	Letra e Música	
-287	45081	mp4	Sorte no Amor	
+287	45081	m3u8	Sorte no Amor	
 549989	45056	mp4	Banana Split	
 299590	45039	mp4	O Melhor Natal de Todos os Tempos	
 548405	44823	mp4	Gol & Gincu Vol. 2	
@@ -7942,7 +7942,7 @@
 20876	104704	mp4	Minhas Idéias Assassinas	
 382272	104693	mp4	Death Note: Iluminando um Novo Mundo	
 19997	104613	mp4	Torrentes de Paixão	
-89501	104591	mp4	Gangster Sem Nome	
+89501	104591	m3u8	Gangster Sem Nome	
 26263	104553	mp4	Desejo de Matar 4: Operação Crackdown	
 1093	104524	mp4	Ascensor para o Cadafalso	
 5924	104523	m3u8	Papillon	
@@ -8679,7 +8679,7 @@
 1793755	104828	m3u8	Carlos Lacerda - A Voz que Abalou o Brasil	
 803	104755	m3u8	Noite e Neblina	
 1648678	104749	m3u8	Orangotango	
-405931	104603	mp4	A Marcha dos Pinguins 2	
+405931	104603	m3u8	A Marcha dos Pinguins 2	
 1430	104577	m3u8	Tiros em Columbine	
 1255030	104456	m3u8	Os Segredos dos Neandertais	
 1728113	104401	m3u8	KATSEYE: Wild Hearts	
@@ -9815,7 +9815,8 @@
 650728	117415	m3u8	A Lista dos Desejos	
 66184	116895	mp4	Barravento	
 83860	116897	mp4	Bebê De Outubro	
-28519	116905	mp4	Cadete Winslow	
+28519	116905	m3u8	Cadete Winslow	
+83932	116874	m3u8	Traidor	
 1002482	116865	mp4	A Incrível Elisa	
 586661	116851	m3u8	100 Yards	
 82023	116658	m3u8	Hotel Desire	
@@ -10046,7 +10047,7 @@
 925943	104659	m3u8	Saint Omer	
 77915	104646	mp4	Adeus às Ilusões	
 17332	104643	mp4	O Solista	
-157370	104640	mp4	Versos de um Crime	
+157370	104640	m3u8	Versos de um Crime	
 115348	104638	m3u8	Conexão Perigosa	
 2887	104632	mp4	E a Vida Continua	
 33667	104629	mp4	A Luz é Para Todos	
@@ -14457,7 +14458,7 @@
 382581	104722	mp4	Monster High:  A Assustadora Barreira de Coral	
 142308	104634	mp4	Os Filhotes da Mamãe Noel	
 10122	104599	mp4	O Vôo do Navegador	
-14612	104595	mp4	Candleshoe, O Segredo da Mansão	
+14612	104595	m3u8	Candleshoe, O Segredo da Mansão	
 25913	104584	mp4	Balto 2: Aventura na Terra do Gelo	
 36819	104557	m3u8	Os Bandidos do Tempo	
 1634	104539	mp4	Free Willy	
@@ -16733,7 +16734,7 @@
 848987	2900	m3u8	Uma Nota para o Amor	
 1612063	2803	m3u8	Twenty One Pilots: More Than We Ever Imagined	
 440918	2761	m3u8	Espírito Jovem	
-8328	2522	mp4	Ela Dança, Eu Danço 2	
+8328	2522	m3u8	Ela Dança, Eu Danço 2	
 936075	2082	mp4	Michael	
 1102883	2067	m3u8	Mother Mary	
 1620551	1972	m3u8	Sinta a Minha Voz	
@@ -16776,14 +16777,14 @@
 16558	104799	mp4	Duplicidade	
 1318917	104772	mp4	Rumo ao Vento	
 642208	104739	mp4	Memórias de Um Amor	
-28971	104733	mp4	Luzes da Ribalta	
+28971	104733	m3u8	Luzes da Ribalta	
 655082	104723	mp4	Eiffel	
 10207	104719	mp4	Uma Carta de Amor	
 3573	104709	mp4	Emma	
 18585	104689	mp4	O Sabor de uma Paixão	
 761053	104681	mp4	O Inferno de Gabriel - Parte 3	
 14624	104651	mp4	O Presente	
-19596	104611	mp4	Amores Eletrônicos	
+19596	104611	m3u8	Amores Eletrônicos	
 19042	104543	mp4	Todos os Cães Merecem o Céu 2	
 29380	104515	m3u8	Desfile de Páscoa	
 289727	104504	mp4	Virando a Página	
@@ -16866,7 +16867,7 @@
 1510769	101793	mp4	29	
 27902	101764	m3u8	S.O.S. do Amor	
 239180	101500	m3u8	Vitrine de Natal	
-797109	101453	mp4	Notas de Um Amor Secreto	
+797109	101453	m3u8	Notas de Um Amor Secreto	
 1458857	101450	m3u8	Cartas de Redenção	
 14578	101422	mp4	Deixa Rolar	
 1154154	100870	m3u8	Regras do Amor na Cidade Grande	
@@ -18294,7 +18295,7 @@
 616820	90857	mp4	Halloween Ends: O Acerto de Contas Final	
 477462	90855	mp4	Gêmeo Maligno	
 10292	90854	mp4	Lenda Urbana 3: A Vingança de Mary	
-377264	90851	mp4	Morgan: A Evolução	
+377264	90851	m3u8	Morgan: A Evolução	
 11096	90850	mp4	O Amigo Oculto	
 928015	90849	mp4	Drácula – Ele Ainda Está Vivo	
 885121	90848	mp4	A Maldição do Quarto 203	
@@ -19836,7 +19837,7 @@
 2116	104644	mp4	Por um Triz	
 569547	104630	mp4	Black Mirror: Bandersnatch	
 9491	104610	mp4	Jogo Perverso	
-9568	104598	mp4	O Dentista	
+9568	104598	m3u8	O Dentista	
 82390	104587	mp4	Obsessão	
 11338	104555	m3u8	Um Romance Muito Perigoso	
 13018	104531	mp4	A Lista: Você Está Livre Hoje?	
@@ -19952,7 +19953,7 @@
 458842	102368	m3u8	Madrinha	
 1644	102366	m3u8	O Silêncio do Lago	
 445113	102353	mp4	Duplicidade	
-8740	102340	mp4	O Silêncio do Lago	
+8740	102340	m3u8	O Silêncio do Lago	
 352997	102339	mp4	Alucinados	
 45650	102304	mp4	O Buraco	
 8461	102303	mp4	Violência Gratuita	
@@ -20205,7 +20206,7 @@
 948333	91265	mp4	Nas Profundezas	
 241251	91264	mp4	O Garoto da Casa ao Lado	
 781099	91260	mp4	Mentiras Secretas	
-821420	91259	mp4	Infiltrada: Golpe de Vingança	
+821420	91259	m3u8	Infiltrada: Golpe de Vingança	
 733989	91257	mp4	Na Linha de Frente	
 375846	91255	m3u8	Irmã do Pecado	
 896713	91252	m3u8	Quem Está no Controle?	
