@@ -1,0 +1,73 @@
+# ROBO DO CATALOGO DAS APIS (RedeMuvi + mgeb) — ver scripts/catalogo_apis.py
+# A cada 2 h: todo filme e serie das contas COM tmdb vira titulo no CINE GO!
+# (classificado pelo TMDB: adulto fora, anime, novela, infantil por idade).
+# Grava MATRIX/apis/*.json e .robo_apis/vistos.txt (as datas de cada titulo).
+# As fichas do TMDB ficam no cache do Actions (se sumirem, sao refeitas).
+#
+# SEGREDO NOVO: TMDB_TOKEN (token de leitura "v4") — ou TMDB_KEY (chave "v3").
+# Nao usa as contas da RedeMuvi nem do mgeb (so os mapas publicos do MATRIX).
+name: Catálogo das APIs
+
+on:
+  schedule:
+    - cron: "17 1-23/2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalogo-apis
+  cancel-in-progress: false
+
+jobs:
+  catalogo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Trazer as fichas do TMDB guardadas
+        uses: actions/cache/restore@v4
+        with:
+          path: .robo_apis_cache
+          key: fichas-tmdb-${{ github.run_id }}
+          restore-keys: |
+            fichas-tmdb-
+
+      - name: Montar o catálogo das APIs
+        timeout-minutes: 30
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+        run: python scripts/catalogo_apis.py
+
+      - name: Guardar as fichas do TMDB
+        if: always() && hashFiles('.robo_apis_cache/fichas.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: .robo_apis_cache
+          key: fichas-tmdb-${{ github.run_id }}
+
+      # grava SEMPRE (mesmo se a rodada foi cortada): as datas nao se perdem
+      - name: Gravar no repositorio
+        if: always()
+        run: |
+          git config user.name "robo-catalogo-apis"
+          git config user.email "robo-catalogo-apis@users.noreply.github.com"
+          git add MATRIX/apis .robo_apis/vistos.txt 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git commit -m "catálogo das APIs (robô)"
+          # outros robos deste repositorio tambem gravam: puxa antes de enviar
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 10
+          done
+          exit 1
