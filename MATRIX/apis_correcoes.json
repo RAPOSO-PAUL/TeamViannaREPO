@@ -1,0 +1,10 @@
+{
+  "_como_usar": "Correcoes a mao do robo catalogo_apis.py. Cada item e 'filme:<tmdb>' ou 'serie:<tmdb>'. bloquear = some do app; tirar_infantil / tirar_anime / tirar_novela = tira so a marca; anime / novela = poe a marca; infantil = as pastas certas daquele titulo, troca as automaticas (ex.: \"infantil\": {\"filme:12345\": [\"Prezinhos\"]}). Vale na proxima rodada do robo (ate 2 h).",
+  "bloquear": [],
+  "tirar_infantil": [],
+  "tirar_anime": [],
+  "tirar_novela": [],
+  "anime": [],
+  "novela": [],
+  "infantil": {}
+}
