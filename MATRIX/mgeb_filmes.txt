@@ -1,4 +1,4 @@
-#gerado	1795313952606
+#gerado	1795341274860
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
@@ -229,7 +229,7 @@
 718867	101543	m3u8	Larva: Ilhados - O Filme	
 1432547	101541	m3u8	Você Só Precisa Matar	
 597316	101538	m3u8	My Little Pony: Nova Geração	
-15916	101475	mp4	Angel's Egg	
+15916	101475	m3u8	Angel's Egg	
 1064307	101442	mp4	Espermagedom	
 808	101432	m3u8	Shrek	
 89473	101429	mp4	Piu-Piu Dá a Volta ao Mundo	
@@ -1585,7 +1585,7 @@
 1190135	46105	mp4	O Rapto do Betão	
 11836	45931	mp4	Bob Esponja: O Filme	
 9671	45820	mp4	Crocodilo Dundee	
-10372	45766	mp4	Ewoks:  A Batalha de Endor	
+10372	45766	m3u8	Ewoks:  A Batalha de Endor	
 9396	45721	mp4	Crocodilo Dundee II	
 2493	45701	mp4	A Princesa Prometida	
 630	45680	mp4	O Mágico de Oz	
@@ -2475,7 +2475,7 @@
 7299	99615	m3u8	Equilibrium	
 2330	99608	m3u8	Táxi - Velocidade nas Ruas	
 490017	99587	mp4	Faça Sua Jogada	
-9433	99579	mp4	No Limite	
+9433	99579	m3u8	No Limite	
 398218	99511	mp4	Davi vs. Golias: A Batalha Da Fé	
 335778	99508	mp4	Ressurreição	
 1154434	99491	m3u8	Traumas de Guerra	
@@ -7942,7 +7942,7 @@
 4787	104753	mp4	O Sonho de Cassandra	
 12623	104752	m3u8	Sob Suspeita	
 20876	104704	m3u8	Minhas Idéias Assassinas	
-382272	104693	mp4	Death Note: Iluminando um Novo Mundo	
+382272	104693	m3u8	Death Note: Iluminando um Novo Mundo	
 19997	104613	mp4	Torrentes de Paixão	
 89501	104591	m3u8	Gangster Sem Nome	
 26263	104553	mp4	Desejo de Matar 4: Operação Crackdown	
@@ -9784,7 +9784,7 @@
 1437701	2142	m3u8	Deixando Neverland 2	
 1623125	2040	mp4	A História de Um Gorila com David Attenborough	
 1363606	2021	m3u8	Dois Nilos	
-1492341	2006	mp4	Noah Kahan: Out of Body	
+1492341	2006	m3u8	Noah Kahan: Out of Body	
 1588155	1999	m3u8	Vlavianos, o Impulso e a Razão	
 1629369	1971	m3u8	A Tragédia de Moriah Wilson	
 1644098	1878	mp4	Mamonas: Eu Te Ai Lóve Iú	
@@ -10040,7 +10040,7 @@
 48838	104710	mp4	O Último Guarda-Costas	
 347866	104707	mp4	Noites Quentes de Verão	
 15859	104705	mp4	A Moment To Remember	
-1182861	104696	mp4	Romaria	
+1182861	104696	m3u8	Romaria	
 164251	104688	mp4	Serena	
 617762	104686	m3u8	A Vida Eletrizante de Louis Wain	
 327331	104683	mp4	The Dirt – Confissões do Mötley Crüe	
@@ -10050,7 +10050,7 @@
 413388	104670	m3u8	O Silêncio do Céu	
 434775	104661	mp4	O Terceiro Assassinato	
 925943	104659	m3u8	Saint Omer	
-77915	104646	mp4	Adeus às Ilusões	
+77915	104646	m3u8	Adeus às Ilusões	
 17332	104643	mp4	O Solista	
 157370	104640	m3u8	Versos de um Crime	
 115348	104638	m3u8	Conexão Perigosa	
@@ -14816,7 +14816,7 @@
 294161	39277	mp4	Tainá: Uma Aventura na Amazônia	
 44874	37597	mp4	Barbie: Moda e Magia	
 295887	37565	mp4	Beethoven e o Tesouro Secreto	
-34751	37487	mp4	Free Willy - A Grande Fuga	
+34751	37487	m3u8	Free Willy - A Grande Fuga	
 10501	37322	mp4	O Caminho para El Dorado	
 9564	15386	mp4	Asterix & Obelix Contra César	
 1587195	15374	mp4	Ela Escolhe Perdoar	
@@ -15167,7 +15167,7 @@
 561	90236	m3u8	Constantine	
 2698	90228	mp4	A Volta do Todo Poderoso	
 8839	90216	mp4	Gasparzinho, o Fantasminha Camarada	
-1433	90070	mp4	A Espinha do Diabo	
+1433	90070	m3u8	A Espinha do Diabo	
 2612	90008	mp4	Destino em Dose Dupla	
 8011	89981	mp4	Highlander 3: O Feiticeiro	
 48395	89974	m3u8	Papai Noel das Cavernas	
@@ -17688,7 +17688,7 @@
 9674	104737	mp4	Ring 0: O Chamado	
 16780	104716	mp4	O Massacre da Serra Elétrica: O Retorno	
 13797	104698	mp4	Banquete no Inferno 2: Segundos Repulsivos	
-11075	104691	mp4	O Teste Decisivo	
+11075	104691	m3u8	O Teste Decisivo	
 25239	104684	mp4	A Vingança de Jennifer	
 312791	104680	mp4	GirlHouse	
 523936	104662	mp4	Labirinto do Terror	
@@ -18678,7 +18678,7 @@
 512025	12792	mp4	Tem Alguém na Sua Casa	
 489430	12777	m3u8	Aterrorizados	
 820511	12757	m3u8	Jack, o Estripador: A História Não Contada	
-800497	12752	mp4	Um Lobo Entre Nós	
+800497	12752	m3u8	Um Lobo Entre Nós	
 753453	12723	m3u8	V/H/S/94	
 728552	12714	m3u8	Mara	
 878508	12710	mp4	Enquanto Você Dorme	
