@@ -1903,7 +1903,8 @@
         { "season": 5, "episode": 8, "embeds": [ "https://mgeb.lat/embed/85077/5/8", "<iframe src='https://redecanais.by/player3/server.php?server=RCServer26&subfolder=ondemand&vid=THCHSNOSECLHDT05EP08'></iframe>", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-134032", "https://myembed.biz/serie/85077/5/8" ] },
         { "season": 6, "episode": 1, "embeds": [ "https://mgeb.lat/embed/85077/6/1", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277209", "https://myembed.biz/serie/85077/6/1" ] },
         { "season": 6, "episode": 2, "embeds": [ "https://mgeb.lat/embed/85077/6/2", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277216", "https://myembed.biz/serie/85077/6/2" ] },
-        { "season": 6, "episode": 3, "embeds": [ "https://mgeb.lat/embed/85077/6/3", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277261", "https://myembed.biz/serie/85077/6/3" ] }
+        { "season": 6, "episode": 3, "embeds": [ "https://mgeb.lat/embed/85077/6/3", "https://redecanais.care/player3/server.php?categoria=vod&server=R2&subfolder=media&vid=r2-277261", "https://myembed.biz/serie/85077/6/3" ] },
+		{ "season": 6, "episode": 4, "embeds": [ "<iframe src='https://redecanais.by/player3/server.php?server=RCServer28&subfolder=ondemand&vid=THCHSNOSECLHDT06EP03'></iframe>", "https://myembed.biz/serie/85077/6/3" ] }
       ]
     },
     {
