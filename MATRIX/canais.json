@@ -13,7 +13,8 @@
 	"embedcanaisdetv",
 	"redecanais.",
 	"redecanaistv.",
-	"rdembed.lat"
+	"rdembed.lat",
+	"ebtv.lat"
   ],	
   "sites_especiais": [
   "cdnembedcanais.xyz",
@@ -26,7 +27,8 @@
   "nossoplayeronlinehd.ink",
   "multicanais.cyou",
   "rdembed.sbs",
-  "rdembed.lat"
+  "rdembed.lat",
+  "ebtv.lat"
 ],
   "categorias": [
     {
@@ -35,7 +37,7 @@
         {
           "nome": "A Fazenda 18 HD1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
-          "embed": "https://w7.embedtv.cc/afazenda"
+          "embed": "https://w1.ebtv.lat/afazenda"
         },
 		{
           "nome": "A Fazenda 18 HD2",
@@ -50,7 +52,7 @@
 		{
           "nome": "A Fazenda 18 2 HD1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
-          "embed": "https://w7.embedtv.cc/afazenda2"
+          "embed": "https://w1.ebtv.lat/afazenda2"
         },
 		{
           "nome": "A Fazenda 18 2 HD2",
@@ -65,7 +67,7 @@
 		{
           "nome": "A Fazenda 18 3 HD1",
           "imagem": "https://i.ibb.co/qFc6N1XB/a-fazenda-18.jpg",
-          "embed": "https://w7.embedtv.cc/afazenda3"
+          "embed": "https://w1.ebtv.lat/afazenda3"
         },
 		{
           "nome": "A Fazenda 18 3 HD2",
@@ -90,7 +92,7 @@
 		{
           "nome": "SBT SP HD2",
           "imagem": "https://i.ibb.co/3YyS0z2F/sbt-sp.jpg",
-          "embed": "https://w7.embedtv.cc/sbtsp"
+          "embed": "https://w1.ebtv.lat/sbtsp"
         },
 		{
           "nome": "SBT SP HD3",
@@ -125,7 +127,7 @@
 		{
           "nome": "GLOBO SP HD2",
           "imagem": "https://i.ibb.co/MyrMxs7q/globsp.jpg",
-          "embed": "https://w7.embedtv.cc/globosp"
+          "embed": "https://w1.ebtv.lat/globosp"
         },
 		{
           "nome": "GLOBO SP HD3",
@@ -155,7 +157,7 @@
 		{
           "nome": "GLOBO RJ HD2",
           "imagem": "https://i.ibb.co/G3bGfwRg/globr-J.jpg",
-          "embed": "https://w7.embedtv.cc/globorj"
+          "embed": "https://w1.ebtv.lat/globorj"
         },
 		{
           "nome": "GLOBO RJ HD3",
@@ -185,7 +187,7 @@
 		{
           "nome": "GLOBO DF HD2",
           "imagem": "https://i.ibb.co/rGjNs150/glob-df.jpg",
-          "embed": "https://w7.embedtv.cc/globodf"
+          "embed": "https://w1.ebtv.lat/globodf"
         },
 		{
           "nome": "GLOBO DF HD3",
@@ -215,7 +217,7 @@
 		{
           "nome": "GLOBO ES HD2",
           "imagem": "https://i.ibb.co/kVhYNVtv/glob-es.jpg",
-          "embed": "https://w7.embedtv.cc/globoes"
+          "embed": "https://w1.ebtv.lat/globoes"
         },
 		{
           "nome": "GLOBO ES HD3",
@@ -235,7 +237,7 @@
 		{
           "nome": "GLOBO MG HD2",
           "imagem": "https://i.ibb.co/GQrLNy8y/glob-MG.jpg",
-          "embed": "https://w7.embedtv.cc/globomg"
+          "embed": "https://w1.ebtv.lat/globomg"
         },
 		{
           "nome": "GLOBO MG HD3",
@@ -260,7 +262,7 @@
 		{
           "nome": "GLOBO RS HD2",
           "imagem": "https://i.ibb.co/C3jkNhSn/globrs.jpg",
-          "embed": "https://w7.embedtv.cc/globors"
+          "embed": "https://w1.ebtv.lat/globors"
         },
 		{
           "nome": "GLOBO RS HD3",
@@ -290,7 +292,7 @@
 		{
           "nome": "RECORD SP HD2",
           "imagem": "https://i.ibb.co/gL3002gq/record-sp.jpg",
-          "embed": "https://w7.embedtv.cc/recordsp"
+          "embed": "https://w1.ebtv.lat/recordsp"
         },
 		{
           "nome": "RECORD SP HD3",
@@ -325,7 +327,7 @@
 		{
           "nome": "RECORD RJ HD2",
           "imagem": "https://i.ibb.co/5XKB8RYL/record-rj.jpg",
-          "embed": "https://w7.embedtv.cc/recordrj"
+          "embed": "https://w1.ebtv.lat/recordrj"
         },
 		{
           "nome": "RECORD RJ HD3",
@@ -345,7 +347,7 @@
 		{
           "nome": "RECORD MG HD2",
           "imagem": "https://i.ibb.co/3yYzBxgm/record-mg.jpg",
-          "embed": "https://w7.embedtv.cc/recordmg/"
+          "embed": "https://w1.ebtv.lat/recordmg/"
         },
 		{
           "nome": "RECORD MG HD3",
@@ -360,7 +362,7 @@
 		{
           "nome": "BAND HD2",
           "imagem": "https://i.ibb.co/mVkTx5vb/band.jpg",
-          "embed": "https://w7.embedtv.cc/bandsp"
+          "embed": "https://w1.ebtv.lat/bandsp"
         },
 		{
           "nome": "BAND HD3",
@@ -385,7 +387,7 @@
         {
           "nome": "BAND RJ HD",
           "imagem": "https://i.ibb.co/S40Bmgn4/band-rj.jpg",
-          "embed": "https://w7.embedtv.cc/bandrj"
+          "embed": "https://w1.ebtv.lat/bandrj"
         },
 		{
           "nome": "BAND RJ HD2",
@@ -425,7 +427,7 @@
 		{
           "nome": "SPORTV HD2",
           "imagem": "https://i.ibb.co/qY3F3MXh/sportv.jpg",
-          "embed": "https://w7.embedtv.cc/sportv"
+          "embed": "https://w1.ebtv.lat/sportv"
         },
         {
           "nome": "SPORTV HD3",
@@ -455,7 +457,7 @@
 		{
           "nome": "SPORTV 2 HD2",
           "imagem": "https://i.ibb.co/BKSqSJkc/SPORTV2.jpg",
-          "embed": "https://w7.embedtv.cc/sportv2"
+          "embed": "https://w1.ebtv.lat/sportv2"
         },
         {
           "nome": "SPORTV 2 HD3",
@@ -485,7 +487,7 @@
         {
           "nome": "SPORTV 3 HD2",
           "imagem": "https://i.ibb.co/mrJxvD56/SPORTV3.jpg",
-          "embed": "https://w7.embedtv.cc/sportv3"
+          "embed": "https://w1.ebtv.lat/sportv3"
         },
         {
           "nome": "SPORTV 3 HD3",
@@ -515,7 +517,7 @@
         {
           "nome": "ESPN 1 HD2",
           "imagem": "https://i.ibb.co/LD0hNwwK/espn.jpg",
-          "embed": "https://w7.embedtv.cc/espn"
+          "embed": "https://w1.ebtv.lat/espn"
         },
         {
           "nome": "ESPN 1 HD3",
@@ -545,7 +547,7 @@
         {
           "nome": "ESPN 2 HD2",
           "imagem": "https://i.ibb.co/SXFQtvQ9/espn-2.jpg",
-          "embed": "https://w7.embedtv.cc/espn2"
+          "embed": "https://w1.ebtv.lat/espn2"
         },
         {
           "nome": "ESPN 2 HD3",
@@ -575,7 +577,7 @@
         {
           "nome": "ESPN 3 HD2",
           "imagem": "https://i.ibb.co/qFL0Q3S5/espn3.jpg",
-          "embed": "https://w7.embedtv.cc/espn3"
+          "embed": "https://w1.ebtv.lat/espn3"
         },
         {
           "nome": "ESPN 3 HD3",
@@ -605,7 +607,7 @@
         {
           "nome": "ESPN 4 HD2",
           "imagem": "https://i.ibb.co/PZ36zFdh/espn-4.jpg",
-          "embed": "https://w7.embedtv.cc/espn4"
+          "embed": "https://w1.ebtv.lat/espn4"
         },
         {
           "nome": "ESPN 4 HD3",
@@ -635,7 +637,7 @@
         {
           "nome": "ESPN 5 HD2",
           "imagem": "https://archive.org/download/espn5/espn5.jpg",
-          "embed": "https://w7.embedtv.cc/espn5"
+          "embed": "https://w1.ebtv.lat/espn5"
         },
         {
           "nome": "ESPN 5 HD3",
@@ -665,7 +667,7 @@
         {
           "nome": "ESPN 6 HD2",
           "imagem": "https://i.ibb.co/p6wYfBr8/espn-6.jpg",
-          "embed": "https://w7.embedtv.cc/espn6/"
+          "embed": "https://w1.ebtv.lat/espn6/"
         },
         {
           "nome": "ESPN 6 HD3",
@@ -700,7 +702,7 @@
 		{
           "nome": "PREMIERE HD2",
           "imagem": "https://i.ibb.co/JWCbgk0w/premiere.jpg",
-          "embed": "https://w7.embedtv.cc/premiere"
+          "embed": "https://w1.ebtv.lat/premiere"
         },
 		{
           "nome": "PREMIERE HD3",
@@ -730,7 +732,7 @@
 		{
           "nome": "PREMIERE 2 HD2",
           "imagem": "https://i.ibb.co/9kfQywCL/PREMIERE-2.jpg",
-          "embed": "https://w7.embedtv.cc/premiere2"
+          "embed": "https://w1.ebtv.lat/premiere2"
         },
 		{
           "nome": "PREMIERE 2 HD3",
@@ -760,7 +762,7 @@
 		{
           "nome": "PREMIERE 3 HD2",
           "imagem": "https://i.ibb.co/XrFxFS8H/premiere-3.jpg",
-          "embed": "https://w7.embedtv.cc/premiere3"
+          "embed": "https://w1.ebtv.lat/premiere3"
         },
 		{
           "nome": "PREMIERE 3 HD3",
@@ -790,7 +792,7 @@
 		{
           "nome": "PREMIERE 4 HD2",
           "imagem": "https://i.ibb.co/gL8TfLcX/premiere-34.jpg",
-          "embed": "https://w7.embedtv.cc/premiere4"
+          "embed": "https://w1.ebtv.lat/premiere4"
         },
 		{
           "nome": "PREMIERE 4 HD3",
@@ -820,7 +822,7 @@
 		{
           "nome": "PREMIERE 5 HD2",
           "imagem": "https://i.ibb.co/1Y0JXWCC/premiere-5.jpg",
-          "embed": "https://w7.embedtv.cc/premiere5"
+          "embed": "https://w1.ebtv.lat/premiere5"
         },
 		{
           "nome": "PREMIERE 5 HD3",
@@ -850,7 +852,7 @@
 		{
           "nome": "PREMIERE 6 HD2",
           "imagem": "https://i.ibb.co/GfdV2bwh/premiere-6.jpg",
-          "embed": "https://w7.embedtv.cc/premiere6"
+          "embed": "https://w1.ebtv.lat/premiere6"
         },
 		{
           "nome": "PREMIERE 6 HD3",
@@ -880,7 +882,7 @@
 		{
           "nome": "PREMIERE 7 HD2",
           "imagem": "https://i.ibb.co/ccgpmNtz/premiere-7.jpg",
-          "embed": "https://w7.embedtv.cc/premiere7"
+          "embed": "https://w1.ebtv.lat/premiere7"
         },
 		{
           "nome": "PREMIERE 7 HD3",
@@ -910,7 +912,7 @@
 		{
           "nome": "PREMIERE 8 HD2",
           "imagem": "https://i.ibb.co/SXHnfcyP/premiere-8.jpg",
-          "embed": "https://w7.embedtv.cc/premiere8"
+          "embed": "https://w1.ebtv.lat/premiere8"
         },
 		{
           "nome": "PREMIERE 8 HD3",
@@ -935,7 +937,7 @@
 		{
           "nome": "HBO MAX HD2",
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
-          "embed": "https://w7.embedtv.cc/max1"
+          "embed": "https://w1.ebtv.lat/max1"
         },
 		{
           "nome": "HBO MAX HD3",
@@ -955,7 +957,7 @@
 		{
           "nome": "HBO MAX HD6",
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
-          "embed": "https://w7.embedtv.cc/max2"
+          "embed": "https://w1.ebtv.lat/max2"
         },
 		{
           "nome": "HBO MAX HD7",
@@ -975,7 +977,7 @@
 		{
           "nome": "HBO MAX HD10",
           "imagem": "https://i.ibb.co/rKs9NtbR/hbo-max.jpg",
-          "embed": "https://w7.embedtv.cc/max3"
+          "embed": "https://w1.ebtv.lat/max3"
         },
 		{
           "nome": "HBO MAX HD11",
@@ -1030,7 +1032,7 @@
 		{
           "nome": "PRIME VIDEO HD2",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://w7.embedtv.cc/primevideo"
+          "embed": "https://w1.ebtv.lat/primevideo"
         },
 		{
           "nome": "PRIME VIDEO HD3",
@@ -1050,7 +1052,7 @@
 		{
           "nome": "PRIME VIDEO HD6",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://w7.embedtv.cc/primevideo2"
+          "embed": "https://w1.ebtv.lat/primevideo2"
         },
 		{
           "nome": "PRIME VIDEO HD7",
@@ -1070,7 +1072,7 @@
 		{
           "nome": "PRIME VIDEO HD10",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://w7.embedtv.cc/primevideo3"
+          "embed": "https://w1.ebtv.lat/primevideo3"
         },
 		{
           "nome": "PRIME VIDEO HD11",
@@ -1090,7 +1092,7 @@
 		{
           "nome": "PRIME VIDEO HD14",
           "imagem": "https://i.ibb.co/twXSv4nZ/prime-video.jpg",
-          "embed": "https://w7.embedtv.cc/primevideo4"
+          "embed": "https://w1.ebtv.lat/primevideo4"
         },
 		{
           "nome": "PRIME VIDEO HD15",
@@ -1145,7 +1147,7 @@
 		{
           "nome": "CAZE TV HD3",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://w7.embedtv.cc/caze1"
+          "embed": "https://w1.ebtv.lat/caze1"
         },
 		{
           "nome": "CAZE TV HD4",
@@ -1170,7 +1172,7 @@
 		{
           "nome": "CAZE TV HD8",
           "imagem": "https://i.ibb.co/m51vFGV5/caze.jpg",
-          "embed": "https://w7.embedtv.cc/caze2"
+          "embed": "https://w1.ebtv.lat/caze2"
         },
 		{
           "nome": "CAZE TV HD9",
@@ -1240,7 +1242,7 @@
         {
           "nome": "TELECINE ACTION HD2",
           "imagem": "https://i.ibb.co/Q7187G1N/tc-action.jpg",
-          "embed": "https://w7.embedtv.cc/telecineaction"
+          "embed": "https://w1.ebtv.lat/telecineaction"
         },
         {
           "nome": "TELECINE ACTION HD3",
@@ -1270,7 +1272,7 @@
 		{
           "nome": "TELECINE TOUCH HD2",
           "imagem": "https://i.ibb.co/s4VB0w6/tc-touch.jpg",
-          "embed": "https://w7.embedtv.cc/telecinetouch"
+          "embed": "https://w1.ebtv.lat/telecinetouch"
         },
 		{
           "nome": "TELECINE TOUCH HD3",
@@ -1300,7 +1302,7 @@
 		{
           "nome": "TELECINE FUN HD2",
           "imagem": "https://i.ibb.co/tTtWQqwF/tc-fun.jpg",
-          "embed": "https://w7.embedtv.cc/telecinefun"
+          "embed": "https://w1.ebtv.lat/telecinefun"
         },
 		{
           "nome": "TELECINE FUN HD3",
@@ -1330,7 +1332,7 @@
 		{
           "nome": "TELECINE PIPOCA HD2",
           "imagem": "https://i.ibb.co/przk6dbm/tc-pipoca.jpg",
-          "embed": "https://w7.embedtv.cc/telecinepipoca"
+          "embed": "https://w1.ebtv.lat/telecinepipoca"
         },
 		{
           "nome": "TELECINE PIPOCA HD3",
@@ -1360,7 +1362,7 @@
 		{
           "nome": "TELECINE PREMIUM HD2",
           "imagem": "https://i.ibb.co/gbs6Cygz/tc-premium.jpg",
-          "embed": "https://w7.embedtv.cc/telecinepremium"
+          "embed": "https://w1.ebtv.lat/telecinepremium"
         },
 		{
           "nome": "TELECINE PREMIUM HD3",
@@ -1390,7 +1392,7 @@
 		{
           "nome": "TELECINE CULT HD2",
           "imagem": "https://i.ibb.co/8n7Kp5fW/tc-cult.jpg",
-          "embed": "https://w7.embedtv.cc/telecinecult"
+          "embed": "https://w1.ebtv.lat/telecinecult"
         },
 		{
           "nome": "TELECINE CULT HD3",
@@ -1420,7 +1422,7 @@
 		{
           "nome": "HBO HD2",
           "imagem": "https://i.ibb.co/qFmJ2bz9/hbo.jpg",
-          "embed": "https://w7.embedtv.cc/hbo"
+          "embed": "https://w1.ebtv.lat/hbo"
         },
 		{
           "nome": "HBO HD3",
@@ -1450,7 +1452,7 @@
 		{
           "nome": "HBO 2 HD2",
           "imagem": "https://i.ibb.co/0p8xjnTp/hbo2.jpg",
-          "embed": "https://w7.embedtv.cc/hbo2"
+          "embed": "https://w1.ebtv.lat/hbo2"
         },
 		{
           "nome": "HBO 2 HD3",
@@ -1480,7 +1482,7 @@
 		{
           "nome": "HBO Family HD2",
           "imagem": "https://i.ibb.co/kVzv0mmD/hbo-FAMILY.jpg",
-          "embed": "https://w7.embedtv.cc/hbofamily"
+          "embed": "https://w1.ebtv.lat/hbofamily"
         },
 		{
           "nome": "HBO Family HD3",
@@ -1510,7 +1512,7 @@
 		{
           "nome": "HBO Mundi HD2",
           "imagem": "https://i.ibb.co/gb2gm0CF/hbo-mundi.jpg",
-          "embed": "https://w7.embedtv.cc/hbomundi"
+          "embed": "https://w1.ebtv.lat/hbomundi"
         },
 		{
           "nome": "HBO Mundi HD3",
@@ -1535,7 +1537,7 @@
 		{
           "nome": "HBO Plus HD2",
           "imagem": "https://i.ibb.co/mV38pkyR/hbo-plus.jpg",
-          "embed": "https://w7.embedtv.cc/hboplus"
+          "embed": "https://w1.ebtv.lat/hboplus"
         },
 		{
           "nome": "HBO Plus HD3",
@@ -1565,7 +1567,7 @@
 		{
           "nome": "HBO Pop HD2",
           "imagem": "https://i.ibb.co/S4gdBqVG/hbo-pop.jpg",
-          "embed": "https://w7.embedtv.cc/hbopop"
+          "embed": "https://w1.ebtv.lat/hbopop"
         },
 		{
           "nome": "HBO Pop HD3",
@@ -1615,7 +1617,7 @@
 		{
           "nome": "HBO Xtreme HD2",
           "imagem": "https://i.ibb.co/Zzc1VnJx/hbo-xtreme.jpg",
-          "embed": "https://w7.embedtv.cc/hboxtreme"
+          "embed": "https://w1.ebtv.lat/hboxtreme"
         },
 		{
           "nome": "HBO Xtreme HD3",
@@ -1650,7 +1652,7 @@
 		{
           "nome": "A&E HD2",
           "imagem": "https://i.ibb.co/27bgskhd/A-E.jpg",
-          "embed": "https://w7.embedtv.cc/ae"
+          "embed": "https://w1.ebtv.lat/ae"
         },
 		{
           "nome": "A&E HD3",
@@ -1680,7 +1682,7 @@
 		{
           "nome": "AMC HD2",
           "imagem": "https://i.ibb.co/CpR9mGwG/amc.jpg",
-          "embed": "https://w7.embedtv.cc/amc"
+          "embed": "https://w1.ebtv.lat/amc"
         },
 		{
           "nome": "AMC HD3",
@@ -1705,7 +1707,7 @@
 		{
           "nome": "AXN HD2",
           "imagem": "https://i.ibb.co/Y4TLsqsG/axn.jpg",
-          "embed": "https://w7.embedtv.cc/axn"
+          "embed": "https://w1.ebtv.lat/axn"
         },
 		{
           "nome": "AXN HD3",
@@ -1730,7 +1732,7 @@
 		{
           "nome": "CINEMAX HD2",
           "imagem": "https://i.ibb.co/MxDKCbQ8/cienmax.jpg",
-          "embed": "https://w7.embedtv.cc/cinemax"
+          "embed": "https://w1.ebtv.lat/cinemax"
         },
 		{
           "nome": "CINEMAX HD3",
@@ -1755,7 +1757,7 @@
 		{
           "nome": "MEGAPIX HD2",
           "imagem": "https://i.ibb.co/sp2T5HHv/megapix.jpg",
-          "embed": "https://w7.embedtv.cc/megapix"
+          "embed": "https://w1.ebtv.lat/megapix"
         },
 		{
           "nome": "MEGAPIX HD3",
@@ -1785,7 +1787,7 @@
 		{
           "nome": "SONY HD2",
           "imagem": "https://i.ibb.co/gFrdNCLD/sony.jpg",
-          "embed": "https://w7.embedtv.cc/sonychannel"
+          "embed": "https://w1.ebtv.lat/sonychannel"
         },
 		{
           "nome": "SONY HD3",
@@ -1815,7 +1817,7 @@
 		{
           "nome": "SPACE HD2",
           "imagem": "https://i.ibb.co/mrRf65yQ/space.jpg",
-          "embed": "https://w7.embedtv.cc/space"
+          "embed": "https://w1.ebtv.lat/space"
         },
 		{
           "nome": "SPACE HD3",
@@ -1840,7 +1842,7 @@
 		{
           "nome": "TNT HD2",
           "imagem": "https://i.ibb.co/zV5fZD45/tnt.jpg",
-          "embed": "https://w7.embedtv.cc/tnt"
+          "embed": "https://w1.ebtv.lat/tnt"
         },
 		{
           "nome": "TNT HD3",
@@ -1870,7 +1872,7 @@
 		{
           "nome": "TNT Novelas HD2",
           "imagem": "https://i.ibb.co/My7zLJPV/tnt-novelas.jpg",
-          "embed": "https://w7.embedtv.cc/tntnovelas"
+          "embed": "https://w1.ebtv.lat/tntnovelas"
         },
 		{
           "nome": "TNT Novelas HD3",
@@ -1900,7 +1902,7 @@
 		{
           "nome": "TNT Series HD2",
           "imagem": "https://i.ibb.co/JFC28xB6/TNT-SERIES.jpg",
-          "embed": "https://w7.embedtv.cc/tntseries"
+          "embed": "https://w1.ebtv.lat/tntseries"
         },
 		{
           "nome": "TNT Series HD3",
@@ -1930,7 +1932,7 @@
 		{
           "nome": "Studio Universal HD2",
           "imagem": "https://i.ibb.co/Pn7vXpF/studio-universal.jpg",
-          "embed": "https://w7.embedtv.cc/studiouniversal"
+          "embed": "https://w1.ebtv.lat/studiouniversal"
         },
 		{
           "nome": "Studio Universal HD3",
@@ -1960,7 +1962,7 @@
 		{
           "nome": "Universal HD2",
           "imagem": "https://i.ibb.co/TDCpsgvV/universaltv.jpg",
-          "embed": "https://w7.embedtv.cc/universaltv"
+          "embed": "https://w1.ebtv.lat/universaltv"
         },
 		{
           "nome": "Universal HD3",
@@ -1995,7 +1997,7 @@
 		{
           "nome": "CartooNetwork HD2",
           "imagem": "https://i.ibb.co/cXv3pYk3/cn.jpg",
-          "embed": "https://w7.embedtv.cc/cartoonnetwork"
+          "embed": "https://w1.ebtv.lat/cartoonnetwork"
         },
 		{
           "nome": "CartooNetwork HD3",
@@ -2025,7 +2027,7 @@
 		{
           "nome": "Cartoonito HD2",
           "imagem": "https://i.ibb.co/Y4MgcRkv/ctnt.jpg",
-          "embed": "https://w7.embedtv.cc/cartoonito"
+          "embed": "https://w1.ebtv.lat/cartoonito"
         },
 		{
           "nome": "Cartoonito HD3",
@@ -2055,7 +2057,7 @@
 		{
           "nome": "Discovery Kids HD2",
           "imagem": "https://i.ibb.co/YFfnnY5T/disckids.jpg",
-          "embed": "https://w7.embedtv.cc/discoverykids"
+          "embed": "https://w1.ebtv.lat/discoverykids"
         },
 		{
           "nome": "Discovery Kids HD3",
@@ -2085,7 +2087,7 @@
 		{
           "nome": "GLooB HD2",
           "imagem": "https://i.ibb.co/wh92nmBF/gloob.jpg",
-          "embed": "https://w7.embedtv.cc/gloob"
+          "embed": "https://w1.ebtv.lat/gloob"
         },
 		{
           "nome": "GLooB HD3",
@@ -2140,7 +2142,7 @@
 		{
           "nome": "Band News HD2",
           "imagem": "https://i.ibb.co/0p9gQRLX/BAND-NEWS.jpg",
-          "embed": "https://w7.embedtv.cc/bandnews"
+          "embed": "https://w1.ebtv.lat/bandnews"
         },
 		{
           "nome": "Band News HD3",
@@ -2170,7 +2172,7 @@
 		{
           "nome": "CNN Brasil HD2",
           "imagem": "https://i.ibb.co/Dft2ZgyM/cnn-brasil.jpg",
-          "embed": "https://w7.embedtv.cc/cnnbrasil"
+          "embed": "https://w1.ebtv.lat/cnnbrasil"
         },
 		{
           "nome": "CNN Brasil HD3",
@@ -2200,7 +2202,7 @@
 		{
           "nome": "Globo News HD2",
           "imagem": "https://i.ibb.co/zTPyxL1S/globop-news.jpg",
-          "embed": "https://w7.embedtv.cc/globonews"
+          "embed": "https://w1.ebtv.lat/globonews"
         },
 		{
           "nome": "Globo News HD3",
@@ -2265,7 +2267,7 @@
 		{
           "nome": "Animal Planet HD2",
           "imagem": "https://i.ibb.co/MyJ8zHMY/ANIMAL-PLANET.jpg",
-          "embed": "https://w7.embedtv.cc/animalplanet"
+          "embed": "https://w1.ebtv.lat/animalplanet"
         },
 		{
           "nome": "Animal Planet HD3",
@@ -2295,7 +2297,7 @@
 		{
           "nome": "Discovery Channel HD2",
           "imagem": "https://i.ibb.co/kVcgLGr6/disc-channel.jpg",
-          "embed": "https://w7.embedtv.cc/discoverychannel"
+          "embed": "https://w1.ebtv.lat/discoverychannel"
         },
 		{
           "nome": "Discovery Channel HD3",
@@ -2325,7 +2327,7 @@
 		{
           "nome": "Discovery Home & Health HD2",
           "imagem": "https://i.ibb.co/q37kddqm/Discovery-Home-Health.jpg",
-          "embed": "https://w7.embedtv.cc/discoveryhh"
+          "embed": "https://w1.ebtv.lat/discoveryhh"
         },
 		{
           "nome": "Discovery Home & Health HD3",
@@ -2355,7 +2357,7 @@
 		{
           "nome": "Discovery Science HD2",
           "imagem": "https://i.ibb.co/nMkxDzQM/disc-science.jpg",
-          "embed": "https://w7.embedtv.cc/discoveryscience"
+          "embed": "https://w1.ebtv.lat/discoveryscience"
         },
 		{
           "nome": "Discovery Science HD3",
@@ -2385,7 +2387,7 @@
 		{
           "nome": "Discovery Theater HD2",
           "imagem": "https://i.ibb.co/wNrTCfWq/dic-theather.jpg",
-          "embed": "https://w7.embedtv.cc/discoverytheather"
+          "embed": "https://w1.ebtv.lat/discoverytheather"
         },
 		{
           "nome": "Discovery Theater HD3",
@@ -2415,7 +2417,7 @@
 		{
           "nome": "Discovery Turbo HD2",
           "imagem": "https://i.ibb.co/BK4zHRQf/disc-turbo.jpg",
-          "embed": "https://w7.embedtv.cc/discoveryturbo"
+          "embed": "https://w1.ebtv.lat/discoveryturbo"
         },
 		{
           "nome": "Discovery Turbo HD3",
@@ -2445,7 +2447,7 @@
 		{
           "nome": "Discovery World HD2",
           "imagem": "https://i.ibb.co/5XL6H490/disc-world.jpg",
-          "embed": "https://w7.embedtv.cc/discoveryworld"
+          "embed": "https://w1.ebtv.lat/discoveryworld"
         },
 		{
           "nome": "Discovery World HD3",
@@ -2480,7 +2482,7 @@
 		{
           "nome": "Discovery ID HD2",
           "imagem": "https://i.ibb.co/zHfxWBDq/dic-id.jpg",
-          "embed": "https://w7.embedtv.cc/discoveryid"
+          "embed": "https://w1.ebtv.lat/discoveryid"
         },
 		{
           "nome": "Discovery ID HD3",
@@ -2515,7 +2517,7 @@
 		{
           "nome": "History HD2",
           "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
-          "embed": "https://w7.embedtv.cc/history"
+          "embed": "https://w1.ebtv.lat/history"
         },
 		{
           "nome": "History HD3",
@@ -2545,7 +2547,7 @@
 		{
           "nome": "History 2 HD2",
           "imagem": "https://i.ibb.co/Cp5vYkXT/hisotry.jpg",
-          "embed": "https://w7.embedtv.cc/history2"
+          "embed": "https://w1.ebtv.lat/history2"
         },
 		{
           "nome": "History 2 HD3",
@@ -2580,7 +2582,7 @@
 		{
           "nome": "Adult Swim HD2",
           "imagem": "https://i.ibb.co/0jc5wqrx/adult-swin.jpg",
-          "embed": "https://w7.embedtv.cc/adultswim"
+          "embed": "https://w1.ebtv.lat/adultswim"
         },
 		{
           "nome": "Adult Swim HD3",
@@ -2650,7 +2652,7 @@
 		{
           "nome": "Food Network HD2",
           "imagem": "https://i.postimg.cc/mD5f2H0Q/food-net.jpg",
-          "embed": "https://w7.embedtv.cc/foodnetwork"
+          "embed": "https://w1.ebtv.lat/foodnetwork"
         },
 		{
           "nome": "Food Network HD3",
@@ -2680,7 +2682,7 @@
 		{
           "nome": "GNT HD2",
           "imagem": "https://i.ibb.co/5WGmjMGC/gnt.jpg",
-          "embed": "https://w7.embedtv.cc/gnt"
+          "embed": "https://w1.ebtv.lat/gnt"
         },
 		{
           "nome": "GNT HD3",
@@ -2715,7 +2717,7 @@
 		{
           "nome": "HGTV HD2",
           "imagem": "https://i.ibb.co/Z6tDPQwT/hgtv.jpg",
-          "embed": "https://w7.embedtv.cc/hgtv"
+          "embed": "https://w1.ebtv.lat/hgtv"
         },
 		{
           "nome": "HGTV HD3",
@@ -2750,7 +2752,7 @@
         {
           "nome": "Todo Mundo Odeia o Chris",
           "imagem": "https://i.ibb.co/FLBVRmzx/chris-1.jpg",
-          "embed": "https://w7.embedtv.cc/24h_odeiachris"
+          "embed": "https://w1.ebtv.lat/24h_odeiachris"
         },
 		{
           "nome": "Todo Mundo Odeia o Chris 2",
