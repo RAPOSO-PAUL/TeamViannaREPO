@@ -1,9 +1,9 @@
 # Relatório do TMDB
 
-Rodada de 22/11/2026 13:49 (Brasília).
+Rodada de 23/11/2026 16:00 (Brasília).
 
 - Catálogo: 14665 filmes e 1265 séries
-- Consultados nesta rodada: 0 (0 novos)
+- Consultados nesta rodada: 1119 (0 novos)
 - Removidos (saíram do catálogo): 0
 - Falhas (o robô tenta de novo depois): 0
 
@@ -41,7 +41,6 @@ Confira o `tmdb_id` destes no catálogo.
 - movie `714611` Banana Split
 - movie `884299` Sobre nós
 - movie `1004377` Soma
-- movie `1116655` Ammonite
 - movie `1123014` Delicious
 - movie `1162310` A Despedida
 - movie `1172858` Desaparecida
