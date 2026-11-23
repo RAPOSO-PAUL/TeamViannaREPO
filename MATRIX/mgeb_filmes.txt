@@ -1,4 +1,4 @@
-#gerado	1795420277549
+#gerado	1795465217599
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
@@ -45,7 +45,7 @@
 24554	104797	mp4	Em Busca do Vale Encantado X: A Grande Migração	
 1214138	104792	mp4	Fureru	
 394759	104783	m3u8	Um Lobo em Pele de Cordeiro	
-514710	104782	mp4	Heróis modestos: Cinema de Curtas da Ponoc	
+514710	104782	m3u8	Heróis modestos: Cinema de Curtas da Ponoc	
 857862	104780	mp4	Evangelion: Death (True)²	
 9662	104769	m3u8	As Bicicletas de Belleville	
 33539	104731	mp4	Era uma Vez na Floresta	
@@ -1552,7 +1552,7 @@
 548786	66449	mp4	América Sobre Rodas	
 20312	66336	mp4	Viagem Sem Destino	
 1119214	66297	mp4	Slime - Uma Aventura Pegajosa 4	
-272878	66269	mp4	Max: O Cão Herói	
+272878	66269	m3u8	Max: O Cão Herói	
 24102	66244	mp4	Em Busca do Vale Encantado VII: A Pedra do Fogo Gelado	
 18162	66139	mp4	O Elo Perdido	
 420818	65877	mp4	O Rei Leão	
@@ -2729,7 +2729,7 @@
 445224	93217	mp4	Missão Extraordinária	
 251749	93212	mp4	Os Quatro 2: Reino Sem Lei	
 587808	93210	mp4	Cortina de Fogo 2	
-37034	93208	mp4	O Destemido	
+37034	93208	m3u8	O Destemido	
 433623	93204	mp4	Caos na Prisão	
 440777	93195	mp4	O Duelo Final	
 586347	93194	mp4	O Caminho Difícil	
@@ -3212,7 +3212,7 @@
 6978	40003	mp4	Os Aventureiros do Bairro Proibido	
 353610	39997	mp4	Os Condenados 2	
 10295	39991	mp4	Os Dois Super-Tiras em Miami	
-11568	39957	mp4	Os Irmãos Cara de Pau 2000	
+11568	39957	m3u8	Os Irmãos Cara de Pau 2000	
 556901	39952	mp4	Os Jovens Titãs em Ação Vs. Os Jovens Titãs	
 34813	39935	mp4	Os Perdedores	
 1266	39930	m3u8	Os Reis da Rua	
@@ -8348,7 +8348,7 @@
 10536	39007	mp4	Um Golpe à Italiana	
 9430	38854	mp4	Vamos Nessa	
 1033107	38844	mp4	Vento Selvagem	
-13195	38712	mp4	Um Plano Brilhante	
+13195	38712	m3u8	Um Plano Brilhante	
 1234783	38554	mp4	Nahir – Entre a Paixão e as Grades	
 326285	38527	mp4	Pastoral Americana	
 11892	38481	mp4	Cálculo Mortal	
@@ -12062,7 +12062,7 @@
 507084	91722	mp4	Tungstênio	
 286256	91721	mp4	Tim Maia	
 265195	91720	m3u8	Relatos Selvagens	
-271736	91719	mp4	O Programa	
+271736	91719	m3u8	O Programa	
 436459	91718	mp4	Quase Amigos	
 176124	91716	mp4	Recuperando a Esperança	
 41144	91714	mp4	Para Salvar Uma Vida	
@@ -12886,7 +12886,7 @@
 10142	39826	mp4	Pecados de Guerra	
 295964	39820	mp4	Pegando Fogo	
 9475	39793	m3u8	Perfume de Mulher	
-459910	39790	mp4	Perigo na Montanha	
+459910	39790	m3u8	Perigo na Montanha	
 9516	39789	mp4	Perigo Para a Sociedade	
 792	39750	m3u8	Platoon	
 14834	39736	mp4	Ponto de Decisão	
@@ -12993,7 +12993,7 @@
 228194	15246	m3u8	A 100 Passos de Um Sonho	
 109410	15237	mp4	42: A História de uma Lenda	
 64686	15236	mp4	47 Ronins	
-166666	15233	mp4	3096 Dias de Cativeiro	
+166666	15233	m3u8	3096 Dias de Cativeiro	
 453201	15228	mp4	15h17: Trem Para Paris	
 565492	15198	m3u8	Um Irmão	
 517093	15197	mp4	Heróis de Guerra	
@@ -15352,7 +15352,7 @@
 810	836	mp4	Shrek Terceiro	
 766	828	mp4	Uma Noite Alucinante 3	
 842924	630	mp4	A Vida de Chuck	
-736526	502	mp4	O Troll da Montanha	
+736526	502	m3u8	O Troll da Montanha	
 266647	467	m3u8	Peter Pan	
 1549457	233	m3u8	Sob a Lua Cheia	
 419831	211	mp4	Caçadora de Gigantes	
@@ -17684,7 +17684,7 @@
 24655	104810	m3u8	O Carro: A Máquina do Diabo	
 3079	104809	mp4	A Maldição de Frankenstein	
 25018	104803	mp4	O Massacre da Serra Elétrica 3	
-29161	104802	mp4	Phenomena	
+29161	104802	m3u8	Phenomena	
 1476740	104794	mp4	Influencers	
 353686	104751	m3u8	A Última Premonição	
 9674	104737	m3u8	Ring 0: O Chamado	
@@ -18125,7 +18125,7 @@
 556509	93873	mp4	O Mistério das Garotas Perdidas	
 429742	93864	mp4	O Enviado Do Mal	
 147925	93633	mp4	O Território	
-24056	93320	mp4	Vingança Entre Assassinos	
+24056	93320	m3u8	Vingança Entre Assassinos	
 954848	93318	mp4	Refém	
 49763	93174	mp4	Lua Negra	
 13954	93166	mp4	Reféns do Desconhecido	
@@ -18194,7 +18194,7 @@
 554100	91554	mp4	Triggered	
 17166	91552	mp4	Insanatório: Quem Entra, Não Sai	
 13515	91550	mp4	Espelhos do Medo	
-33278	91549	mp4	A Maldição de Samantha	
+33278	91549	m3u8	A Maldição de Samantha	
 796428	91548	mp4	Madres: Mães de Ninguém	
 11954	91547	mp4	Força Sinistra	
 10929	91544	mp4	A Vingança de Willard	
@@ -18752,7 +18752,7 @@
 476299	11478	mp4	Pesadelo no Inferno	
 56906	11455	m3u8	Espantalho	
 814800	11385	m3u8	Boa Noite, Mamãe!	
-846778	11368	mp4	Margaux: A Inteligência Mortal	
+846778	11368	m3u8	Margaux: A Inteligência Mortal	
 816952	11346	m3u8	O Exorcismo da Minha Melhor Amiga	
 19904	11342	mp4	O Padrasto	
 338947	11306	m3u8	Hellraiser: Renascido do Inferno	
@@ -19157,7 +19157,7 @@
 532814	6174	m3u8	Tara Maldita	
 37169	6133	mp4	A Centopéia Humana	
 94365	6131	mp4	A Centopéia Humana 3	
-409297	6130	mp4	Vozes da Escuridão	
+409297	6130	m3u8	Vozes da Escuridão	
 1225377	6093	mp4	Mouse Trap: A Diversão Agora é Outra	
 999681	6059	m3u8	O Espírito das Trevas	
 880004	6058	m3u8	Jogos Sombrios	
@@ -19833,7 +19833,7 @@
 8090	104819	mp4	Sem Vestígios	
 27984	104816	mp4	Bem Longe de Casa	
 1662858	104815	m3u8	Maré Escura	
-463684	104800	mp4	Toda Arte é Perigosa	
+463684	104800	m3u8	Toda Arte é Perigosa	
 21489	104798	mp4	O Dossiê de Odessa	
 12590	104788	mp4	Submersos	
 21734	104741	mp4	A Sombra de uma Dúvida	
@@ -20091,7 +20091,7 @@
 645049	95139	mp4	０計画を阻止せよ－総理大臣誘拐！！－	
 10562	95100	mp4	Sob Suspeita	
 644671	95050	mp4	सर्वसाक्षी	
-1244531	94847	mp4	Tubarão de Guerra	
+1244531	94847	m3u8	Tubarão de Guerra	
 324560	94555	mp4	Amaldiçoada	
 218043	94074	mp4	O Apocalipse	
 724232	94041	mp4	Atrás da Sombra	

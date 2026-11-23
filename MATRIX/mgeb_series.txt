@@ -1,4 +1,4 @@
-#gerado	1795420331339
+#gerado	1795465275449
 139348	117458	mp4	A Bíblia	
 67335	117434	mp4	Sin senos sí hay paraíso	
 254630	113184	mp4	12 12 12	
@@ -393,6 +393,11 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
+260822	117470	mp4	From Bureaucrat to Villainess: Dad's Been Reincarnated!	
+316715	117469	mp4	Ookii Onnanoko Wa Suki Desuka	
+236533	117467	mp4	Studio Apartment, Good Lighting, Angel Included	
+320909	117466	mp4	Firefly Wedding	
+316694	117465	mp4	So What's Wrong with Getting Reborn as a Goblin?	
 336478	117430	mp4	A Casa Mágica da Doozie	
 2129	116657	mp4	As Aventuras de Jimmy Neutron, O Menino Gênio	
 307903	113143	mp4	HORROR COLLECTOR	
@@ -3844,6 +3849,7 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+235842	117468	mp4	One Room Angel	
 312026	117459	mp4	Sniper Americano: A Ultima Rodada	
 318349	117453	mp4	宝珠	
 318420	117451	mp4	Os 12 Signos de Valentina	
