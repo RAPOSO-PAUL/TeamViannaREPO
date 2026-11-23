@@ -1,4 +1,4 @@
-#gerado	1795390851044
+#gerado	1795420331339
 139348	117458	mp4	A Bíblia	
 67335	117434	mp4	Sin senos sí hay paraíso	
 254630	113184	mp4	12 12 12	
@@ -3844,6 +3844,7 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+312026	117459	mp4	Sniper Americano: A Ultima Rodada	
 318349	117453	mp4	宝珠	
 318420	117451	mp4	Os 12 Signos de Valentina	
 307853	117431	mp4	Luz em Dias de Chuva	
@@ -7323,6 +7324,7 @@
 270420	295	mp4	De Repente Humana	
 223530	264	mp4	Star Trek: Academia da Frota Estelar	
 202411	258	mp4	Monarch - Legado de Monstros	
+32856	117462	mp4	Bela, a Feia	
 328440	117433	mp4	Lá na Minha Terra	
 90591	117427	mp4	Pecado Mortal	
 327107	99613	mp4	Avenida Brasil 2	
@@ -8505,6 +8507,7 @@
 0	68405	mp4	[Reel] O Gênio da Lâmpada Sob Contrato	
 0	68399	mp4	[Reel] Minha Visão de Raio-X Vê Bem Através de Você	
 0	68397	mp4	[Reel] O Rei Disfarçado	
+0	117464	mp4	[Reel] A noiva escolhida do CEO	
 0	117439	mp4	[Reel] O Rei Sem Alcance	
 0	116761	mp4	[Reel] O Gênio do Ferro-Velho Salvou Meu Império	
 0	116760	mp4	[Reel] Você Não Merece a Misericórdia do Arcanjo	
