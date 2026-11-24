@@ -1,4 +1,5 @@
-#gerado	1795465275449
+#gerado	1795495910335
+233219	117487	mp4	ONE: 하이스쿨 히어로즈	
 139348	117458	mp4	A Bíblia	
 67335	117434	mp4	Sin senos sí hay paraíso	
 254630	113184	mp4	12 12 12	
@@ -68,7 +69,6 @@
 93953	95029	mp4	Seis Punhos	
 105127	95005	mp4	Sitiados: México	
 46437	94920	mp4	Kingdom	
-318445	94870	mp4	Kamen Rider MY-TH	
 157221	88772	mp4	O Meu Pai é um Caçador de Recompensas!	
 196556	87341	mp4	MaveriX	
 18653	85265	mp4	Alvo Humano	
@@ -393,11 +393,6 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
-260822	117470	mp4	From Bureaucrat to Villainess: Dad's Been Reincarnated!	
-316715	117469	mp4	Ookii Onnanoko Wa Suki Desuka	
-236533	117467	mp4	Studio Apartment, Good Lighting, Angel Included	
-320909	117466	mp4	Firefly Wedding	
-316694	117465	mp4	So What's Wrong with Getting Reborn as a Goblin?	
 336478	117430	mp4	A Casa Mágica da Doozie	
 2129	116657	mp4	As Aventuras de Jimmy Neutron, O Menino Gênio	
 307903	113143	mp4	HORROR COLLECTOR	
@@ -689,7 +684,6 @@
 6670	54718	mp4	A Turma do Charlie Brown e Snoopy	
 40424	54701	mp4	Initial D	
 286345	54699	mp4	Though I Am an Inept Villainess	
-302519	54606	mp4	Victoria of Many Faces	
 99778	54263	mp4	The God of High School	
 116727	54244	mp4	Odd Taxi	
 287028	54239	mp4	Draw This, Then Die!	
@@ -697,7 +691,6 @@
 30983	54105	mp4	Detetive Conan	
 276393	53860	mp4	Tamon's B-Side	
 42573	53824	mp4	Slam Dunk	
-88044	53222	mp4	Demon Lord, Retry!	
 72501	52293	mp4	Clione no Akari	
 68165	52290	mp4	Bernard-jou Iwaku.	
 72817	52285	mp4	Musekinin Galaxy☆Tylor	
@@ -2030,7 +2023,6 @@
 59268	10344	mp4	A Família Hathaway	
 71717	10340	mp4	9JKL	
 17507	10332	mp4	10 Coisas que Eu Odeio em Você	
-39297	10297	mp4	Last Man Standing	
 95	10294	mp4	Buffy: A Caça-Vampiros	
 81284	10292	mp4	A Bizarra Confeitaria de Christine McConnell	
 73411	10280	mp4	Maniac	
@@ -2600,7 +2592,6 @@
 39957	10025	mp4	Perception: Truques da Mente	
 1450	10013	mp4	Divisão Criminal	
 66276	10009	mp4	The Night Of	
-67993	9967	mp4	Chicago Justice: A Serviço da Lei	
 3322	9941	mp4	Oz	
 81049	9928	mp4	The ABC Murders	
 87600	9901	mp4	O Desaparecimento de Madeleine McCann	

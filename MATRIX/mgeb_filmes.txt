@@ -1,4 +1,5 @@
-#gerado	1795465217599
+#gerado	1795495864036
+1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
 219578	116875	mp4	Advance and Be Mechanized	
@@ -610,7 +611,6 @@
 1731694	75768	m3u8	LEGO Star Wars: The Mandalorian	
 48405	75747	m3u8	Z.O.E 2167 IDOLO	
 1530941	75731	mp4	Gintama: Yoshiwara em Chamas	
-823417	75714	mp4	Free! The Final Stroke - Kouhen	
 1560520	75633	m3u8	Batman: A Queda do Morcego - Parte 1	
 1732625	75599	mp4	Lego Disney Princesa: Bagunça Mágica	
 1187326	75598	mp4	As Aventuras de Tadeo e a Lâmpada Mágica	
@@ -1828,7 +1828,7 @@
 957482	4711	m3u8	Uma Jornada na África	
 955305	4659	m3u8	Dig Me No Grave	
 12599	4592	m3u8	Pokémon: O Filme 2000 - O Poder de Um	
-10991	4591	mp4	Pokémon 3: O Feitiço dos Unown	
+10991	4591	m3u8	Pokémon 3: O Feitiço dos Unown	
 12600	4590	m3u8	Pokémon 4: Viajantes do Tempo	
 1333099	4549	m3u8	Dalia e o Livro Vermelho	
 18861	4487	m3u8	Naruto: Guardiões do Reino da Lua Crescente	
@@ -2682,7 +2682,7 @@
 372782	93322	mp4	Caçadores De Homens	
 608845	93321	mp4	Ataque Fatal	
 23742	93319	mp4	Tiras em Apuros	
-77948	93317	mp4	Fuga Implacável	
+77948	93317	m3u8	Fuga Implacável	
 136797	93309	mp4	Need for Speed: O Filme	
 18882	93308	mp4	O Homem-Coisa: A Natureza do Medo	
 294652	93307	mp4	Sangue Jovem	
@@ -2824,7 +2824,7 @@
 1171462	90611	mp4	Golden Kamuy	
 1210096	90610	mp4	Jorge da Capadócia	
 746036	90609	mp4	O Dublê	
-180299	90607	mp4	Operação Invasão 2	
+180299	90607	m3u8	Operação Invasão 2	
 1089345	90605	mp4	Megaterremoto	
 96	90604	mp4	Um Tira da Pesada 2	
 306	90603	mp4	Um Tira da Pesada 3	
@@ -2849,7 +2849,7 @@
 926670	90511	mp4	Henry Danger: O Filme	
 879444	90503	mp4	O Carma de um Assassino 2	
 81188	90493	m3u8	A Origem dos Guardiões	
-760741	90481	mp4	A Fera	
+760741	90481	m3u8	A Fera	
 752	90479	m3u8	V de Vingança	
 7451	90478	mp4	Triplo X	
 718930	90475	mp4	Trem-Bala	
@@ -4240,7 +4240,7 @@
 460465	1361	mp4	Mortal Kombat	
 634528	1351	mp4	Na Mira do Perigo	
 497698	1342	mp4	Viúva Negra	
-168259	1333	mp4	Velozes & Furiosos 7	
+168259	1333	m3u8	Velozes & Furiosos 7	
 345887	1329	mp4	O Protetor 2	
 1106289	1328	m3u8	A Última Missão	
 155	1324	mp4	Batman: O Cavaleiro das Trevas	
@@ -5068,7 +5068,7 @@
 4808	103651	mp4	Charada	
 10707	103648	mp4	A Lula e a Baleia	
 1529419	103638	mp4	Kumail Nanjiani: Pensamentos Noturnos	
-3034	103635	mp4	O Jovem Frankenstein	
+3034	103635	m3u8	O Jovem Frankenstein	
 1451815	103625	mp4	Brett Goldstein: A Segunda Melhor Noite de Sua Vida	
 556678	103622	mp4	Emma	
 565310	103620	mp4	A Despedida	
@@ -6153,7 +6153,7 @@
 411764	91147	mp4	A Comédia Divina	
 745613	91146	mp4	É Para o Seu Próprio Bem	
 761388	91145	mp4	A Senhora do Casarão	
-8363	91143	mp4	Superbad: É Hoje	
+8363	91143	m3u8	Superbad: É Hoje	
 642684	91137	mp4	Operação Portugal	
 400157	91136	m3u8	O Parque dos Sonhos	
 647813	91133	mp4	Divórcio em Las Vegas	
@@ -10118,7 +10118,7 @@
 818356	104363	m3u8	Encarando Meus Segredos	
 10425	104362	mp4	A Morte e a Vida de Bobby Z	
 10362	104361	mp4	Amantes	
-16295	104355	mp4	Duro Aprendizado	
+16295	104355	m3u8	Duro Aprendizado	
 1944	104349	mp4	Provocação	
 29005	104347	mp4	Onde os Homens São Homens	
 192712	104344	mp4	Anjo da Vingança	
@@ -15350,7 +15350,7 @@
 282035	927	mp4	A Múmia	
 497	894	m3u8	À Espera de um Milagre	
 810	836	mp4	Shrek Terceiro	
-766	828	mp4	Uma Noite Alucinante 3	
+766	828	m3u8	Uma Noite Alucinante 3	
 842924	630	mp4	A Vida de Chuck	
 736526	502	m3u8	O Troll da Montanha	
 266647	467	m3u8	Peter Pan	
@@ -16472,7 +16472,7 @@
 44052	79471	mp4	A Viúva Negra	
 732713	76823	mp4	Mau-Olhado	
 500840	76771	mp4	Estou Pensando em Acabar com Tudo	
-1631807	75632	mp4	A Mulher Secreta	
+1631807	75632	m3u8	A Mulher Secreta	
 11092	66576	mp4	Acima de Qualquer Suspeita	
 146223	66349	mp4	Circuito Fechado	
 241958	66227	mp4	O Despertar dos Deuses	
@@ -18948,7 +18948,7 @@
 404584	8391	m3u8	O Demônio da Rua Willow	
 412766	8380	m3u8	A Deusa da Vingança	
 45657	8367	m3u8	Aterrorizada	
-109428	8365	mp4	A Morte do Demônio	
+109428	8365	m3u8	A Morte do Demônio	
 1690	8360	mp4	O Albergue	
 1975	8359	mp4	O Grito 2	
 343674	8334	m3u8	Jogo Perigoso	
@@ -19626,14 +19626,14 @@
 1008042	1228	mp4	Fale Comigo	
 635910	1224	mp4	Drácula: A Última Viagem do Deméter	
 507089	1220	m3u8	Five Nights at Freddy's - O Pesadelo Sem Fim	
-758323	1218	mp4	O Exorcista do Papa	
+758323	1218	m3u8	O Exorcista do Papa	
 1406390	1203	mp4	Prédio Vazio	
 1008392	1182	m3u8	The Blackening: Jogo Mortal	
 614479	1180	m3u8	Sobrenatural: A Porta Vermelha	
 437342	1169	mp4	A Primeira Profecia	
 933260	1168	m3u8	A Substância	
 1084199	1137	mp4	Acompanhante Perfeita	
-1041613	1121	mp4	Imaculada	
+1041613	1121	m3u8	Imaculada	
 710295	1117	mp4	Lobisomem	
 1023922	1114	mp4	MaXXXine	
 814889	1100	mp4	Não Solte!	
@@ -19666,10 +19666,10 @@
 23827	920	mp4	Atividade Paranormal	
 1242011	906	m3u8	Juntos	
 599975	893	mp4	A Hora da Sua Morte	
-764	868	mp4	Uma Noite Alucinante: A Morte do Demônio	
+764	868	m3u8	Uma Noite Alucinante: A Morte do Demônio	
 49018	857	m3u8	Sobrenatural	
 167032	833	mp4	A Maldição de Chucky	
-765	829	mp4	Uma Noite Alucinante 2	
+765	829	m3u8	Uma Noite Alucinante 2	
 1231010	812	m3u8	The Severed Sun	
 1271023	810	m3u8	Wind and Bone	
 816977	788	m3u8	They/Them: O Acampamento	
