@@ -1,6 +1,30 @@
 {
 "movies":[
 {
+  "tmdb_id":919131,
+  "type":"movie",
+  "added_at":"2026-11-24",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/919131"},
+    {"name":"PLAYER 2","embed":"https://myembed.biz/filme/919131"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:eao7krm6neobbae3jctyjbjk7mflbfhx&dn=BAIXARAPIDO.COM-.WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-.O+Mist%C3%A9rio+na+Cabana.2023.1080p.WEB-DL.x264.DUAL.2.0"}
+  ],
+  "youtube":"dqKFZm04ViM"
+},
+{
+  "tmdb_id":434921,
+  "type":"movie",
+  "added_at":"2026-11-24",
+  "sources":[
+    {"name":"PLAYER 1","embed":"https://mgeb.lat/embed/434921"},
+    {"name":"PLAYER 2","embed":"https://myembed.biz/filme/434921"},
+    {"name":"720p Dublado","magnet":"magnet:?xt=urn:btih:C2B75D2F610692D168B97867D88CCCC45184CF2F&dn=Jerusal%c3%a9m%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce"},
+    {"name":"1080p Dublado","magnet":"magnet:?xt=urn:btih:E5BAFEC07C1955B97DBFF60A8C9203B10D1240DD&dn=Jerusal%c3%a9m%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce"},
+    {"name":"720p Dual Áudio","magnet":"magnet:?xt=urn:btih:DF76245C3F1F7A757C8587069B79AF4D158369E5&dn=Jerusal%c3%a9m%202016%20WWW.BLUDV.COM&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"},
+    {"name":"1080p Dual Áudio","magnet":"magnet:?xt=urn:btih:119EDE0A0D9CE15F3E5094EADF041682A106F6E6&dn=Jerusal%c3%a9m%202016%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce"}
+  ]
+},
+{
   "tmdb_id":36557,
   "type":"movie",
   "added_at":"2026-11-24",
