@@ -1,5 +1,4 @@
-#gerado	1795495910335
-233219	117487	mp4	ONE: 하이스쿨 히어로즈	
+#gerado	1795542998270
 139348	117458	mp4	A Bíblia	
 67335	117434	mp4	Sin senos sí hay paraíso	
 254630	113184	mp4	12 12 12	
@@ -658,7 +657,6 @@
 112169	76663	mp4	Thermae Romae Novae	
 247246	76402	mp4	Os Padrinhos Mágicos: Um Novo Desejo	
 92588	76060	mp4	DECA-DENCE	
-65965	75801	mp4	Angel Cop	
 91425	75797	mp4	Trem Infinito	
 6782	75602	mp4	Pucca	
 91656	75601	mp4	Doze Anos Para Sempre	
@@ -669,7 +667,6 @@
 296756	65353	mp4	Presidente Curtis	
 228721	65302	mp4	RoboGobo	
 16097	65299	mp4	Viewtiful Joe	
-296286	64636	mp4	Smoking Behind the Supermarket with You	
 139512	64635	mp4	Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs	
 298103	64634	mp4	IbiKona: Minha Madrasta e Suas Filhas Nada Malvadas	
 121536	64626	mp4	タイトロープ	
@@ -1280,7 +1277,6 @@
 65945	10521	mp4	Os Kabanes da Estação de Ferro	
 71014	10518	mp4	Sagrada Reset	
 73017	10507	mp4	Kujira no Kora - Filhos das Baleias	
-72635	10501	mp4	Knight's & Magic	
 72515	10499	mp4	Princess Principal	
 72510	10495	mp4	Netsuzou Trap	
 60832	10492	mp4	Nanana's Buried Treasure	
@@ -4386,7 +4382,6 @@
 310198	64642	mp4	Hermanas, un amor compartido	
 322338	64640	mp4	Nunca Fuimos Nada	
 315051	64639	mp4	Polen	
-323990	64633	mp4	Are the Sexy Buttocks Not Good?	
 301412	64632	mp4	Um Sonho até Você	
 249972	64631	mp4	Blossom	
 6866	64625	mp4	眠れる森	

@@ -1,4 +1,4 @@
-#gerado	1795495864036
+#gerado	1795542940711
 1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
@@ -187,7 +187,7 @@
 360404	102687	m3u8	Monster High: Boo York, Boo York	
 536115	102686	mp4	Godzilla: O Devorador de Planetas	
 513347	102650	m3u8	Shiki Oriori - O Sabor da Juventude	
-51162	102646	mp4	O Ursinho Pooh	
+51162	102646	m3u8	O Ursinho Pooh	
 382563	102609	m3u8	Cara, Cadê o Dragão?	
 752644	102607	m3u8	O Pergaminho Vermelho	
 144616	102603	m3u8	Princesinha Sofia: Era Uma Vez	
@@ -928,7 +928,7 @@
 506734	8310	m3u8	Lego DC Super Hero Girls: Escola de Super Vilãs	
 513736	8304	m3u8	LEGO DC Comics Super Heróis - Aquaman: A Fúria de Atlântida	
 506596	8285	m3u8	PLOEY:  Você Nunca Voará Sozinho	
-10681	8239	mp4	WALL-E	
+10681	8239	m3u8	WALL-E	
 928833	8155	m3u8	O Início do Mundo de Greg: Um Filme Original	
 585	8135	mp4	Monstros S.A.	
 77950	8118	mp4	Turbo	
@@ -1640,7 +1640,7 @@
 433498	39856	mp4	Papillon	
 552095	39831	mp4	Patrulha Canina: Super Filhotes	
 39513	39828	mp4	Paul: O Alien Fugitivo	
-10530	39746	mp4	Pocahontas: O Encontro de Dois Mundos	
+10530	39746	m3u8	Pocahontas: O Encontro de Dois Mundos	
 9543	39672	mp4	Príncipe da Pérsia: As Areias do Tempo	
 9354	39626	mp4	Querida, Encolhi as Crianças	
 9036	39604	m3u8	Resgate Abaixo de Zero	
@@ -3156,7 +3156,7 @@
 619803	41369	mp4	Força Bruta	
 417859	41340	mp4	Gato de Botas	
 10428	41311	mp4	Hackers - Piratas de Computador	
-50456	41303	mp4	Hanna	
+50456	41303	m3u8	Hanna	
 249070	41250	mp4	Hitman: Agente 47	
 9093	41236	mp4	Honra & Coragem - As Quatro Plumas	
 9292	41216	mp4	Hudson Hawk, o Falcão Está à Solta	
@@ -4162,7 +4162,7 @@
 460458	1808	m3u8	Resident Evil: Bem-Vindo a Raccoon City	
 293660	1806	mp4	Deadpool	
 38356	1800	mp4	Transformers: O Lado Oculto da Lua	
-335988	1795	mp4	Transformers: O Último Cavaleiro	
+335988	1795	m3u8	Transformers: O Último Cavaleiro	
 76170	1794	mp4	Wolverine: Imortal	
 246655	1787	m3u8	X-Men: Apocalipse	
 20504	1786	mp4	O Livro de Eli	
@@ -8330,7 +8330,7 @@
 571495	40597	mp4	Nada Santo	
 519473	40592	mp4	Nancy Drew e a Escada Secreta	
 606523	40523	m3u8	Noite no Paraíso	
-8643	40404	mp4	O Exorcismo de Emily Rose	
+8643	40404	m3u8	O Exorcismo de Emily Rose	
 593395	40372	mp4	O Grande Diabólico	
 496874	40136	mp4	O Segredo de Davi	
 470044	40083	mp4	O Ódio que Você Semeia	
@@ -9820,7 +9820,7 @@
 1286656	117432	m3u8	Eu Sou o Rocky	
 1211921	117416	m3u8	A História de uma Campeã	
 650728	117415	m3u8	A Lista dos Desejos	
-66184	116895	mp4	Barravento	
+66184	116895	m3u8	Barravento	
 83860	116897	mp4	Bebê De Outubro	
 28519	116905	m3u8	Cadete Winslow	
 83932	116874	m3u8	Traidor	
@@ -10952,7 +10952,7 @@
 647118	99536	mp4	젊은 미망인	
 449393	99507	mp4	O Milagre de Fátima	
 679794	99498	mp4	Flutuar	
-31065	99479	m3u8	Ike - O Dia D	
+31065	99479	mp4	Ike - O Dia D	
 1053588	99477	m3u8	O Salto	
 455803	99449	mp4	À Espera da Chuva	
 11699	99425	m3u8	Vício Frenético	
@@ -11594,7 +11594,6 @@
 604298	92422	mp4	L.S. Lowry – Retratos de Uma Paixão	
 824386	92420	mp4	Homens Não Choram	
 822124	92419	mp4	Elas por Elas	
-997792	92418	mp4	O Pastor e o Guerrilheiro	
 828264	92416	mp4	Vítima 3/19	
 466673	92415	mp4	Desejo, Paixão e Razão	
 965649	92414	mp4	Terra das Oportunidades	
@@ -12952,7 +12951,7 @@
 259719	37435	mp4	Getúlio	
 490132	37414	mp4	Green Book: O Guia	
 427612	37374	mp4	Nos Caminhos de Deus	
-9272	37338	mp4	O Anjo Malvado	
+9272	37338	m3u8	O Anjo Malvado	
 501738	37305	mp4	O Charlatão	
 323272	37290	mp4	Quarto de Guerra	
 786	37288	m3u8	Quase Famosos	
@@ -13631,7 +13630,7 @@
 757750	7421	m3u8	A Escolha de Maria	
 859478	7418	m3u8	Uma Questão de Família	
 613504	7412	mp4	After: Depois da Verdade	
-537915	7410	mp4	After	
+537915	7410	m3u8	After	
 844227	7409	m3u8	Ecos do Passado	
 1018332	7404	mp4	A Corte Marcial Da Nave Da Revolta	
 980537	7401	m3u8	Mãe Terra	
@@ -16750,6 +16749,7 @@
 1229563	333	m3u8	A Onda	
 1371185	154	m3u8	Song Sung Blue: Um Sonho a Dois	
 1442908	69	m3u8	Os Cantores	
+282970	117490	mp4	Clube dos Suicidas	
 1551025	117452	m3u8	Protegendo Estrelas	
 1757174	112968	m3u8	Transformação de Natal	
 1728763	106230	mp4	Drones	
@@ -17567,7 +17567,7 @@
 1319443	270	m3u8	Uma Jogada de Natal	
 1327862	252	mp4	Se Não Fosse Você	
 1522377	249	mp4	Dois Mundos, Um Desejo	
-1218762	241	mp4	Feliz Assalto!	
+1218762	241	m3u8	Feliz Assalto!	
 1572017	206	mp4	Love and Wine	
 1429520	191	m3u8	Outro Amor Fora do Tempo	
 1379963	183	m3u8	Diga-me Baixinho	
@@ -17581,6 +17581,9 @@
 1268609	62	m3u8	Pavana	
 1316092	58	m3u8	“O Morro dos Ventos Uivantes”	
 1131822	53	m3u8	Traição Entre Amigas	
+2654	117493	m3u8	À Beira da Loucura	
+334394	117492	m3u8	A Porta do inferno	
+24836	117491	m3u8	August Underground	
 9102	116890	mp4	Assassinos Cibernéticos	
 1241624	116860	mp4	A Estação do Terror	
 24924	116868	mp4	A Noite dos Demônios	
@@ -18370,7 +18373,7 @@
 26954	87891	m3u8	O Mestre dos Brinquedos II	
 1423191	87872	m3u8	Resident Evil	
 346364	87268	m3u8	It: A Coisa	
-10987	85963	mp4	Halloween 6: A Última Vingança	
+10987	85963	m3u8	Halloween 6: A Última Vingança	
 11361	85962	mp4	Halloween 5: A Vingança de Michael Myers	
 11357	85961	mp4	Halloween 4: O Retorno de Michael Myers	
 12699	85762	mp4	Hellraiser: O Mundo do Inferno	
@@ -19243,7 +19246,7 @@
 1008452	5282	m3u8	Haunted by Her Name	
 901060	5280	m3u8	Seven Cemeteries	
 807356	5278	mp4	Observador	
-14863	5261	mp4	Anaconda 3	
+14863	5261	m3u8	Anaconda 3	
 760195	5255	m3u8	Na Companhia do Mal	
 1340571	5250	m3u8	Lord of Wolves	
 1111340	5248	m3u8	Love Will Tear Us Apart	
