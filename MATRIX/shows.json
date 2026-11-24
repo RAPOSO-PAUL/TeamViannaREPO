@@ -1,5 +1,200 @@
 {
   "shows": [
+    {
+      "tmdb_id": 230059,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 213337,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 31132,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 226905,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 83962,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 13023,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 47,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 219543,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 256317,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 57243,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 67070,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 157004,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 68716,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 95479,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 207468,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 204832,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 216269,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 222787,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 196400,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 258902,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 94154,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 62823,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 69925,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 204154,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 84282,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 235389,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 78090,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 60905,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 121131,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 81356,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 127532,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 100895,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 4194,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 80020,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 117992,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 32910,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 80054,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 111819,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
+    {
+      "tmdb_id": 88324,
+      "type": "tv",
+      "added_at": "2026-11-24"
+    },
         {
       "tmdb_id": 194567,
       "type": "tv",
