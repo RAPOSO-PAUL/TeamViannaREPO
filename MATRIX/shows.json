@@ -1,6 +1,160 @@
 {
   "shows": [
+        {
+      "tmdb_id": 194567,
+      "type": "tv",
+      "title": "Projeto Lázaro",
+      "added_at": "2026-11-21 17:57:40"
+    },
     {
+      "tmdb_id": 133813,
+      "type": "tv",
+      "title": "A Morte Entre Outros Mistérios",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 157368,
+      "type": "tv",
+      "title": "The New Look",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 130677,
+      "type": "tv",
+      "title": "RFDS: Royal Flying Doctor Service",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 95556,
+      "type": "tv",
+      "title": "Expatriadas",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 230225,
+      "type": "tv",
+      "title": "Doce Mistério",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 117303,
+      "type": "tv",
+      "title": "Uma Questão de Química",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 109483,
+      "type": "tv",
+      "title": "Amor e Sorte",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 95977,
+      "type": "tv",
+      "title": "Até o Fim - Flamengo Campeão da Libertadores 2019",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 97957,
+      "type": "tv",
+      "title": "Bem-vindo",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 93520,
+      "type": "tv",
+      "title": "O Fantasma Escritor",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 93481,
+      "type": "tv",
+      "title": "Dublin Murders",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 72736,
+      "type": "tv",
+      "title": "Frankie Drake Mysteries",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 90129,
+      "type": "tv",
+      "title": "Minas do Hóquei",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 91780,
+      "type": "tv",
+      "title": "A Caça",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 62172,
+      "type": "tv",
+      "title": "Gangland Undercover: Motoqueiros do crime",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 68517,
+      "type": "tv",
+      "title": "2091",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 82855,
+      "type": "tv",
+      "title": "Sthlm Rekviem",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 66890,
+      "type": "tv",
+      "title": "Supermax",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 79012,
+      "type": "tv",
+      "title": "The Woman in White",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 66803,
+      "type": "tv",
+      "title": "Caminhos Cruzados",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 57092,
+      "type": "tv",
+      "title": "The White Queen",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 66912,
+      "type": "tv",
+      "title": "Chance",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 71693,
+      "type": "tv",
+      "title": "Blood Drive",
+      "added_at": "2026-11-21 17:57:40"
+    },
+    {
+      "tmdb_id": 66149,
+      "type": "tv",
+      "title": "As Meninas Superpoderosas",
+      "added_at": "2026-11-21 17:57:40",
+      "kids": [
+        "Prezinhos",
+        "Aborrecentes"
+      ]
+    },
+	{
       "tmdb_id": 291507,
       "type": "tv",
       "added_at": "2026-11-18",
