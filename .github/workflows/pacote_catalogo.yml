@@ -1,0 +1,50 @@
+# ROBO DO PACOTE DO CATALOGO — ver scripts/pacote_catalogo.py
+# Junta TODOS os arquivos do catalogo (filmes, ~1.260 series, novelas, apis,
+# metadados...) num zip so. O app baixa esse zip no PRIMEIRO acesso em vez de
+# abrir ~1.300 arquivos um por um.
+#
+# O zip vai para o RELEASE "pacote" (nao entra no historico do git):
+#   https://github.com/RAPOSO-PAUL/TeamViannaREPO/releases/download/pacote/catalogo.zip
+# Sem mudanca no catalogo = nao publica nada.
+# Nenhum segredo: so arquivos publicos que o app ja le.
+name: Pacote do catálogo
+
+on:
+  schedule:
+    - cron: "41 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pacote-catalogo
+  cancel-in-progress: false
+
+jobs:
+  pacote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Montar o pacote
+        timeout-minutes: 15
+        run: python scripts/pacote_catalogo.py --saida pacote_saida
+
+      - name: Publicar no release "pacote"
+        if: hashFiles('pacote_saida/MUDOU') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view pacote >/dev/null 2>&1; then
+            gh release create pacote --title "Pacote do catálogo (robô)" \
+              --notes "Gerado sozinho pelo robô. Não apagar: o app CINE GO! baixa este arquivo no primeiro acesso." \
+              --prerelease
+          fi
+          gh release upload pacote pacote_saida/catalogo.zip --clobber
+          echo "publicado: $(du -h pacote_saida/catalogo.zip | cut -f1)"
