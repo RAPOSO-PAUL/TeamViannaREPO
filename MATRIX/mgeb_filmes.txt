@@ -1,4 +1,4 @@
-#gerado	1795542940711
+#gerado	1795574112523
 1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
@@ -607,7 +607,6 @@
 83564	76128	mp4	A Lua	
 86138	76072	m3u8	Turma da Mônica em Cine Gibi 3: Planos Infalíveis	
 223706	76071	m3u8	O Menino e o Mundo	
-316301	76062	mp4	Phoenix: Karma Chapter	
 1731694	75768	m3u8	LEGO Star Wars: The Mandalorian	
 48405	75747	m3u8	Z.O.E 2167 IDOLO	
 1530941	75731	mp4	Gintama: Yoshiwara em Chamas	
@@ -1968,7 +1967,6 @@
 1533554	113178	m3u8	Whiskey Run	
 1703154	113155	m3u8	Fire Tornado	
 1616687	112971	m3u8	Sem Desistir	
-1789741	112738	m3u8	Unstable SMP: The Mafia	
 1819906	112724	m3u8	UFC Fight Night 293: Cortes-Acosta vs. Walker	
 1648226	106280	m3u8	UFC Freedom 250: Topuria vs. Gaethje	
 1703103	106245	m3u8	Addicted to Change	
@@ -6437,11 +6435,10 @@
 13	78908	mp4	Forrest Gump: O Contador de Histórias	
 1558568	78831	mp4	Vamos, Time!	
 225703	78830	mp4	Jogos Famintos	
-892048	78817	mp4	Todos Fazem Isso	
-541642	78813	mp4	Casamento em Cuba	
+892048	78817	m3u8	Todos Fazem Isso	
 1365884	78802	m3u8	Dix pour cent: O Filme	
 433245	77743	mp4	Siga Pela 10	
-11797	77663	mp4	A Hora do Espanto	
+11797	77663	m3u8	A Hora do Espanto	
 4032	76756	mp4	Meu Primeiro Amor	
 10158	76606	mp4	Homens Brancos Não Sabem Enterrar	
 9986	76597	mp4	A Menina e o Porquinho	
@@ -9850,7 +9847,7 @@
 1754154	106045	m3u8	Smalltown Funk Girls	
 1418275	106034	m3u8	The Ladder	
 1593151	106025	m3u8	Stepfather	
-1813355	106022	m3u8	Uma História de Derry	
+1813355	106022	mp4	Uma História de Derry	
 111969	106021	m3u8	Ligados Pelo Amor	
 8268	105931	mp4	Sobrevivendo Com Lobos	
 1061641	105702	mp4	Sica	
@@ -12361,7 +12358,6 @@
 472516	78892	mp4	O Momento em que Você se Apaixona	
 1195100	78829	m3u8	Marco: A Verdade Inventada	
 1480424	78819	mp4	Karla	
-46645	77665	mp4	Querô	
 1372	77652	mp4	Diamante de Sangue	
 72213	77651	mp4	Corajosos	
 302401	77648	mp4	Snowden: Herói ou Traidor	
@@ -17776,7 +17772,7 @@
 10906	103309	mp4	Cemitério Maldito 2	
 3597	103290	mp4	Eu Sei o Que Vocês Fizeram no Verão Passado	
 9100	103272	mp4	Jovens Bruxas	
-405774	103255	m3u8	Às Cegas	
+405774	103255	mp4	Às Cegas	
 10092	103222	mp4	Cry Wolf: O Jogo da Mentira	
 6466	103220	mp4	Freddy vs. Jason	
 882598	103205	mp4	Sorria	
@@ -18492,7 +18488,7 @@
 4722	45452	mp4	Os Invasores de Corpos - A Invasão Continua	
 56937	44802	mp4	Presos no Gelo 3 - O Início	
 500915	44785	mp4	Natureza Selvagem	
-30497	44764	mp4	O Massacre da Serra Elétrica	
+30497	44764	m3u8	O Massacre da Serra Elétrica	
 40549	44616	mp4	Abominável Criatura	
 149148	44614	mp4	A Morte Mora Aqui	
 53080	44609	mp4	Tubarão de Malibu	
@@ -19676,7 +19672,7 @@
 1231010	812	m3u8	The Severed Sun	
 1271023	810	m3u8	Wind and Bone	
 816977	788	m3u8	They/Them: O Acampamento	
-18086	778	mp4	A Hora do Espanto 2	
+18086	778	m3u8	A Hora do Espanto 2	
 1056380	774	m3u8	Mesa Maldita	
 1178074	772	m3u8	Enclausurados	
 985890	770	m3u8	Entre os Vivos	
@@ -20296,7 +20292,6 @@
 420472	79199	mp4	Abaixo da Superfície	
 1444249	78953	m3u8	Aposta de Alto Risco	
 1089370	78928	m3u8	Jovens e Perdidos	
-1451983	78814	mp4	One Night Only	
 14462	77661	mp4	Sob o Domínio do Mal	
 802443	76865	mp4	Por Trás da Inocência	
 632618	76800	mp4	Crimes de Família	
@@ -20405,7 +20400,6 @@
 1243741	37039	mp4	Balística	
 1382832	29980	m3u8	A Fera do Pântano	
 28635	29880	m3u8	O Mestre dos Desejos 3: Além da Porta do Inferno	
-1687105	29694	mp4	The Secrets of the Matriarch	
 1560681	29403	mp4	As Cores do Mal: Preto	
 1637133	29268	mp4	Sasquatch Within	
 1274706	29266	m3u8	A Desconhecida	
@@ -20413,7 +20407,7 @@
 1665823	15361	m3u8	Kidnapping My Own Daughter	
 847179	15350	m3u8	A Lição Fatal	
 1318413	15341	m3u8	Pressão	
-1673956	15311	mp4	Murder at the Merriweather	
+1673956	15311	m3u8	Murder at the Merriweather	
 12146	15285	mp4	Desaparecidas	
 10664	15280	m3u8	[REC] 2: Possuídos	
 185341	15279	m3u8	[REC] 4: Apocalipse	

@@ -1,4 +1,4 @@
-#gerado	1795542998270
+#gerado	1795574166404
 139348	117458	mp4	A Bíblia	
 67335	117434	mp4	Sin senos sí hay paraíso	
 254630	113184	mp4	12 12 12	
@@ -621,7 +621,6 @@
 88046	77808	mp4	Fire Force	
 202282	77807	mp4	Rick and Morty: The Anime	
 251	77806	mp4	Aqua Teen: Esquadrão Força Total	
-80020	77803	mp4	Super Dragon Ball Heroes	
 100436	77801	mp4	Akudama Drive	
 37305	77799	mp4	Soul Eater	
 60863	77797	mp4	HAIKYU!!	
@@ -629,10 +628,8 @@
 97860	77795	mp4	Tower of God	
 86034	77794	mp4	Arifureta: From Commonplace to World's Strongest	
 216467	77788	mp4	A Missão da Família Yozakura	
-236994	77785	mp4	Dragon Ball Daima	
 256721	77781	mp4	Gachiakuta	
 258348	77780	mp4	Clevatess	
-45790	77779	mp4	JoJo's Bizarre Adventure	
 65292	77776	mp4	AJIN: Demi-Human	
 277665	77775	mp4	Anne Shirley	
 289217	77774	mp4	Alma-chan Wants to Be a Family!	
@@ -651,7 +648,6 @@
 93818	77476	mp4	Stand My Heroes: Piece of Truth	
 235930	76927	mp4	Devil May Cry	
 240411	76844	mp4	DAN DA DAN	
-62715	76815	mp4	Dragon Ball Super	
 128255	76703	mp4	Transformers: War for Cybertron: O Reino	
 5687	76689	mp4	Os Smurfs	
 112169	76663	mp4	Thermae Romae Novae	
@@ -1032,7 +1028,6 @@
 137634	19180	mp4	Zouk a Bruxinha	
 63301	19178	mp4	O Show da Luna	
 3218	19170	mp4	Caillou	
-234538	19167	mp4	DEMON LORD 2099	
 65141	19146	mp4	Futebol de Rua	
 79948	19143	mp4	O Vazio	
 95269	19140	mp4	Hanako-kun e os Mistérios do Colégio Kamome	
@@ -1401,7 +1396,6 @@
 241002	2542	mp4	Modaete yo, Adam-kun	
 312474	2526	mp4	NIPPON SANGOKU: A Guerra das Três Nações	
 300131	2472	mp4	KILL BLUE	
-260463	2469	mp4	Daemons do Reino das Sombras	
 245876	2449	mp4	Sorairo Utility	
 288659	2374	mp4	Shunkashuutou Daikousha: Haru no Mai (Dublado)	
 310640	2358	mp4	chimimouryou-the-animation	
@@ -7011,7 +7005,6 @@
 94894	101637	mp4	Redenção	
 78036	101618	mp4	Diário de Horrores	
 204154	101425	mp4	Planeta dos Abutres	
-61709	101142	mp4	Dragon Ball Z Kai	
 65551	101030	mp4	Hunters	
 99573	101012	mp4	Spectros	
 119861	101010	mp4	Zero	
