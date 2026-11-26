@@ -1,4 +1,4 @@
-#gerado	1795653055830
+#gerado	1795690983347
 37585	117548	mp4	Kenichi: O Discípulo Mais Forte	
 139348	117458	mp4	A Bíblia	
 67335	117434	mp4	Sin senos sí hay paraíso	
@@ -3838,6 +3838,7 @@
 299789	1090	mp4	História do Fascismo	
 93698	861	mp4	Argentina Selvagem	
 303191	771	mp4	Caçador de Marajás	
+88024	117567	mp4	Cruel Istambul	
 243761	117503	mp4	A Parceira Ideal	
 235842	117468	mp4	One Room Angel	
 312026	117459	mp4	Sniper Americano: A Ultima Rodada	
@@ -7003,6 +7004,7 @@
 249522	307	mp4	Beast Games	
 19653	137	mp4	Big Brother Brasil	
 307913	35	mp4	Canadá Shore	
+171802	117594	mp4	Blade Runner 2099	
 9899	105654	mp4	Saving Grace	
 289411	102478	mp4	LEGO Star Wars: Reconstruindo a Galáxia – Pedaços do Passado	
 289423	102448	mp4	Um Choque de Amor	
@@ -8501,6 +8503,29 @@
 0	68405	mp4	[Reel] O Gênio da Lâmpada Sob Contrato	
 0	68399	mp4	[Reel] Minha Visão de Raio-X Vê Bem Através de Você	
 0	68397	mp4	[Reel] O Rei Disfarçado	
+0	117608	mp4	[Reel] Meu Marido Não Sabia Que Eu Podia Ouvir	
+0	117607	mp4	[Reel] A Babá Humana do Rei Alfa	
+0	117606	mp4	[Reel] A Filha Descartada do Alfa	
+0	117605	mp4	[Reel] No Corpo do Meu Namorado	
+0	117604	mp4	[Reel] Meu Marido Desaparecido é Apollo	
+0	117603	mp4	[Reel] Mamãe, a Neve Não Vai Parar	
+0	117602	mp4	[Reel] Ops! Seu Ex é um Bilionário Secreto	
+0	117601	mp4	[Reel] O Voto Que Ele Quebrou na Mesa da Família	
+0	117600	mp4	[Reel] Após Renascer, Escolho as Estrelas	
+0	117599	mp4	[Reel] Renascida: A Herdeira Contra-Ataca	
+0	117598	mp4	[Reel] Meu Bebê é o Verdadeiro Herdeiro Demônio	
+0	117597	mp4	[Reel] Reivindicada pelo Alfa Rival do Meu Irmão	
+0	117596	mp4	[Reel] Depois que Desapareci, o Chefe da Máfia Enlouqueceu	
+0	117595	mp4	[Reel] Enquanto Você a Abraçava, Nossa Filha Morreu	
+0	117593	mp4	[Reel] Queimando Meus Votos, Tornando-Me a Noiva do Rei Dragão	
+0	117592	mp4	[Reel] A Filha do Pioneiro E o Chefe de Guerra	
+0	117591	mp4	[Reel] Meu Namorado Quebrado É o Herdeiro Vampiro	
+0	117590	mp4	[Reel] O Garoto que Salvei Era o Deus do Sol	
+0	117589	mp4	[Reel] Desprezar uma Rainha dos Dragões	
+0	117588	mp4	[Reel] Lobo do Norte	
+0	117587	mp4	[Reel] A Cunhada Proibida do Don	
+0	117586	mp4	[Reel] Ele escolheu minha irmã, mas sempre amou a mim.	
+0	117585	mp4	[Reel] Feia Demais Para Ser Irmã Deles, Agora Eles Imploram Que Ela Volte	
 0	117464	mp4	[Reel] A noiva escolhida do CEO	
 0	117439	mp4	[Reel] O Rei Sem Alcance	
 0	116761	mp4	[Reel] O Gênio do Ferro-Velho Salvou Meu Império	
@@ -9264,6 +9289,26 @@
 0	68439	mp4	[Reel] Meu Meio-irmão é Minha Fraqueza	
 0	68422	mp4	[Reel] Pétalas de Sangue	
 0	68392	mp4	[Reel] Meu Ex, o Irmão Dele e o Nosso Bebê	
+0	117584	mp4	[Reel] Meu Marido me Sacrificou para o Padrinho na Nossa Noite de Núpcias	
+0	117583	mp4	[Reel] O Deus Leão Entra no Modo Fera	
+0	117582	mp4	[Reel] Como Fazer um Deus da Morte Pecar	
+0	117581	mp4	[Reel] Me Deixaram Para os Mortos	
+0	117579	mp4	[Reel] Nunca Tocar na Carga	
+0	117578	mp4	[Reel] A Renegada Gorda Retorna como Rainha Alfa	
+0	117577	mp4	[Reel] Meu Marido Roubou Meu Rim para a Mãe da Sua Amante	
+0	117576	mp4	[Reel] O Alfa me comprou como sua Luna. Seus gêmeos lutaram para me chamar de Mãe.	
+0	117575	mp4	[Reel] Meu Marido Me leiloou	
+0	117574	mp4	[Reel] A Promessa do Gênio	
+0	117573	mp4	[Reel] Trono de Ossos	
+0	117572	mp4	[Reel] O Herdeiro Secreto do Rei Dragão É Meu	
+0	117571	mp4	[Reel] O Segredinho Sujo da Garota Gorda	
+0	117570	mp4	[Reel] Derrubado pela Esposa Herdeira Secreta	
+0	117569	mp4	[Reel] Meu Marido Me Presenteou com Seu Rival	
+0	117568	mp4	[Reel] Ela o Rejeitou para se Casar com o Rei	
+0	117566	mp4	[Reel] Resgatando Minha Família de Sangue de Dragão	
+0	117565	mp4	[Reel] Cavalgue Comigo até Sleepy Hollow	
+0	117564	mp4	[Reel] Reivindicada como Sua Esposa da Lareira Viking	
+0	117563	mp4	[Reel] A Cria de Demônio do Clã dos Dragões	
 0	117562	mp4	[Reel] A Menina dos Seus Olhos	
 0	117561	mp4	[Reel] O Faxineiro é um Bilionário Secreto	
 0	117560	mp4	[Reel] A Esposa que Ele Enterrou	

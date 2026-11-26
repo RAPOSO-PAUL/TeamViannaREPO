@@ -1,4 +1,4 @@
-#gerado	1795653008381
+#gerado	1795690929884
 1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
@@ -571,7 +571,6 @@
 76346	90013	mp4	A História de Nessie	
 23056	89987	mp4	Pinóquio 3000	
 12697	89986	mp4	Laura e a Estrela	
-151019	89767	mp4	Ninja Bugei-chou	
 845387	88539	mp4	maboroshi	
 13205	88537	mp4	Bambi 2: O Grande Príncipe da Floresta	
 912828	88493	m3u8	Te Prego Lá Fora	
@@ -3288,7 +3287,7 @@
 454639	15380	m3u8	Mestres do Universo	
 1624183	15349	mp4	Blackout	
 21610	15327	mp4	Falcões da Noite	
-729684	15309	mp4	Operação Fox Hunt	
+729684	15309	m3u8	Operação Fox Hunt	
 1557915	15292	mp4	Special Op: Rent-a-Cop	
 308531	15271	m3u8	As Tartarugas Ninja: Fora das Sombras	
 9042	15268	m3u8	A Caverna	
@@ -6436,7 +6435,7 @@
 13	78908	mp4	Forrest Gump: O Contador de Histórias	
 1558568	78831	mp4	Vamos, Time!	
 225703	78830	mp4	Jogos Famintos	
-892048	78817	m3u8	Todos Fazem Isso	
+892048	78817	mp4	Todos Fazem Isso	
 1365884	78802	m3u8	Dix pour cent: O Filme	
 433245	77743	mp4	Siga Pela 10	
 11797	77663	m3u8	A Hora do Espanto	
@@ -14176,6 +14175,7 @@
 1271220	2636	m3u8	Nó	
 1156593	2624	m3u8	Sua Culpa	
 1010581	2623	mp4	Minha Culpa	
+414770	2618	m3u8	Antipornô	
 1632	2605	m3u8	Mississipi em Chamas	
 525102	2556	m3u8	Girl Lost - A Garota de Programa	
 491472	2534	m3u8	No Portal da Eternidade	
@@ -16022,7 +16022,7 @@
 429471	849	m3u8	A Rebelião	
 1042657	620	m3u8	Game Mortal	
 1434280	568	m3u8	Run	
-158015	520	mp4	Uma Noite de Crime	
+158015	520	m3u8	Uma Noite de Crime	
 1309012	485	mp4	Altered	
 604079	456	mp4	A Longa Marcha: Caminhe ou Morra	
 617126	413	mp4	Quarteto Fantástico: Primeiros Passos	
@@ -19770,6 +19770,7 @@
 1193501	89	mp4	O Som da Morte	
 1473666	87	m3u8	Kombucha	
 1198994	72	mp4	Socorro!	
+360339	117580	m3u8	Eden Lutar ou Morrer	
 1543469	117421	m3u8	No Coração de Nashville	
 138632	116892	mp4	Até Que a Morte os Separe	
 22060	116856	mp4	A Armadilha dos Espíritos	
