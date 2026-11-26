@@ -1,4 +1,4 @@
-#gerado	1795690929884
+#gerado	1795729313836
 1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
@@ -1119,7 +1119,7 @@
 122214	2648	m3u8	A Princesa e o Robô	
 496450	2646	mp4	Miraculous: As Aventuras de Ladybug - O Filme	
 243656	2637	m3u8	Brichos 2: A Floresta é Nossa	
-10494	2617	mp4	Perfect Blue	
+10494	2617	m3u8	Perfect Blue	
 9928	2612	m3u8	Robôs	
 1295026	2461	m3u8	A Corrida dos 100 Metros	
 36068	2404	mp4	Marquis	
@@ -2325,7 +2325,7 @@
 389425	102348	mp4	Código de Honra	
 20264	102346	m3u8	O Guarda-Costas 2	
 13613	102344	m3u8	Dia dos Mortos	
-64635	102342	mp4	O Vingador do Futuro	
+64635	102342	m3u8	O Vingador do Futuro	
 73500	102336	m3u8	Você Não Pode Beijar a Noiva	
 608813	102332	mp4	Em Busca da Vitória	
 306264	102329	mp4	Power Rangers Super Megaforce: A Batalha Lendária	
@@ -3282,6 +3282,7 @@
 1288341	29626	m3u8	Sete Atiradores	
 1288445	29623	m3u8	Código: Vingança	
 100192	29617	m3u8	Ameaça sem Controle	
+9873	29484	m3u8	FX - Assassinato sem Morte	
 1582770	29396	mp4	Dhurandhar: A Vingança	
 1338972	29269	mp4	Armadilha Mortal	
 454639	15380	m3u8	Mestres do Universo	
@@ -4937,7 +4938,7 @@
 3001	104434	mp4	Como Roubar Um Milhão de Dólares	
 14177	104430	mp4	Um Salão do Barulho	
 1968	104426	mp4	E Agora, Meu Amor?	
-512	104425	mp4	Scoop: O Grande Furo	
+512	104425	m3u8	Scoop: O Grande Furo	
 9749	104413	mp4	Assassinato por Encomenda	
 11381	104411	mp4	Mong & Lóide	
 12658	104410	mp4	Alguém Como Você	
@@ -7725,7 +7726,7 @@
 243451	2699	m3u8	Copa de Elite	
 1301421	2696	m3u8	As Ovelhas Detetives	
 780087	2644	mp4	Murilo Couto: 2020	
-13805	2625	mp4	Super-Heróis: A Liga da Injustiça	
+13805	2625	m3u8	Super-Heróis: A Liga da Injustiça	
 937278	2604	m3u8	O Pior Vizinho do Mundo	
 1089979	2602	m3u8	Um Simples Favor	
 352501	2586	m3u8	Uma Noite e Tanto	
@@ -12405,7 +12406,7 @@
 600583	76791	mp4	Ataque dos Cães	
 592984	76790	mp4	Era uma Vez um Sonho	
 513327	76775	mp4	Tudo Que Você Desejou	
-424	76760	mp4	A Lista de Schindler	
+424	76760	m3u8	A Lista de Schindler	
 25793	76745	mp4	Preciosa: Uma História de Esperança	
 1366	76722	mp4	Rocky: Um Lutador	
 12162	76708	mp4	Guerra ao Terror	
@@ -12489,7 +12490,7 @@
 1244872	72149	mp4	A Vingança de Nina	
 497757	72015	mp4	Até o Fim da Noite	
 1697527	71792	m3u8	Her Own Child	
-1329016	71786	mp4	Tony	
+1329016	71786	m3u8	Tony	
 1588838	71781	mp4	Feras no Limite	
 1270676	71779	m3u8	Asa Branca: A Voz da Arena	
 1632473	71764	mp4	O Que Fica por Dizer	
@@ -12977,6 +12978,7 @@
 3558	15384	mp4	Garota, Interrompida	
 1426451	15375	m3u8	Risa e o Telefone do Vento	
 1376043	15346	m3u8	Mata	
+4552	15328	m3u8	Duas Irmãs	
 274479	15322	mp4	Joy: O Nome do Sucesso	
 400050	15305	mp4	Um Clássico, Dois em Casa, Nenhum Jogo Fora	
 1291659	15296	mp4	O Mago do Kremlin	
@@ -13846,7 +13848,7 @@
 1025311	5457	m3u8	Estranho Caminho	
 1128529	5439	m3u8	Os Assassinos Ao Lado	
 951476	5434	m3u8	De Costas Para o Mundo	
-76203	5420	mp4	12 Anos de Escravidão	
+76203	5420	m3u8	12 Anos de Escravidão	
 929453	5400	m3u8	O Que Lucía Viu	
 1203236	5390	m3u8	Os Quebra-Nozes	
 616	5375	mp4	O Último Samurai	
@@ -14968,7 +14970,7 @@
 1155690	2819	m3u8	Gump 2 - Aventura em Dobro	
 11637	2741	mp4	Querem Acabar Comigo	
 366668	2639	mp4	Playmobil: O Filme	
-47159	2627	mp4	Hot Wheels: Via 35 - Corrida Mundial	
+47159	2627	m3u8	Hot Wheels: Via 35 - Corrida Mundial	
 1248723	2308	m3u8	Pinóquio	
 1237082	2153	mp4	31 Minutos: Natal Escaldante	
 9487	2047	mp4	Vida de Inseto	
@@ -15337,7 +15339,7 @@
 803796	1554	mp4	Guerreiras do K-Pop	
 616037	1499	mp4	Thor: Amor e Trovão	
 57158	1464	mp4	O Hobbit: A Desolação de Smaug	
-36586	1458	mp4	Blade II: O Caçador de Vampiros	
+36586	1458	m3u8	Blade II: O Caçador de Vampiros	
 967847	1365	m3u8	Ghostbusters: Apocalipse de Gelo	
 453395	1321	m3u8	Doutor Estranho no Multiverso da Loucura	
 338953	1320	mp4	Animais Fantásticos: Os Segredos de Dumbledore	
@@ -16062,7 +16064,7 @@
 1083789	102953	mp4	Até o Último Obstáculo	
 872569	102935	m3u8	Os Músicos	
 1076291	102847	m3u8	Operação Tempestade	
-1966	102804	mp4	Alexandre	
+1966	102804	m3u8	Alexandre	
 253020	102655	m3u8	A Estrada 47	
 853	102579	mp4	Círculo de Fogo	
 647498	102349	m3u8	1942: A Batalha Desconhecida	
@@ -16324,7 +16326,7 @@
 995749	6644	m3u8	A Musa de Bonnard	
 944194	6454	mp4	A Grande Fuga	
 925615	6453	m3u8	General Hadik	
-501907	6341	mp4	Um Lindo Dia na Vizinhança	
+501907	6341	m3u8	Um Lindo Dia na Vizinhança	
 832964	6128	m3u8	Lee	
 1182047	5879	mp4	O Aprendiz	
 926016	5742	m3u8	George Washington - O Primeiro Presidente da América	
@@ -17716,7 +17718,7 @@
 10722	104359	mp4	O Dia da Besta	
 11811	104357	mp4	O Duende	
 92060	104356	mp4	Michael Jackson: Thriller	
-229	104354	mp4	A Noiva de Frankenstein	
+229	104354	m3u8	A Noiva de Frankenstein	
 18111	104321	mp4	A Noiva do Re-Animator	
 514593	104312	mp4	Você Deveria Ter Partido	
 19287	104290	mp4	O Duende 4 - No Espaço	
@@ -20413,7 +20415,6 @@
 1665823	15361	m3u8	Kidnapping My Own Daughter	
 847179	15350	m3u8	A Lição Fatal	
 1318413	15341	m3u8	Pressão	
-1673956	15311	m3u8	Murder at the Merriweather	
 12146	15285	mp4	Desaparecidas	
 10664	15280	m3u8	[REC] 2: Possuídos	
 185341	15279	m3u8	[REC] 4: Apocalipse	
