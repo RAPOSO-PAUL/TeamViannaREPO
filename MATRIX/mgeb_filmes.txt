@@ -1,4 +1,4 @@
-#gerado	1795617175425
+#gerado	1795653008381
 1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
@@ -6818,7 +6818,7 @@
 759	39973	mp4	Os Homens Preferem as Loiras	
 6519	39969	mp4	Os Gatões: Uma Nova Balada	
 535581	39946	mp4	Os Mortos Não Morrem	
-27581	39942	mp4	Os Outros Caras	
+27581	39942	m3u8	Os Outros Caras	
 488503	39941	mp4	Os Parças	
 467864	39907	mp4	Os Trapaceiros	
 587272	39877	mp4	Pai a Gente Só Tem Um	
@@ -7728,7 +7728,7 @@
 780087	2644	mp4	Murilo Couto: 2020	
 13805	2625	mp4	Super-Heróis: A Liga da Injustiça	
 937278	2604	m3u8	O Pior Vizinho do Mundo	
-1089979	2602	mp4	Um Simples Favor	
+1089979	2602	m3u8	Um Simples Favor	
 352501	2586	m3u8	Uma Noite e Tanto	
 899235	2580	mp4	Natal na Fazenda	
 1368881	2447	mp4	Primeiro as Damas	
@@ -9416,7 +9416,7 @@
 565955	93491	mp4	Mussum: Um Filme do Cacildis	
 599379	93490	mp4	Gelo em Chamas	
 614278	93488	mp4	Neil Armstrong: A Verdadeira História	
-489988	93487	mp4	Três Estranhos Idênticos	
+489988	93487	m3u8	Três Estranhos Idênticos	
 489994	93484	mp4	Shirkers: O Filme Roubado	
 515042	93483	mp4	Free Solo	
 507618	93482	mp4	Feministas: O Que Elas Estavam Pensando?	
@@ -14198,7 +14198,7 @@
 1030564	2158	m3u8	Vidas à Deriva	
 1393028	2157	mp4	Milagre do Destino	
 464502	2151	m3u8	Acrimônia	
-1325678	2147	mp4	O Tesouro de Sarah	
+1325678	2147	m3u8	O Tesouro de Sarah	
 1178684	2146	m3u8	Samia - Correndo Atrás de um Sonho	
 1239198	2144	m3u8	Minha Querida Senhorita	
 1523071	2134	m3u8	Sedução	
@@ -15720,7 +15720,6 @@
 102899	78910	m3u8	Homem-Formiga	
 410199	77729	mp4	ARQ	
 1506560	75786	m3u8	O Confronto dos Thundermans	
-813418	75635	mp4	Hot Spot	
 1469342	75634	mp4	Seu Inferno Particular	
 1384216	75597	m3u8	Ponto Sem Retorno	
 9482	73541	mp4	O Juiz	
@@ -17264,7 +17263,7 @@
 11472	37363	mp4	Nove Meses	
 544	37272	mp4	Quem Vai Ficar com Mary?	
 665894	37256	mp4	Really Love	
-614945	29899	mp4	Mensagens para Isabelle	
+614945	29899	m3u8	Mensagens para Isabelle	
 372754	29793	m3u8	Colegas de Classe	
 1477317	29730	mp4	Sua Culpa: Londres	
 1556616	29354	mp4	A Casa de Verão	
@@ -19529,7 +19528,7 @@
 1519168	2181	m3u8	Jester: Não Dá para Enganar A Morte Duas Vezes	
 1461254	2172	m3u8	살목지	
 1014601	2169	m3u8	A Árvore Que Chorava Sangue	
-567609	2167	mp4	Casamento Sangrento	
+567609	2167	m3u8	Casamento Sangrento	
 1426822	2136	m3u8	O Monstro da Ilha	
 752687	2118	mp4	A Criatura Mutante	
 1385169	2111	m3u8	Um Conto Sombrio	

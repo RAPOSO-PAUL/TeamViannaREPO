@@ -1,4 +1,5 @@
-#gerado	1795617224317
+#gerado	1795653055830
+37585	117548	mp4	Kenichi: O Discípulo Mais Forte	
 139348	117458	mp4	A Bíblia	
 67335	117434	mp4	Sin senos sí hay paraíso	
 254630	113184	mp4	12 12 12	
@@ -392,6 +393,11 @@
 133748	745	mp4	Twisted Metal	
 44217	613	mp4	Vikings	
 106379	301	mp4	Fallout	
+35138	117552	mp4	Hetalia Axis Powers	
+27660	117550	mp4	Legend of Galactic Heroes	
+112895	117545	mp4	Abciee Shuugyou Nikki	
+207521	117543	mp4	Doce Reencarnação	
+249409	117540	mp4	Twilight Out of Focus	
 336478	117430	mp4	A Casa Mágica da Doozie	
 2129	116657	mp4	As Aventuras de Jimmy Neutron, O Menino Gênio	
 307903	113143	mp4	HORROR COLLECTOR	
@@ -9258,6 +9264,33 @@
 0	68439	mp4	[Reel] Meu Meio-irmão é Minha Fraqueza	
 0	68422	mp4	[Reel] Pétalas de Sangue	
 0	68392	mp4	[Reel] Meu Ex, o Irmão Dele e o Nosso Bebê	
+0	117562	mp4	[Reel] A Menina dos Seus Olhos	
+0	117561	mp4	[Reel] O Faxineiro é um Bilionário Secreto	
+0	117560	mp4	[Reel] A Esposa que Ele Enterrou	
+0	117559	mp4	[Reel] De Dona de Casa a Rainha dos Bilhões	
+0	117558	mp4	[Reel] Dispensado pela Herdeira Bilionária, o Ex Se Arrepende de Tudo	
+0	117556	mp4	[Reel] Vai Me Trair? Seu Império da Máfia Vai Ruir	
+0	117555	mp4	[Reel] Confundido com o Sustentado Dela, Sou o Príncipe Dragão	
+0	117554	mp4	[Reel] Mandei Nudes para o Capitão do Hóquei	
+0	117553	mp4	[Reel] Sete Anos Amando Summer	
+0	117551	mp4	[Reel] Não Toque na Filha do Rei Alfa	
+0	117549	mp4	[Reel] A Noiva Que Deram ao Beast	
+0	117547	mp4	[Reel] Meu Vampiro Psicopata	
+0	117546	mp4	[Reel] A Rainha Vinculada por Dívida	
+0	117544	mp4	[Reel] Meu Treinador de Hóquei Proibido	
+0	117542	mp4	[Reel] O Último Arcanjo	
+0	117541	mp4	[Reel] Ele Escolheu Minha Irmã, Mas Sempre Fui Eu	
+0	117539	mp4	[Reel] A Esposa do CEO Que Se Recusa a Morrer	
+0	117538	mp4	[Reel] A Princesinha da Máfia	
+0	117537	mp4	[Reel] A Noiva Virgem do Rei Alfa	
+0	117536	mp4	[Reel] Quando o Lobo Branco Parte	
+0	117535	mp4	[Reel] Mamãe, o Papai Sem-lobo é o Verdadeiro Rei	
+0	117534	mp4	[Reel] A Doce Vingança da Rainha Alfa	
+0	117533	mp4	[Reel] Não Sou um Azarento, Sou um Herói	
+0	117532	mp4	[Reel] Uma Noite por um Milhão	
+0	117531	mp4	[Reel] O Acordo de Guarda-Costas de 50 Dólares do Chefe da Máfia	
+0	117530	mp4	[Reel] O SOLDADO FALIDO GOVERNA A SOCIEDADE SECRETA MAIS PODEROSA DO MUNDO	
+0	117529	mp4	[Reel] Expulso Pelo Meu Clã, Despertei o Rei Dragão	
 0	117528	mp4	[Reel] Adeus, Papai	
 0	117527	mp4	[Reel] Pegando Meu Meio-Irmão Capitão de Futebol Americano	
 0	117526	mp4	[Reel] A Noiva do Príncipe de Ferro	
