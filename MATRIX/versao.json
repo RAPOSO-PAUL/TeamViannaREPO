@@ -1,7 +1,7 @@
 {
-  "versao": 65,
-  "nome": "1.65",
+  "versao": 66,
+  "nome": "1.66",
   "apk": "https://share.deepstorage.dev/852781b2dc713671203cd0be394598a2/CINE%20GO%201.65.apk",
   "obrigatoria": true,
-  "novidades": "PLAYER e CATALOGO"
+  "novidades": "CORREÇÃO PLAYER"
 }
