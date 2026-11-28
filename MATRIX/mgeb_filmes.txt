@@ -1,4 +1,4 @@
-#gerado	1795852778401
+#gerado	1795885039861
 1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
@@ -15301,7 +15301,7 @@
 431111	7427	m3u8	O Diário Mágico	
 1000678	7424	m3u8	Substância Negra	
 720018	7349	m3u8	Ouija - Invocando o Mal	
-50620	7116	mp4	A Saga Crepúsculo: Amanhecer - Parte 2	
+50620	7116	m3u8	A Saga Crepúsculo: Amanhecer - Parte 2	
 1039773	6882	m3u8	A Sociedade Norte-Americana dos Negros Mágicos	
 1026999	6846	m3u8	A Academia do Sr. Kleks	
 831395	6722	mp4	Tuesday: O Último Abraço	
@@ -19992,7 +19992,7 @@
 45650	102304	mp4	O Buraco	
 8461	102303	mp4	Violência Gratuita	
 293633	102295	mp4	Sobrevivendo ao Inferno	
-430598	102292	mp4	Dama de Cinza	
+430598	102292	m3u8	Dama de Cinza	
 734372	102264	mp4	Invasor	
 1002459	102263	mp4	O Sequestro	
 15822	102192	mp4	O Acusado	
