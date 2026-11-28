@@ -1,4 +1,4 @@
-#gerado	1795819577960
+#gerado	1795852778401
 1780407	117486	m3u8	Snoopy Apresenta: 12 Dias do Beagle	
 1595124	117446	m3u8	Tipo Irmãs	
 1716604	117420	m3u8	A Família Radical em Clima de Natal	
@@ -1353,7 +1353,7 @@
 2525	101991	m3u8	A Bíblia - No Início	
 66176	101988	mp4	Chapeuzinho Vermelho	
 46541	101970	mp4	Jogo de Morte	
-1511831	101892	mp4	Luccas e Gi em: Amor de Mãe	
+1511831	101892	m3u8	Luccas e Gi em: Amor de Mãe	
 11678	101869	m3u8	Limite Vertical	
 25172	101795	mp4	Dragões de Komodo	
 36557	101536	m3u8	007: Cassino Royale	
@@ -1605,7 +1605,7 @@
 11688	42712	m3u8	A Nova Onda do Imperador	
 9266	42711	mp4	A Onda dos Sonhos	
 10586	42654	m3u8	A Sombra e a Escuridão	
-19543	42443	mp4	Anaconda 4	
+19543	42443	m3u8	Anaconda 4	
 9360	42442	mp4	Anaconda	
 26505	42374	mp4	Arthur e a Vingança de Maltazard	
 9992	42369	mp4	Arthur e os Minimoys	
@@ -1963,6 +1963,8 @@
 714	114	m3u8	007: O Amanhã Nunca Morre	
 1234731	107	mp4	Anaconda	
 840464	90	mp4	Destruição Final 2	
+1458215	117672	m3u8	The Gentleman Thief	
+1492655	117666	m3u8	Souls Chapel	
 1437511	113183	m3u8	Como Roubar um Banco	
 1533554	113178	m3u8	Whiskey Run	
 1703154	113155	m3u8	Fire Tornado	
@@ -4711,6 +4713,7 @@
 1361154	263	m3u8	Plantão de Natal	
 1325888	262	m3u8	A Carta de Natal	
 1030969	244	m3u8	Uma Faísca de Natal	
+1457866	117659	m3u8	As Novas Desventuras de Cliff Booth	
 1316101	117509	m3u8	Lone Wolves	
 1400336	117448	m3u8	Entrando Numa Grande Fria	
 532327	117435	m3u8	Dois Doidões em Harvard 2	
@@ -4850,7 +4853,7 @@
 132712	104959	m3u8	Os Penetras	
 109418	104941	m3u8	Gente Grande 2	
 1371610	104822	m3u8	Atração Proibida	
-1634949	104817	mp4	Lorne	
+1634949	104817	m3u8	Lorne	
 331588	104812	m3u8	A Fabulosa Gilly Hopkins	
 15566	104811	mp4	Sobrevivendo ao Natal	
 227738	104795	mp4	Mortadelo e Salaminho: Missão Inacreditável	
@@ -5338,7 +5341,7 @@
 12183	101539	m3u8	Ladrão Que Engana Ladrão	
 88042	101521	m3u8	Uma Família em Apuros	
 525020	101503	m3u8	Voltando para Casa	
-779773	101481	mp4	Luccas Neto em: Acampamento de Férias 3	
+779773	101481	m3u8	Luccas Neto em: Acampamento de Férias 3	
 1291375	101472	mp4	Virginia Woolf's Night & Day	
 10192	101471	mp4	Shrek Para Sempre	
 413471	101093	m3u8	Crise da Meia Idade	
@@ -6451,7 +6454,7 @@
 13257	76136	mp4	Em Pé de Guerra	
 1831	76135	m3u8	Sobrou Pra Você	
 49057	76127	mp4	O Julgamento	
-1067231	76065	mp4	Greice	
+1067231	76065	m3u8	Greice	
 216769	76063	m3u8	Swindle	
 1240889	75907	m3u8	Acampamento Miasma: Adolescência, Sexo e Morte	
 175168	75898	mp4	Rape Zombie Luxúria dos Mortos	
@@ -8631,6 +8634,7 @@
 1062907	55	mp4	Matador Improvável	
 1310871	39	mp4	A Marca do Mal	
 681434	34	m3u8	Conselhos De Um Serial Killer Aposentado	
+1811599	117657	m3u8	Tyson Fury	
 1802703	117496	m3u8	Rob Lowe: The Outsider	
 1791730	117461	m3u8	Pregadore$ no Horário Nobre	
 1816668	117441	m3u8	Ninho: O Preço da Fama	
@@ -9707,7 +9711,7 @@
 753230	5594	m3u8	As Três Mortes de Marisela	
 1372795	5581	m3u8	O Retorno do Rei: Queda e Ascensão de Elvis Presley	
 1386628	5575	m3u8	Avante: Nos Bastidores de Deadpool & Wolverine	
-1372665	5574	mp4	As Crianças Perdidas	
+1372665	5574	m3u8	As Crianças Perdidas	
 1300132	5566	m3u8	Protegendo o Paraíso: A História de Niue	
 1229901	5565	mp4	Feitos de Plástico	
 1371206	5557	m3u8	Megan Thee Stallion Por Ela Mesma	
@@ -9810,6 +9814,12 @@
 1588671	175	m3u8	O Grande Roubo do Louvre: O Crime Minuto a Minuto	
 1610413	129	m3u8	A Última Aventura: Nos Bastidores de Stranger Things 5	
 1465743	127	m3u8	Wizkid: De Lagos Para o Mundo	
+1461490	117675	m3u8	Hershey	
+1560734	117674	m3u8	Penerbangan Terakhir	
+1639542	117670	m3u8	The Devil in the Flesh	
+1472223	117669	m3u8	The Bears	
+1189807	117667	m3u8	Swallowtail & Dragonfly	
+1189394	117660	m3u8	Off Rip	
 1299329	117516	m3u8	Josephine: Fragmentos de um Crime	
 1165655	117515	m3u8	Mistura	
 1366544	117513	m3u8	Melaleuca	
@@ -10022,7 +10032,7 @@
 45698	104935	mp4	O Sanatório da Clepsidra	
 1171372	104823	m3u8	No Silêncio das Ondas	
 5923	104818	mp4	O Canhoneiro do Yang-Tsé	
-31650	104805	mp4	Perigo na Noite	
+31650	104805	m3u8	Perigo na Noite	
 370755	104801	mp4	Paterson	
 4107	104796	m3u8	Domingo Sangrento	
 16072	104786	mp4	Deuses e Generais	
@@ -13573,7 +13583,7 @@
 9692	7906	m3u8	O Lenhador	
 11171	7905	m3u8	Mistérios da Carne	
 8055	7904	mp4	O Leitor	
-103663	7901	mp4	A Caça	
+103663	7901	m3u8	A Caça	
 802	7900	m3u8	Lolita	
 54989	7894	m3u8	Amor Estranho Amor	
 271185	7890	m3u8	Pergunte-me Tudo	
@@ -14470,7 +14480,7 @@
 258152	104491	mp4	Central da Festa	
 447113	104468	m3u8	Monster High: Eletrizante	
 34205	104424	m3u8	Halloweentown 2: A Vingança de Kalabar	
-13380	104420	mp4	O Natal Mágico	
+13380	104420	m3u8	O Natal Mágico	
 11708	104415	mp4	O Calhambeque Mágico	
 532	104407	mp4	Wallace & Gromit: Tosa Completa	
 72753	104395	mp4	A Turma do Boliche	
@@ -17497,7 +17507,7 @@
 610249	3996	m3u8	Melhores Amigos	
 1391013	3968	m3u8	Alguém Especial como Você	
 1076156	3891	m3u8	Nas Areias de Ibiza	
-1312946	3819	mp4	O Mapa Que Me Leva Até Você	
+1312946	3819	m3u8	O Mapa Que Me Leva Até Você	
 1134463	3710	m3u8	Sonhos	
 1214684	3669	m3u8	O Beijo da Mulher Aranha	
 737779	3579	m3u8	Um Natal no Castelo	
@@ -17581,6 +17591,14 @@
 1268609	62	m3u8	Pavana	
 1316092	58	m3u8	“O Morro dos Ventos Uivantes”	
 1131822	53	m3u8	Traição Entre Amigas	
+1180894	117676	m3u8	Bajo tus pies	
+1232468	117673	m3u8	The Grimm Backward	
+1702817	117671	m3u8	The Doll People Tapes	
+1512023	117668	m3u8	The Amityville Lost Tape	
+1522027	117665	m3u8	Son of Sara: Volume 1	
+1712454	117664	m3u8	Shark Frenzy	
+1577040	117663	m3u8	Sawtooth Mountain	
+1680087	117662	m3u8	Popeye 4 : Resurrection	
 1701682	117514	m3u8	Miasma	
 1593354	117512	m3u8	Man Chicken	
 1566488	117507	m3u8	Krackers: The Sadist of Pennsville	
@@ -20693,7 +20711,7 @@
 931935	7723	m3u8	A Extorsão	
 1165832	7705	m3u8	Bala Sem Nome	
 994441	7679	mp4	Escalada Mortal	
-260346	7661	mp4	Busca Implacável 3	
+260346	7661	m3u8	Busca Implacável 3	
 433288	7658	m3u8	Fora da Lei	
 960072	7656	m3u8	Deep Woods	
 1148713	7653	m3u8	O Entregador	
